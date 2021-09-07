@@ -2,12 +2,13 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:html="http://www.w3.org/1999/xhtml"
     version="2.0">
+    <xsl:output method="html" version="5.0" encoding="UTF-8" indent="yes" />
     <xsl:output exclude-result-prefixes="#all"/>
     
     <xsl:import href="nav_bar.xsl"/>
     
     <xsl:template match="/">
-        <html xmlns="http://www.w3.org/1999/xhtml">
+        <html>
             <head>
                 <title>Wiener Merkantilprotokoll</title>
                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>	
