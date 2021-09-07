@@ -10,4 +10,8 @@ Downloads Transkribus Export from defined `$DL_URL` (TEI-Output with XSLT from D
 ### `build.xml`
 
 ToDo
-* process and copy files from `./data/transk` into `./data/edtiions`
+* process and copy files from `./data/transk` into `./data/editions`
+
+### `process_images`
+
+* copies/flattens images in a single directory and compresses them

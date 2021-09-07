@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="build">
+    <property name="tmp_dir" value="./data/trnsk"></property>
+    <replace dir="${tmp_dir}" value='type="default"'>
+        <include name="*.xml"/>
+        <replacetoken>type=""</replacetoken>
+    </replace>
+    <replace dir="${tmp_dir}" value="">
+        <include name="*.xml"/>
+        <replacetoken>&lt;comment&gt;</replacetoken>
+    </replace>
+    <replace dir="${tmp_dir}" value="">
+        <include name="*.xml"/>
+        <replacetoken>&lt;/comment&gt;</replacetoken>
+    </replace>
+</project>
