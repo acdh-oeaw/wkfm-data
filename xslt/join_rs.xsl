@@ -5,6 +5,8 @@
     xmlns="http://www.tei-c.org/ns/1.0"
     exclude-result-prefixes="#all"
     version="3.0">
+    
+    <!--    written by Dario Kampkaspar https://github.com/dariok, many thanks!!!-->
     <xsl:template match="node()|@*">
         <xsl:copy>
             <xsl:apply-templates select="node()|@*"/>
