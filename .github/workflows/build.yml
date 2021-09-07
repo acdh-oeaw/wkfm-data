@@ -16,17 +16,11 @@ jobs:
         wget https://repo1.maven.org/maven2/ant-contrib/ant-contrib/1.0b3/ant-contrib-1.0b3.jar
         mv ant-contrib-1.0b3.jar /usr/share/ant/lib
         wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip download -d saxon && rm -rf download
-        pwd
-        ls ./saxon/
-    - name: Install StaticSearch
-      run: |
-        wget https://github.com/projectEndings/staticSearch/archive/refs/tags/v1.3.0.zip && unzip v1.3.0.zip -d tmp
-        mv ./tmp/staticSearch-1.3.0 ./staticSearch && rm -rf ./tmp
     - name: Build
       run: |
         ant
     - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./html
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./html
