@@ -46,6 +46,7 @@
                             <msContents>
                                 <msItem>
                                     <locus><xsl:value-of select="substring-after(replace(.//tei:title[@type='main']/text(), '_', ' '), 'fol ')"/></locus>
+                                    <p/>
                                 </msItem>
                             </msContents>
                             <history>
@@ -60,6 +61,25 @@
                 <xsl:copy-of select=".//tei:body"/>
             </text>
         </TEI>
+    </xsl:template>
+    
+    <xsl:template match="tei:*[tei:rs[@continued]]">
+        <xsl:for-each-group select="node()"
+            group-starting-with="tei:rs[@continued and following-sibling::*[1][self::tei:lb or self::tei:pb]]">
+            <xsl:choose>
+                <xsl:when test="current-group()[@continued]">
+                    <rs>
+                        <xsl:sequence select="current-group()[1]/@* | current-group()[1]/node()" />
+                        <xsl:sequence select="current-group()[(self::tei:pb or self::tei:lb) and position() lt 4]" />
+                        <xsl:sequence select="current-group()[@continued and preceding-sibling::*]/node()" />
+                    </rs>
+                    <xsl:sequence select="current-group()[preceding-sibling::*[@continued]]" />
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:sequence select="current-group()" />
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:for-each-group>
     </xsl:template>
     
 </xsl:stylesheet>

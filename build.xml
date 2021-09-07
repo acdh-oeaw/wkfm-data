@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project basedir="." name="build">
-    <property name="tmp_dir" value="./data/trnsk"></property>
-    <replace dir="${tmp_dir}" value='type="default"'>
+    <property name="trnsk" value="./data/trnsk"/>
+    <property name="trnsk_temp" value="./data/trnsk_tmp"/>
+    <property name="editions" value="./data/editions"/>
+    
+    <replace dir="${trnsk}" value='type="default"'>
         <include name="*.xml"/>
         <replacetoken>type=""</replacetoken>
     </replace>
-    <replace dir="${tmp_dir}" value="">
+    <replace dir="${trnsk}" value="">
         <include name="*.xml"/>
         <replacetoken>&lt;comment&gt;</replacetoken>
     </replace>
-    <replace dir="${tmp_dir}" value="">
+    <replace dir="${trnsk}" value="">
         <include name="*.xml"/>
         <replacetoken>&lt;/comment&gt;</replacetoken>
     </replace>
+    <replace dir="${trnsk}" value="superscript">
+        <include name="*.xml"/>
+        <replacetoken>fontSize:0.0; kerning:0; superscript:true;</replacetoken>
+    </replace>
+    <mkdir dir="${trnsk_temp}"/>
+    <xslt style="./xslt/join_rs.xsl"  basedir="${trnsk}" destdir="${trnsk_temp}" includes="*.xml" extension=".xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <copy todir="${trnsk}" flatten="true" overwrite="true">
+        <fileset dir="${trnsk_temp}">
+            <include name="*.xml"/>
+        </fileset>
+    </copy>
+    <delete dir="${trnsk_temp}"/>
+    <xslt style="./xslt/postprocess.xsl"  basedir="${trnsk}" destdir="${editions}" includes="*.xml" extension=".xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    
 </project>
