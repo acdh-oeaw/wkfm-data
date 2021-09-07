@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Über das Projekt</title>
+             <title type="sub">Digitale Edition des ersten Wiener Merkantilprotokolls</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born Digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+          <div>
+              <head>Über das Projekt</head>
+              <p>
+                  Das vorliegende Projekt wird in Kooperation zwischen dem Institut für Österreichische Geschichtsforschung (Universität Wien) und dem Austrian Centre for Digital Humanities and Cultural Heritage (Österreichische Akademie der Wissenschaften) durchgeführt. Im Gegensatz zu älteren Forschungen zum Wiener Handel und seiner Träger, die sich vor allem einzelnen ethnischen oder religiösen Gruppen widmeten, wird erstmals die gesamte Wiener Großhändlerschaft untersucht.</p>
+              <p>                  
+                  Als Hauptquelle dient das erste Wiener Merkantilprotokoll als Vorläufer des Handelsregisters, das eine komplette Liste der in Wien ansässigen Kaufleute bzw. ihrer Handelsgesellschaften für den Zeitraum von 1725 bis 1758 bietet und im Wiener Stadt- und Landesarchiv erhalten ist. Im Zuge des Projekts soll eine Datenbank aufgebaut werden, die alle im Merkantilprotokoll verzeichneten Wiener Kaufleute, ihre Mitgesellschafter und leitenden Angestellten enthält. Diese Datenbank bietet die Grundlage für eine Gruppenbiographie der Wiener Kaufmannschaft inklusive ihrer familiären und geschäftlichen Beziehungen. Mit seinem Fokus auf der Handelsgeschichte des frühen 18. Jahrhunderts schließt das Projekt unmittelbar an die Forschungen zum frühneuzeitlichen Donauhandel an.
+              </p>
+          </div>
+         
+      </body>
+   </text>
+</TEI>
