@@ -28,6 +28,10 @@
         </html>
     </xsl:template>
     
+    <xsl:template match="tei:pb">
+        <hr/>
+    </xsl:template>
+    
     <xsl:template match="tei:lb">
         <xsl:apply-templates/><br/>
     </xsl:template>
