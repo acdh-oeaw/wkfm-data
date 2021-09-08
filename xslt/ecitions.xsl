@@ -95,7 +95,7 @@
         <strong><xsl:apply-templates/></strong>
     </xsl:template>
     <xsl:template match="tei:ab/text()">
-        <xsl:analyze-string select="." regex="Nahmen und Class|Firma ad Raggion|Procura und Firmae Trager|Oblatorien und Avocatorien|Fundi Ausweisung|Societaets Contract und Interessenten">
+        <xsl:analyze-string select="." regex="Nahmen und Class|Firma ad Raggion|Firma oder Raggion|Procura und Firmae Trager|Oblatorien und Avocatorien|Fundi Ausweisung|Societaets Contract und Interessenten">
             <xsl:matching-substring>
                 <div class="kategorie"><xsl:value-of select="."/></div>
             </xsl:matching-substring>
