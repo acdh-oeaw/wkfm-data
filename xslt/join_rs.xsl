@@ -32,5 +32,16 @@
                 </xsl:choose>
             </xsl:for-each-group>
         </xsl:element>
-    </xsl:template>        
+    </xsl:template>
+    
+    <!--<xsl:template match="tei:ab">
+        <xsl:analyze-string select="." regex="Nahmen und Class">
+            <xsl:matching-substring>
+                <h3><xsl:value-of select="."/></h3>
+            </xsl:matching-substring>
+            <xsl:non-matching-substring>
+                <xsl:apply-templates select="."/>
+            </xsl:non-matching-substring>
+        </xsl:analyze-string>
+    </xsl:template>-->
 </xsl:stylesheet>

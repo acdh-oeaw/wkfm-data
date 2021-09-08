@@ -4476,8 +4476,7 @@
                <choice>
                   <expan/>
                   <abbr>
-                     <rs type="person" key=", Personen ID=46951">Comp</rs>
-                  </abbr>
+                     <rs type="person" key=", Personen ID=46951" continued="true">Comp</rs>:</abbr>
                </choice> von beeden sociis <rs type="person" key=", Personen ID=46950">Arnold Philipp von Werzelli</rs> und <rs type="person" key=", Personen ID=44148">Giulio Maria <unclear>Sarzogro</unclear>
                </rs>
                <lb facs="#facs_5_r2l10" n="N010"/>eingeleget worden.
