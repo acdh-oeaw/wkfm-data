@@ -10,24 +10,30 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>Wiener Merkantilprotokoll</title>
+                <title>WKFM</title>
                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>	
-                <link rel="stylesheet" type="text/css" href="css/aratea.css"/>
                 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+                <link rel="stylesheet" href="css/style.css" />
             </head>
             <body>
                 <xsl:call-template name="nav_bar"/>
+                <div class="jumbotron jumbotron-fluid">
+                    <div class="container">
+                        <h1 class="display-4"><xsl:value-of select=".//tei:title[@type='main']"/></h1>
+                        <p class="lead"><xsl:value-of select=".//tei:title[@type='sub']"/></p>
+                    </div>
+                </div>
                 <div class="container">
-                    <xsl:for-each select="//tei:body//tei:div">
-                        <div id="{generate-id()}" style="width:600px; height:800px">
+                    <xsl:for-each select=".//tei:text//tei:p">
+                        <p class="text-justify whitespace">
                             <xsl:apply-templates/>
-                        </div>
+                        </p>
                     </xsl:for-each>
                 </div>
-                <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"  />
-                <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"  />
-                <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"  />
             </body>
+            <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"  />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"  />
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"  />
         </html>
     </xsl:template>
     <xsl:template match="tei:div//tei:head">

@@ -3,8 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Über das Projekt</title>
-             <title type="sub">Digitale Edition des ersten Wiener Merkantilprotokolls</title>
+            <title type="main">Prosopographie der Wiener Kaufmannschaft im Zeitalter des Merkantilismus</title>
+            <title type="sub">1725–1758</title>
             <principal>
                <persName>Peter Rauscher</persName>
             </principal>
@@ -32,14 +32,10 @@
    <text>
       <body>
           <div>
-              <head>Über das Projekt</head>
-              <p>
-                  Das vorliegende Projekt wird in Kooperation zwischen dem Institut für Österreichische Geschichtsforschung (Universität Wien) und dem Austrian Centre for Digital Humanities and Cultural Heritage (Österreichische Akademie der Wissenschaften) durchgeführt. Im Gegensatz zu älteren Forschungen zum Wiener Handel und seiner Träger, die sich vor allem einzelnen ethnischen oder religiösen Gruppen widmeten, wird erstmals die gesamte Wiener Großhändlerschaft untersucht.</p>
-              <p>                  
-                  Als Hauptquelle dient das erste Wiener Merkantilprotokoll als Vorläufer des Handelsregisters, das eine komplette Liste der in Wien ansässigen Kaufleute bzw. ihrer Handelsgesellschaften für den Zeitraum von 1725 bis 1758 bietet und im Wiener Stadt- und Landesarchiv erhalten ist. Im Zuge des Projekts soll eine Datenbank aufgebaut werden, die alle im Merkantilprotokoll verzeichneten Wiener Kaufleute, ihre Mitgesellschafter und leitenden Angestellten enthält. Diese Datenbank bietet die Grundlage für eine Gruppenbiographie der Wiener Kaufmannschaft inklusive ihrer familiären und geschäftlichen Beziehungen. Mit seinem Fokus auf der Handelsgeschichte des frühen 18. Jahrhunderts schließt das Projekt unmittelbar an die Forschungen zum frühneuzeitlichen Donauhandel an.
-              </p>
+             <p>Die Stadt Wien war in der ersten Hälfte des 18. Jahrhunderts die größte Stadt Mitteleuropas und Sitz des kaiserlichen Hofes. Die Versorgung dieser Metropole mit Fernhandelsgütern wurde von der Wiener Kaufmannschaft organisiert. Abgesehen vom Warenhandel dienten die Kaufleute auch als Kreditgeber des Kaisers. Im Gegensatz ihrer wirtschaftlichen Bedeutung im Güterverkehr und in der Finanzdienstleistung ist bisher wenig über diese Gruppe der Kaufleute bekannt. Diese Forschungslücke führte zu groben Fehlinterpretationen wie etwa zur Annahme, dass im barocken Wien kein bedeutender Handelsstand vorhanden gewesen wäre.</p>
+             <p>Das vorliegende Projekt wird in Kooperation zwischen dem <ref target="https://geschichtsforschung.univie.ac.at/">Institut für Österreichische Geschichtsforschung</ref> (Universität Wien) und dem <ref target="https://www.oeaw.ac.at/acdh/acdh-ch-home">Austrian Centre for Digital Humanities and Cultural Heritage</ref> (Österreichische Akademie der Wissenschaften) durchgeführt. Im Gegensatz zu älteren Forschungen zum Wiener Handel und seiner Träger, die sich vor allem einzelnen ethnischen oder religiösen Gruppen widmeten, wird erstmals die gesamte Wiener Großhändlerschaft untersucht.</p>
+             <p>Auf dieser Seite werden aktuelle Ergebnisse und im Projekt generierte Datensätze präsentiert und der Öffentlichkeit zugänglich gemacht.</p>
           </div>
-         
       </body>
    </text>
 </TEI>
