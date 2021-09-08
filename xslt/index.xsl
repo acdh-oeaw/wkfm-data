@@ -19,7 +19,7 @@
                 <xsl:call-template name="nav_bar"/>
                 <div class="container">
                     <xsl:for-each select="//tei:body//tei:div">
-                        <div id="{generate-id()}">
+                        <div id="{generate-id()}" style="width:600px; height:800px">
                             <xsl:apply-templates/>
                         </div>
                     </xsl:for-each>
