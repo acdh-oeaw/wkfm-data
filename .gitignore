@@ -2,3 +2,4 @@ data/trnsk
 /saxon
 html/*.html
 data/editions/*.html
+!html/mirador.html
