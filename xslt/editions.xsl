@@ -54,7 +54,7 @@
                                             <div class="row">
                                                 <div class="col-md-6">
                                                   <div class="card">
-                                                  <div class="body">
+                                                      <div class="body" id="{generate-id()}">
                                                   <xsl:apply-templates/>
                                                   </div>
                                                   </div>

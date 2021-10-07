@@ -40,6 +40,9 @@
             </body>
         </html>
     </xsl:template>
+    <xsl:template match="tei:ref">
+        <a href="{data(./@target)}"><xsl:value-of select="."/></a>
+    </xsl:template>
     
     <xsl:template match="tei:pb">
         <hr/>
