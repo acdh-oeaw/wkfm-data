@@ -5,3 +5,6 @@ dist/
 html/*.html
 data/editions/*.html
 !html/mirador.html
+static-search/
+words.txt
+stopwords.txt

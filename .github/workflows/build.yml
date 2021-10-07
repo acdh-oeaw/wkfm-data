@@ -10,11 +10,9 @@ jobs:
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v2
-    - name: Install Saxon and ANT
+    - name: Install Saxon, ANT and ANT-Contrib
       run: |
-        apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
-        wget https://repo1.maven.org/maven2/ant-contrib/ant-contrib/1.0b3/ant-contrib-1.0b3.jar
-        mv ant-contrib-1.0b3.jar /usr/share/ant/lib
+        apt-get update && apt-get install openjdk-11-jre-headless ant ant-contrib -y --no-install-recommend
         wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip download -d saxon && rm -rf download
     - name: Download Fundament
       run:
@@ -22,6 +20,12 @@ jobs:
     - name: Build
       run: |
         ant
+    - name: StaticSearch
+      run:
+        ./dl_staticsearch.sh
+    - name: Build Search Index
+      run:
+        ant -f ./static-search/build.xml -DssConfigFile=${PWD}/ss_config.xml
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
