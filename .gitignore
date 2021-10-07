@@ -1,5 +1,7 @@
 data/trnsk
 /saxon
+/env
+dist/
 html/*.html
 data/editions/*.html
 !html/mirador.html

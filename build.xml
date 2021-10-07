@@ -4,7 +4,15 @@
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
-    <xslt style="./xslt/ecitions.xsl"  basedir="./data/editions/" destdir="./html/" includes="*.xml">
+    <xslt style="xslt/toc.xsl" in="data/meta/about.xml" out="html/toc.html">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <xslt style="xslt/about.xsl" in="data/meta/about.xml" out="html/about.html">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <xslt style="./xslt/editions.xsl"  basedir="./data/editions/" destdir="./html/" includes="*.xml">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
