@@ -14,6 +14,8 @@ jobs:
       run: |
         apt-get update && apt-get install openjdk-11-jre-headless ant ant-contrib -y --no-install-recommend
         wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip download -d saxon && rm -rf download
+        wget https://repo1.maven.org/maven2/ant-contrib/ant-contrib/1.0b3/ant-contrib-1.0b3.jar
+        mv ant-contrib-1.0b3.jar /usr/share/ant/lib
     - name: Download Fundament
       run:
         ./dl_fundament.sh
