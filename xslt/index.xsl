@@ -46,7 +46,7 @@
                                         <div class="card-body">
                                             <h3 class="card-title">Über das Projekt</h3>
                                             <p class="card-text">Informationen über das Projekt und das Projektteam</p>
-                                            <a href="#" class="btn btn-round">Mehr</a>
+                                            <a href="about.html" class="btn btn-round">Mehr</a>
                                         </div>
                                     </div>
                                 </div>
@@ -56,7 +56,7 @@
                                         <div class="card-body">
                                             <h3 class="card-title">Faksimiles</h3>
                                             <p class="card-text">Zu den Faksimiles des Merkantilprotokolls</p>
-                                            <a href="#" class="btn btn-round">Mehr</a>
+                                            <a href="mirador.html" class="btn btn-round">Mehr</a>
                                         </div>
                                     </div>
                                 </div>
@@ -66,7 +66,7 @@
                                         <div class="card-body">
                                             <h3 class="card-title">Transkription</h3>
                                             <p class="card-text">Zu der Arbeitstranskription des Merkantilprotokolls</p>
-                                            <a href="#" class="btn btn-round">Mehr</a>
+                                            <a href="toc.html" class="btn btn-round">Mehr</a>
                                         </div>
                                     </div>
                                 </div>
