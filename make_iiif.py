@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 
-IIIF_SERVER_URL = "https://iiif.acdh.oeaw.ac.at/wkfm/"
+IIIF_SERVER_URL = "https://iiif.acdh.oeaw.ac.at/iiif/images/wkfm/"
 PROJECT_URI = "https://wkfm"
 PROJECT_MD = {
     "@context": "http://iiif.io/api/presentation/3/context.json",
@@ -25,7 +25,7 @@ df = pd.read_csv('out.csv')
 
 
 for i, x in df[df['width'].notna()].iterrows():
-    image_id = x['id']
+    image_id = f"{x['id']}.jp2"
     label = image_id
     item = {
         "id": f"{PROJECT_URI}/canvas/{image_id}",
