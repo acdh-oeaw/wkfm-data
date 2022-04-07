@@ -7,7 +7,7 @@
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
-    <xsl:variable name="iiif_server" select="'https://iiif.acdh.oeaw.ac.at/wkfm/'"/>
+    <xsl:variable name="iiif_server" select="'https://iiif.acdh.oeaw.ac.at/iiif/images/wkfm/'"/>
 
     <xsl:template match="/">
         <xsl:variable name="doc_title">
@@ -45,7 +45,7 @@
                                     <xsl:variable name="img_id"
                                         select="substring-before(data($facs_el//@url), '.jpg')"/>
                                     <xsl:variable name="iiif_json"
-                                        select="concat($iiif_server, $img_id, '/info.json')"/>
+                                        select="concat($iiif_server, $img_id, '.jp2/info.json')"/>
                                     <div class="card">
                                         <div class="card-header">
                                             <h3>Seite <xsl:value-of select="$page_nr"/></h3>
