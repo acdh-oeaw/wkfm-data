@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/wkfm" xml:id="650354.xml" prev="https://id.acdh.oeaw.ac.at/wkfm/650351.xml" next="https://id.acdh.oeaw.ac.at/wkfm/650360.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/wkfm" xml:id="wkfm-650354.xml" prev="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650351.xml" next="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650360.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -298,7 +298,7 @@
       <lb facs="#facs_4_r1l2" n="N002"/>In obigen Abbringen de ps: 20<hi rend="superscript">ten</hi> 725 N<hi rend="superscript">o</hi> 598 hat sich die <choice>
                   <expan>Nigglische</expan>
                   <abbr>
-                     <rs type="person" key=", Personen ID=46652" continued="true">Niggl</rs>
+                     <rs type="person" key=", Personen ID=46652" subtype="continued">Niggl</rs>
                   </abbr>
                </choice>
                <lb facs="#facs_4_r1l3" n="N003"/>

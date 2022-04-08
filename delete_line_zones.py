@@ -8,4 +8,5 @@ for x in tqdm(files):
     doc = TeiReader(x)
     for bad in doc.any_xpath('.//tei:zone[@rendition="Line"]'):
         bad.getparent().remove(bad)
-    doc.tree_to_file(x)
+    new_name = x.replace('editions/', 'editions/wkfm-')
+    doc.tree_to_file(new_name)

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project basedir="." name="make_html">
+    <property name="target" value="./html"/>
+    <delete dir="${target}/static-search"/>
     <xslt style="xslt/index.xsl" in="data/meta/about.xml" out="html/index.html">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
@@ -16,4 +18,13 @@
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
+    <replace dir="${target}" value="">
+        <include name="*.html"/>
+        <replacetoken> xmlns=""</replacetoken>
+    </replace>
+    <copy todir="${target}" flatten="true">
+        <fileset dir="./data/">
+            <include name="**/*.xml"/>
+        </fileset>
+    </copy>
 </project>

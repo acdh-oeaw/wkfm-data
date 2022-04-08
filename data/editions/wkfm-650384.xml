@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/wkfm" xml:id="650384.xml" prev="https://id.acdh.oeaw.ac.at/wkfm/650377.xml" next="https://id.acdh.oeaw.ac.at/wkfm/650394.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/wkfm" xml:id="wkfm-650384.xml" prev="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml" next="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650394.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -769,7 +769,7 @@
                <choice>
                   <expan/>
                   <abbr>
-                     <rs type="person" key=", Personen ID=46951" continued="true">Comp</rs>:</abbr>
+                     <rs type="person" key=", Personen ID=46951" subtype="continued">Comp</rs>:</abbr>
                </choice> von beeden sociis <rs type="person" key=", Personen ID=46950">Arnold Philipp von Werzelli</rs> und <rs type="person" key=", Personen ID=44148">Giulio Maria <unclear>Sarzogro</unclear>
                </rs>
                <lb facs="#facs_5_r2l10" n="N010"/>eingeleget worden.
