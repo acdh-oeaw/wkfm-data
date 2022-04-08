@@ -27,11 +27,15 @@
                                 <h1>
                                     <xsl:value-of select="//tei:title[@type = 'main']"/>
                                 </h1>
-                                <h3>
-                                    <div class="alert alert-warning" role="alert">
-                                        Es handelt sich hierbei um reine Arbeitstranskripte, die weder Anspruch auf Vollständigkeit noch Korrektheit erheben.
+                                
+                                    <div class="alert alert-warning alert-dismissible fade show" role="alert"> Es handelt sich
+                                        hierbei um reine Arbeitstranskripte, die weder Anspruch auf
+                                        Vollständigkeit noch Korrektheit erheben.
+
+                                            <span aria-hidden="true" class="close" data-dismiss="alert" aria-label="Close">schließen</span>
+                                        
                                     </div>
-                                </h3>
+                              
                             </div>
                             <div class="card-body">
                                 <xsl:for-each select="//tei:text//tei:ab">
@@ -45,40 +49,34 @@
                                     <xsl:variable name="img_id"
                                         select="substring-before(data($facs_el//@url), '.jpg')"/>
                                     <xsl:variable name="iiif_json"
-                                        select="concat($iiif_server, $img_id, '.jp2/info.json')"/>
+                                        select="concat($iiif_server, $img_id, '.jp2/full/,600/0/default.jpg')"/>
                                     <div class="card">
-                                        <div class="card-header">
-                                            <h3>Seite <xsl:value-of select="$page_nr"/></h3>
+                                        <div class="card-header" style="text-align:right">
+                                            <small class="text-muted"><xsl:value-of select="$page_nr"/></small>
                                         </div>
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col-md-6">
                                                   <div class="card">
-                                                      <div class="body" id="{generate-id()}">
-                                                  <xsl:apply-templates/>
-                                                  </div>
+                                                    <div class="body" id="{generate-id()}">
+                                                        <xsl:apply-templates/>
+                                                    </div>
                                                   </div>
                                                 </div>
-                                                <div class="col-md-6">
+                                                <div class="col-md-6" align="center">
                                                   <div class="card">
-                                                  <div class="body">
-                                                  <div style="width:400px; height:600px">
-                                                  <xsl:attribute name="id">
-                                                  <xsl:value-of select="concat('img', $counter)"/>
-                                                  </xsl:attribute>
-                                                  </div>
-
-                                                  <script type="text/javascript">
-                                                                var source = "<xsl:value-of select="$iiif_json"/>";
-                                                                OpenSeadragon({
-                                                                    id: "<xsl:value-of select="concat('img', $counter)"/>",
-                                                                tileSources:[
-                                                                    source
-                                                                ],
-                                                                sequence: false,
-                                                                prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/images/"
-                                                            });</script>
-                                                  </div>
+                                                    <div class="body">
+                                                        <div style="width:400px; height:600px">
+                                                            <img src="{$iiif_json}" loading="lazy"/>
+                                                            <small>
+                                                                <a>
+                                                                    <xsl:attribute name="href">
+                                                                        <xsl:value-of
+                                                                        select="replace($iiif_json, ',600', 'full')"/>
+                                                                    </xsl:attribute> zum Vollbild </a>
+                                                            </small>
+                                                        </div>
+                                                    </div>
                                                   </div>
                                                 </div>
                                             </div>
@@ -88,7 +86,7 @@
                             </div>
 
                         </div>
-                        
+
                     </div>
                     <xsl:call-template name="html_footer"/>
                 </div>
