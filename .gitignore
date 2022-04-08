@@ -3,6 +3,7 @@ data/trnsk
 /env
 dist/
 html/*.html
+html/*.rdf
 html/*.xml
 data/editions/*.html
 !html/mirador.html
