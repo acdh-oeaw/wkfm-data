@@ -4476,8 +4476,7 @@
                <choice>
                   <expan/>
                   <abbr>
-                     <rs type="person" key=", Personen ID=46951">Comp</rs>
-                  </abbr>
+                     <rs type="person" key=", Personen ID=46951" continued="true">Comp</rs>:</abbr>
                </choice> von beeden sociis <rs type="person" key=", Personen ID=46950">Arnold Philipp von Werzelli</rs> und <rs type="person" key=", Personen ID=44148">Giulio Maria <unclear>Sarzogro</unclear>
                </rs>
                <lb facs="#facs_5_r2l10" n="N010"/>eingeleget worden.
@@ -5491,10 +5490,10 @@
                <lb facs="#facs_61_line_1626183262291_871" n="N001"/>876
       <lb facs="#facs_61_r1l1" n="N002"/>Nahmen und Class
       <lb facs="#facs_61_r1l2" n="N003"/>
-               <rs type="person" key=", Personen ID=46992">Weigl Benedit</rs> burgerlicher Leinwathandler
+               <rs type="person" key=", Personen ID=46992">Weigl Benedict</rs> burgerlicher Leinwathandler
       <lb facs="#facs_61_r1l3" n="N004"/>Firma ad Raggion
       <lb facs="#facs_61_r1l4" n="N005"/>
-               <rs type="person" key=", Personen ID=46993">Benedit Weigl</rs> laut Anbringen de ps: 12<hi rend="superscript">ten</hi>
+               <rs type="person" key=", Personen ID=46993">Benedict Weigl</rs> laut Anbringen de ps: 12<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Febr:</abbr>

@@ -56,16 +56,12 @@
          <graphic height="4383px"
                   url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1855.jpg"
                   width="2979px"/>
-         <zone points="207,158 207,317 333,317 333,158"
-               rendition="TextRegion"
-               xml:id="facs_1_r1">
-            <zone points="207,314 232,316 257,317 282,317 307,315 333,308 333,158 307,165 282,167 257,167 232,166 207,164"
-                  rendition="Line"
-                  xml:id="facs_1_r1l1"/>
-         </zone>
-         <zone points="563,69 563,2922 3063,2922 3063,69"
+         <zone points="166,55 166,2908 3063,2922 3063,69"
                rendition="TextRegion"
                xml:id="facs_1_r2">
+            <zone points="191,167 364,167 364,307 191,307"
+                  rendition="Line"
+                  xml:id="facs_1_line_1639054975551_1125"/>
             <zone points="2654,397 2680,399 2707,400 2734,402 2760,402 2787,403 2814,402 2814,282 2787,283 2760,282 2734,282 2707,280 2680,279 2654,277"
                   rendition="Line"
                   xml:id="facs_1_r2l2"
@@ -127,18 +123,12 @@
          <graphic height="4383px"
                   url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1857.jpg"
                   width="2979px"/>
-         <zone points="2582,242 2582,398 2729,398 2729,242"
-               rendition="TextRegion"
-               xml:id="facs_3_r4"
-               subtype="page-number">
-            <zone points="2582,395 2611,393 2640,392 2670,395 2699,396 2729,398 2729,248 2699,246 2670,245 2640,242 2611,243 2582,245"
-                  rendition="Line"
-                  xml:id="facs_3_r4l1"
-                  subtype="page-number"/>
-         </zone>
-         <zone points="306,153 306,2970 2360,2970 2360,153"
+         <zone points="306,153 306,2970 2817,2962 2817,145"
                rendition="TextRegion"
                xml:id="facs_3_r3">
+            <zone points="2554,230 2788,230 2788,368 2554,368"
+                  rendition="Line"
+                  xml:id="facs_3_line_1639057256500_1418"/>
             <zone points="1107,249 1140,247 1174,247 1208,246 1242,246 1275,246 1309,246 1343,247 1377,247 1410,249 1444,249 1478,250 1512,251 1545,252 1579,252 1613,253 1647,253 1680,253 1714,253 1748,253 1782,252 1782,159 1748,160 1714,160 1680,160 1647,160 1613,160 1579,159 1545,159 1512,158 1478,157 1444,156 1410,156 1377,154 1343,154 1309,153 1275,153 1242,153 1208,153 1174,154 1140,154 1107,156"
                   rendition="Line"
                   xml:id="facs_3_r3l1"/>
@@ -193,18 +183,12 @@
          <graphic height="4383px"
                   url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1859.jpg"
                   width="2979px"/>
-         <zone points="2640,257 2640,410 2765,410 2765,257"
-               rendition="TextRegion"
-               xml:id="facs_5_r3"
-               subtype="page-number">
-            <zone points="2640,410 2665,408 2690,407 2715,407 2740,407 2765,409 2765,259 2740,257 2715,257 2690,257 2665,258 2640,260"
-                  rendition="Line"
-                  xml:id="facs_5_r3l1"
-                  subtype="page-number"/>
-         </zone>
-         <zone points="248,175 248,2990 2538,2990 2538,175"
+         <zone points="248,175 248,2990 2813,2983 2813,168"
                rendition="TextRegion"
                xml:id="facs_5_r2">
+            <zone points="2607,261 2805,261 2805,394 2607,394"
+                  rendition="Line"
+                  xml:id="facs_5_line_1639057293685_1438"/>
             <zone points="1088,236 1124,238 1160,241 1196,243 1233,247 1269,248 1305,251 1342,253 1378,254 1414,257 1451,258 1487,259 1523,260 1559,260 1596,260 1632,261 1668,260 1705,260 1741,259 1777,256 1814,254 1814,193 1777,195 1741,198 1705,199 1668,199 1632,200 1596,199 1559,199 1523,199 1487,198 1451,197 1414,196 1378,193 1342,192 1305,190 1269,187 1233,186 1196,182 1160,180 1124,177 1088,175"
                   rendition="Line"
                   xml:id="facs_5_r2l1"/>
@@ -1665,28 +1649,27 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_r1" type="default">
-               <lb facs="#facs_1_r1l1" n="N001"/>155</ab>
             <ab facs="#facs_1_r2" type="default">
-               <lb facs="#facs_1_r2l2" n="N001"/>920
-      <lb facs="#facs_1_r2l1" n="N002"/>Nahmen und Class
-      <lb facs="#facs_1_r2l3" n="N003"/>
+               <lb facs="#facs_1_line_1639054975551_1125" n="N001"/>155
+      <lb facs="#facs_1_r2l2" n="N002"/>920
+      <lb facs="#facs_1_r2l1" n="N003"/>Nahmen und Class
+      <lb facs="#facs_1_r2l3" n="N004"/>
                <rs type="person" key=", Personen ID=8271">Arnsteiner Isaac</rs> Jud
-      <lb facs="#facs_1_r2l4" n="N004"/>Firma ad Raggion
-      <lb facs="#facs_1_r2l5" n="N005"/>
+      <lb facs="#facs_1_r2l4" n="N005"/>Firma ad Raggion
+      <lb facs="#facs_1_r2l5" n="N006"/>
                <rs type="person" key=", Personen ID=46613">Isaac Arnsteiner</rs> laut Anbringen de ps: 19<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 725 No 858
-      <lb facs="#facs_1_r2l6" n="N006"/>
+      <lb facs="#facs_1_r2l6" n="N007"/>
                <rs type="person" key=", Personen ID=43819">Isaac Arnsteiner <choice>
                      <expan/>
                      <abbr>seel.</abbr>
                   </choice> Erben</rs> laut Anbringen de p: 14<hi rend="superscript">ten</hi> Junii 746 N<hi rend="superscript">o</hi> 875.
-      <lb facs="#facs_1_r2l7" n="N007"/>Procura und Firmae Trager
-      <lb facs="#facs_1_r2l8" n="N008"/>Oblatorien und Avocatorien
-      <lb facs="#facs_1_r2l9" n="N009"/>Fundi Ausweisung</ab>
+      <lb facs="#facs_1_r2l7" n="N008"/>Procura und Firmae Trager
+      <lb facs="#facs_1_r2l8" n="N009"/>Oblatorien und Avocatorien
+      <lb facs="#facs_1_r2l9" n="N010"/>Fundi Ausweisung</ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_r1" type="default">
                <lb facs="#facs_2_r1l1" n="N001"/>Societaets Contract und Interessenten
@@ -1703,22 +1686,21 @@
       <lb facs="#facs_2_r1l6" n="N005"/>Heuraths Contract
       <lb facs="#facs_2_r1l7" n="N006"/>Anmerckungen</ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <ab facs="#facs_3_r4" type="page-numberpage-number">
-               <lb facs="#facs_3_r4l1" n="N001"/>921</ab>
             <ab facs="#facs_3_r3" type="default">
-               <lb facs="#facs_3_r3l1" n="N001"/>Nahmen und Class
-      <lb facs="#facs_3_r3l2" n="N002"/>
+               <lb facs="#facs_3_line_1639057256500_1418" n="N001"/>921
+      <lb facs="#facs_3_r3l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_3_r3l2" n="N003"/>
                <rs type="person" key=", Personen ID=17496">Gabriel Bernhard</rs> Jud
-      <lb facs="#facs_3_r3l3" n="N003"/>Firma ad Raggion
-      <lb facs="#facs_3_r3l4" n="N004"/>
+      <lb facs="#facs_3_r3l3" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_3_r3l4" n="N005"/>
                <rs type="person" key=", Personen ID=46614">Bernhard Gabriel</rs> laut Anbringen de p: 19<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 859.
-      <lb facs="#facs_3_r3l5" n="N005"/>Procura und Firmae Trager
-      <lb facs="#facs_3_r3l6" n="N006"/>Oblatorien und Avocatorien
-      <lb facs="#facs_3_r3l7" n="N007"/>Fundi Ausweisung</ab>
+      <lb facs="#facs_3_r3l5" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_3_r3l6" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_3_r3l7" n="N008"/>Fundi Ausweisung</ab>
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
             <ab>
                <lb facs="#facs_4_r1l1" n="N001"/>Societaets Contract und Interessenten
@@ -1734,19 +1716,18 @@
       <lb facs="#facs_4_r1l5" n="N005"/>Heuraths Contract
       <lb facs="#facs_4_r1l6" n="N006"/>Anmerckungen</ab>
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
-            <ab facs="#facs_5_r3" type="page-numberpage-number">
-               <lb facs="#facs_5_r3l1" n="N001"/>922</ab>
             <ab facs="#facs_5_r2" type="default">
-               <lb facs="#facs_5_r2l1" n="N001"/>Nahmen und Class
-      <lb facs="#facs_5_r2l2" n="N002"/>
+               <lb facs="#facs_5_line_1639057293685_1438" n="N001"/>922
+      <lb facs="#facs_5_r2l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_5_r2l2" n="N003"/>
                <rs type="person" key=", Personen ID=16033">Gumpertz Marcus Lion</rs>
                <hi rend="strikethrough:true;">Jud </hi>Hof Jud
-      <lb facs="#facs_5_r2l3" n="N003"/>Firma ad Raggion
-      <lb facs="#facs_5_r2l4" n="N004"/>
+      <lb facs="#facs_5_r2l3" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_5_r2l4" n="N005"/>
                <rs type="person" key=", Personen ID=46615">Marcus Lion Gumpertz</rs> laut Anbringen de ps: 30<hi rend="superscript">ten</hi> Junii 735 N<hi rend="superscript">o</hi> 872.
-      <lb facs="#facs_5_r2l5" n="N005"/>Procura und Firmae Trager
-      <lb facs="#facs_5_r2l6" n="N006"/>Oblatorien und Avocatorien
-      <lb facs="#facs_5_r2l7" n="N007"/>Fundi Ausweisung</ab>
+      <lb facs="#facs_5_r2l5" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_5_r2l6" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_5_r2l7" n="N008"/>Fundi Ausweisung</ab>
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             <ab facs="#facs_6_r1" type="default">
                <lb facs="#facs_6_r1l1" n="N001"/>Societaets Contract und Interessenten

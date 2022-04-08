@@ -683,8 +683,7 @@
                xml:id="facs_17_r2">
             <zone points="2721,257 2916,257 2916,370 2721,370"
                   rendition="Line"
-                  xml:id="facs_17_line_1626336299168_1205"
-                  subtype="page-number"/>
+                  xml:id="facs_17_line_1626336299168_1205"/>
             <zone points="1143,228 1180,229 1217,229 1255,231 1292,232 1329,234 1367,235 1404,237 1441,238 1479,240 1516,241 1553,243 1591,244 1628,246 1665,247 1703,249 1740,250 1777,252 1815,252 1852,253 1890,255 1890,189 1852,187 1815,186 1777,186 1740,184 1703,183 1665,181 1628,180 1591,178 1553,177 1516,175 1479,174 1441,172 1404,171 1367,169 1329,168 1292,166 1255,165 1217,163 1180,163 1143,162"
                   rendition="Line"
                   xml:id="facs_17_r2l1"/>
@@ -10202,21 +10201,21 @@
                <rs type="person" key=", Personen ID=13222">Salliet Niclas</rs> burgerlicher Handlsmann
       <lb facs="#facs_17_r2l3" n="N004"/>Firma ad Raggion
       <lb facs="#facs_17_r2l4" n="N005"/>
-               <rs type="person" key=", Personen ID=20968">Nicolaus Solliet et Compagnie</rs> laut Anbringen de ps: 21<hi rend="superscript">ten</hi>
+               <rs type="person" key=", Personen ID=20968">Nicolaus Salliet et Compagnie</rs> laut Anbringen de ps: 21<hi rend="superscript:true;">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 2040
+               </choice> 725 N<hi rend="superscript:true;">o</hi> 2040
       <lb facs="#facs_17_r2l5" n="N006"/>Procura und Firmae Trager
-      <lb facs="#facs_17_r2l6" n="N007"/>In obigen Anbringen de ps: 21<hi rend="superscript">ten</hi>
+      <lb facs="#facs_17_r2l6" n="N007"/>In obigen Anbringen de ps: 21<hi rend="superscript:true;">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 2040 ist die Firma der Raggion <rs type="person" key=", Personen ID=20968">Nicolaus Salliet<lb facs="#facs_17_r2l7" n="N008"/>et Compagnie</rs> von dem <rs type="person" key=", Personen ID=13222">Nillas Salliet</rs> mit der Erinnerung eingeleget worden, das der Conso-
+               </choice> 725 N<hi rend="superscript:true;">o</hi> 2040 ist die Firma der Raggion <rs type="person" key=", Personen ID=20968">Nicolaus Salliet<lb facs="#facs_17_r2l7" n="N008"/>et Compagnie</rs> von dem <rs type="person" key=", Personen ID=13222">Nillas Salliet</rs> mit der Erinnerung eingeleget worden, das der Conso-
       <lb facs="#facs_17_r2l8" n="N009"/>tius <rs type="person" key=", Personen ID=47405">Peter Vincent</rs> bey seiner Ruckkunft aus Frankreich die Firma gleichfalß <unclear>
-                  <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">ent</hi>einlegegen</unclear>
-               <lb facs="#facs_17_r2l9" n="N010"/>werde v. <gap/>
-               <lb facs="#facs_17_r2l10" n="N011"/>Oblatorien und Avocatorien
+                  <hi rend="strikethrough:true;">ent</hi>einlegegen</unclear>
+               <lb facs="#facs_17_r2l9" n="N010"/>werde v. 
+      <lb facs="#facs_17_r2l10" n="N011"/>Oblatorien und Avocatorien
       <lb facs="#facs_17_r2l11" n="N012"/>Fundi Ausweisung</ab>
             <pb facs="#facs_18" n="18" xml:id="img_0018"/>
             <ab>
@@ -13110,9 +13109,9 @@
       <lb facs="#facs_185_r1l4" n="N002"/>814
       <lb facs="#facs_185_r1l1" n="N003"/>Nahmen und Class
       <lb facs="#facs_185_r1l3" n="N004"/>
-               <rs type="person" key=", Personen ID=47544">Semsel Martin</rs> burgerlicher Handlsmann
+               <rs type="person" key=", Personen ID=47544">Sensel Martin</rs> burgerlicher Handlsmann
       <lb facs="#facs_185_r1l6" n="N005"/>Firma ad Raggion
-      <lb facs="#facs_185_r1l7" n="N006"/>Über die von dem <rs type="person" key=", Personen ID=47544">Semsel</rs> gemachte Anzeige das die Handlung dem <rs type="person" key=", Personen ID=47188">
+      <lb facs="#facs_185_r1l7" n="N006"/>Über die von dem <rs type="person" key=", Personen ID=47544">Sensel</rs> gemachte Anzeige das die Handlung dem <rs type="person" key=", Personen ID=47188">
                   <unclear>Filjod</unclear>
                </rs> abgetretten und 
       <lb facs="#facs_185_r1l8" n="N007"/>gänzlich aufgegeben habe, ist selben zufolge auflag <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">und Quittung</hi> dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
@@ -13124,7 +13123,7 @@
       <lb facs="#facs_185_r1l10" n="N009"/>Procura und Firmae Trager
       <lb facs="#facs_185_r1l11" n="N010"/>Oblatorien und Avocatorien
       <lb facs="#facs_185_r1l12" n="N011"/>Fundi Ausweisung
-      <lb facs="#facs_185_r1l13" n="N012"/>Der <rs type="person" key=", Personen ID=47544">Semsel</rs> hat zu Ausweisung seines Fundi ein von seiner nachhinnigen
+      <lb facs="#facs_185_r1l13" n="N012"/>Der <rs type="person" key=", Personen ID=47544">Sensel</rs> hat zu Ausweisung seines Fundi ein von seiner nachhinnigen
       <lb facs="#facs_185_r1l14" n="N013"/>Ehewirthin <rs type="person" key=", Personen ID=47545">Maria Anna <unclear>Jenamin</unclear>
                </rs> untern 10<hi rend="superscript">ten</hi>
                <choice>
@@ -13134,7 +13133,7 @@
       <lb facs="#facs_185_r1l15" n="N014"/>in <choice>
                   <expan/>
                   <abbr>orig:</abbr>
-               </choice> dahin ausgesteltes Instrument daß er <rs type="person" key=", Personen ID=47544">Semsel</rs> in ihrer
+               </choice> dahin ausgesteltes Instrument daß er <rs type="person" key=", Personen ID=47544">Sensel</rs> in ihrer
       <lb facs="#facs_185_r1l16" n="N015"/>Handlung baar eingeleget <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">habe</hi> 2500 fl
       <lb facs="#facs_185_r1l18" n="N016"/>sie ihn verheurathet habe 500 fl
       <lb facs="#facs_185_r1l22" n="N017"/>dann extra geschänket 5000 fl
@@ -13147,7 +13146,7 @@
             <ab facs="#facs_186_r1" type="default">
                <lb facs="#facs_186_r1l1" n="N001"/>Societaets Contract und Interessenten
       <lb facs="#facs_186_r1l2" n="N002"/>Heuraths Contract
-      <lb facs="#facs_186_r1l3" n="N003"/>Über die von dem <rs type="person" key=", Personen ID=47544">Semsel</rs> gemachte Anzeigt <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">dd<hi rend="strikethrough:true; superscript"/>
+      <lb facs="#facs_186_r1l3" n="N003"/>Über die von dem <rs type="person" key=", Personen ID=47544">Sensel</rs> gemachte Anzeigt <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">dd<hi rend="strikethrough:true; superscript"/>
                </hi>to
       <lb facs="#facs_186_r1l4" n="N004"/>dem <rs type="person" key=", Personen ID=47188">Fuljod</rs> abgetretten und gänzlich aufgegeben habe, ist zufolge
       <lb facs="#facs_186_r1l5" n="N005"/>Auflag dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
@@ -13158,7 +13157,7 @@
                <choice>
                   <expan/>
                   <abbr>Janu:</abbr>
-               </choice> 757 N<hi rend="superscript">o</hi> 2235 dem <rs type="person" key=", Personen ID=47544">Semsel</rs>
+               </choice> 757 N<hi rend="superscript">o</hi> 2235 dem <rs type="person" key=", Personen ID=47544">Sensel</rs>
                <lb facs="#facs_186_r1l6" n="N006"/>der eingelegte Heuraths Contract extradiret worden.
       <lb facs="#facs_186_r1l7" n="N007"/>Anmerckungen</ab>
             <pb facs="#facs_187" n="187" xml:id="img_0187"/>

@@ -1,5 +1,5 @@
 # bin/bash
-DL_URL="https://transkribus.eu/export/6125198364654966443/export_job_2083895.zip"
+DL_URL="https://transkribus.eu/export/1539012211444795816/export_job_2909949.zip"
 echo "Downloading Documents from $DL_URL"
 IFS='/' read -r -a array <<< "$DL_URL"
 JOB_ID=${array[-1]}

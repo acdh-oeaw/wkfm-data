@@ -557,8 +557,7 @@
                xml:id="facs_15_r1">
             <zone points="2696,460 2726,460 2757,463 2788,466 2819,466 2819,408 2788,408 2757,405 2726,402 2696,402"
                   rendition="Line"
-                  xml:id="facs_15_r1l2"
-                  subtype="page-number"/>
+                  xml:id="facs_15_r1l2"/>
             <zone points="1260,336 1296,337 1333,337 1369,339 1406,339 1443,340 1479,342 1516,343 1552,345 1589,345 1626,346 1662,348 1699,349 1735,351 1772,351 1809,352 1845,354 1882,354 1918,354 1955,354 1992,354 1992,296 1955,296 1918,296 1882,296 1845,296 1809,294 1772,293 1735,293 1699,291 1662,290 1626,288 1589,287 1552,287 1516,285 1479,284 1443,282 1406,281 1369,281 1333,279 1296,279 1260,278"
                   rendition="Line"
                   xml:id="facs_15_r1l1"/>
@@ -11799,67 +11798,68 @@
                <rs type="person" key=", Personen ID=9690">Palm Gebrüder</rs> K. K. Niederlags Verwante
       <lb facs="#facs_15_r1l4" n="N004"/>Firma oder Raggion
       <lb facs="#facs_15_r1l5" n="N005"/>
-               <rs type="person" key=", Personen ID=9690">Gebrüder Palm</rs> laut Anbringen de ps: 19<hi rend="superscript">ten</hi>
+               <rs type="person" key=", Personen ID=9690">Gebrüder Palm</rs> laut Anbringen de ps: 19<hi rend="superscript:true;">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 1846.
+               </choice> 725 N<hi rend="superscript:true;">o</hi> 1846.
       <lb facs="#facs_15_r1l6" n="N006"/>
-               <rs type="person" key=", Personen ID=47274">Johann Heinrich Stammetz</rs> laut Oblatorien dd<hi rend="superscript">to</hi> 15<hi rend="superscript">ten</hi>
+               <rs type="person" key=", Personen ID=47274">Johann Heinrich Stammetz</rs> laut Oblatorien dd<hi rend="superscript:true;">to</hi> 15<hi rend="superscript:true;">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Jul:</abbr>
-               </choice> 751 N<hi rend="superscript">o</hi> 1103 et 1104
+               </choice> 751 N<hi rend="superscript:true;">o</hi> 1103 et 1104
       <lb facs="#facs_15_r1l7" n="N007"/>Procura und Firmae Trager
-      <lb facs="#facs_15_r1l9" n="N008"/>In obigen Anbringen de ps: 19<hi rend="superscript">ten</hi>
+      <lb facs="#facs_15_r1l9" n="N008"/>In obigen Anbringen de ps: 19<hi rend="superscript:true;">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 1846 haben sich die <rs type="person" key=", Personen ID=9690">Gebrüder<lb facs="#facs_15_r1l10" n="N009"/>Palm</rs> erklähret, das zufolge des zwischen ihnen unterm 1<hi rend="superscript">ten</hi>
+               </choice> 725 N<hi rend="superscript:true;">o</hi> 1846 haben sich die <rs type="person" key=", Personen ID=9690">Gebrüder<lb facs="#facs_15_r1l10" n="N009"/>Palm</rs> erklähret, das zufolge des zwischen ihnen unterm 1<hi rend="superscript:true;">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 723 errichtetten
       <lb facs="#facs_15_r1l11" n="N010"/>Contract auf 3 Jahr lang das negotium unter ihres <rs type="person" key=", Personen ID=43805">Franz Gottlieb Palm</rs> direction
       <lb facs="#facs_15_r1l12" n="N011"/>stehe.
-      <lb facs="#facs_15_r1l13" n="N012"/>In obigen Oblatorien dd<hi rend="superscript">to</hi> 15<hi rend="superscript">ten</hi>
+      <lb facs="#facs_15_r1l13" n="N012"/>In obigen Oblatorien dd<hi rend="superscript:true;">to</hi> 15<hi rend="superscript:true;">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Jul:</abbr>
-               </choice> 751 N<hi rend="superscript">o</hi> 1103 haben die <rs type="person" key=", Personen ID=9690">Gebrüder Palm</rs> kund gemacht
-      <lb facs="#facs_15_r1l14" n="N013"/>daß ihr <rs type="person" key=", Personen ID=43805">Franz Gottlieb Freyherr von Palm</rs>, welcher nebst seinem Bruder <rs type="person" key=", Personen ID=43806">Leopold<lb facs="#facs_15_r1l15" n="N014"/>Carl Freyherrn von Palm</rs>
-               <hi rend="strikethrough:true;">unterm</hi> Director ihrer Handlung gewesen, den 4<hi rend="superscript">ten</hi>
+               </choice> 751 N<hi rend="superscript:true;">o</hi> 1103 haben die <rs type="person" key=", Personen ID=9690">Gebrüder Palm</rs> kund gemacht
+      <lb facs="#facs_15_r1l14" n="N013"/>daß ihr <rs type="person" key=", Personen ID=43805">Franz Gottlieb Freyherr von Palm</rs>, welcher nebst seinem Bruder <rs type="person" key=", Personen ID=43806">Leopold<lb facs="#facs_15_r1l15" n="N014"/>Carl Freyherrn von Palmm Joha<hi rend="strikethrough:true;"/>
+               </rs>
+               <hi rend="strikethrough:true;">unterm</hi> Director ihrer Handlung gewesen, den 4<hi rend="superscript:true;">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Xbr:</abbr>
-               </choice> 740 ver-
-      <lb facs="#facs_15_r1l16" n="N015"/>storben, und sie nunmehr die Direction und Firma unter <hi rend="strikethrough:true;">
-                  <unclear>gemeinner</unclear>
-               </hi> dem <rs type="person" key=", Personen ID=13459">Johann<lb facs="#facs_15_r1l17" n="N016"/>
-               </rs>
+               </choice> 749 ver-
+      <lb facs="#facs_15_r1l16" n="N015"/>storben, und sie nunmehr die Direction und Firma unter <unclear>
+                  <hi rend="strikethrough:true;">gemeinne</hi>
+               </unclear>
+               <hi rend="strikethrough:true;">r</hi>  de<hi rend="strikethrough:true;">nn</hi>
+               <lb facs="#facs_15_r1l17" n="N016"/>
                <rs type="person" key=", Personen ID=13459">Heinrich Stammetz<lb facs="#facs_15_r1l18" n="N017"/>
                </rs>Oblatorien und Avocatorien
-      <lb facs="#facs_15_r1l19" n="N018"/>Die <rs type="person" key=", Personen ID=9690">Gebrüder Palm</rs> haben untern 18<hi rend="superscript">ten</hi> Julii 751 Oblatorien wovon sie ein <choice>
+      <lb facs="#facs_15_r1l19" n="N018"/>Die <rs type="person" key=", Personen ID=9690">Gebrüder Palm</rs> haben untern 18<hi rend="superscript:true;">ten</hi> Julii 751 Oblatorien wovon sie ein <choice>
                   <expan/>
                   <abbr>orig.</abbr>
                </choice> einge
-      <lb facs="#facs_15_r1l20" n="N019"/>leget N<hi rend="superscript">o</hi> 1103 dahin einlegen, daß weil ihr <rs type="person" key=", Personen ID=43805">Franz Gottlieb Freyherr von Palm</rs>, welcher
-      <lb facs="#facs_15_r1l21" n="N020"/>nebst seinen Brudern <rs type="person" key=", Personen ID=43806">Leopold Carl Freyherrn von Palm</rs>
-               <gap/> verstorben, sie dem <rs type="person" key=", Personen ID=13459">Johann<lb facs="#facs_15_r1l22" n="N021"/>
+      <lb facs="#facs_15_r1l20" n="N019"/>leget N<hi rend="superscript:true;">o</hi> 1103 dahin einlegen, daß weil ihr <rs type="person" key=", Personen ID=43805">Franz Gottlieb Freyherr von Palm</rs>, welcher
+      <lb facs="#facs_15_r1l21" n="N020"/>nebst seinen Brudern <rs type="person" key=", Personen ID=43806">Leopold Carl Freyherrn von Palm</rs>    verstorben, sie de<rs type="person" key=", Personen ID=13459">m Joha<lb facs="#facs_15_r1l22" n="N021"/>
                </rs>
                <rs type="person" key=", Personen ID=13459">Heinrich Stammetz<lb facs="#facs_15_r1l23" n="N022"/>
                </rs>
                <rs type="person" key=", Personen ID=13459">Stammetz </rs>Nahmen nebst einem Fundo von 100000 fl anvertrautet haben, er
       <lb facs="#facs_15_r1l24" n="N023"/>
-               <rs type="person" key=", Personen ID=13459">Stammetz </rs>sich auch mit 20000 fl und also um den 5<hi rend="superscript">ten</hi> Theil interessiret habe.
+               <rs type="person" key=", Personen ID=13459">Stammetz </rs>sich auch mit 20000 fl und also um den 5<hi rend="superscript:true;">ten</hi> Theil interessiret habe.
       <lb facs="#facs_15_r1l25" n="N024"/>Diesen hat der <rs type="person" key=", Personen ID=13459">Stammetz </rs>gleichmäßige oblatorien mit dem Beysaz das sein <unclear>eingenes </unclear>unter
       <lb facs="#facs_15_r1l26" n="N025"/>der Raggion <rs type="person" key=", Personen ID=43807">Christian Kalchschmid <choice>
                      <expan/>
                      <abbr>seel.</abbr>
                   </choice> Wittib e Compgano</rs> geführetes negotium darzu
-      <lb facs="#facs_15_r1l28" n="N026"/>gezogen worden seye. und zu ende <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">sein</hi> die künftige firma Johann Heinrich Stametz
-      <lb facs="#facs_15_r1l30" n="N027"/>beygeruket dd<hi rend="superscript">to</hi>
-               <unclear>eodem</unclear> N<hi rend="superscript">o</hi> 1104.
+      <lb facs="#facs_15_r1l28" n="N026"/>gezogen worden seye. und zu ende <hi rend="strikethrough:true;">sein</hi> die künftige firma Johann Heinrich Stametz
+      <lb facs="#facs_15_r1l30" n="N027"/>beygeruket dd<hi rend="superscript:true;">to</hi>
+               <unclear>eodem</unclear> N<hi rend="superscript:true;">o</hi> 1104.
       <lb facs="#facs_15_r1l31" n="N028"/>Fundi Ausweisung</ab>
             <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             <ab>
@@ -11868,7 +11868,7 @@
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 1846 haben sich die <rs type="person">Gebrüder Palm</rs> erklähret das ihre 
+               </choice> 725 N<hi rend="superscript">o</hi> 1846 haben sich die <rs type="person" key=", Personen ID=30430">Gebrüder Palm</rs> erklähret das ihre 
       <lb facs="#facs_16_r1l4" n="N003"/>Handlung nach Inhalt des unter ihnen errichteten Contracts dd<hi rend="superscript">to</hi> 1<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
@@ -14487,7 +14487,7 @@
                <choice>
                   <expan/>
                   <abbr>
-                     <rs type="person" key=", Personen ID=43903">Compag:</rs>
+                     <rs type="person" key=", Personen ID=43903" continued="true">Compag:</rs>
                   </abbr>
                </choice> angezeiget, daß unter dieser Raggion der <rs type="person" key=", Personen ID=10683">Carl Joseph Starkh</rs> und <rs type="person" key=", Personen ID=36354">Johann<lb facs="#facs_142_r1l4" n="N004"/>Anton Bormastino der jüngere</rs> ihr Handlung mit interesse des <rs type="person" key=", Personen ID=43904">Franz Ferdinand von<lb facs="#facs_142_r1l5" n="N005"/>Klanberg</rs> und <rs type="person" key=", Personen ID=9133">Bormastino und Butterna</rs> führen.
       <lb facs="#facs_142_r1l6" n="N006"/>Mitls Anbringen de ps: 28<hi rend="superscript">ten</hi> May 726 N<hi rend="superscript">o</hi> 2044 hat eben diese Raggion die anzeige gemacht,
@@ -15006,7 +15006,7 @@
                <choice>
                   <expan/>
                   <abbr>
-                     <rs type="person" key=", Personen ID=43913">Comp:</rs>
+                     <rs type="person" key=", Personen ID=43913" continued="true">Comp:</rs>
                   </abbr>
                </choice>, welche bey 3 Jahr gedauert mit <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">alt</hi>
                <choice>
