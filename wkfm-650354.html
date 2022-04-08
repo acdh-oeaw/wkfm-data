@@ -1,4 +1,4 @@
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:local="http://dse-static.foo.bar">
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -11,37 +11,46 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
       <link rel="stylesheet" id="fundament-styles" href="dist/fundament/css/fundament.min.css" type="text/css" />
       <link rel="stylesheet" href="css/style.css" type="text/css" />
-      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jq-3.3.1/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.css" /><script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script></head>
+      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jq-3.3.1/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.css" /><script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/openseadragon.min.js"></script></head>
    <body class="page">
       <div class="hfeed site" id="page">
          <div class="wrapper-fluid wrapper-navbar sticky-navbar" id="wrapper-navbar"><a class="skip-link screen-reader-text sr-only" href="#content">Skip to content</a><nav class="navbar navbar-expand-lg navbar-light">
-               <div class="container"><a href="index.html" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="dist/fundament/images/fundament_logo.svg" class="img-fluid" alt="Fundament Logo" itemprop="logo" /></a><a class="navbar-brand site-title-with-logo" rel="home" href="index.html" title="&#xA;            WKFM&#xA;        " itemprop="url">
-                     WKFM
-                     </a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+               <div class="container"><a href="index.html" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="dist/fundament/images/fundament_logo.svg" class="img-fluid" title="WKFM" alt="WKFM" itemprop="logo" /></a><a class="navbar-brand site-title-with-logo" rel="home" href="index.html" title="WKFM" itemprop="url">WKFM</a><span style="margin-left:-1.7em;" class="badge bg-light text-dark">in development</span><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                      <ul id="main-menu" class="navbar-nav">
-                        <li class="nav-item active"><a title="Über das Projekt" href="about.html" class="nav-link">Über das Projekt</a></li>
-                        <li class="nav-item active"><a title="Transkriptionen" href="toc.html" class="nav-link">Transkriptionen</a></li>
-                        <li class="nav-item dropdown"><a title="Dropdown" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Faksimiles <span class="caret"></span></a><ul class=" dropdown-menu" role="menu">
-                              <li class="nav-item dropdown-submenu"><a title="Level 1" href="mirador.html" class="nav-link">Mirador Image Viewer</a></li>
-                              <li class="nav-item dropdown-submenu"><a title="Level 1" href="manifest.json" class="nav-link">IIIF-Manifest</a></li>
+                        <li class="nav-item dropdown"><a title="Papers" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Projekt <span class="caret"></span></a><ul class=" dropdown-menu" role="menu">
+                              <li class="nav-item dropdown-submenu"><a title="Auden-Musulin Correspondence" href="about.html" class="nav-link">Über das Projekt</a></li>
                            </ul>
                         </li>
-                        <li class="nav-item"><a title="GitHub" href="https://github.com/acdh-oeaw/wkfm-data" class="nav-link">GitHub</a></li>
+                        <li class="nav-item dropdown"><a title="Indexes" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Register <span class="caret"></span></a><ul class=" dropdown-menu" role="menu">
+                              <li class="nav-item dropdown-submenu"><a title="Personen" href="listperson.html" class="nav-link">Personen</a></li>
+                              <li class="nav-item dropdown-submenu"><a title="Orte" href="listplace.html" class="nav-link">Orte</a></li>
+                              <li class="nav-item dropdown-submenu"><a title="Orte" href="listorg.html" class="nav-link">Institutionen</a></li>
+                              <div class="dropdown-divider"></div>
+                              <li class="nav-item dropdown-submenu"><a title="GND-BEACON" href="beacon.txt" class="nav-link">GND-BEACON</a></li>
+                           </ul>
+                        </li>
+                        <li class="nav-item"><a title="Editionseinheiten" href="toc.html" class="nav-link">Editionseinheiten</a></li>
                      </ul>
                      <form class="form-inline my-2 my-lg-0 navbar-search-form" method="get" action="search.html" role="search"><input class="form-control navbar-search" id="s" name="q" type="text" placeholder="Search" value="" autocomplete="off" /><button type="submit" class="navbar-search-icon"><i data-feather="search"></i></button></form>
                   </div>
                </div>
             </nav>
          </div>
-         <div class="container">
-            <div class="card">
-               <div class="card-header" style="text-align:center">
-                  <h1>Wiener Merkantilprotokoll 13 Lit N fol 639 [644]-656 [661]</h1>
-                  <div class="alert alert-warning alert-dismissible fade show" role="alert"> Es handelt sich
-                     hierbei um reine Arbeitstranskripte, die weder Anspruch auf
-                     Vollständigkeit noch Korrektheit erheben.
-                     
-                     <span aria-hidden="true" class="close" data-dismiss="alert" aria-label="Close">schließen</span></div>
+         <div class="container-fluid">
+            <div class="card" data-index="true">
+               <div class="card-header">
+                  <div class="row">
+                     <div class="col-md-2">
+                        <h1><a href="wkfm-650351.html"><i class="fas fa-chevron-left" title="prev"></i></a></h1>
+                     </div>
+                     <div class="col-md-8">
+                        <h1 align="center">Wiener Merkantilprotokoll 13 Lit N fol 639 [644]-656 [661]</h1>
+                        <h3 align="center"><a href="wkfm-650354.xml"><i class="fas fa-download" title="show TEI source"></i></a></h3>
+                     </div>
+                     <div class="col-md-2" style="text-align:right">
+                        <h1><a href="wkfm-650360.html"><i class="fas fa-chevron-right" title="next"></i></a></h1>
+                     </div>
+                  </div>
                </div>
                <div class="card-body">
                   <div class="card">
@@ -50,27 +59,21 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e404">
-                                    639
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>Naller Joseph Christoph</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Joseph Christoph Naller</strong> laut Anbringen de ps: 28ten
+                                 <div class="body" id="d20e404">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>639
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Naller Joseph Christoph</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Joseph Christoph Naller</a></strong> laut Anbringen de ps: 28ten
                                     
                                     
                                     Apr:
                                      725 No 597
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -89,19 +92,17 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e446">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    In obigen Anbringen de ps: 18ten
+                                 <div class="body" id="d20e446">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>In obigen Anbringen de ps: 18ten
                                     
                                     
                                     Apr:
                                      725 No 597 hat sich der
-                                    
-                                    <strong>Naller</strong> erklähret, das er keinen Compagnon habe.
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Naller</a></strong> erklähret, das er keinen Compagnon habe.
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -120,36 +121,30 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e479">
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
+                                 <div class="body" id="d20e479">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
                                     527 640
-                                    
-                                    <strong>Niggl Christoph Jacob burg
-                                       
-                                       
-                                       seel.
-                                        Wittib</strong> hofbefreyte Handlsfrau
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Christoph Jacob Niggl 
-                                       
-                                       Seel:
-                                        Wittib</strong> laut Anbringen de ps: 20ten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Niggl Christoph Jacob burg
+                                          
+                                          
+                                          seel.
+                                          Wittib</a></strong> hofbefreyte Handlsfrau
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Christoph Jacob Niggl 
+                                          
+                                          Seel:
+                                          Wittib</a></strong> laut Anbringen de ps: 20ten
                                     
                                     
                                     Apr:
                                      725
-                                    No 598
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>No 598
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -168,19 +163,18 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e543">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    In obigen Abbringen de ps: 20ten 725 No 598 hat sich die 
+                                 <div class="body" id="d20e543">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>In obigen Abbringen de ps: 20ten 725 No 598 hat sich die 
                                     Nigglische
                                     
-                                    <strong>Niggl</strong>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Niggl</a></strong>
                                     
                                     
-                                    
-                                    <strong>Wittib
-                                       </strong><div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Wittib
+                                          </a></strong>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -199,43 +193,37 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e579">
-                                    
+                                 <div class="body" id="d20e579">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
                                     528
-                                    641
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>De St. Nicolo Domenico</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Dom. de St. Nicolo</strong> laut Erklährung ddto 17ten 
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>641
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">De St. Nicolo Domenico</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Dom. de St. Nicolo</a></strong> laut Erklährung ddto 17ten 
                                     
                                     Apr:
                                      725 No 599
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>	
-                                    Mitls Anbringen de ps: 7ten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager	
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Mitls Anbringen de ps: 7ten
                                     
                                     
                                     Aug:
-                                     728 No 1043 hat der <strong>St. Nicolo</strong> die wehrend
-                                    seinem Abwesenheit seinen Brudern <strong>Johann de St. Nicolo</strong> ertheilte 
+                                     728 No 1043 hat der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">St. Nicolo</a></strong> die wehrend
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>seinem Abwesenheit seinen Brudern <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Johann de St. Nicolo</a></strong> ertheilte 
                                     
                                     orig:
                                     
-                                    Procura mit beygerukter Firma des <strong>Johann St. Nicolo</strong> ddto 1ten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura mit beygerukter Firma des <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Johann St. Nicolo</a></strong> ddto 1ten
                                     
                                     
                                     Aug:
                                     
-                                    728 No 1142 eingeleget
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>728 No 1142 eingeleget
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -254,18 +242,17 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e683">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    In obiger Erklährung ddto 17ten
+                                 <div class="body" id="d20e683">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>In obiger Erklährung ddto 17ten
                                     
                                     
                                     Apr:
-                                     725 No 599 hat sich der <strong>De
-                                       </strong>
-                                    <strong>St. Nicolo
-                                       </strong><div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                     725 No 599 hat sich der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">De
+                                          </a></strong>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">St. Nicolo
+                                          </a></strong>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -284,10 +271,10 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e721">
-                                    
+                                 <div class="body" id="d20e721">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
                                     529
-                                    642</div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>642</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -306,26 +293,20 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e731">
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>von Nedorost Wolf Carl</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Wolf Carl von Nedorost</strong> laut Erklährung ddto 17ten
+                                 <div class="body" id="d20e731">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">von Nedorost Wolf Carl</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Wolf Carl von Nedorost</a></strong> laut Erklährung ddto 17ten
                                     
                                     
                                     Apr:
                                      725 No 600
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -344,19 +325,17 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e774">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    In obiger Erklährung ddto 17ten
+                                 <div class="body" id="d20e774">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>In obiger Erklährung ddto 17ten
                                     
                                     
                                     Apr:
                                      725 No 600 hat sch der
-                                    
-                                    <strong>Nedorost</strong> geäusseret, das er keinen Compagnon habe
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Nedorost</a></strong> geäusseret, das er keinen Compagnon habe
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -375,10 +354,10 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e810">
-                                    
+                                 <div class="body" id="d20e810">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
                                     503
-                                    643</div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>643</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -397,26 +376,20 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e820">
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>Niller Alexander</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Alexander Niller</strong> laut Erklährung ddto 16ten
+                                 <div class="body" id="d20e820">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Niller Alexander</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Alexander Niller</a></strong> laut Erklährung ddto 16ten
                                     
                                     
                                     Apr:
                                      725 No 601
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -435,19 +408,17 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e863">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    In obiger Erklährung ddto 16ten
+                                 <div class="body" id="d20e863">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>In obiger Erklährung ddto 16ten
                                     
                                     
                                     Apr:
                                      725 No 601 hat sich der
-                                    
-                                    <strong>Niller</strong> geäusseret, daß keinen interessenten habe.
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Niller</a></strong> geäusseret, daß keinen interessenten habe.
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -466,27 +437,21 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e899">
-                                    644
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>Naubig Anton Albrecht</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Antoni Albert Naubig</strong> laut Erklährung ddto 16ten
+                                 <div class="body" id="d20e899">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>644
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Naubig Anton Albrecht</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Antoni Albert Naubig</a></strong> laut Erklährung ddto 16ten
                                     
                                     
                                     Apr:
                                      725 No 602
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -505,17 +470,15 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e944">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    In obiger Erklährung ddto 16ten
+                                 <div class="body" id="d20e944">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>In obiger Erklährung ddto 16ten
                                     
                                     
                                     Apr:
-                                     725 No 602 hat sich der <strong>Nau-big</strong> geäusseret, das er kein seine handlung für sich allein führe
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                     725 No 602 hat sich der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Nau-big</a></strong> geäusseret, das er kein seine handlung für sich allein führe
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -534,17 +497,15 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e982">
-                                    109
-                                    645
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>Niller Johann Michäl</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Johann Michäl Niller</strong>
+                                 <div class="body" id="d20e982">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>109
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>645
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Niller Johann Michäl</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Johann Michäl Niller</a></strong>
                                     
                                     
                                     
@@ -555,13 +516,9 @@
                                     
                                     Apr:
                                      725 No 603
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -580,18 +537,16 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1041">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    In obiger Erklährung ddto 16ten
+                                 <div class="body" id="d20e1041">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>In obiger Erklährung ddto 16ten
                                     
                                     
                                     Apr:
-                                     725 No 603 hat sich der <strong>Niller</strong>
-                                    geäusseret, das er seine handlung ohne mitinteressenten führe
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                     725 No 603 hat sich der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Niller</a></strong>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>geäusseret, das er seine handlung ohne mitinteressenten führe
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -610,24 +565,18 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1076">
-                                    646
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>Negri Anton</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Anthni Negri oder Antonio Negri</strong> laut Erklährung ddto 3ten Julii 726
-                                    No 604
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                 <div class="body" id="d20e1076">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>646
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Negri Anton</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Anthni Negri oder Antonio Negri</a></strong> laut Erklährung ddto 3ten Julii 726
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>No 604
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -646,14 +595,12 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1116">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    In obiger Erklährung ddto 3ten Julii 726 No 604 hat sich der <strong>Negri</strong>
-                                    geäusseret das er seine Handlung fur sich allein führe
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                 <div class="body" id="d20e1116">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>In obiger Erklährung ddto 3ten Julii 726 No 604 hat sich der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Negri</a></strong>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>geäusseret das er seine Handlung fur sich allein führe
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -672,27 +619,21 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1145">
-                                    647
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>Neymaister Andre</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Andrea Neymaister</strong> laut Erklährung ddto 26ten
+                                 <div class="body" id="d20e1145">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>647
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Neymaister Andre</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Andrea Neymaister</a></strong> laut Erklährung ddto 26ten
                                     
                                     
                                     7br:
                                      729 No 605
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -711,19 +652,17 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1190">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    In obiger Erklährung ddto 26ten
+                                 <div class="body" id="d20e1190">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>In obiger Erklährung ddto 26ten
                                     
                                     
                                     7br:
                                      729 No 605 hat sich der
-                                    
-                                    <strong>Neymaister</strong> geäusseret, das er seine Handlung ohne Compagno führe
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Neymaister</a></strong> geäusseret, das er seine Handlung ohne Compagno führe
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -742,34 +681,28 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1225">
-                                    648
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>Neuner Anton</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Anthoni Neüner E 
-                                       
-                                       Comp:
-                                       
-                                       </strong> laut Erklährung ddto 1ten Junii 733 No 2014
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    In obiger Erklährung ddto 1ten Junii 733 No 2014 ist die Äusserung gemacht
-                                    worden, das die Raggion <strong>Anthoni Neüner E 
-                                       
-                                       Comp:
-                                       
-                                       </strong> und alleiniger Firma
-                                    des <strong>Neuner</strong> geführet werde.
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                 <div class="body" id="d20e1225">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>648
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Neuner Anton</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Anthoni Neüner E 
+                                          
+                                          Comp:
+                                          
+                                          </a></strong> laut Erklährung ddto 1ten Junii 733 No 2014
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>In obiger Erklährung ddto 1ten Junii 733 No 2014 ist die Äusserung gemacht
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>worden, das die Raggion <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Anthoni Neüner E 
+                                          
+                                          Comp:
+                                          
+                                          </a></strong> und alleiniger Firma
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>des <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Neuner</a></strong> geführet werde.
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -788,21 +721,19 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1300">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    In obiger Erklährung ddto 1ten Junii 733 No 2014 hat sich der
-                                    
-                                    <strong>Neuner</strong>
-                                    mit dem Lucas erklähret, das der <strong>Lucas Joseph Setti</strong> sein
-                                    Compagno seye und sie ihre Handlung unter der Raggion <strong>Anton Neuner E 
-                                       
-                                       Comp:
-                                       
-                                       </strong> mit seiner firmirung des <strong>Neuner</strong> firmirung führen
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                 <div class="body" id="d20e1300">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>In obiger Erklährung ddto 1ten Junii 733 No 2014 hat sich der
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Neuner</a></strong>
+                                    mit dem Lucas erklähret, das der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Lucas Joseph Setti</a></strong> sein
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Compagno seye und sie ihre Handlung unter der Raggion <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Anton Neuner E 
+                                          
+                                          Comp:
+                                          
+                                          </a></strong> mit seiner firmirung des <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Neuner</a></strong> firmirung führen
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -821,36 +752,30 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1355">
-                                    649
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    Neuhaußer Matthias burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Matthias Neuhaußer</strong> laut Erklährung ddto 10ten
+                                 <div class="body" id="d20e1355">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>649
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Neuhaußer Matthias burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Matthias Neuhaußer</a></strong> laut Erklährung ddto 10ten
                                     
                                     
                                     7br:
                                      733 No 606
-                                    
-                                    <strong>Mathias Neuhauser 
-                                       
-                                       seel:
-                                        Wittib</strong>
-                                    
-                                    <strong>Mathias Neuhauser 
-                                       
-                                       seel:
-                                        Wittib und Sohn</strong>
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Mathias Neuhauser 
+                                          
+                                          seel:
+                                          Wittib</a></strong>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Mathias Neuhauser 
+                                          
+                                          seel:
+                                          Wittib und Sohn</a></strong>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -869,18 +794,16 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1421">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    In obiger Erklährung ddto 10ten
+                                 <div class="body" id="d20e1421">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>In obiger Erklährung ddto 10ten
                                     
                                     
                                     7br:
-                                     733 No 606 hat sich der <strong>Neuhauser</strong>
-                                    geäusseret, das er keinen Compagnon habe
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                     733 No 606 hat sich der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Neuhauser</a></strong>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>geäusseret, das er keinen Compagnon habe
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -899,45 +822,39 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1457">
-                                    650
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>Negri Gioachimo</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Gioachimo Negri E 
-                                       
-                                       Comp:
-                                       
-                                       </strong> laut Erklährung ddto 14ten
+                                 <div class="body" id="d20e1457">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>650
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Negri Gioachimo</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Gioachimo Negri E 
+                                          
+                                          Comp:
+                                          
+                                          </a></strong> laut Erklährung ddto 14ten
                                     
                                     
                                     7br:
                                      733 No 2015
-                                    
-                                    <strong>Gioachimo Negri</strong> laut Anbringen de ps: 27ten Junii 735 No 1866
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    In obiger Erklährung ddto 14ten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Gioachimo Negri</a></strong> laut Anbringen de ps: 27ten Junii 735 No 1866
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>In obiger Erklährung ddto 14ten
                                     Ju
                                     
                                     
                                     7br:
                                      733 No 2015 ist die Firma der Raggion
-                                    
-                                    <strong>Gioachimo Negri E 
-                                       
-                                       Comp:
-                                       
-                                       </strong> von dem <strong>Negri</strong> allein eingeleget worden.
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Gioachimo Negri E 
+                                          
+                                          Comp:
+                                          
+                                          </a></strong> von dem <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Negri</a></strong> allein eingeleget worden.
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -956,56 +873,54 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1558">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    Der <strong>Negri</strong> hat mit dem <strong>Bartolomeo Patuzzi</strong> untern 23ten
+                                 <div class="body" id="d20e1558">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Negri</a></strong> hat mit dem <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Bartolomeo Patuzzi</a></strong> untern 23ten
                                     
                                     
                                     Apr:
                                      733 N dem No
-                                    1864 in 
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>1864 in 
                                     
                                     orig:
                                      et 1865 in notariats translato eingelegten societaets Contract dahin abge-
-                                    schlossen, daß jeder von ihnen 3000 fl einlegen, der <strong>Negri</strong> jenes was er an der Summa oder
-                                    zeit nicht richtig einlegen würde mit 6 
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>schlossen, daß jeder von ihnen 3000 fl einlegen, der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Negri</a></strong> jenes was er an der Summa oder
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>zeit nicht richtig einlegen würde mit 6 
                                     
                                     pCto
                                     
                                      dem negotio zu verinteressiren schuldig, die socie-
-                                    taet von Georgii 733 bis det: 737 auf 4 Jahr auch auf Verlangen des <strong>Patuzzi</strong> annoch
-                                    auf andere 4 Jahr fürdauern, das negotium solle unter dem Nahmen des <strong>Negri</strong> allein
-                                    laufen dem <strong>Patuzzi</strong> oder vorbehalten seyn, da den <strong>Salvini</strong> oder eine andere  Persohn
-                                    in das negotium zu stellen und solches unter dessen Nahmen mitlaufen zu lassen
-                                    Vorbehalten seyn Gewün und Verlust zu gleichen theilen seyn, und aus dem Negotium nichts
-                                    als die erforderliche Spesen und für jeden jährl: 150 herausgenohmen werden, alle
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>taet von Georgii 733 bis det: 737 auf 4 Jahr auch auf Verlangen des <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Patuzzi</a></strong> annoch
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>auf andere 4 Jahr fürdauern, das negotium solle unter dem Nahmen des <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Negri</a></strong> allein
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>laufen dem <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Patuzzi</a></strong> oder vorbehalten seyn, da den <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Salvini</a></strong> oder eine andere  Persohn
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>in das negotium zu stellen und solches unter dessen Nahmen mitlaufen zu lassen
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Vorbehalten seyn Gewün und Verlust zu gleichen theilen seyn, und aus dem Negotium nichts
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>als die erforderliche Spesen und für jeden jährl: 150 herausgenohmen werden, alle
                                     Jahr
-                                    eine Inventur und Billanz errichtet werden, und im fall eines Rukgangs einem jeden
-                                    die Societaet auch vor Verschlüssung der Zeit zu endigen bevorstehen, der <strong>Negri</strong> ohne Einwilligung
-                                    des <strong>Patuzi</strong> sich in kein Eheerlaubnuß einzulassen und falß sich selber einliesse der heuraths
-                                    brief <abbr title="unclear">unter</abbr>
-                                    grösserer Erfordernußen den Negotio wie auch dem <strong>Negri</strong> keines Weegs nachtheilig seye, der <strong>Negri</strong> gleich-
-                                    valß nicht befugt seye jemanden uber 300 fl Credit zu geben bey schadloshaltung des
-                                    negotii, wie auch <abbr title="unclear">ohne</abbr>
-                                    Einwilligung Waaren in Comission ausser hiesigen Plaz zu geben <abbr title="unclear">oder</abbr> verderbliche Waaren zu bestöllen, die be-
-                                    diente und Jungen mit gemeinsamer Einverständnus aufgenohmen und abgedanket werden
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>eine Inventur und Billanz errichtet werden, und im fall eines Rukgangs einem jeden
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>die Societaet auch vor Verschlüssung der Zeit zu endigen bevorstehen, der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Negri</a></strong> ohne Einwilligung
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>des <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Patuzi</a></strong> sich in kein Eheerlaubnuß einzulassen und falß sich selber einliesse der heuraths
+                                    brief <abbr xmlns:tei="http://www.tei-c.org/ns/1.0" title="unclear">unter</abbr>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>grösserer Erfordernußen den Negotio wie auch dem <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Negri</a></strong> keines Weegs nachtheilig seye, der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Negri</a></strong> gleich-
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>valß nicht befugt seye jemanden uber 300 fl Credit zu geben bey schadloshaltung des
+                                    negotii, wie auch <abbr xmlns:tei="http://www.tei-c.org/ns/1.0" title="unclear">ohne</abbr>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Einwilligung Waaren in Comission ausser hiesigen Plaz zu geben <abbr xmlns:tei="http://www.tei-c.org/ns/1.0" title="unclear">oder</abbr> verderbliche Waaren zu bestöllen, die be-
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>diente und Jungen mit gemeinsamer Einverständnus aufgenohmen und abgedanket werden
                                     die 0
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen
-                                    Erben von der Societaet wider willen nicht ausgeschlossen seyn, die zwistigkeiten
-                                    von zweyen oder allenfals dreyen verständigen entschiden und dabey bey 1000 Straf
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Erben von der Societaet wider willen nicht ausgeschlossen seyn, die zwistigkeiten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>von zweyen oder allenfals dreyen verständigen entschiden und dabey bey 1000 Straf
                                     zur disposition des St. Johann
-                                    Joanis Nepo:-Spitals gelassen werden
-                                    Mitls Anbringen de ps: 17ten Junii 735 No 1866 hat der <strong>Gioachimo Negri</strong> und 
-                                    
-                                    <strong>Bartholomeo Patuzzi</strong> angezeiget, daß die zwischen ihnen geschlossene soc-
-                                    iätet mit dem Monath 
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Joanis Nepo:-Spitals gelassen werden
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Mitls Anbringen de ps: 17ten Junii 735 No 1866 hat der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Gioachimo Negri</a></strong> und 
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Bartholomeo Patuzzi</a></strong> angezeiget, daß die zwischen ihnen geschlossene soc-
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>iätet mit dem Monath 
                                     
                                     7br:
                                      734 ihr Endschaft mit gemeinsamer Einwilligung
-                                    erreichet habe.</div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>erreichet habe.</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -1024,24 +939,18 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1736">
-                                    110
-                                    651
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>Naperth Sebastian Peter</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Sebastian Peter Naperth</strong> laut Erklährung ddto 29ten May 733 No 607
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                 <div class="body" id="d20e1736">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>110
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>651
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Naperth Sebastian Peter</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Sebastian Peter Naperth</a></strong> laut Erklährung ddto 29ten May 733 No 607
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -1060,28 +969,26 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1777">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    In obiger Erklährung ddto 29ten May 733 No 607 hat sich der <strong>Naperth</strong> ge-
-                                    äusseret, das er keinen Compagnon habe
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Mitls Anbringen de ps: 9ten
+                                 <div class="body" id="d20e1777">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>In obiger Erklährung ddto 29ten May 733 No 607 hat sich der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Naperth</a></strong> ge-
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>äusseret, das er keinen Compagnon habe
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Mitls Anbringen de ps: 9ten
                                     
                                     
                                     Janu:
-                                     736 No 2201 hat der <strong>Naperth</strong> den mit der
-                                    
-                                    <strong>Maria Elisabeth <abbr title="unclear">Festlin</abbr>
-                                       </strong> untern 20ten Junii 735 geschlo errichteten Heuraths
-                                    Contract No 2200 in 
+                                     736 No 2201 hat der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Naperth</a></strong> den mit der
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Maria Elisabeth Festlin
+                                          </a></strong> untern 20ten Junii 735 geschlo errichteten Heuraths
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Contract No 2200 in 
                                     
                                     orig:
                                      eingeleget, kraft welchen 1000 fl heurath Gutt
-                                    nebst 2000 fl Widerlag auf überleben, dann jenes, was wehrender Ehe
-                                    erworben und ererbet wird als ein gleiches Gutt pactiret worden.
-                                    Anmerckungen</div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>nebst 2000 fl Widerlag auf überleben, dann jenes, was wehrender Ehe
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>erworben und ererbet wird als ein gleiches Gutt pactiret worden.
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -1100,31 +1007,25 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1854">
-                                    652
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>De St. Nicolo Johann</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Johann de st Nicolo</strong> laut Erklährung sine dato No 608
-                                    den 29ten february 764 hat die <strong>Joh: de St. Nicolo 
-                                       
-                                       seel:
-                                        Wittib</strong> ihre firma oder respee:
-                                    oblatorien eingeleget, in firmis sub 
+                                 <div class="body" id="d20e1854">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>652
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">De St. Nicolo Johann</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Johann de st Nicolo</a></strong> laut Erklährung sine dato No 608
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>den 29ten february 764 hat die <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Joh: de St. Nicolo 
+                                          
+                                          seel:
+                                          Wittib</a></strong> ihre firma oder respee:
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>oblatorien eingeleget, in firmis sub 
                                     
                                     nro
                                      608 1/2
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -1143,23 +1044,21 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1910">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Mitls Anbringen de ps: 9ten
+                                 <div class="body" id="d20e1910">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Mitls Anbringen de ps: 9ten
                                     
                                     
                                     7br:
-                                     736 No 2203 hat der <strong>de st Nicolo</strong> den mit 
-                                    der <strong>Maria Carolina Kuperianin</strong> untern 8ten May 738 errichteten Heuraths
-                                    Contract No 2202 in copia vidimata eingeleget, kraft welchem 1000 fl heurath-
-                                    Gutt nebst 2000 fl Widerlag dergestalten pactiret worden, daß solche
-                                    nach de Bräutigams Tod der überlebenden Braut zufallen, fals aber
-                                    die Braut vor dem Bräutigam sterben solte würde der Braut mit
-                                    solcher beeden leztwilligen zu disponiren bevorstehen solle.
-                                    Anmerckungen</div>
+                                     736 No 2203 hat der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">de st Nicolo</a></strong> den mit 
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Maria Carolina Kuperianin</a></strong> untern 8ten May 738 errichteten Heuraths
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Contract No 2202 in copia vidimata eingeleget, kraft welchem 1000 fl heurath-
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Gutt nebst 2000 fl Widerlag dergestalten pactiret worden, daß solche
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>nach de Bräutigams Tod der überlebenden Braut zufallen, fals aber
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>die Braut vor dem Bräutigam sterben solte würde der Braut mit
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>solcher beeden leztwilligen zu disponiren bevorstehen solle.
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -1178,17 +1077,15 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e1967">
-                                    653
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>Nägerl Wolf Anton</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <strong>Wolf Antoni Nägerl</strong> laut Erklährung sine dato No 689 welche der
-                                    
+                                 <div class="body" id="d20e1967">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>653
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Nägerl Wolf Anton</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Wolf Antoni Nägerl</a></strong> laut Erklährung sine dato No 689 welche der
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
                                     
                                     
                                     burgl:
@@ -1197,17 +1094,14 @@
                                     
                                     Mart:
                                      736 No 610 eingeleget
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                    Der <strong>Nägerl</strong> hat seinen handlungs fundum mitls der 
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Nägerl</a></strong> hat seinen handlungs fundum mitls der 
                                     
                                     orig:
                                      inventur ddto 1ten
-                                    
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
                                     
                                     
                                     Apr:
@@ -1215,12 +1109,12 @@
                                     
                                     pr
                                      4124 fl 10 xr
-                                    welche der burgerliche handlstand mitls der relation de ps: 21ten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>welche der burgerliche handlstand mitls der relation de ps: 21ten
                                     
                                     
                                     Aug:
                                      738 No
-                                    1651 mit beygerukter bekräftigung dieser Inventur eingeleget.</div>
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>1651 mit beygerukter bekräftigung dieser Inventur eingeleget.</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -1239,12 +1133,10 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e2081">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                 <div class="body" id="d20e2081">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -1263,35 +1155,30 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e2092">
-                                    654
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>Nachbauer David Adam</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
+                                 <div class="body" id="d20e2092">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>654
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Nachbauer David Adam</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
                                     David Adam Nachbauer b
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                     Der <strong>Nachbauer</strong> hat seinen fundum fala mitls der Specification wel No
-                                    1652, welche derselbe laut beygerukter formula jurandi untern 14ten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br> Der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Nachbauer</a></strong> hat seinen fundum fala mitls der Specification wel No
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>1652, welche derselbe laut beygerukter formula jurandi untern 14ten
                                     
                                     
                                     9br:
                                     
-                                    748 beeydiget, folgender maßen ausgewisen, nemlich das er eigenthumlich
-                                    besize 3000 fl
-                                    zu Completirung des übrigen hat der <strong>Johann Dietschi</strong> das 
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>748 beeydiget, folgender maßen ausgewisen, nemlich das er eigenthumlich
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>besize 3000 fl
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>zu Completirung des übrigen hat der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Johann Dietschi</a></strong> das 
                                     
                                     orig:
                                     
-                                    Caut: Instrument ddto 8ten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Caut: Instrument ddto 8ten
                                     
                                     
                                     9br:
@@ -1299,17 +1186,17 @@
                                     
                                     pr
                                      5000 fl
-                                    
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
                                     
                                     
                                     Sa
                                      8000 fl
-                                    Über die von dem <strong>Nachbaur</strong> eingelegt und laut Decreti No 1652 1/2 unter 31ten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Über die von dem <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Nachbaur</a></strong> eingelegt und laut Decreti No 1652 1/2 unter 31ten
                                     
                                     
                                     Mart:
                                     
-                                    758 beeydigte 
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>758 beeydigte 
                                     
                                     Orig:
                                      Billanz No 
@@ -1323,7 +1210,7 @@
                                     pr
                                     
                                      fl
-                                    Ist zufolge der von in Commercien Sachen delegirten 
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Ist zufolge der von in Commercien Sachen delegirten 
                                     Hofcommission
                                     Hofcoon
                                      unter 23ten
@@ -1331,17 +1218,17 @@
                                     
                                     Febr:
                                      758
-                                    erlassenen Erkantnus No 1652 1/3 under hierüber an mich <strong>Johann Joseph Pelser</strong> er-
-                                    lassene Verwilligung ddto 20ten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>erlassenen Erkantnus No 1652 1/3 under hierüber an mich <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Johann Joseph Pelser</a></strong> er-
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>lassene Verwilligung ddto 20ten
                                     
                                     
                                     Janu:
                                      759 No 1653 laut das Dietschische Cautions Instrument
-                                    laut Quittung ddto 6ten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>laut Quittung ddto 6ten
                                     
                                     
                                     Febr:
-                                     759 No 1653 1/2 dem <strong>Johann Dietschi</strong> Extradiret worden.</div>
+                                     759 No 1653 1/2 dem <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Johann Dietschi</a></strong> Extradiret worden.</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -1360,12 +1247,10 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e2324">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                 <div class="body" id="d20e2324">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -1384,39 +1269,34 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e2335">
-                                    655
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <strong>Nigg Ignaz</strong> burgerlicher Handlsmann
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                    Der <strong>Nigg</strong> hat seinen Handlungs fundum mitls der Specification No 1654
-                                    volgender maßen ausgewisen, nemlich daß er eigenthumlich besize
-                                    an erspahrten salario vermög attestati des<strong> Johann Dietschi</strong> ddto 17ten
-                                    
+                                 <div class="body" id="d20e2335">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>655
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Nigg Ignaz</a></strong> burgerlicher Handlsmann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Nigg</a></strong> hat seinen Handlungs fundum mitls der Specification No 1654
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>volgender maßen ausgewisen, nemlich daß er eigenthumlich besize
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>an erspahrten salario vermög attestati des<strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target=""> Johann Dietschi</a></strong> ddto 17ten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
                                     
                                     
                                     7br:
                                      752 No 1655 2000 fl
-                                    dann an Überkommenen Nuzungs Antheil von Johann
-                                    
-                                    <strong>Dominico Bormastini</strong> laut dessen attestati ddto 15ten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>dann an Überkommenen Nuzungs Antheil von Johann
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
+                                    <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Dominico Bormastini</a></strong> laut dessen attestati ddto 15ten
                                     
                                     
                                     7br:
                                     
-                                    752 No 1656 5000 fl
-                                    zusamen Eigenthum 7000 fl
-                                    zu Completirung des ubrigen hat der <strong>Johann Dietscho</strong> das
-                                    
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>752 No 1656 5000 fl
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>zusamen Eigenthum 7000 fl
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>zu Completirung des ubrigen hat der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="">Johann Dietscho</a></strong> das
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
                                     
                                     
                                     orig:
@@ -1428,7 +1308,7 @@
                                     
                                     pr
                                      1000 fl
-                                    
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>
                                     
                                     
                                     Sa
@@ -1451,12 +1331,10 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e2472">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                 <div class="body" id="d20e2472">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -1475,19 +1353,13 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e2484">
-                                    656
-                                    
-                                    <div class="kategorie">Nahmen und Class</div>
-                                    
-                                    <div class="kategorie">Firma ad Raggion</div>
-                                    
-                                    <div class="kategorie">Procura und Firmae Trager</div>
-                                    
-                                    <div class="kategorie">Oblatorien und Avocatorien</div>
-                                    
-                                    <div class="kategorie">Fundi Ausweisung</div>
-                                 </div>
+                                 <div class="body" id="d20e2484">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>656
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Nahmen und Class
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Firma ad Raggion
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Procura und Firmae Trager
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Oblatorien und Avocatorien
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Fundi Ausweisung</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -1506,12 +1378,10 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="card">
-                                 <div class="body" id="d15e2502">
-                                    
-                                    <div class="kategorie">Societaets Contract und Interessenten</div>
-                                    
-                                    <div class="kategorie">Heuraths Contract</div>
-                                    Anmerckungen</div>
+                                 <div class="body" id="d20e2502">
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Societaets Contract und Interessenten
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Heuraths Contract
+                                    <br xmlns:tei="http://www.tei-c.org/ns/1.0"></br>Anmerckungen</div>
                               </div>
                            </div>
                            <div class="col-md-6" align="center">
@@ -1525,11 +1395,15 @@
                      </div>
                   </div>
                </div>
+               <div class="card-footer">
+                  <p style="text-align:center;"></p>
+               </div>
             </div>
          </div>
          <div class="wrapper fundament-default-footer" id="wrapper-footer-full" style="margin-top: 4em;">
             <div class="container" id="footer-full-content" tabindex="-1">
-               <div class="footer-separator"><i data-feather="message-circle"></i> CONTACT
+               <div class="footer-separator">
+                  CONTACT
                   </div>
                <div class="row">
                   <div class="footer-widget col-lg-1 col-md-2 col-sm-2 col-xs-6  ml-auto  text-center ">
@@ -1538,16 +1412,16 @@
                   <div class="footer-widget col-lg-4 col-md-3 col-sm-3">
                      <div class="textwidget custom-html-widget">
                         <p>
-                           ACDH-CH ÖAW
+                           ACDH-CH OEAW
                            <br />
                            Austrian Centre for Digital Humanities and Cultural Heritage
                            <br />
-                           Österreichische Akademie der Wissenschaften
+                           Austrian Academy of Sciences
                            </p>
                         <p>
                            Sonnenfelsgasse 19
                            <br />
-                           1010 Wien
+                           1010 Vienna
                            </p>
                         <p>
                            T: +43 1 51581-2200
@@ -1556,29 +1430,48 @@
                      </div>
                   </div>
                   <div class="footer-widget col-lg-4 col-md-3 col-sm-4">
+                     <h6 class="font-weight-bold">PROJECT PARTNERS</h6>
                      <div class="container">
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-sm-12">
-                              <div class="flex-md-row mb-4 align-items-center"><a href="https://www.fwf.ac.at/en/"><img class="card-img-right flex-auto d-md-block" src="https://www.fwf.ac.at/fileadmin/files/Images/News_Presse/Presse/Logo/fwf-logo_var2.jpg" alt="FWF Der Wissenschaftsfond Logo" style="max-width: 140px; height: auto; margin-top:1em;" title="FWF Der Wissenschaftsfond" /></a></div>
+                              <div class="flex-md-row mb-4 align-items-center"><a href="https://acdh.oeaw.ac.at"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a><div class="card-body d-flex flex-column align-items-start">
+                                    <p class="card-text mb-auto">Austrian Center for Digital Humanities and Cultural Heritage</p>
+                                 </div>
+                              </div>
                            </div>
                            <div class="col-lg-6 col-md-6 col-sm-12">
-                              <div class="flex-md-row mb-4 align-items-center"><a href="https://www.univie.ac.at/en/"><img class="card-img-right flex-auto d-md-block" src="https://communications.univie.ac.at/fileadmin/user_upload/d_oeffentlichkeitsarbeit/Logos/2016-02/Uni_Logo_2016.jpg" alt="Universität Wien Logo" style="max-width: 160px; height: auto; vertical-align: middle;" title="Universität Wien" /></a></div>
+                              <div class="flex-md-row mb-4 align-items-center"><a href="https://acdh.oeaw.ac.at"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a><div class="card-body d-flex flex-column align-items-start">
+                                    <p class="card-text mb-auto">Austrian Center for Digital Humanities and Cultural Heritage</p>
+                                 </div>
+                              </div>
                            </div>
                         </div>
                      </div>
                   </div>
                   <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto">
-                     <div class="textwidget custom-html-widget">
-                        <h6 class="font-weight-bold">HELPDESK</h6>
-                        <p>ACDH-CH runs a helpdesk offering advice for questions related to various digital humanities
-                           topics.</p>
-                        <p><a class="helpdesk-button" href="mailto:acdh-helpdesk@oeaw.ac.at">ASK US!</a></p>
+                     <div class="row">
+                        <div class="textwidget custom-html-widget">
+                           <h6 class="font-weight-bold">HELPDESK</h6>
+                           <p>ACDH-CH runs a helpdesk offering advice for questions related to various digital humanities
+                              topics.</p>
+                           <p><a class="helpdesk-button" href="mailto:acdh-helpdesk@oeaw.ac.at">ASK US!</a></p>
+                        </div>
+                     </div>
+                     <div class="row">
+                        <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto" style="margin-left:0 !important;">
+                           <div class="textwidget custom-html-widget">
+                              <p style="margin-bottom:0 !important;">Social: </p>
+                           </div>
+                           <div class="row">
+                              <div class="textwidget custom-html-widget col-md-4"><a id="github-logo" title="GitHub" href="https://github.com/acdh-oeaw/wkfm-data" class="nav-link" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+                                       <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-4.466 19.59c-.405.078-.534-.171-.534-.384v-2.195c0-.747-.262-1.233-.55-1.481 1.782-.198 3.654-.875 3.654-3.947 0-.874-.312-1.588-.823-2.147.082-.202.356-1.016-.079-2.117 0 0-.671-.215-2.198.82-.64-.18-1.324-.267-2.004-.271-.68.003-1.364.091-2.003.269-1.528-1.035-2.2-.82-2.2-.82-.434 1.102-.16 1.915-.077 2.118-.512.56-.824 1.273-.824 2.147 0 3.064 1.867 3.751 3.645 3.954-.229.2-.436.552-.508 1.07-.457.204-1.614.557-2.328-.666 0 0-.423-.768-1.227-.825 0 0-.78-.01-.055.487 0 0 .525.246.889 1.17 0 0 .463 1.428 2.688.944v1.489c0 .211-.129.459-.528.385-3.18-1.057-5.472-4.056-5.472-7.59 0-4.419 3.582-8 8-8s8 3.581 8 8c0 3.533-2.289 6.531-5.466 7.59z"></path></svg></a></div>
+                           </div>
+                        </div>
                      </div>
                   </div>
                </div>
             </div>
          </div>
-         <div class="footer-imprint-bar" id="wrapper-footer-secondary" style="text-align:center; padding:0.4rem 0; font-size: 0.9rem;">
-            © Copyright OEAW | <a href="https://www.oeaw.ac.at/die-oeaw/impressum/">Impressum/Imprint</a></div><script type="text/javascript" src="dist/fundament/vendor/jquery/jquery.min.js"></script><script type="text/javascript" src="dist/fundament/js/fundament.min.js"></script><script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.js"></script><script type="text/javascript" src="js/dt.js"></script></div>
+         <div class="footer-imprint-bar" id="wrapper-footer-secondary" style="text-align:center; padding:0.4rem 0; font-size: 0.9rem;"><a href="imprint.html">Impressum/Imprint</a></div><script type="text/javascript" src="dist/fundament/vendor/jquery/jquery.min.js"></script><script type="text/javascript" src="dist/fundament/js/fundament.min.js"></script><script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.js"></script><script type="text/javascript" src="js/dt.js"></script></div>
    </body>
 </html>

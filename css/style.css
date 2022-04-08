@@ -1,26 +1,119 @@
-.kategorie {
-    text-align: center;
-    border-bottom: 1px solid #ccc;
-    padding-top: 1em;
-}
-.whitespace {
-    padding-left: 7em;
-    padding-right: 7em;
+/* Datatables, provided by https://github.com/babslgam*/
+
+div.dataTables_filter {
+  text-align:left !important;
 }
 
--------------------------------------------------- */
-html {
-  position: relative;
-  min-height: 100%;
+.btn-link {
+  font-size:20px;
 }
-body {
-  margin-bottom: 60px; /* Margin bottom by footer height */
+
+.exportbuttons {
+  text-align: right;
 }
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 60px; /* Set the fixed height of the footer here */
-  line-height: 60px; /* Vertically center the text there */
-  background-color: #f5f5f5;
+
+.navbar {
+    border-bottom: 5px solid #88dbdf !important;
+}
+
+.dataTables_info {
+  text-align: center;
+}
+
+.filters input {
+  width:100%;
+  padding: 3px;
+  box-sizing: border-box;
+}
+
+.dataTables_wrapper table {
+  width:100%;
+}
+
+/**** Font Aweseome ***/
+.far {
+    font-family: "Font Awesome 5 Free" !important;
+}
+
+.img-fluid {
+    max-width: 160% !important;
+    max-height: 160% !important;
+}
+
+.card {
+    margin-top: 1em;
+}
+
+.index-card {
+    border-top: 5px solid #88dbdf; 
+    transition: transform .2s;
+}
+
+.index-card:hover {
+    transform: scale(1.05);
+}
+
+.index-link:hover {
+    text-decoration: none !important;
+}
+
+.btn-round {
+    border: 1px solid white;
+}
+
+.btn-round:hover {
+    background-color: #fff !important;
+}
+
+.btn-round a {
+    color: white;
+}
+
+p {
+    display: block;
+}
+
+.carousel-indicators {
+    cursor: pointer;
+}
+
+.container-fluid {
+    max-width: 1024px;
+}
+
+span.ssQueryAndButton {
+    margin: 2em auto 0.25em auto !important;
+    max-width: 50% !important;
+    width: 50% !important;
+}
+
+input#ssQuery {
+    font-size: .9rem !important;
+    border-radius: 30px !important;
+    padding: .3rem 1.75rem .3rem .75rem !important;
+    border: 1px solid rgba(0,0,0,.075) !important;
+    background-color: #fff !important;
+    color: rgba(0,0,0,.9) !important;
+}
+
+button#ssDoSearch {
+    border: 0 !important;
+    padding: 0 !important;
+    background: 0 0 !important;
+    cursor: pointer !important;
+    color: rgba(0,0,0,.6) !important;
+    margin-left: -4.1em !important;
+    margin-top: .1em !important;
+}
+
+#github-logo {
+    width: 10%;
+    height: auto;
+    padding: 10px 0 10px 0;
+    transition: transform .2s;
+    margin-left: 1em;
+}
+
+#github-logo:hover {
+    transform: scale(1.05);
 }

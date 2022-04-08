@@ -96,6 +96,7 @@
   //English
   ss.captions = new Map();
   ss.captions.set('en', {});
+  ss.captions.get('en').strLoading           = 'Loading...';
   ss.captions.get('en').strSearching         = 'Searching...';
   ss.captions.get('en').strDocumentsFound    = 'Documents found: ';
   ss.captions.get('en')[PHRASE]              = 'Exact phrase: ';
@@ -108,9 +109,11 @@
   ss.captions.get('en').strDiscardedTerms    = 'Not searched (too common or too short): ';
   ss.captions.get('en').strShowMore          = 'Show more';
   ss.captions.get('en').strShowAll           = 'Show all';
-  ss.captions.get('en').strTooManyResults    = 'Your search returned too many results. Include more filters or more search terms.'
-  //French
+  ss.captions.get('en').strTooManyResults    = 'Your search returned too many results. Include more filters or more search terms.';
+  
+  //French: thank you Claire Carlin.
   ss.captions.set('fr', {});
+  ss.captions.get('fr').strLoading           = 'Chargement en cours...';
   ss.captions.get('fr').strSearching         = 'Recherche en cours...';
   ss.captions.get('fr').strDocumentsFound    = 'Documents localisés: ';
   ss.captions.get('fr')[PHRASE]              = 'Phrase exacte: ';
@@ -124,6 +127,23 @@
   ss.captions.get('fr').strShowMore          = 'Montrez plus';
   ss.captions.get('fr').strShowAll           = 'Montrez tout';
   ss.captions.get('fr').strTooManyResults    = 'Votre recherche a obtenu trop de résultats. Il faut inclure plus de filtres ou plus de termes de recherche.';
+  
+  //German: thank you @babslgam and @martinantonmueller
+  ss.captions.set('de', {});
+  ss.captions.get('de').strLoading           = 'lädt…';
+  ss.captions.get('de').strSearching         = 'sucht…';
+  ss.captions.get('de').strDocumentsFound    = 'Treffer: ';
+  ss.captions.get('de')[PHRASE]              = 'Exakte Formulierung: ';
+  ss.captions.get('de')[MUST_CONTAIN]        = 'Muss enthalten: ';
+  ss.captions.get('de')[MUST_NOT_CONTAIN]    = 'Darf nicht enthalten: ';
+  ss.captions.get('de')[MAY_CONTAIN]         = 'Kann enthalten: ';
+  ss.captions.get('de')[WILDCARD]            = 'Platzhalter: ';
+  ss.captions.get('de').strScore             = 'Rating: ';
+  ss.captions.get('de').strSearchTooBroad    = 'Die Suche ergibt zu viele Treffer. Bitte die Zeichenzahl im Wort erhöhen.';
+  ss.captions.get('de').strDiscardedTerms    = 'Nicht gesucht (zu kurz oder zu allgemein): ';
+  ss.captions.get('de').strShowMore          = 'Mehr';
+  ss.captions.get('de').strShowAll           = 'Zeige alles';
+  ss.captions.get('de').strTooManyResults    = 'Die Suche ergibt zu viele Treffer. Durch Filterung oder Suchbegriffe einschränken.';
 
 /**
   * @property ss.stopwords
@@ -135,6 +155,32 @@
   */
   ss.stopwords = new Array('i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', 'your', 'yours', 'yourself', 'yourselves', 'he', 'him', 'his', 'himself', 'she', 'her', 'hers', 'herself', 'it', 'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves', 'what', 'which', 'who', 'whom', 'this', 'that', 'these', 'those', 'am', 'is', 'are', 'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'having', 'do', 'does', 'did', 'doing', 'a', 'an', 'the', 'and', 'but', 'if', 'or', 'because', 'as', 'until', 'while', 'of', 'at', 'by', 'for', 'with', 'about', 'against', 'between', 'into', 'through', 'during', 'before', 'after', 'above', 'below', 'to', 'from', 'up', 'down', 'in', 'out', 'on', 'off', 'over', 'under', 'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own', 'same', 'so', 'than', 'too', 'very', 's', 't', 'can', 'will', 'just', 'don', 'should', 'now');
   
+  
+/**
+  * @function ss.debounce
+  * @description This is a generic debounce function borrowed from here:
+  *           https://levelup.gitconnected.com/debounce-in-javascript-improve-your-applications-performance-5b01855e086
+  *           which borrowed it from here:
+  *           https://davidwalsh.name/javascript-debounce-function
+  *           Returns a function, that, as long as it continues to be invoked, will not
+  *           be triggered. The function will be called after it stops being called for
+  *           `wait` milliseconds.
+  * @param {!function} func The function to be called after debouncing.
+  * @param {!Number} wait The number of milliseconds to wait before running the function.
+  */
+  ss.debounce = (func, wait) => {
+    let timeout;
+
+    return function executedFunction(...args) {
+      const later = () => {
+        clearTimeout(timeout);
+        func(...args);
+      };
+
+      clearTimeout(timeout);
+      timeout = setTimeout(later, wait);
+    };
+  };
 /*             StaticSearch.js             */
 /* Authors: Martin Holmes and Joey Takeda. */
 /*        University of Victoria.          */
@@ -185,6 +231,27 @@ class StaticSearch{
   */
   constructor(){
     try {
+    
+      //Captions are done first, since we need one for the splash screen.
+      this.captions = ss.captions; //Default; override this if you wish by setting the property after instantiation.
+      this.captionLang  = document.getElementsByTagName('html')[0].getAttribute('lang') || 'en'; //Document language.
+      if (this.captions.has(this.captionLang)){
+        this.captionSet   = this.captions.get(this.captionLang); //Pointer to the caption object we're going to use.
+      }
+      else{
+        this.captionSet   = this.captions.get('en');
+      }
+      
+      this.splashMessage = document.getElementById('ssSplashMessage');
+      if (this.splashMessage !== null){
+        //Set the caption in the splash screen.
+        this.splashMessage.innerText = this.captionSet.strLoading;
+        
+        //Now we "show" the splash screen.
+        document.body.classList.add('ssLoading');
+      }
+
+      
       this.ssForm = document.querySelector('#ssForm');
       if (!this.ssForm){
         throw new Error('Failed to find search form. Search functionality will probably break.');
@@ -249,7 +316,17 @@ class StaticSearch{
        throw new Error('Failed to find div with id "ssResults". Cannot provide search functionality.');
       }
 
+      // Search in fieldset name for the URL
+      this.searchInFieldset = document.querySelector('.ssSearchInFilters > fieldset');
+      if (this.searchInFieldset){
+        this.searchInFieldsetName = this.searchInFieldset.title;
+      }
+
       //Optional search filters:
+      //Search in filters
+      this.searchInFilterCheckboxes =
+           Array.from(document.querySelectorAll("input[type='checkbox'].staticSearch_searchIn"));
+
       //Description label filters
       this.descFilterCheckboxes =
            Array.from(document.querySelectorAll("input[type='checkbox'].staticSearch_desc"));
@@ -262,6 +339,20 @@ class StaticSearch{
       //Boolean filters
       this.boolFilterSelects =
            Array.from(document.querySelectorAll("select.staticSearch_bool"));
+
+
+      //Feature filters will eventually have checkboxes, but they don't yet.
+      this.featFilterCheckboxes = [];
+      //However they do have inputs.
+      this.featFilterInputs = 
+            Array.from(document.querySelectorAll("input[type='text'].staticSearch_feat"));
+      //And we set them all to disabled initially
+      for (let ffi of this.featFilterInputs){
+        ffi.disabled = true;
+      }
+      //We need an array in which to store any possible feature filters that 
+      //need to be created based on settings in the URL query string.
+      this.mapFeatFilters = new Map();
 
       //Now we have some properties that will may be used later if required.
       this.paginationBtnDiv = null;
@@ -294,6 +385,9 @@ class StaticSearch{
       //test of the currently-configured set of filters. This is recreated
       //for every search.
       this.docsMatchingFilters = new XSet();
+
+      //An XSet object that will contain a list of active contexts
+      this.activeContexts = new XSet();
 
       //Any / all selector for combining filters. TODO. MAY NOT BE USED.
       this.matchAllFilters = false;
@@ -382,16 +476,6 @@ class StaticSearch{
          
       };
 
-      //Captions
-      this.captions = ss.captions; //Default; override this if you wish by setting the property after instantiation.
-      this.captionLang  = document.getElementsByTagName('html')[0].getAttribute('lang') || 'en'; //Document language.
-      if (this.captions.has(this.captionLang)){
-        this.captionSet   = this.captions.get(this.captionLang); //Pointer to the caption object we're going to use.
-      }
-      else{
-        this.captionSet   = this.captions.get('en');
-      }
-      
       //Default set of stopwords
       /** @type {!Array} this.stopwords */
       this.stopwords = ss.stopwords; //temporary default.
@@ -401,13 +485,17 @@ class StaticSearch{
       this.jsonToRetrieve.push({id: 'ssStopwords', path: this.jsonDirectory + 'ssStopwords' + this.versionString + '.json'});
       this.jsonToRetrieve.push({id: 'ssTitles', path: this.jsonDirectory + 'ssTitles' + this.versionString + '.json'});
       this.jsonToRetrieve.push({id: 'ssWordString', path: this.jsonDirectory + 'ssWordString' + this.versionString + '.txt'});
-      //this.jsonToRetrieve.push({id: 'ssStems', path: this.jsonDirectory + 'ssStems' + this.versionString + '.json'});
       for (var f of document.querySelectorAll('fieldset.ssFieldset[id], fieldset.ssFieldset select[id]')){
         this.jsonToRetrieve.push({id: f.id, path: this.jsonDirectory + 'filters/' + f.id + this.versionString + '.json'});
       }
       //Flag to be set when all JSON is retrieved, to save laborious checking on
       //every search.
       this.allJsonRetrieved = false;
+
+      // Flag for telling whether we are currently doing a search;
+      // which starts off false, but may be set to true later on
+      this.isSearching = false;
+
 
       //Boolean: should this instance report the details of its search
       //in human-readable form?
@@ -496,6 +584,9 @@ class StaticSearch{
     if (path.match(/\/filters\//)){
       this.mapFilterData.set(json.filterName, json);
       this.mapJsonRetrieved.set(json.filterId, GOT);
+      if (path.match(/ssFeat/)){
+        this.setupFeatFilter(json.filterId, json.filterName);
+      }
       return;
     }
   }
@@ -531,6 +622,37 @@ class StaticSearch{
     }
     else{
       this.allJsonRetrieved = true;
+      document.body.classList.remove('ssLoading');
+    }
+  }
+
+/** @function StaticSearch~setupFeatFilter
+  * @description this function runs when the json for a specific
+  *              feature filter is retrieved; it enables the 
+  *              control and assigns functionality events to it.
+  * @param {!string} filterId the id of the filter to set up.
+  * @param {!string} filterName the string name of the filter.
+  * @return {boolean} true if a filter is found and set up, else false.
+  */
+  setupFeatFilter(filterId, filterName){
+    let featFilter = document.getElementById(filterId);
+    if (featFilter !== null){
+      try{
+        //Now we set up the control as a typeahead.
+        let filterData = this.mapFilterData.get(filterName);
+        this.mapFeatFilters.set(filterName, new SSTypeAhead(featFilter, filterData, filterName, this.minWordLength));
+        //Re-enable it.
+        let inp = featFilter.querySelector('input');
+        inp.disabled = false;
+      }
+      catch(e){
+        console.log('ERROR: failed to set up feature filter ' + filterId + ': ' + e);
+        return false;
+      }
+    }
+    else{
+      console.log('ERROR: failed to find feature filter ' + filterId);
+      return false;
     }
   }
 
@@ -545,26 +667,64 @@ class StaticSearch{
   *                  the browser history)
   * @return {boolean} true if a search is initiated otherwise false.
   */
-  parseUrlQueryString(popping = false){
+  async parseUrlQueryString(popping = false){
     let searchParams = new URLSearchParams(decodeURI(document.location.search));
     //Do we need to do a search?
     let searchToDo = false; //default
+
+    //Keep an array of all the elements we configure so we can traverse
+    //the hierarchy and open any closed details elements above them.
+    let changedControls = [];
 
     if (searchParams.has('q')){
       let currQ = searchParams.get('q').trim();
       if (currQ !== ''){
         this.queryBox.value = searchParams.get('q');
         searchToDo = true;
+        changedControls.push(this.queryBox);
       }
     }
+
+    for (let cbx of this.searchInFilterCheckboxes){
+      if ((searchParams.has(this.searchInFieldsetName)) && (searchParams.getAll(this.searchInFieldsetName).indexOf(cbx.value) > -1)){
+          cbx.checked = true;
+          searchToDo = true;
+          changedControls.push(cbx);
+      } else {
+        cbx.checked = false;
+      }
+    }
+
     for (let cbx of this.descFilterCheckboxes){
       let key = cbx.getAttribute('title');
       if ((searchParams.has(key)) && (searchParams.getAll(key).indexOf(cbx.value) > -1)){
           cbx.checked = true;
           searchToDo = true;
+          changedControls.push(cbx);
       }
       else{
         cbx.checked = false;
+      }
+    }
+    //Have to do something similar but way more clever for the ssFeat filters.
+    //For each feature filter
+    for (let inp of this.featFilterInputs){
+    //check whether it's mentioned in the search params
+      let key = inp.getAttribute('title');
+      let filterId = inp.parentNode.id;
+      if (searchParams.has(key)){
+        searchToDo = true;
+        changedControls.push(inp);
+    //if so, check whether its typeahead control has been set up yet.
+        if (!this.mapFeatFilters.has(key)){
+    //If not, await its JSON retrieval, and set it up.
+          let fch = await fetch(this.jsonDirectory + 'filters/' + filterId + this.versionString + '.json');
+          let json = await fch.json();
+          this.mapFilterData.set(json.filterName, json);
+          this.setupFeatFilter(json.filterId, json.filterName);
+        }
+    //Then set its checkboxes appropriately.
+        this.mapFeatFilters.get(key).setCheckboxes(searchParams.getAll(key));
       }
     }
     for (let txt of this.dateFilterTextboxes){
@@ -572,6 +732,7 @@ class StaticSearch{
       if ((searchParams.has(key)) && (searchParams.get(key).length > 3)){
         txt.value = searchParams.get(key);
         searchToDo = true;
+        changedControls.push(txt);
       }
       else{
         txt.value = '';
@@ -579,9 +740,10 @@ class StaticSearch{
     }
     for (let num of this.numFilterInputs){
       let key = num.getAttribute('title') + num.id.replace(/^.+((_from)|(_to))$/, '$1');
-      if ((searchParams.has(key)) && (searchParams.get(key).length > 3)){
+      if ((searchParams.has(key)) && (searchParams.get(key).length > 0)){
         num.value = searchParams.get(key);
         searchToDo = true;
+        changedControls.push(num);
       }
       else{
         num.value = '';
@@ -594,10 +756,12 @@ class StaticSearch{
         case 'true':
           sel.selectedIndex = 1;
           searchToDo = true;
+          changedControls.push(sel);
           break;
         case 'false':
           sel.selectedIndex = 2;
           searchToDo = true;
+          changedControls.push(sel);
           break;
         default:
           sel.selectedIndex = 0;
@@ -605,12 +769,36 @@ class StaticSearch{
     }
 
     if (searchToDo === true){
+      //Open any ancestor details elements.
+      this.openAncestorElements(changedControls);
+
       this.doSearch(popping);
       return true;
     }
     else{
       return false;
     }
+  }
+
+/** @function StaticSearch~openAncestorElements
+ * @param {Array} startingElements The array of elements from which
+ *                to search up the tree for ancestors which need to
+ *                be opened. For each element, any ancestor details
+ *                element is opened so that the starting control
+ *                is not hidden.
+ * @return {boolean} true if any change is made, otherwise false.
+ */
+  openAncestorElements(startingElements){
+    let retVal = false;
+    startingElements.forEach(function(ctrl){
+      let d = ctrl.closest('details:not([open])');
+      while (d !== null){
+        d.open = true;
+        retVal = true;
+        d = d.closest('details:not([open])');
+      }
+    });
+    return retVal;
   }
 
 /** @function StaticSearch~doSearch
@@ -626,8 +814,8 @@ class StaticSearch{
   * 
   */
   doSearch(popping = false){
-    //We start by intercepting any situation in which we may need the
-    //ssWordString resource, but we don't yet have it.
+  //We start by intercepting any situation in which we may need the
+  //ssWordString resource, but we don't yet have it.
     if (this.allowWildcards){
       if (/[\[\]?*]/.test(this.queryBox.value)){
         var self = this;
@@ -648,9 +836,10 @@ class StaticSearch{
         }
       }
     }
-    setTimeout(function(){
-                this.searchingDiv.style.display = 'block';
-                document.body.style.cursor = 'progress';}.bind(this), 0);
+    // Now initialize that we're searching
+    this.isSearching = true;
+     //And now setup the timeout
+    this.setupSearchingDiv();
     this.docsMatchingFilters.filtersActive = false; //initialize.
     let result = false; //default.
     this.discardedTerms = []; //Clear discarded terms.
@@ -663,19 +852,48 @@ class StaticSearch{
         result = true;
       }
       else{
-        this.searchingDiv.style.display = 'none';
-        document.body.style.cursor = 'default';
+        this.isSearching = false;
       }
     }
     else{
-      this.searchingDiv.style.display = 'none';
-      document.body.style.cursor = 'default';
+      this.isSearching = false;
     }
     window.scroll({ top: this.resultsDiv.offsetTop, behavior: "smooth" });
     return result;
   }
 
-/** @function StaticSearch~setQueryString
+  /** @function StaticSearch~setupSearchingDiv
+   * @description this function sets up the "Searching..." popup message,
+   * by adding a class to the document body that makes the ssSearching div
+   * appear; it then sets polls to see whether StaticSearch.isSearching has been
+   * set back to false and, if so, removes the class
+   *
+   */
+  setupSearchingDiv() {
+    let self = this;
+    // Just check before initiating that it
+    // hasn't already been initiated
+    if (!document.body.classList.contains('ssSearching')){
+      // Add the searching class to the body;
+      document.body.classList.add('ssSearching');
+      // And now create the timeout function that calls itself
+      // to see whether a searching is still ongoing
+      const timeout = function(){
+        if (!self.isSearching){
+          document.body.classList.remove('ssSearching');
+          return;
+        }
+        window.setTimeout(timeout, 100);
+      }
+      timeout();
+    }
+  }
+
+
+
+
+
+  /** @function StaticSearch~setQueryString
   * @description this function is run once a search is initiated,
   * and it takes the search parameters and creates a browser URL
   * search string, then pushes this into the History object so that
@@ -692,7 +910,24 @@ class StaticSearch{
         if (q.length > 0){
           search.push('q=' + q);
         }
+
+        //Search in filter handling
+        for (let cbx of this.searchInFilterCheckboxes){
+          if (cbx.checked){
+            search.push(this.searchInFieldsetName + "=" + cbx.value);
+          }
+        }
+
         for (let cbx of this.descFilterCheckboxes){
+          if (cbx.checked){
+            search.push(cbx.title + '=' + cbx.value);
+          }
+        }
+        //Feature filter checkboxes need to be discovered first, since 
+        //they're mutable.
+        this.featFilterCheckboxes = 
+          Array.from(document.querySelectorAll("input[type='checkbox'].staticSearch_feat"));
+        for (let cbx of this.featFilterCheckboxes){
           if (cbx.checked){
             search.push(cbx.title + '=' + cbx.value);
           }
@@ -942,9 +1177,21 @@ class StaticSearch{
   clearSearchForm(){
     try{
       this.queryBox.value = '';
+
+      for (let cbx of this.searchInFilterCheckboxes){
+        cbx.checked = false;
+      }
+
       for (let cbx of this.descFilterCheckboxes){
         cbx.checked = false;
       }
+      //Feature filter checkboxes need to be discovered first, since 
+      //they're mutable.
+      this.featFilterCheckboxes = 
+        Array.from(document.querySelectorAll("input[type='checkbox'].staticSearch_feat"));
+      for (let cbx of this.featFilterCheckboxes){
+        cbx.checked = false;
+      }  
       for (let txt of this.dateFilterTextboxes){
         txt.value = '';
       }
@@ -973,6 +1220,7 @@ class StaticSearch{
   processFilters(){
     try{
       this.docsMatchingFilters = this.getDocIdsForFilters();
+      this.activeContexts = new XSet(this.searchInFilterCheckboxes.filter(cbx => cbx.checked).map(c => c.id));
       return true;
     }
     catch(e){
@@ -998,15 +1246,15 @@ class StaticSearch{
       var xSets = [];
       var currXSet;
 
-      //Find each desc fieldset and get its descriptor.
-      let descs = document.querySelectorAll('fieldset[id ^= "ssDesc"]');
-      for (let desc of descs){
+      //Find each desc or feat fieldset and get its descriptor.
+      let filters = document.querySelectorAll('fieldset[id ^= "ssDesc"], fieldset[id ^="ssFeat"]');
+      for (let filter of filters){
         currXSet = new XSet();
-        let descName = desc.getAttribute('title');
-        let cbxs = desc.querySelectorAll('input[type="checkbox"]:checked');
-        if ((cbxs.length > 0) && (this.mapFilterData.has(descName))){
+        let filterName = filter.getAttribute('title');
+        let cbxs = filter.querySelectorAll('input[type="checkbox"]:checked');
+        if ((cbxs.length > 0) && (this.mapFilterData.has(filterName))){
           for (let cbx of cbxs){
-            currXSet.addArray(this.mapFilterData.get(descName)[cbx.id].docs);
+            currXSet.addArray(this.mapFilterData.get(filterName)[cbx.id].docs);
           }
           xSets.push(currXSet);
         }
@@ -1066,7 +1314,7 @@ class StaticSearch{
         }
       }
 
-      //Find each date pair and get its descriptor.
+      //Find each number pair and get its descriptor.
       let nums = document.querySelectorAll('fieldset[id ^= "ssNum"]');
       for (let num of nums){
         let numName = num.title;
@@ -1121,6 +1369,7 @@ class StaticSearch{
   * @description This outputs a human-readable explanation of the search
   *              that's being done, to clarify for users what they've chosen 
   *              to look for. Note that the output div is hidden by default. 
+  *              NOTE: This does not yet include filter information.
   * @return {boolean} true if the process succeeds, otherwise false.
   */
   writeSearchReport(){
@@ -1134,7 +1383,6 @@ class StaticSearch{
           if (!arrOutput[this.terms[i].type]){
             arrOutput[this.terms[i].type] = {type: this.terms[i].type, terms: []};
           }
-          //arrOutput[this.terms[i].type].terms.push('"' + this.terms[i].str + '"');
           arrOutput[this.terms[i].type].terms.push(`"${this.terms[i].str}" (${this.terms[i].stem})`);
         }
         arrOutput.sort(function(a, b){return a.type - b.type;})
@@ -1215,7 +1463,7 @@ class StaticSearch{
       if (this.allJsonRetrieved === false){
         //First get a list of active filters.
 
-        for (let ctrl of document.querySelectorAll('input[type="checkbox"].staticSearch_desc:checked')){
+        for (let ctrl of document.querySelectorAll('input[type="checkbox"].staticSearch_desc:checked, input[type="checkbox"].staticSearch_feat:checked')){
           let filterId = ctrl.id.split('_')[0];
           if (this.mapJsonRetrieved.get(filterId) != GOT){
             filterIds.add(filterId);
@@ -1238,7 +1486,7 @@ class StaticSearch{
           }
         }
         for (let ctrl of document.querySelectorAll('input[type="number"].staticSearch_num')){
-          if (ctrl.value.length > 3){
+          if (ctrl.value.length > 0){
             let filterId = ctrl.id.split('_')[0];
             if (this.mapJsonRetrieved.get(filterId) != GOT){
               filterIds.add(filterId);
@@ -1306,22 +1554,6 @@ class StaticSearch{
               }.bind(self));
           }
         }
-        //OLD approach
-        /*if (this.allowWildcards == true){
-          if (this.mapJsonRetrieved.get('ssStems') != GOT){
-            promises[promises.length] = fetch(self.jsonDirectory + 'ssStems' + this.versionString + '.json', this.fetchHeaders)
-              .then(function(response) {
-                return response.json();
-              })
-              .then(function(json) {
-                self.stems = new Map(Object.entries(json));
-                self.mapJsonRetrieved.set('ssStems', GOT);
-              }.bind(self))
-              .catch(function(e){
-                console.log('Error attempting to retrieve stem list: ' + e);
-              }.bind(self));
-          }
-        }*/
       }
 
       //If we do need to retrieve JSON index data, then do it
@@ -1507,6 +1739,11 @@ class StaticSearch{
   For #3, construct the result set directly from the filter doc list,
      passing only ids and titles, for a simple listing display.
   For #4, do nothing at all (or possibly display an error message).
+
+  For cases #1 and #2 (i.e. where there is a search term), there may be
+  active context filters; those are a bit different, since they do not require
+  any fetching (all of that information is contained within the JSON).
+
   */
 //Since we have to handle discarded search terms in the same
 //manner whatever the scenario, we do them first.
@@ -1529,9 +1766,8 @@ if (this.discardedTerms.length > 0){
         let pFound = document.createElement('p');
         pFound.append(this.captionSet.strDocumentsFound + '0');
         this.resultsDiv.appendChild(pFound);
+        this.isSearching = false;
         this.searchFinishedHook(1);
-        this.searchingDiv.style.display = 'none';
-        document.body.style.cursor = 'default';
         return false;
       }
 //#3
@@ -1560,9 +1796,8 @@ if (this.discardedTerms.length > 0){
             this.paginateResults();
           }
         }
+        this.isSearching = false;
         this.searchFinishedHook(2);
-        this.searchingDiv.style.display = 'none';
-        document.body.style.cursor = 'default';
         return (this.resultSet.getSize() > 0);
       }
 
@@ -1609,7 +1844,8 @@ if (this.discardedTerms.length > 0){
                   if (phraseRegex.test(unmarkedContext)){
   //We have a candidate document for inclusion, and a candidate context.
                     let c = unmarkedContext.replace(phraseRegex, '<mark>' + '$&' + '</mark>');
-                    currContexts.push({form: str, context: c, weight: 2, fid: cntxt.fid ? cntxt.fid : '', prop: cntxt.prop ? cntxt.prop : {}});
+                    currContexts.push(
+                    {form: str, context: c, weight: 2, fid: cntxt.fid ? cntxt.fid : '', prop: cntxt.prop ? cntxt.prop : {}, in: cntxt.in ? cntxt.in : []});
                   }
                 }
   //If we've found contexts, we know we have a document to add to the results.
@@ -1790,9 +2026,8 @@ if (this.discardedTerms.length > 0){
           }
           else{
             console.log('No useful search terms found.');
+            this.isSearching = false;
             this.searchFinishedHook(3);
-            this.searchingDiv.style.display = 'none';
-            document.body.style.cursor = 'default';
             return false;
           }
         }
@@ -1803,6 +2038,14 @@ if (this.discardedTerms.length > 0){
       if (this.docsMatchingFilters.filtersActive == true){
         this.resultSet.filterBySet(this.docsMatchingFilters);
       }
+
+      // Now process the resultSet and filter out any contexts
+      // and docs that by active contexts, if any
+      if (this.activeContexts.size > 0){
+   
+        this.resultSet.filterByContexts(this.activeContexts);
+      }
+
 
       this.resultSet.sortByScoreDesc();
       this.clearResultsDiv();
@@ -1826,16 +2069,14 @@ if (this.discardedTerms.length > 0){
           this.paginateResults();
         }
       }
+      this.isSearching = false;
       this.searchFinishedHook(4);
-      this.searchingDiv.style.display = 'none';
-      document.body.style.cursor = 'default';
       return (this.resultSet.getSize() > 0);
     }
     catch(e){
       console.log('ERROR: ' + e.message);
+      this.isSearching = false;
       this.searchFinishedHook(5);
-      this.searchingDiv.style.display = 'none';
-      document.body.style.cursor = 'default';
       return false;
     }
   }
@@ -1995,7 +2236,7 @@ if (this.discardedTerms.length > 0){
     let strRe  = esc.replace(/[\?]/g, '[^\\|]').replace(/[\*]/g, '[^\\|]$&?');
     //Test the regex, and return it if OK, otherwise return null.
     try{
-      let re = new RegExp('\\|(' + strRe + ')\\|', 'g');
+      let re = new RegExp('\\|(' + strRe + ')\\|', 'gi');
       return re;
     }
     catch(e){
@@ -2217,6 +2458,51 @@ class SSResultSet{
     }
   }
 
+  /**
+   * @function SSResultSet~filterByContexts
+   * @description Deletes any contexts that are not "in" a selected context
+   * and deletes the document from the result set if the document is removed
+   * @param activeContextIds{XSet.<String>} contextIds The context ids to use
+   * @return {boolean} true if any items remain, false if not
+   */
+  filterByContexts(activeContextIds){
+    try{
+      for (let [key, value] of this.mapDocs){
+        let contexts = value.contexts;
+        // Filter the contexts using the intersection of the two sets
+        let filteredContexts = contexts.filter(ctx => {
+          if (!ctx.hasOwnProperty('in')){
+            return false;
+          }
+          let ctxIds = ctx.in;
+          let ctxSet = new XSet(ctxIds);
+          let intersection = ctxSet.xIntersection(activeContextIds);
+          return (intersection.size > 0);
+        });
+        // If there are no contexts left, then
+        // delete the document from the result set
+        if (filteredContexts.length === 0){
+          this.mapDocs.delete(key);
+          continue;
+        }
+        //Otherwise, reassign the map, copying
+        // the values but overwriting the contexts
+        // and the score
+        
+        this.mapDocs.set(key, {
+          ...value,
+          contexts: filteredContexts,
+          score: parseInt(filteredContexts.reduce((total, b) => {
+              return total + parseInt(b.weight);
+           }, 0))
+        });
+      }
+      return (this.mapDocs.size > 0);
+    } catch(e){
+      console.log('ERROR: ' + e.message);
+      return false;
+    }
+  }
 /**
   * @function SSResultSet~filterBySet
   * @description Deletes any entry in the list which doesn't match an item
@@ -2556,6 +2842,284 @@ class SSResultSet{
     }
   }
 }
+
+/*            SSTypeAhead.js               */
+/* Authors: Martin Holmes and Joey Takeda. */
+/*        University of Victoria.          */
+
+/** This file is part of the projectEndings staticSearch
+  * project.
+  *
+  * Free to anyone for any purpose, but
+  * acknowledgement would be appreciated.
+  * The code is licensed under both MPL and BSD.
+  */
+  
+/** @class SSTypeAhead
+  * @description This class turns a text input control
+  *              into a typeahead control that can generate
+  *              label/checkbox groups for search filter 
+  *              items based on a JSON dataset.
+  */
+  class SSTypeAhead{
+/** 
+  * constructor
+  * @description The constructor receives two parameters, the
+  *              containing element (usually a fieldset) and 
+  *              the filter data that includes all the individual
+  *              ids and values it needs to provide typeahead 
+  *              functionality and generate label/checkbox groups
+  *              from user selections.
+  * @param {!Element} rootEl the wrapper element containing the 
+  *              input control, and which will also contain the 
+  *              generated content.
+  * @param {!Object} filterData the set of filter data retrieved 
+  *              as JSON by the StaticSearch instance which is 
+  *              creating this control.
+  * @param {!string} filterName the textual descriptive name of the 
+  *              filter.
+  *              
+  */
+  constructor(rootEl, filterData, filterName, minWordLength){
+    this.rootEl = rootEl;
+    this.filterData = filterData;
+    this.filterName = filterName;
+    this.minWordLength = minWordLength;
+    this.reId = /^ssFeat\d+_\d+$/;
+    //Because so much staticSearch filter handling is based on 
+    //the string values of items rather than ids, we create a map
+    //of values to ids.
+    this.filterMap = new Map();
+    for (let key of Object.keys(this.filterData)){
+      if (this.reId.test(key)){
+        this.filterMap.set(this.filterData[key].name, key);
+      }
+    };
+    
+    this.input = this.rootEl.getElementsByTagName('input')[0];
+    this.input.addEventListener('input', this.suggest.bind(this));
+    this.input.addEventListener('keydown', ss.debounce(function(e){this.keyOnInput(e);}.bind(this)), 500);
+    this.input.setAttribute('autocomplete', 'off');
+    this.rootEl.setAttribute('tabindex', '0');
+    this.rootEl.addEventListener('keydown', function(e){this.escape(e.key);}.bind(this));
+    this.menu = document.createElement('menu');
+    this.rootEl.appendChild(this.menu);
+    this.checkboxes = document.createElement('div');
+    this.checkboxes.classList.add('ssSuggest');
+    this.rootEl.appendChild(this.checkboxes);
+    this.rootEl.addEventListener('click', function(e){this.blurringMenu(e);}.bind(this), true);
+
+    //Flag to track whether we're already working.
+    this.populating = false;
+  }
+  
+  /** @function SSTypeAhead~clearSuggestions
+  * @description This simply empties the drop-down suggestions menu.
+  */
+  clearSuggestions(){
+    this.menu.innerHTML = '';
+  }
+  
+  /** @function SSTypeAhead~escape
+  * @description This is called when a key is pressed, and it simply 
+                 clears the suggestions menu if the key is Escape.
+  * @param {string} key the KeyboardEvent.key DOMString value for the key pressed.
+  */
+  escape(key){
+    if (key === 'Escape'){
+      this.clearSuggestions();
+    }
+  }
+  
+  /** @function SSTypeAhead~blurringMenu
+  * @description This is called when the container root element is clicked.
+  *              Its purpose is to clear the current suggestions menu when 
+  *              the user stops interacting with the control. Along with the
+  *              escape key, this gives the user a way to close the menu.
+  * @param {Event} e the click event.
+  */
+  blurringMenu(e){
+    if (e.target == e.currentTarget){
+      this.clearSuggestions();
+    }
+  }
+  
+  /** @function SSTypeAhead~populate
+  * @description This searches through the list of values for the control
+  *              and creates a suggestion menu item for each one that 
+  *              matches.
+  */
+  populate(){
+    if ((this.populating)||(this.input.value.length < this.minWordLength)){
+      return;
+    }
+    this.populating = true;
+    try{
+      let re = new RegExp(this.input.value, 'i');
+      /*for (let i=2; i<Object.entries(this.filterData).length; i++){
+        let id = Object.entries(this.filterData)[i][0];
+        let name = Object.entries(this.filterData)[i][1].name;
+        if ((name.match(re))&&(this.reId.test(id))){
+          let d = document.createElement('div');
+          d.setAttribute('data-val', name);
+          d.setAttribute('data-id', id);
+          d.classList.add('select');
+          d.appendChild(document.createTextNode(name));
+          d.setAttribute('tabindex', '0');
+          d.addEventListener('click', function(e){this.select(e);}.bind(this));
+          d.addEventListener('keydown', function(e){this.keyOnSelection(e);}.bind(this));
+          this.menu.appendChild(d);
+        }
+      }*/
+      //New approach from JT for more speed.
+      // JT added new map approach
+      this.filterMap.forEach((id, name) => {
+        if (name.match(re) && this.reId.test(id)){
+            let d = document.createElement('div');
+            d.setAttribute('data-val', name);
+            d.setAttribute('data-id', id);
+            d.classList.add('select');
+            d.appendChild(document.createTextNode(name));
+            d.setAttribute('tabindex', '0');
+            d.addEventListener('click', function(e){this.select(e);}.bind(this));
+            d.addEventListener('keydown', function(e){this.keyOnSelection(e);}.bind(this));
+            this.menu.appendChild(d); 
+        }
+      });
+    }
+    finally{
+      this.populating = false;
+    }
+  }
+  
+  /** @function SSTypeAhead~suggest
+  * @description This clears existing suggestions and constructs a new set.
+  */  
+  suggest(){
+    this.clearSuggestions();
+    this.populate();
+  }
+  
+  /** @function SSTypeAhead~keyOnInput
+  * @description This is called when a key is pressed on the input, and if it's
+  *              the down arrow, it navigates the focus down into the suggestion
+  *              list.
+  * @param {Event} e the KeyboardEvent for the key pressed.
+  */  
+  keyOnInput(e){
+    if ((e.key === 'ArrowDown')&&(this.menu.firstElementChild)){
+      this.menu.firstElementChild.focus();
+      e.preventDefault();
+    }
+  }
+
+  /** @function SSTypeAhead~keyOnSelection
+  * @description This is called when a key is pressed on the menu, and if it's
+  *              the down arrow, it navigates the focus down into the suggestion
+  *              list.
+  * @param {Event} e the KeyboardEvent for the key pressed.
+  */    
+  keyOnSelection(e){
+    let el = e.target;
+    switch (e.key){
+      case 'Enter': 
+        this.select(e);
+        break;
+      case 'ArrowUp':
+        el.previousElementSibling ? el.previousElementSibling.focus() : this.input.focus();
+        break;
+      case 'ArrowDown':
+        el.nextElementSibling ? el.nextElementSibling.focus() : el.parentNode.firstElementChild.focus();
+        break;
+      default:
+    }
+    e.preventDefault();
+  }
+
+  /** @function SSTypeAhead~select
+  * @description This creates a new checkbox + label block for 
+  *              the selected item in the menu, unless there is
+  *              already one there.
+  * @param {Event} e the KeyboardEvent for the key pressed.
+  */     
+  select(e){
+    let id = e.target.getAttribute('data-id');
+    let val = e.target.getAttribute('data-val');
+    this.addCheckbox(val);
+  }
+  
+  /** @function SSTypeAhead~addCheckbox
+  * @description This creates a new checkbox + label block for 
+  *              the selected item in the menu, or based on 
+  *              a call from outside unless there is already 
+  *              already one there, in which case we check it.
+  * @param {!string} val the text value for the checkbox.
+  */  
+  addCheckbox(val){
+    let id = this.filterMap.get(val);
+    if (!id){return;}
+    //Check for an existing one:
+    for (let c of this.checkboxes.querySelectorAll('input')){
+      if (c.getAttribute('id') == id){
+        //We just check it if it's already there.
+        c.checked = true;
+        return;
+      }
+    }
+    //Don't have one yet, so add one.
+    let s = document.createElement('span');
+    s.setAttribute('data-val', val);
+    let c = document.createElement('input');
+    c.setAttribute('type', 'checkbox');
+    c.setAttribute('checked', 'checked');
+    c.setAttribute('title', this.filterName);
+    c.setAttribute('value', val);
+    c.setAttribute('class', 'staticSearch_feat');
+    c.setAttribute('id', id);
+    s.appendChild(c);
+    let l = document.createElement('label');
+    l.setAttribute('for', id);
+    l.appendChild(document.createTextNode(val));
+    s.appendChild(l);
+    let b = document.createElement('button');
+    b.appendChild(document.createTextNode('\u2718'));
+    b.addEventListener('click', function(e){this.removeCheckbox(e);}.bind(this));
+    s.appendChild(b);
+    this.checkboxes.appendChild(s);
+  }
+  
+  /** @function SSTypeAhead~setCheckboxes
+  * @description This is provided with an Array of value strings,
+  *              and for each one, it either creates a new checkbox
+  *              or checks an existing one; then checkboxes not 
+  *              included in the array are unchecked. This allows the
+  *              external caller to set the entire status of the control
+  *              based e.g. on a URL query string.
+  * @param {!Array} arrVals the Array of string values.
+  */  
+  setCheckboxes(arrVals){
+  //First uncheck any existing items which aren't in the list.
+    for (let c of this.checkboxes.querySelectorAll('input')){
+      if (arrVals.indexOf(c.getAttribute('value')) < 0){
+        c.checked = false;
+      }
+    }
+  //Now create any new ones we need.
+    for (let val of arrVals){
+      this.addCheckbox(val);
+    }
+  }
+  
+  /** @function SSTypeAhead~removeCheckbox
+  * @description This is called by e.g. a click on the little
+  *              button that each checkbox block has, enabling
+  *              its removal if the user doesn't want it any more.
+  * @param {Event} e the event that triggers the removal.
+  */   
+  removeCheckbox(e){
+    e.target.parentNode.parentNode.removeChild(e.target.parentNode);
+  }
+}
 /*           ssStemmer.js             */
 /* Authors: Martin Holmes and Joey Takeda. */
 /*        University of Victoria.          */
@@ -2747,16 +3311,17 @@ class SSStemmer{
    * @return {string}       the stemmed token
    */
    stem(token){
-     if (token.length < 3){
-       return token;
+    let normToken = token.normalize('NFC');
+     if (normToken.length < 3){
+       return normToken;
      }
      else{
-       var indEx = this.arrExceptions.indexOf(token);
+       var indEx = this.arrExceptions.indexOf(normToken);
        if (indEx > -1){
          return this.arrExceptionStems[indEx];
        }
        else{
-         var pref = this.preflight(token);
+         var pref = this.preflight(normToken);
          var R = this.getR1AndR2(pref);
          var s0 = this.step0(pref);
          var s1 = this.step1(s0, R.r1of);
