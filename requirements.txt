@@ -1,2 +1,3 @@
+acdh-tei-pyutils==0.25.0
 pandas
 Pillow

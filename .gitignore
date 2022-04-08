@@ -8,3 +8,6 @@ data/editions/*.html
 static-search/
 words.txt
 stopwords.txt
+
+.ipynb_checkpoints
+Untitled.*
