@@ -1,5 +1,8 @@
 # bin/bash
 
+rm -rf ./data/editions
+mkdir ./data/editions
+
 echo "download fresh data from transkribus"
 ./download.sh
 

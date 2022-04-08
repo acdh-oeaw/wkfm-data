@@ -8,9 +8,9 @@
     
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
-    <xsl:import href="./partials/html_footer.xsl"/>
+    <xsl:import href="partials/html_footer.xsl"/>
     <xsl:template match="/">
-        <xsl:variable name="doc_title" select="'Transkriptionseinheiten'"/>
+        <xsl:variable name="doc_title" select="'Inhaltsverzeichnis'"/>
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
         <html xmlns="http://www.w3.org/1999/xhtml">
             <xsl:call-template name="html_head">
@@ -21,24 +21,17 @@
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     
-                    <div class="container">
+                    <div class="container-fluid">
                         <div class="card">
-                            <div class="card-header" style="text-align:center">
-                                <h1><xsl:value-of select="$doc_title"/></h1>
-                                <h3>
-                                    <div class="alert alert-warning" role="alert">
-                                        Es handelt sich hierbei um reine Arbeitstranskripte, die weder Anspruch auf Vollständigkeit noch Korrektheit erheben.
-                                    </div>
-                                </h3>
+                            <div class="card-header">
+                                <h1>Table of Contents</h1>
                             </div>
                             <div class="card-body">
                                 <table class="table table-striped display" id="tocTable" style="width:100%">
                                     <thead>
                                         <tr>
-                                            <th scope="col">Title</th>
-                                            <th scope="col">Anzahl der Seiten</th>
-                                            <th scope="col">Anzahl erwähnter distinkter Personen</th>
-                                            <th scope="col">Anzahl von Personenerwähnungen</th>
+                                            <th scope="col">Titel</th>
+                                            <th scope="col">Dateinname</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -56,15 +49,8 @@
                                                     </a>
                                                 </td>
                                                 <td>
-                                                    <xsl:value-of select="count(.//tei:pb)"/>
-                                                </td>
-                                                <td>
-                                                    <xsl:value-of select="count(distinct-values(.//tei:rs[@type='person']/@key))"/>                                                                                            
-                                                </td>
-                                                <td>
-                                                    <xsl:value-of select="count(.//tei:rs[@type='person']/@key)"/>                                                                                            
-                                                </td>
-                                                
+                                                    <xsl:value-of select="tokenize($full_path, '/')[last()]"/>
+                                                </td>  
                                             </tr>
                                         </xsl:for-each>
                                     </tbody>
@@ -76,7 +62,7 @@
                     <xsl:call-template name="html_footer"/>
                     <script>
                         $(document).ready(function () {
-                        createDataTable('tocTable')
+                            createDataTable('tocTable')
                         });
                     </script>
                 </div>

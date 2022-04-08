@@ -1,35 +1,33 @@
 name: Build and publish
 
-on:
-  workflow_dispatch
+on: 
+  push:
 
 jobs:
   build_pages:
-    name: Push Docker image to Docker Hub
+    name: Publish Edition as GitHub Pages Website
     runs-on: ubuntu-latest
+    env:
+      ANT_OPTS: -Xmx5g
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v2
-    - name: Install Saxon, ANT and ANT-Contrib
+    - name: Install Saxon, Ant and Fundament
       run: |
-        apt-get update && apt-get install openjdk-11-jre-headless ant ant-contrib -y --no-install-recommend
-        wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip download -d saxon && rm -rf download
+        apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
+        ./script.sh
+    - name: Install Ant-Contrib
+      run: |
         wget https://repo1.maven.org/maven2/ant-contrib/ant-contrib/1.0b3/ant-contrib-1.0b3.jar
         mv ant-contrib-1.0b3.jar /usr/share/ant/lib
-    - name: Download Fundament
-      run:
-        ./dl_fundament.sh
     - name: Build
       run: |
         ant
-    - name: StaticSearch
-      run:
-        ./dl_staticsearch.sh
-    - name: Build Search Index
-      run:
-        ant -f ./static-search/build.xml -DssConfigFile=${PWD}/ss_config.xml
+    - name: Build Index
+      run: |
+        ./build_index.sh
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{secrets.GITHUB_TOKEN}}
         publish_dir: ./html

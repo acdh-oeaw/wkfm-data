@@ -1,4 +1,5 @@
 import glob
+import os
 from tqdm import tqdm
 from acdh_tei_pyutils.tei import TeiReader
 
@@ -10,3 +11,4 @@ for x in tqdm(files):
         bad.getparent().remove(bad)
     new_name = x.replace('editions/', 'editions/wkfm-')
     doc.tree_to_file(new_name)
+    os.remove(x)
