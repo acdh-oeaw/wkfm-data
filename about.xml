@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Prosopographie der Wiener Kaufmannschaft im Zeitalter des Merkantilismus</title>
+            <title type="sub">1725–1758</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born Digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+          <div>
+             <p>Die Stadt Wien war in der ersten Hälfte des 18. Jahrhunderts die größte Stadt Mitteleuropas und Sitz des kaiserlichen Hofes. Die Versorgung dieser Metropole mit Fernhandelsgütern wurde von der Wiener Kaufmannschaft organisiert. Abgesehen vom Warenhandel dienten die Kaufleute auch als Kreditgeber des Kaisers. Im Gegensatz ihrer wirtschaftlichen Bedeutung im Güterverkehr und in der Finanzdienstleistung ist bisher wenig über diese Gruppe der Kaufleute bekannt. Diese Forschungslücke führte zu groben Fehlinterpretationen wie etwa zur Annahme, dass im barocken Wien kein bedeutender Handelsstand vorhanden gewesen wäre.</p>
+             <p>Das vorliegende Projekt wird in Kooperation zwischen dem <ref target="https://geschichtsforschung.univie.ac.at/">Institut für Österreichische Geschichtsforschung</ref> (Universität Wien) und dem <ref target="https://www.oeaw.ac.at/acdh/acdh-ch-home">Austrian Centre for Digital Humanities and Cultural Heritage</ref> (Österreichische Akademie der Wissenschaften) durchgeführt. Im Gegensatz zu älteren Forschungen zum Wiener Handel und seiner Träger, die sich vor allem einzelnen ethnischen oder religiösen Gruppen widmeten, wird erstmals die gesamte Wiener Großhändlerschaft untersucht.</p>
+             <p>Auf dieser Seite werden aktuelle Ergebnisse und im Projekt generierte Datensätze präsentiert und der Öffentlichkeit zugänglich gemacht.</p>
+          </div>
+      </body>
+   </text>
+</TEI>

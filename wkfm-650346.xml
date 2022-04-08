@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/wkfm" xml:id="wkfm-650346.xml" prev="https://id.acdh.oeaw.ac.at/wkfm/wkfm-564767.xml" next="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll 01 Einband Rücken Deckblatt Leere Seiten vorne und hinten</title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus/>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface lrx="3068" lry="4758" ulx="0" uly="0" xml:id="facs_1">
+         <graphic height="4758px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0001.jpg" width="3068px"/>
+      </surface>
+      <surface lrx="3078" lry="4710" ulx="0" uly="0" xml:id="facs_2">
+         <graphic height="4710px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0002.jpg" width="3078px"/>
+         <zone points="758,819 758,3354 2343,3354 2343,819" rendition="TextRegion" xml:id="facs_2_r1">
+            </zone>
+         <zone points="2745,302 2745,452 2775,452 2775,302" rendition="TextRegion" xml:id="facs_2_r2">
+            </zone>
+      </surface>
+      <surface lrx="3342" lry="4758" ulx="0" uly="0" xml:id="facs_3">
+         <graphic height="4758px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0003.jpg" width="3342px"/>
+      </surface>
+      <surface lrx="3192" lry="4710" ulx="0" uly="0" xml:id="facs_4">
+         <graphic height="4710px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0004.jpg" width="3192px"/>
+      </surface>
+      <surface lrx="3342" lry="4758" ulx="0" uly="0" xml:id="facs_5">
+         <graphic height="4758px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0005.jpg" width="3342px"/>
+      </surface>
+      <surface lrx="3028" lry="4383" ulx="0" uly="0" xml:id="facs_6">
+         <graphic height="4383px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1939.jpg" width="3028px"/>
+         <zone points="240,4256 240,4382 327,4382 327,4256" rendition="TextRegion" xml:id="facs_6_r1">
+            </zone>
+         <zone points="2751,37 2751,196 2835,196 2835,37" rendition="TextRegion" xml:id="facs_6_r2">
+            </zone>
+      </surface>
+      <surface lrx="3030" lry="4398" ulx="0" uly="0" xml:id="facs_7">
+         <graphic height="4398px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1940.jpg" width="3030px"/>
+      </surface>
+      <surface lrx="3028" lry="4383" ulx="0" uly="0" xml:id="facs_8">
+         <graphic height="4383px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1941.jpg" width="3028px"/>
+      </surface>
+      <surface lrx="3030" lry="4398" ulx="0" uly="0" xml:id="facs_9">
+         <graphic height="4398px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1942.jpg" width="3030px"/>
+      </surface>
+      <surface lrx="3028" lry="4383" ulx="0" uly="0" xml:id="facs_10">
+         <graphic height="4383px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1943.jpg" width="3028px"/>
+      </surface>
+      <surface lrx="2460" lry="4797" ulx="0" uly="0" xml:id="facs_11">
+         <graphic height="4797px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1944.jpg" width="2460px"/>
+      </surface>
+      <surface lrx="3328" lry="5110" ulx="0" uly="0" xml:id="facs_12">
+         <graphic height="5110px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1945.jpg" width="3328px"/>
+      </surface>
+      <surface lrx="3477" lry="5289" ulx="0" uly="0" xml:id="facs_13">
+         <graphic height="5289px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1946.jpg" width="3477px"/>
+         <zone points="532,864 532,1238 764,1238 764,864" rendition="TextRegion" xml:id="facs_13_r1">
+            </zone>
+         <zone points="1408,1928 1408,2086 1596,2086 1596,1928" rendition="TextRegion" xml:id="facs_13_r2">
+            </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <ab facs="#facs_2_r1" type="default">
+               <lb facs="#facs_2_r1l1" n="N001"/>
+               <lb facs="#facs_2_r1l2" n="N002"/>
+               <lb facs="#facs_2_r1l3" n="N003"/>
+               <lb facs="#facs_2_r1l4" n="N004"/>
+               <lb facs="#facs_2_r1l5" n="N005"/>
+               <lb facs="#facs_2_r1l6" n="N006"/>
+               <lb facs="#facs_2_r1l7" n="N007"/>
+               <lb facs="#facs_2_r1l8" n="N008"/>
+               <lb facs="#facs_2_r1l9" n="N009"/>
+               <lb facs="#facs_2_r1l10" n="N010"/>
+               <lb facs="#facs_2_r1l11" n="N011"/>
+               <lb facs="#facs_2_r1l12" n="N012"/>
+               <lb facs="#facs_2_r1l13" n="N013"/>
+            </ab>
+            <ab facs="#facs_2_r2" type="default">
+               <lb facs="#facs_2_r2l1" n="N001"/>
+            </ab>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
+            <ab facs="#facs_6_r1" type="default">
+               <lb facs="#facs_6_r1l1" n="N001"/>
+            </ab>
+            <ab facs="#facs_6_r2" type="default">
+               <lb facs="#facs_6_r2l1" n="N001"/>
+            </ab>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
+            <ab facs="#facs_13_r1" type="default">
+               <lb facs="#facs_13_r1l1" n="N001"/>
+               <lb facs="#facs_13_r1l2" n="N002"/>
+            </ab>
+            <ab facs="#facs_13_r2" type="default">
+               <lb facs="#facs_13_r2l1" n="N001"/>
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

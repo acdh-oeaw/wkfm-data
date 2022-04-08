@@ -1,0 +1,2585 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/wkfm" xml:id="wkfm-564767.xml" prev="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560296.xml" next="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650346.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll 08 Lit G fol 404-457</title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>404-457</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_1">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0813.jpg" width="3095px"/>
+         <zone points="126,319 126,473 177,473 177,319" rendition="TextRegion" xml:id="facs_1_r1">
+            </zone>
+         <zone points="2549,302 2549,458 2708,458 2708,302" rendition="TextRegion" xml:id="facs_1_r3" subtype="page-number">
+            </zone>
+         <zone points="192,240 192,3106 2451,3106 2451,240" rendition="TextRegion" xml:id="facs_1_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_2">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0814.jpg" width="2994px"/>
+         <zone points="302,273 302,3482 2850,3482 2850,273" rendition="TextRegion" xml:id="facs_2_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_3">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0815.jpg" width="3095px"/>
+         <zone points="317,214 317,3069 2780,3069 2780,214" rendition="TextRegion" xml:id="facs_3_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_4">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0816.jpg" width="2994px"/>
+         <zone points="374,274 374,3465 2835,3465 2835,274" rendition="TextRegion" xml:id="facs_4_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_5">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0817.jpg" width="3095px"/>
+         <zone points="261,213 261,3050 2711,3050 2711,213" rendition="TextRegion" xml:id="facs_5_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_6">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0818.jpg" width="2994px"/>
+         <zone points="399,239 399,3456 2829,3456 2829,239" rendition="TextRegion" xml:id="facs_6_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_7">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0819.jpg" width="3095px"/>
+         <zone points="309,238 309,3051 2735,3051 2735,238" rendition="TextRegion" xml:id="facs_7_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_8">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0820.jpg" width="2994px"/>
+         <zone points="312,272 312,3441 2852,3441 2852,272" rendition="TextRegion" xml:id="facs_8_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_9">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0821.jpg" width="3095px"/>
+         <zone points="116,278 116,3073 2790,3073 2790,278" rendition="TextRegion" xml:id="facs_9_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_10">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0822.jpg" width="2994px"/>
+         <zone points="264,263 264,3461 2823,3461 2823,263" rendition="TextRegion" xml:id="facs_10_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_11">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0823.jpg" width="3095px"/>
+         <zone points="2579,352 2579,507 2712,507 2712,352" rendition="TextRegion" xml:id="facs_11_r2" subtype="page-number">
+            </zone>
+         <zone points="179,274 179,3095 2382,3095 2382,274" rendition="TextRegion" xml:id="facs_11_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_12">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0824.jpg" width="2994px"/>
+         <zone points="321,288 321,3487 2871,3485 2871,286" rendition="TextRegion" xml:id="facs_12_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_13">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0825.jpg" width="3095px"/>
+         <zone points="114,325 114,496 159,527 159,356" rendition="TextRegion" xml:id="facs_13_r1">
+            </zone>
+         <zone points="195,253 195,3095 2783,3095 2783,253" rendition="TextRegion" xml:id="facs_13_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_14">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0826.jpg" width="2994px"/>
+         <zone points="342,252 342,3501 2850,3501 2850,252" rendition="TextRegion" xml:id="facs_14_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_15">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0827.jpg" width="3095px"/>
+         <zone points="128,261 128,3086 2798,3086 2798,261" rendition="TextRegion" xml:id="facs_15_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_16">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0828.jpg" width="2994px"/>
+         <zone points="165,847 165,4008 2802,4008 2802,847" rendition="TextRegion" xml:id="facs_16_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_17">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0829.jpg" width="3095px"/>
+         <zone points="75,249 75,3122 2753,3122 2753,249" rendition="TextRegion" xml:id="facs_17_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_18">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0830.jpg" width="2994px"/>
+         <zone points="285,260 285,3506 2832,3506 2832,260" rendition="TextRegion" xml:id="facs_18_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_19">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0831.jpg" width="3095px"/>
+         <zone points="293,246 293,3119 2796,3119 2796,246" rendition="TextRegion" xml:id="facs_19_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_20">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0832.jpg" width="2994px"/>
+         <zone points="248,258 248,3493 2826,3493 2826,258" rendition="TextRegion" xml:id="facs_20_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_21">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0833.jpg" width="3095px"/>
+         <zone points="2658,286 2658,439 2757,439 2757,286" rendition="TextRegion" xml:id="facs_21_r2" subtype="page-number">
+            </zone>
+         <zone points="230,268 230,3100 2592,3100 2592,268" rendition="TextRegion" xml:id="facs_21_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_22">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0834.jpg" width="2994px"/>
+         <zone points="318,292 318,3483 2802,3483 2802,292" rendition="TextRegion" xml:id="facs_22_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_23">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0835.jpg" width="3095px"/>
+         <zone points="242,227 242,3127 2735,3127 2735,227" rendition="TextRegion" xml:id="facs_23_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_24">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0836.jpg" width="2994px"/>
+         <zone points="327,274 327,3495 2826,3495 2826,274" rendition="TextRegion" xml:id="facs_24_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_25">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0837.jpg" width="3095px"/>
+         <zone points="168,214 168,3078 2730,3078 2730,214" rendition="TextRegion" xml:id="facs_25_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_26">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0838.jpg" width="2994px"/>
+         <zone points="351,271 351,3475 2814,3475 2814,271" rendition="TextRegion" xml:id="facs_26_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_27">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0839.jpg" width="3095px"/>
+         <zone points="237,221 237,3108 2751,3108 2751,221" rendition="TextRegion" xml:id="facs_27_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_28">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0840.jpg" width="2994px"/>
+         <zone points="237,251 237,3500 2835,3500 2835,251" rendition="TextRegion" xml:id="facs_28_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_29">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0841.jpg" width="3095px"/>
+         <zone points="183,254 183,3085 2733,3085 2733,254" rendition="TextRegion" xml:id="facs_29_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_30">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0842.jpg" width="2994px"/>
+         <zone points="320,287 320,3458 2817,3458 2817,287" rendition="TextRegion" xml:id="facs_30_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_31">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0843.jpg" width="3095px"/>
+         <zone points="260,250 260,3062 2745,3062 2745,250" rendition="TextRegion" xml:id="facs_31_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_32">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0844.jpg" width="2994px"/>
+         <zone points="359,290 359,3460 2835,3460 2835,290" rendition="TextRegion" xml:id="facs_32_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_33">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0845.jpg" width="3095px"/>
+         <zone points="206,256 206,3112 2760,3112 2760,256" rendition="TextRegion" xml:id="facs_33_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_34">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0846.jpg" width="2994px"/>
+         <zone points="363,291 363,3501 2832,3501 2832,291" rendition="TextRegion" xml:id="facs_34_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_35">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0847.jpg" width="3095px"/>
+         <zone points="209,242 209,3081 2753,3081 2753,242" rendition="TextRegion" xml:id="facs_35_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_36">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0848.jpg" width="2994px"/>
+         <zone points="348,248 348,3471 2841,3471 2841,248" rendition="TextRegion" xml:id="facs_36_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_37">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0849.jpg" width="3095px"/>
+         <zone points="146,280 146,439 191,439 191,280" rendition="TextRegion" xml:id="facs_37_r1">
+            </zone>
+         <zone points="2633,319 2633,473 2786,473 2786,319" rendition="TextRegion" xml:id="facs_37_r3" subtype="page-number">
+            </zone>
+         <zone points="221,236 221,3104 2564,3104 2564,236" rendition="TextRegion" xml:id="facs_37_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4530" ulx="0" uly="0" xml:id="facs_38">
+         <graphic height="4530px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0850.jpg" width="2994px"/>
+         <zone points="365,297 365,3491 2850,3491 2850,297" rendition="TextRegion" xml:id="facs_38_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4553" ulx="0" uly="0" xml:id="facs_39">
+         <graphic height="4553px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0851.jpg" width="3095px"/>
+         <zone points="2520,314 2520,617 2679,617 2679,314" rendition="TextRegion" xml:id="facs_39_r2" subtype="page-number">
+            </zone>
+         <zone points="225,245 225,3095 2535,3080 2535,230" rendition="TextRegion" xml:id="facs_39_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_40">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0852.jpg" width="2994px"/>
+         <zone points="312,218 312,3386 2823,3386 2823,218" rendition="TextRegion" xml:id="facs_40_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_41">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0853.jpg" width="3095px"/>
+         <zone points="219,134 225,3014 2738,3014 2732,134" rendition="TextRegion" xml:id="facs_41_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_42">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0854.jpg" width="2994px"/>
+         <zone points="353,172 353,3411 2841,3411 2841,172" rendition="TextRegion" xml:id="facs_42_r2">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_43">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0855.jpg" width="3095px"/>
+         <zone points="242,164 242,3011 2717,3011 2717,164" rendition="TextRegion" xml:id="facs_43_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_44">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0856.jpg" width="2994px"/>
+         <zone points="354,160 354,3389 2865,3389 2865,160" rendition="TextRegion" xml:id="facs_44_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_45">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0857.jpg" width="3095px"/>
+         <zone points="194,158 194,2997 2778,2997 2778,158" rendition="TextRegion" xml:id="facs_45_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_46">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0858.jpg" width="2994px"/>
+         <zone points="343,243 345,3408 2825,3408 2823,243" rendition="TextRegion" xml:id="facs_46_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_47">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0859.jpg" width="3095px"/>
+         <zone points="209,169 209,3005 2766,3005 2766,169" rendition="TextRegion" xml:id="facs_47_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_48">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0860.jpg" width="2994px"/>
+         <zone points="338,171 338,3392 2856,3392 2856,171" rendition="TextRegion" xml:id="facs_48_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_49">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0861.jpg" width="3095px"/>
+         <zone points="231,149 231,2998 2787,2998 2787,149" rendition="TextRegion" xml:id="facs_49_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_50">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0862.jpg" width="2994px"/>
+         <zone points="360,181 360,3411 2871,3411 2871,181" rendition="TextRegion" xml:id="facs_50_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_51">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0863.jpg" width="3095px"/>
+         <zone points="167,117 167,3003 2801,3003 2801,117" rendition="TextRegion" xml:id="facs_51_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_52">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0864.jpg" width="2994px"/>
+         <zone points="246,173 246,3441 2822,3441 2822,173" rendition="TextRegion" xml:id="facs_52_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_53">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0865.jpg" width="3095px"/>
+         <zone points="173,168 173,2975 2720,2975 2720,168" rendition="TextRegion" xml:id="facs_53_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_54">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0866.jpg" width="2994px"/>
+         <zone points="329,197 329,3691 2862,3691 2862,197" rendition="TextRegion" xml:id="facs_54_r2">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_55">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0867.jpg" width="3095px"/>
+         <zone points="260,186 260,2986 2750,2986 2750,186" rendition="TextRegion" xml:id="facs_55_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_56">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0868.jpg" width="2994px"/>
+         <zone points="1169,160 1169,3391 2453,3391 2453,160" rendition="TextRegion" xml:id="facs_56_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_57">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0869.jpg" width="3095px"/>
+         <zone points="2643,226 2643,385 2790,385 2790,226" rendition="TextRegion" xml:id="facs_57_r2" subtype="page-number">
+            </zone>
+         <zone points="185,124 185,2961 2651,2961 2651,124" rendition="TextRegion" xml:id="facs_57_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_58">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0870.jpg" width="2994px"/>
+         <zone points="219,202 219,3414 2862,3414 2862,202" rendition="TextRegion" xml:id="facs_58_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_59">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0871.jpg" width="3095px"/>
+         <zone points="218,177 218,3027 2756,3027 2756,177" rendition="TextRegion" xml:id="facs_59_r3">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_60">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0872.jpg" width="2994px"/>
+         <zone points="353,171 353,3429 2862,3429 2862,171" rendition="TextRegion" xml:id="facs_60_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_61">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0873.jpg" width="3095px"/>
+         <zone points="183,144 183,2962 2754,2962 2754,144" rendition="TextRegion" xml:id="facs_61_r3">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_62">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0874.jpg" width="2994px"/>
+         <zone points="404,207 404,3363 2865,3363 2865,207" rendition="TextRegion" xml:id="facs_62_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_63">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0875.jpg" width="3095px"/>
+         <zone points="155,168 155,2991 2795,2991 2795,168" rendition="TextRegion" xml:id="facs_63_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_64">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0876.jpg" width="2994px"/>
+         <zone points="279,185 279,3390 2871,3390 2871,185" rendition="TextRegion" xml:id="facs_64_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_65">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0877.jpg" width="3095px"/>
+         <zone points="242,172 242,3034 2760,3034 2760,172" rendition="TextRegion" xml:id="facs_65_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_66">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0878.jpg" width="2994px"/>
+         <zone points="380,204 380,3426 2838,3426 2838,204" rendition="TextRegion" xml:id="facs_66_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_67">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0879.jpg" width="3095px"/>
+         <zone points="203,190 203,3029 2762,3029 2762,190" rendition="TextRegion" xml:id="facs_67_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_68">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0880.jpg" width="2994px"/>
+         <zone points="342,215 342,3399 2883,3399 2883,215" rendition="TextRegion" xml:id="facs_68_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_69">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0881.jpg" width="3095px"/>
+         <zone points="2685,233 2685,386 2826,386 2826,233" rendition="TextRegion" xml:id="facs_69_r2" subtype="page-number">
+            </zone>
+         <zone points="245,158 245,3017 2705,3017 2705,158" rendition="TextRegion" xml:id="facs_69_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_70">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0882.jpg" width="2994px"/>
+         <zone points="365,190 365,3424 2826,3424 2826,190" rendition="TextRegion" xml:id="facs_70_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_71">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0883.jpg" width="3095px"/>
+         <zone points="2639,176 2639,331 2775,331 2775,176" rendition="TextRegion" xml:id="facs_71_r2" subtype="page-number">
+            </zone>
+         <zone points="152,162 152,3329 2792,3329 2792,162" rendition="TextRegion" xml:id="facs_71_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_72">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0884.jpg" width="2994px"/>
+         <zone points="311,1102 311,3495 2886,3495 2886,1102" rendition="TextRegion" xml:id="facs_72_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_73">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0885.jpg" width="3095px"/>
+         <zone points="156,206 156,359 185,359 185,206" rendition="TextRegion" xml:id="facs_73_r1">
+            </zone>
+         <zone points="146,165 146,3518 2802,3518 2802,165" rendition="TextRegion" xml:id="facs_73_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_74">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0886.jpg" width="2994px"/>
+         <zone points="1232,164 1232,3407 2574,3407 2574,164" rendition="TextRegion" xml:id="facs_74_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_75">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0887.jpg" width="3095px"/>
+         <zone points="2646,169 2646,335 2784,335 2784,169" rendition="TextRegion" xml:id="facs_75_r2" subtype="page-number">
+            </zone>
+         <zone points="159,168 159,3868 2708,3868 2708,168" rendition="TextRegion" xml:id="facs_75_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_76">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0888.jpg" width="2994px"/>
+         <zone points="1199,169 1199,3419 2435,3419 2435,169" rendition="TextRegion" xml:id="facs_76_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_77">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0889.jpg" width="3095px"/>
+         <zone points="137,183 137,3903 2777,3903 2777,183" rendition="TextRegion" xml:id="facs_77_r3">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_78">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0890.jpg" width="2994px"/>
+         <zone points="1229,194 1229,3413 2360,3413 2360,194" rendition="TextRegion" xml:id="facs_78_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_79">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0891.jpg" width="3095px"/>
+         <zone points="173,164 173,3828 2819,3828 2819,164" rendition="TextRegion" xml:id="facs_79_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_80">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0892.jpg" width="2994px"/>
+         <zone points="1182,203 1182,3437 2549,3437 2549,203" rendition="TextRegion" xml:id="facs_80_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_81">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0893.jpg" width="3095px"/>
+         <zone points="2606,179 2606,334 2765,334 2765,179" rendition="TextRegion" xml:id="facs_81_r2" subtype="page-number">
+            </zone>
+         <zone points="164,173 164,3778 2885,3778 2885,173" rendition="TextRegion" xml:id="facs_81_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_82">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0894.jpg" width="2994px"/>
+         <zone points="297,243 297,4228 2881,4227 2881,242" rendition="TextRegion" xml:id="facs_82_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_83">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0895.jpg" width="3095px"/>
+         <zone points="2553,184 2553,350 2732,350 2732,184" rendition="TextRegion" xml:id="facs_83_r3" subtype="page-number">
+            </zone>
+         <zone points="179,168 179,4202 2792,4202 2792,168" rendition="TextRegion" xml:id="facs_83_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_84">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0896.jpg" width="2994px"/>
+         <zone points="1257,172 1257,3421 2450,3421 2450,172" rendition="TextRegion" xml:id="facs_84_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_85">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0897.jpg" width="3095px"/>
+         <zone points="177,203 177,359 237,359 237,203" rendition="TextRegion" xml:id="facs_85_r1">
+            </zone>
+         <zone points="2636,149 2636,308 2795,308 2795,149" rendition="TextRegion" xml:id="facs_85_r3" subtype="page-number">
+            </zone>
+         <zone points="165,140 165,3747 2825,3747 2825,140" rendition="TextRegion" xml:id="facs_85_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_86">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0898.jpg" width="2994px"/>
+         <zone points="350,212 350,3353 2886,3353 2886,212" rendition="TextRegion" xml:id="facs_86_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_87">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0899.jpg" width="3095px"/>
+         <zone points="110,155 110,3566 2831,3566 2831,155" rendition="TextRegion" xml:id="facs_87_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_88">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0900.jpg" width="2994px"/>
+         <zone points="1115,157 1109,3427 2428,3447 2434,177" rendition="TextRegion" xml:id="facs_88_r2">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_89">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0901.jpg" width="3095px"/>
+         <zone points="136,659 136,4736 2848,4736 2848,659" rendition="TextRegion" xml:id="facs_89_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_90">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0902.jpg" width="2994px"/>
+         <zone points="1229,172 1229,3398 2483,3398 2483,172" rendition="TextRegion" xml:id="facs_90_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_91">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0903.jpg" width="3095px"/>
+         <zone points="2658,196 2658,355 2838,355 2838,196" rendition="TextRegion" xml:id="facs_91_r2" subtype="page-number">
+            </zone>
+         <zone points="188,193 188,4080 2865,4080 2865,193" rendition="TextRegion" xml:id="facs_91_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_92">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0904.jpg" width="2994px"/>
+         <zone points="270,214 270,3385 2877,3385 2877,214" rendition="TextRegion" xml:id="facs_92_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_93">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0905.jpg" width="3095px"/>
+         <zone points="2631,181 2631,337 2775,337 2775,181" rendition="TextRegion" xml:id="facs_93_r2" subtype="page-number">
+            </zone>
+         <zone points="161,163 161,3758 2780,3758 2780,163" rendition="TextRegion" xml:id="facs_93_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_94">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0906.jpg" width="2994px"/>
+         <zone points="320,224 320,3423 2886,3423 2886,224" rendition="TextRegion" xml:id="facs_94_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_95">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0907.jpg" width="3095px"/>
+         <zone points="167,150 167,4164 2817,4164 2817,150" rendition="TextRegion" xml:id="facs_95_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_96">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0908.jpg" width="2994px"/>
+         <zone points="1232,191 1232,4289 2525,4289 2525,191" rendition="TextRegion" xml:id="facs_96_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_97">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0909.jpg" width="3095px"/>
+         <zone points="195,218 195,376 306,376 306,218" rendition="TextRegion" xml:id="facs_97_r1">
+            </zone>
+         <zone points="174,127 174,4357 2904,4448 2904,218" rendition="TextRegion" xml:id="facs_97_r2">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_98">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0910.jpg" width="2994px"/>
+         <zone points="1214,202 1187,3741 2525,3725 2552,186" rendition="TextRegion" xml:id="facs_98_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_99">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0911.jpg" width="3095px"/>
+         <zone points="2670,203 2670,362 2817,362 2817,203" rendition="TextRegion" xml:id="facs_99_r2" subtype="page-number">
+            </zone>
+         <zone points="895,78 765,3035 1830,3035 1960,78" rendition="TextRegion" xml:id="facs_99_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_100">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0912.jpg" width="2994px"/>
+         <zone points="1306,210 1262,3493 2517,3512 2561,229" rendition="TextRegion" xml:id="facs_100_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_101">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0913.jpg" width="3095px"/>
+         <zone points="2673,208 2673,362 2816,361 2816,207" rendition="TextRegion" xml:id="facs_101_r2" subtype="page-number">
+            </zone>
+         <zone points="789,85 732,3029 1910,3035 1967,91" rendition="TextRegion" xml:id="facs_101_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_102">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0914.jpg" width="2994px"/>
+         <zone points="1297,202 1287,3482 2512,3462 2522,182" rendition="TextRegion" xml:id="facs_102_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_103">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0915.jpg" width="3095px"/>
+         <zone points="2624,188 2624,343 2778,343 2778,188" rendition="TextRegion" xml:id="facs_103_r2" subtype="page-number">
+            </zone>
+         <zone points="719,141 722,3020 1956,3038 1953,159" rendition="TextRegion" xml:id="facs_103_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_104">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0916.jpg" width="2994px"/>
+         <zone points="1224,133 1229,3485 2606,3483 2601,131" rendition="TextRegion" xml:id="facs_104_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_105">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0917.jpg" width="3095px"/>
+         <zone points="2624,223 2624,376 2778,376 2778,223" rendition="TextRegion" xml:id="facs_105_r2" subtype="page-number">
+            </zone>
+         <zone points="701,151 701,3050 1829,3050 1829,151" rendition="TextRegion" xml:id="facs_105_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_106">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0918.jpg" width="2994px"/>
+         <zone points="1325,218 1325,3505 2583,3505 2583,218" rendition="TextRegion" xml:id="facs_106_r1">
+            </zone>
+      </surface>
+      <surface lrx="3095" lry="4469" ulx="0" uly="0" xml:id="facs_107">
+         <graphic height="4469px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0919.jpg" width="3095px"/>
+         <zone points="2636,209 2636,365 2768,365 2768,209" rendition="TextRegion" xml:id="facs_107_r2" subtype="page-number">
+            </zone>
+         <zone points="711,137 711,3031 1821,3031 1821,137" rendition="TextRegion" xml:id="facs_107_r1">
+            </zone>
+      </surface>
+      <surface lrx="2994" lry="4442" ulx="0" uly="0" xml:id="facs_108">
+         <graphic height="4442px" url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0920.jpg" width="2994px"/>
+         <zone points="1431,212 1431,3500 2678,3500 2678,212" rendition="TextRegion" xml:id="facs_108_r1">
+            </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r1" type="default">
+               <lb facs="#facs_1_r1l1" n="N001"/>68</ab>
+            <ab facs="#facs_1_r3" type="page-numberpage-number">
+               <lb facs="#facs_1_r3l1" n="N001"/>404</ab>
+            <ab facs="#facs_1_r2" type="default">
+               <lb facs="#facs_1_r2l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_1_r2l2" n="N002"/>
+               <rs type="person" key=", Personen ID=11007">Guissart Lambert</rs> hofbefreyter Handlsmann
+      <lb facs="#facs_1_r2l3" n="N003"/>Firma ad Raggion
+      <lb facs="#facs_1_r2l4" n="N004"/>
+               <rs type="person" key=", Personen ID=46298">Lambert Guissart</rs> laut Anbringen de ps: 9<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 383
+      <lb facs="#facs_1_r2l5" n="N005"/>Procura und Firmae Trager
+      <lb facs="#facs_1_r2l6" n="N006"/>Oblatorien und Avocatorien
+      <lb facs="#facs_1_r2l7" n="N007"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <ab facs="#facs_2_r1" type="default">
+               <lb facs="#facs_2_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_2_r1l2" n="N002"/>In obigen Anbringen de ps: 9<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 383 hat sich der <rs type="person" key=", Personen ID=11007">Guissart</rs>
+               <lb facs="#facs_2_r1l3" n="N003"/>erklähret, daß er keinen Compagnon habe
+      <lb facs="#facs_2_r1l4" n="N004"/>Heuraths Contract
+      <lb facs="#facs_2_r1l5" n="N005"/>Anmerckungen</ab>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <ab facs="#facs_3_r2" type="default">
+               <lb facs="#facs_3_r2l2" n="N001"/>405
+      <lb facs="#facs_3_r2l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_3_r2l4" n="N003"/>
+               <rs type="person" key=", Personen ID=11264">Gengl Johann Georg</rs>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">burgerlicher</hi> hofbefreyter Handlsmann
+      <lb facs="#facs_3_r2l5" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_3_r2l6" n="N005"/>
+               <rs type="person" key=", Personen ID=46299">Johann Geörg Gengl</rs> laut Anbringen de ps: 17<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 384
+      <lb facs="#facs_3_r2l7" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_3_r2l8" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_3_r2l9" n="N008"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+            <ab facs="#facs_4_r1" type="default">
+               <lb facs="#facs_4_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_4_r1l2" n="N002"/>In obigen Anbringen de ps: 17<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 384 hat sich
+      <lb facs="#facs_4_r1l3" n="N003"/>der <rs type="person" key=", Personen ID=11264">Gängl</rs> erklähret, daß er sein Negotium mit eignen
+      <lb facs="#facs_4_r1l4" n="N004"/>interesse und obligo ohne Compagnon führe
+      <lb facs="#facs_4_r1l6" n="N005"/>Heuraths Contract
+      <lb facs="#facs_4_r1l7" n="N006"/>Anmerckungen</ab>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+            <ab facs="#facs_5_r1" type="default">
+               <lb facs="#facs_5_r1l2" n="N001"/>406
+      <lb facs="#facs_5_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_5_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=14321">Gestefelt Johann Wilhelm</rs> k. k. Niederlags Verwanter
+      <lb facs="#facs_5_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_5_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46300">Johann Wilhelm <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">P</hi> Reystenfelt</rs> laut Anbringen de ps: 18<hi rend="superscript">ten</hi>
+               <lb facs="#facs_5_r1l6" n="N006"/>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 385
+      <lb facs="#facs_5_r1l7" n="N007"/>Procura und Firmae Trager
+      <lb facs="#facs_5_r1l8" n="N008"/>Oblatorien und Avocatorien
+      <lb facs="#facs_5_r1l9" n="N009"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
+            <ab facs="#facs_6_r1" type="default">
+               <lb facs="#facs_6_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_6_r1l3" n="N002"/>In obigen Anbringen de ps: 18<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 385 hat sich
+      <lb facs="#facs_6_r1l4" n="N003"/>der <rs type="person" key=", Personen ID=14321">Gestefelt</rs> erklähret das er seine Handlung ganz allein führe
+      <lb facs="#facs_6_r1l5" n="N004"/>Heuraths Contract
+      <lb facs="#facs_6_r1l6" n="N005"/>Anmerckungen</ab>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
+            <ab facs="#facs_7_r1" type="default">
+               <lb facs="#facs_7_r1l2" n="N001"/>407
+      <lb facs="#facs_7_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_7_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=8421">Geramb Franz Anton</rs> hofbefreyter Handlsmann
+      <lb facs="#facs_7_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_7_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46301">Frantz Antonj Geramb</rs> laut Anbringen de ps: 19<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 1950
+      <lb facs="#facs_7_r1l6" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_7_r1l7" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_7_r1l8" n="N008"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
+            <ab facs="#facs_8_r1" type="default">
+               <lb facs="#facs_8_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 1950 hat sich der <rs type="person" key=", Personen ID=8421">Geramb</rs> erklähret
+      <lb facs="#facs_8_r1l3" n="N003"/>daß der <rs type="person" key=", Personen ID=8188">Ludwig Anton Visconti</rs> mit ihm interessiret seye ansonsten aber er
+      <lb facs="#facs_8_r1l4" n="N004"/>keinen Compagnon habe.
+      <lb facs="#facs_8_r1l5" n="N005"/>Mitls Anbringen de ps: 3<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 728 N<hi rend="superscript">o</hi> 1953 hat der <rs type="person" key=", Personen ID=8421">Geramb</rs> angezeiget
+      <lb facs="#facs_8_r1l6" n="N006"/>daß, nachdem er den <rs type="person" key=", Personen ID=8188">Ludwig Anton Visconti</rs> mit Ende <choice>
+                  <expan/>
+                  <abbr>9br:</abbr>
+               </choice> 727 hindange-
+      <lb facs="#facs_8_r1l7" n="N007"/>fertiget, weithershin seine Handlung auf seine alleinige Rechung ohne <unclear>jemanden</unclear>
+               <lb facs="#facs_8_r1l8" n="N008"/>
+               <choice>
+                  <expan/>
+                  <abbr>Intee</abbr>
+               </choice> lauffe<hi rend="strikethrough:true; fontSize:0.0; kerning:0;">n wird</hi>
+               <lb facs="#facs_8_r1l9" n="N009"/>Heuraths Contract
+      <lb facs="#facs_8_r1l10" n="N010"/>Anmerckungen</ab>
+            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
+            <ab>
+               <lb facs="#facs_9_r2l2" n="N001"/>408
+      <lb facs="#facs_9_r2l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_9_r2l3" n="N003"/>
+               <rs type="person" key=", Personen ID=20897">Gündl Stephan</rs> burgerlicher Tuchlaubensverwanter
+      <lb facs="#facs_9_r2l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_9_r2l5" n="N005"/>
+               <rs type="person" key=", Personen ID=8670">Stephan Gündl und Joseph Hinckh</rs> laut Anbringen de ps: 19<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 1951
+      <lb facs="#facs_9_r2l6" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_9_r2l7" n="N007"/>In obigen Anbringen de ps: 19<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 1951 ist die Firma der Raggion <rs type="person" key=", Personen ID=8670">Stephan<lb facs="#facs_9_r2l8" n="N008"/>Gündl und Joseph Hinkh</rs> von beden sociis <rs type="person" key=", Personen ID=20897">Stephan Gündl</rs> und <rs type="person" key=", Personen ID=46302">Joseph Hinkh</rs> einge-
+      <lb facs="#facs_9_r2l9" n="N009"/>leget worden.
+      <lb facs="#facs_9_r2l10" n="N010"/>Oblatorien und Avocatorien
+      <lb facs="#facs_9_r2l11" n="N011"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
+            <ab facs="#facs_10_r1" type="default">
+               <lb facs="#facs_10_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_10_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 1951 hat der <rs type="person" key=", Personen ID=20897">Stephan Gündl</rs>
+               <lb facs="#facs_10_r1l3" n="N003"/>mit dem <rs type="person" key=", Personen ID=46302">Joseph Hinkh</rs> die anzeige gemacht das sie ihr Negotium gemein-
+      <lb facs="#facs_10_r1l4" n="N004"/>sam unter der Societaets Raggion <rs type="person" key=", Personen ID=8670">Stephan Gündl und Joseph Hinkh</rs>
+               <lb facs="#facs_10_r1l5" n="N005"/>als ihr Eigenthum führen
+      <lb facs="#facs_10_r1l6" n="N006"/>Heuraths Contract
+      <lb facs="#facs_10_r1l7" n="N007"/>Anmerckungen</ab>
+            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
+            <ab facs="#facs_11_r2" type="page-numberpage-number">
+               <lb facs="#facs_11_r2l1" n="N001"/>409</ab>
+            <ab facs="#facs_11_r1" type="default">
+               <lb facs="#facs_11_r1l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_11_r1l2" n="N002"/>
+               <rs type="person" key=", Personen ID=10543">
+                  <unclear>Garnier</unclear> Peter</rs>
+               <lb facs="#facs_11_r1l3" n="N003"/>Firma ad Raggion
+      <lb facs="#facs_11_r1l4" n="N004"/>
+               <rs type="person" key=", Personen ID=46303">Peter <unclear>Garnier</unclear>
+               </rs> laut Anbringen de ps: 20<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 386
+      <lb facs="#facs_11_r1l5" n="N005"/>Procura und Firmae Trager
+      <lb facs="#facs_11_r1l6" n="N006"/>Oblatorien und Avocatorien
+      <lb facs="#facs_11_r1l7" n="N007"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
+            <ab facs="#facs_12_r1" type="default">
+               <lb facs="#facs_12_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_12_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 386 hat sich der <rs type="person" key=", Personen ID=10543">
+                  <unclear>Garnier</unclear>
+               </rs>
+               <lb facs="#facs_12_r1l3" n="N003"/>erklähret, daß er dermahlen kein Negotium habe und was sich künftig
+      <lb facs="#facs_12_r1l4" n="N004"/>ereignen solte, es für ihn allein geschehen würde
+      <lb facs="#facs_12_r1l5" n="N005"/>Heuraths Contract
+      <lb facs="#facs_12_r1l6" n="N006"/>Anmerckungen</ab>
+            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
+            <ab facs="#facs_13_r1" type="default">
+               <lb facs="#facs_13_line_1627640736753_134" n="N001"/>69</ab>
+            <ab facs="#facs_13_r2" type="default">
+               <lb facs="#facs_13_r2l2" n="N001"/>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">4010</hi>
+               <lb facs="#facs_13_r2l3" n="N002"/>410
+      <lb facs="#facs_13_r2l1" n="N003"/>Nahmen und Class
+      <lb facs="#facs_13_r2l4" n="N004"/>
+               <rs type="person" key=", Personen ID=8414">Garttner Adam Christoph</rs> hofbefreyter Handlsmann
+      <lb facs="#facs_13_r2l5" n="N005"/>Firma ad Raggion
+      <lb facs="#facs_13_r2l6" n="N006"/>
+               <rs type="person" key=", Personen ID=46304">Adam Christoph Garttner</rs> laut Anbringen de ps: 21<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 387
+      <lb facs="#facs_13_r2l7" n="N007"/>Procura und Firmae Trager
+      <lb facs="#facs_13_r2l8" n="N008"/>Oblatorien und Avocatorien
+      <lb facs="#facs_13_r2l9" n="N009"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
+            <ab facs="#facs_14_r1" type="default">
+               <lb facs="#facs_14_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_14_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 387 hat sich der <rs type="person" key=", Personen ID=8414">Garttner</rs>
+               <lb facs="#facs_14_r1l3" n="N003"/>erklähret daß er seine handlung ganz alleinig führe
+      <lb facs="#facs_14_r1l4" n="N004"/>Heuraths Contract
+      <lb facs="#facs_14_r1l5" n="N005"/>Anmerckungen</ab>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
+            <ab facs="#facs_15_r1" type="default">
+               <lb facs="#facs_15_r1l2" n="N001"/>411
+      <lb facs="#facs_15_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_15_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=8105">Gundian Philipp <choice>
+                     <expan/>
+                     <abbr>seel:</abbr>
+                  </choice> Erben</rs> burgerliche Handlsleuthe
+      <lb facs="#facs_15_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_15_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=8105">Philipp Gundian <choice>
+                     <expan/>
+                     <abbr>Seel:</abbr>
+                  </choice> Erben</rs> laut Anbringen de ps: 21<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 980
+      <lb facs="#facs_15_r1l6" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_15_r1l7" n="N007"/>In obigen Anbringen de ps: 21<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 980 haben die <rs type="person" key=", Personen ID=16221">Gundianische Erben </rs>
+               <lb facs="#facs_15_r1l8" n="N008"/>angezeiget, daß sie nach erfolgten Tod ihres Schwagers <rs type="person" key=", Personen ID=46305">Michäl Mann</rs> die
+      <lb facs="#facs_15_r1l9" n="N009"/>ihm anvertraute firma erloschen, und sie ihrem brudern <rs type="person" key=", Personen ID=42309">Joseph Franz Gundian</rs>
+               <lb facs="#facs_15_r1l10" n="N010"/>zu Verwaltung ihres Negotii und führung der Firma <unclear>beywaltet</unclear> haben
+      <lb facs="#facs_15_r1l11" n="N011"/>Oblatorien und Avocatorien
+      <lb facs="#facs_15_r1l12" n="N012"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
+            <ab>
+               <lb facs="#facs_16_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_16_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 980 haben die <rs type="person" key=", Personen ID=16221">Gundianischen<lb facs="#facs_16_r1l3" n="N003"/>
+               </rs>
+               <rs type="person" key=", Personen ID=16221">Erben<lb facs="#facs_16_r1l4" n="N004"/>
+               </rs>gemeinschafftlich unter der Raggion<rs type="person" key=", Personen ID=8105"> Philipp Gundian <choice>
+                     <expan/>
+                     <abbr>Seel:</abbr>
+                  </choice> Erben</rs> in <unclear>Con-</unclear>
+               <lb facs="#facs_16_r1l5" n="N005"/>formitate der Anzeige von <choice>
+                  <expan/>
+                  <abbr>Ao</abbr>
+               </choice> 718 führen.
+      <lb facs="#facs_16_r1l6" n="N006"/>Der <rs type="person" key=", Personen ID=46306">Gottlieb Schönthann</rs> hat ein von denen <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">zur</hi>
+               <rs type="person" key=", Personen ID=8105">Philipp Gundian <choice>
+                     <expan/>
+                     <abbr>seel:</abbr>
+                  </choice> Erben</rs> untern 9<hi rend="superscript">ten</hi> Julii
+      <lb facs="#facs_16_r1l7" n="N007"/>736 N<hi rend="superscript">o</hi> 1710 dahin ausgesteltes Instrument, daß er <rs type="person" key=", Personen ID=46306">Schönthann</rs> in ihrer handlung um den 7<hi rend="superscript">ten</hi> theil
+      <lb facs="#facs_16_r1l8" n="N008"/>utile e danno interessiret seye <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">seye</hi> wie auch den mit dem <rs type="person" key=", Personen ID=42309">Joseph Franz Gundian</rs> untern
+      <lb facs="#facs_16_r1l9" n="N009"/>1<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>8br:</abbr>
+               </choice> 730 abgeschlossenen Contract N<hi rend="superscript">o</hi> 2050 in Copia vidimata eingeleget, kraft welchen ihm
+      <lb facs="#facs_16_r1l10" n="N010"/>der <rs type="person" key=", Personen ID=42309">Gundian</rs> ein 7<hi rend="superscript">tl</hi> der handlung mit 20 <choice>
+                  <expan/>
+                  <abbr>pC<hi rend="superscript">to</hi>
+                  </abbr>
+               </choice> Rabbat <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 10400 fl baares Geld von 1<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>7br:</abbr>
+               </choice>
+               <lb facs="#facs_16_r1l11" n="N011"/>729 dergestalten verkaufet und überlassen hat, daß jedoch er, <rs type="person" key=", Personen ID=46306">Schönthann,</rs> falß er solches
+      <lb facs="#facs_16_r1l12" n="N012"/>nicht mehr für sich behalten, oder eine eigene Handlung errichten wolte, solches 1/7tl <unclear>denen</unclear>
+               <lb facs="#facs_16_r1l13" n="N013"/>interessenten auf gleiche Arth mit 20 <choice>
+                  <expan/>
+                  <abbr>pC<hi rend="superscript">to</hi>
+                  </abbr>
+               </choice> Rabbat anwiderum zurukzulassen und annoch
+      <lb facs="#facs_16_r1l14" n="N014"/>wenigstens durch 4 Jahr gegen dem ihm von samentlichen interessenten ausgeworfenen
+      <lb facs="#facs_16_r1l16" n="N015"/>Gehalt in der handlung verbleiben, und mit ihm <rs type="person" key=", Personen ID=42309">Gundian</rs> die Direction zu führen schuldig
+      <lb facs="#facs_16_r1l17" n="N016"/>seyn solle.
+      <lb facs="#facs_16_r1l18" n="N017"/>Heuraths Contract
+      <lb facs="#facs_16_r1l19" n="N018"/>Anmerckungen</ab>
+            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
+            <ab facs="#facs_17_r2" type="default">
+               <lb facs="#facs_17_r2l2" n="N001"/>412
+      <lb facs="#facs_17_r2l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_17_r2l3" n="N003"/>
+               <rs type="person" key=", Personen ID=8592">Gazzinelli Aurelio</rs> hofbefreyter Handlsmann
+      <lb facs="#facs_17_r2l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_17_r2l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46307">Aurelio Gazzinelli</rs> laut Anbringen de ps: 25<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 388
+      <lb facs="#facs_17_r2l6" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_17_r2l7" n="N007"/>Mitls Anbringen de ps: 16<hi rend="superscript">ten</hi> May 737 N<hi rend="superscript">o</hi> 982 hat der <rs type="person" key=", Personen ID=8592">Gazzinelli</rs> angezeiget das
+      <lb facs="#facs_17_r2l8" n="N008"/>er seinen Sohn <rs type="person" key=", Personen ID=46308">Joseph Gazzinelli</rs>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">die</hi> wehrend seiner Abwesenheit die <gap/>
+               <lb facs="#facs_17_r2l9" n="N009"/>die mit beygerukter Firma desselben in <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice> eingelegte Procura dd<hi rend="superscript">to</hi> 14<hi rend="superscript">ten</hi>
+               <lb facs="#facs_17_r2l10" n="N010"/>Max 737 N<hi rend="superscript">o</hi> 981 <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">er</hi> ertheilet habe.
+      <lb facs="#facs_17_r2l11" n="N011"/>Oblatorien und Avocatorien
+      <lb facs="#facs_17_r2l12" n="N012"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
+            <ab facs="#facs_18_r1" type="default">
+               <lb facs="#facs_18_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_18_r1l2" n="N002"/>In obigen Anbringen de ps: 25<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 388 hat sich der <rs type="person">Gazzinelli</rs>
+               <lb facs="#facs_18_r1l3" n="N003"/>erklähret, daß er mit keiner societaet oder interessenten behafftet
+      <lb facs="#facs_18_r1l4" n="N004"/>seye
+      <lb facs="#facs_18_r1l5" n="N005"/>Heuraths Contract
+      <lb facs="#facs_18_r1l6" n="N006"/>Anmerckungen</ab>
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
+            <ab facs="#facs_19_r1" type="default">
+               <lb facs="#facs_19_r1l2" n="N001"/>413
+      <lb facs="#facs_19_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_19_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=8598">Gugenberger Paul</rs> burgerlicher Handlsmann
+      <lb facs="#facs_19_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_19_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46309">Paul Gugenberger</rs> laut Erklährung dd<hi rend="superscript">to</hi> 17<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 389
+      <lb facs="#facs_19_r1l6" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_19_r1l8" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_19_r1l9" n="N008"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
+            <ab facs="#facs_20_r1" type="default">
+               <lb facs="#facs_20_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_20_r1l2" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 17<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 389 hat sich
+      <lb facs="#facs_20_r1l3" n="N003"/>der <rs type="person" key=", Personen ID=8598">Gugenberger</rs> geäussert, daß er sein Negotium <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">allen</hi>
+               <lb facs="#facs_20_r1l4" n="N004"/>ohne <choice>
+                  <expan>Compagnon</expan>
+                  <abbr>Comp:</abbr>
+               </choice> führe
+      <lb facs="#facs_20_r1l6" n="N005"/>Heuraths Contract
+      <lb facs="#facs_20_r1l7" n="N006"/>Anmerckungen</ab>
+            <pb facs="#facs_21" n="21" xml:id="img_0021"/>
+            <ab facs="#facs_21_r2" type="page-numberpage-number">
+               <lb facs="#facs_21_r2l1" n="N001"/>414</ab>
+            <ab facs="#facs_21_r1" type="default">
+               <lb facs="#facs_21_r1l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_21_r1l2" n="N002"/>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Göttz</hi>
+               <rs type="person" key=", Personen ID=8955">Götz Georg</rs> burgerlicher Handlsmann
+      <lb facs="#facs_21_r1l3" n="N003"/>Firma ad Raggion
+      <lb facs="#facs_21_r1l4" n="N004"/>
+               <rs type="person" key=", Personen ID=46310">Geörg Götz</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 390
+      <lb facs="#facs_21_r1l5" n="N005"/>Procura und Firmae Trager
+      <lb facs="#facs_21_r1l6" n="N006"/>Oblatorien und Avocatorien
+      <lb facs="#facs_21_r1l7" n="N007"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
+            <ab facs="#facs_22_r1" type="default">
+               <lb facs="#facs_22_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_22_r1l3" n="N002"/>In obiger Erklährung ddto 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 390 hat sich
+      <lb facs="#facs_22_r1l4" n="N003"/>der <rs type="person" key=", Personen ID=8955">Götz</rs> geäusseret, daß er seine handlung für sich allein 
+      <lb facs="#facs_22_r1l5" n="N004"/>führe
+      <lb facs="#facs_22_r1l6" n="N005"/>Heuraths Contract
+      <lb facs="#facs_22_r1l7" n="N006"/>Anmerckungen</ab>
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/>
+            <ab facs="#facs_23_r1" type="default">
+               <lb facs="#facs_23_r1l2" n="N001"/>415
+      <lb facs="#facs_23_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_23_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=17436">Gallermayr Georg Philipp</rs> burgerlicher Handlsmann
+      <lb facs="#facs_23_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_23_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46311">Georg Philipp Gallermayr</rs> laut Erklährung dd<hi rend="superscript">to</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice>
+               <lb facs="#facs_23_r1l6" n="N006"/>725 N<hi rend="superscript">o</hi> 391
+      <lb facs="#facs_23_r1l7" n="N007"/>Procura und Firmae Trager
+      <lb facs="#facs_23_r1l8" n="N008"/>Oblatorien und Avocatorien
+      <lb facs="#facs_23_r1l9" n="N009"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
+            <ab facs="#facs_24_r1" type="default">
+               <lb facs="#facs_24_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_24_r1l2" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 17<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 391 hat sich
+      <lb facs="#facs_24_r1l3" n="N003"/>der <rs type="person" key=", Personen ID=17436">Gallermayr</rs> geäusserert, daß er <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">mit keinen</hi> weder hier
+      <lb facs="#facs_24_r1l4" n="N004"/>noch auswerths in Compagnie stehe.
+      <lb facs="#facs_24_r1l5" n="N005"/>Heuraths Contract
+      <lb facs="#facs_24_r1l6" n="N006"/>Anmerckungen</ab>
+            <pb facs="#facs_25" n="25" xml:id="img_0025"/>
+            <ab facs="#facs_25_r2" type="default">
+               <lb facs="#facs_25_r2l2" n="N001"/>416
+      <lb facs="#facs_25_r2l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_25_r2l3" n="N003"/>
+               <rs type="person" key=", Personen ID=1864">Güsser Michäl Franz</rs> bürgerlicher Handlsmann
+      <lb facs="#facs_25_r2l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_25_r2l5" n="N005"/>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">N</hi>
+               <rs type="person" key=", Personen ID=46312">Michael Franz <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Güs</hi> Güsser</rs> laut Erklährung dd<hi rend="superscript">to</hi>
+               <lb facs="#facs_25_r2l6" n="N006"/>17<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 392
+      <lb facs="#facs_25_r2l7" n="N007"/>Procura und Firmae Trager
+      <lb facs="#facs_25_r2l8" n="N008"/>Oblatorien und Avocatorien
+      <lb facs="#facs_25_r2l9" n="N009"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
+            <ab facs="#facs_26_r1" type="default">
+               <lb facs="#facs_26_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_26_r1l2" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 17<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 392 hat sich der
+      <lb facs="#facs_26_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=1864">Güsser</rs> geäusseret, das er sein negotium ohne Compagnon führe
+      <lb facs="#facs_26_r1l5" n="N004"/>Heuraths Contract
+      <lb facs="#facs_26_r1l6" n="N005"/>Anmerckungen</ab>
+            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
+            <ab facs="#facs_27_r1" type="default">
+               <lb facs="#facs_27_r1l2" n="N001"/>417
+      <lb facs="#facs_27_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_27_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=10872">Gläßer Andre</rs> burgerlicher Handlsmann
+      <lb facs="#facs_27_r1l5" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_27_r1l6" n="N005"/>
+               <rs type="person" key=", Personen ID=46313">Andreas Gläßer</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 393
+      <lb facs="#facs_27_r1l7" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_27_r1l8" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_27_r1l9" n="N008"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
+            <ab facs="#facs_28_r1" type="default">
+               <lb facs="#facs_28_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_28_r1l2" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 393 hat sich der
+      <lb facs="#facs_28_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=10872">Gläßer</rs> geäusseret, daß er seine Handlung ohne socio führe.
+      <lb facs="#facs_28_r1l5" n="N004"/>Heuraths Contract
+      <lb facs="#facs_28_r1l6" n="N005"/>Anmerckungen</ab>
+            <pb facs="#facs_29" n="29" xml:id="img_0029"/>
+            <ab facs="#facs_29_r2" type="default">
+               <lb facs="#facs_29_r2l2" n="N001"/>418
+      <lb facs="#facs_29_r2l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_29_r2l3" n="N003"/>
+               <rs type="person" key=", Personen ID=8817">Gnändl Johann Joseph</rs> burgerlicher Handlsmann
+      <lb facs="#facs_29_r2l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_29_r2l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46314">Johannes Joseph Gnädl</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725
+      <lb facs="#facs_29_r2l6" n="N006"/>N<hi rend="superscript">o</hi> 394
+      <lb facs="#facs_29_r2l7" n="N007"/>Procura und Firmae Trager
+      <lb facs="#facs_29_r2l8" n="N008"/>Oblatorien und Avocatorien
+      <lb facs="#facs_29_r2l9" n="N009"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
+            <ab facs="#facs_30_r1" type="default">
+               <lb facs="#facs_30_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_30_r1l2" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 17<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 394 hat sich der
+      <lb facs="#facs_30_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=8817">Gnädl</rs> geäusseret, daß er mit keinem Compagnon verstanden
+      <lb facs="#facs_30_r1l4" n="N004"/>seye
+      <lb facs="#facs_30_r1l6" n="N005"/>Heuraths Contract
+      <lb facs="#facs_30_r1l7" n="N006"/>Anmerckungen</ab>
+            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
+            <ab facs="#facs_31_r1" type="default">
+               <lb facs="#facs_31_r1l2" n="N001"/>419
+      <lb facs="#facs_31_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_31_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=41439">Gierardi Pietro</rs> burgerlicher Handlsmann
+      <lb facs="#facs_31_r1l5" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_31_r1l6" n="N005"/>
+               <rs type="person" key=", Personen ID=46315">Pietro Gierardi</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 395
+      <lb facs="#facs_31_r1l7" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_31_r1l8" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_31_r1l9" n="N008"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_32" n="32" xml:id="img_0032"/>
+            <ab facs="#facs_32_r1" type="default">
+               <lb facs="#facs_32_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_32_r1l2" n="N002"/>In obigen Anbringen dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 395 hat sich der
+      <lb facs="#facs_32_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=41439">Gierardi</rs> geäusseret, das er sein negotium ohne Compagnon
+      <lb facs="#facs_32_r1l4" n="N004"/>führe
+      <lb facs="#facs_32_r1l7" n="N005"/>Heuraths Contract
+      <lb facs="#facs_32_r1l8" n="N006"/>Anmerckungen</ab>
+            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
+            <ab facs="#facs_33_r2" type="default">
+               <lb facs="#facs_33_r2l2" n="N001"/>420
+      <lb facs="#facs_33_r2l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_33_r2l3" n="N003"/>
+               <rs type="person" key=", Personen ID=26080">Grindtler Johann Gregor</rs> burgerlicher Handlsmann
+      <lb facs="#facs_33_r2l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_33_r2l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46316">Johann Gregory Grindtler</rs> laut Erklährung dd<hi rend="superscript">to</hi> 17<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice>
+               <lb facs="#facs_33_r2l6" n="N006"/>725 N<hi rend="superscript">o</hi> 396
+      <lb facs="#facs_33_r2l7" n="N007"/>Procura und Firmae Trager
+      <lb facs="#facs_33_r2l8" n="N008"/>Oblatorien und Avocatorien
+      <lb facs="#facs_33_r2l9" n="N009"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
+            <ab facs="#facs_34_r1" type="default">
+               <lb facs="#facs_34_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_34_r1l2" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 17<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 396 hat sich
+      <lb facs="#facs_34_r1l3" n="N003"/>der <rs type="person" key=", Personen ID=26080">Grindtler</rs> geäusseret, das er keinen Compagnon habe.
+      <lb facs="#facs_34_r1l5" n="N004"/>Heuraths Contract
+      <lb facs="#facs_34_r1l6" n="N005"/>Anmerckungen</ab>
+            <pb facs="#facs_35" n="35" xml:id="img_0035"/>
+            <ab facs="#facs_35_r1" type="default">
+               <lb facs="#facs_35_r1l2" n="N001"/>421
+      <lb facs="#facs_35_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_35_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=22393">v. Gotesching Wenzl Franz</rs> burgerlicher Handlsmann
+      <lb facs="#facs_35_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_35_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46317">Wenzl Franz v. Gotesching</rs> laut Erklährung dd<hi rend="superscript">to</hi> 17<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725
+      <lb facs="#facs_35_r1l6" n="N006"/>N<hi rend="superscript">o</hi> 397.
+      <lb facs="#facs_35_r1l7" n="N007"/>Procura und Firmae Trager
+      <lb facs="#facs_35_r1l8" n="N008"/>Oblatorien und Avocatorien
+      <lb facs="#facs_35_r1l9" n="N009"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
+            <ab facs="#facs_36_r1" type="default">
+               <lb facs="#facs_36_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_36_r1l2" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 17<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 397 hat sich
+      <lb facs="#facs_36_r1l3" n="N003"/>der <rs type="person" key=", Personen ID=22393">Gotesching</rs> geäusseret, daß er als vorhin <unclear>Buzischer</unclear>
+               <lb facs="#facs_36_r1l4" n="N004"/>Compagnon die Handlung an sich allein übernohmen habe.
+      <lb facs="#facs_36_r1l5" n="N005"/>Heuraths Contract
+      <lb facs="#facs_36_r1l6" n="N006"/>Anmerckungen</ab>
+            <pb facs="#facs_37" n="37" xml:id="img_0037"/>
+            <ab facs="#facs_37_r1" type="default">
+               <lb facs="#facs_37_r1l1" n="N001"/>71</ab>
+            <ab facs="#facs_37_r3" type="page-numberpage-number">
+               <lb facs="#facs_37_r3l1" n="N001"/>422</ab>
+            <ab facs="#facs_37_r2" type="default">
+               <lb facs="#facs_37_r2l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_37_r2l2" n="N002"/>
+               <rs type="person" key=", Personen ID=28222">Gropp Franz Oswald</rs> burgerlicher Handlsmann
+      <lb facs="#facs_37_r2l3" n="N003"/>Firma ad Raggion
+      <lb facs="#facs_37_r2l4" n="N004"/>
+               <rs type="person" key=", Personen ID=46318">Franz Oswalt Gropp</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 398
+      <lb facs="#facs_37_r2l5" n="N005"/>Procura und Firmae Trager
+      <lb facs="#facs_37_r2l6" n="N006"/>Oblatorien und Avocatorien
+      <lb facs="#facs_37_r2l7" n="N007"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
+            <ab facs="#facs_38_r1" type="default">
+               <lb facs="#facs_38_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_38_r1l2" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 398 hat sich der <rs type="person" key=", Personen ID=28222">Gropp</rs>
+               <lb facs="#facs_38_r1l3" n="N003"/>geäusseret, daß er keinen Compagnon habe.
+      <lb facs="#facs_38_r1l4" n="N004"/>Heuraths Contract
+      <lb facs="#facs_38_r1l5" n="N005"/>Anmerckungen</ab>
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
+            <ab facs="#facs_39_r2" type="page-numberpage-number">
+               <lb facs="#facs_39_r2l1" n="N001"/>423</ab>
+            <ab facs="#facs_39_r1" type="default">
+               <lb facs="#facs_39_r1l2" n="N001"/>Nahmen und Class
+      <lb facs="#facs_39_r1l3" n="N002"/>
+               <rs type="person" key=", Personen ID=46319">Goffet Joseph</rs> burgerlicher Handlsmann
+      <lb facs="#facs_39_r1l4" n="N003"/>Firma ad Raggion
+      <lb facs="#facs_39_r1l5" n="N004"/>
+               <rs type="person" key=", Personen ID=46320">Joseph Goffet</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 399
+      <lb facs="#facs_39_r1l7" n="N005"/>Procura und Firmae Trager
+      <lb facs="#facs_39_r1l8" n="N006"/>Oblatorien und Avocatorien
+      <lb facs="#facs_39_r1l9" n="N007"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
+            <ab facs="#facs_40_r1" type="default">
+               <lb facs="#facs_40_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_40_r1l2" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 399 hat sich der
+      <lb facs="#facs_40_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=46319">Goffet</rs> geäusseret, das er keinen Compagnon habe.
+      <lb facs="#facs_40_r1l4" n="N004"/>Heuraths Contract
+      <lb facs="#facs_40_r1l5" n="N005"/>Anmerckungen</ab>
+            <pb facs="#facs_41" n="41" xml:id="img_0041"/>
+            <ab>
+               <lb facs="#facs_41_r1l1" n="N001"/>424
+      <lb facs="#facs_41_line_1624374046149_372" n="N002"/>Nahmen und Class
+      <lb facs="#facs_41_r1l2" n="N003"/>
+               <rs type="person" key=", Personen ID=46321">Glickh Johann Michäl</rs> burgerlicher Handlsmann
+      <lb facs="#facs_41_r1l3" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_41_r1l4" n="N005"/>
+               <rs type="person" key=", Personen ID=46322">Johann Michael Glickh</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 400
+      <lb facs="#facs_41_r1l6" n="N006"/>Vermög Anbringen de ps: 21<hi rend="superscript">ten</hi> Aprilis 760 hat des <rs type="person" key=", Personen ID=46323">Johann Michael Glück <choice>
+                     <expan/>
+                     <abbr>seel:</abbr>
+                  </choice>
+                  <lb facs="#facs_41_r1l7" n="N007"/>Wittib</rs> ihre firma eingeleget. <choice>
+                  <expan/>
+                  <abbr>nro</abbr>
+               </choice> 400 1/2
+      <lb facs="#facs_41_r1l8" n="N008"/>Procura und Firmae Trager
+      <lb facs="#facs_41_r1l9" n="N009"/>Oblatorien und Avocatorien
+      <lb facs="#facs_41_r1l10" n="N010"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
+            <ab facs="#facs_42_r2" type="default">
+               <lb facs="#facs_42_r2l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_42_r2l2" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 400 hat sich der 
+      <lb facs="#facs_42_r2l3" n="N003"/>
+               <rs type="person" key=", Personen ID=46321">Glickh</rs> geäusseret, daß er ohne alle Compagnie seye
+      <lb facs="#facs_42_r2l5" n="N004"/>Heuraths Contract
+      <lb facs="#facs_42_r2l6" n="N005"/>Anmerckungen</ab>
+            <pb facs="#facs_43" n="43" xml:id="img_0043"/>
+            <ab facs="#facs_43_r1" type="default">
+               <lb facs="#facs_43_r1l2" n="N001"/>425
+      <lb facs="#facs_43_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_43_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=46324">Grosserbauer Johann</rs> burgerlicher Handlsmann
+      <lb facs="#facs_43_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_43_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46325">Johann Grosserbauer</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi>
+               <unclear>401</unclear>
+               <lb facs="#facs_43_r1l6" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_43_r1l7" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_43_r1l8" n="N008"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_44" n="44" xml:id="img_0044"/>
+            <ab facs="#facs_44_r1" type="default">
+               <lb facs="#facs_44_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_44_r1l2" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 401 hat sich der 
+      <lb facs="#facs_44_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=46324">Grosserbauer</rs> geäusseret, das er weder hier noch auswärths einige
+      <lb facs="#facs_44_r1l4" n="N004"/>Compagnie habe.
+      <lb facs="#facs_44_r1l5" n="N005"/>Heuraths Contract
+      <lb facs="#facs_44_r1l6" n="N006"/>Anmerckungen</ab>
+            <pb facs="#facs_45" n="45" xml:id="img_0045"/>
+            <ab facs="#facs_45_r2" type="default">
+               <lb facs="#facs_45_r2l4" n="N001"/>426
+      <lb facs="#facs_45_r2l3" n="N002"/>Nahmen und Class
+      <lb facs="#facs_45_r2l5" n="N003"/>
+               <rs type="person" key=", Personen ID=12379">Gugenberger Johann</rs> burgerlicher Handlsmann
+      <lb facs="#facs_45_r2l6" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_45_r2l7" n="N005"/>
+               <rs type="person" key=", Personen ID=46326">Johann Gugenberger</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 402
+      <lb facs="#facs_45_r2l8" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_45_r2l9" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_45_r2l10" n="N008"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
+            <ab facs="#facs_46_r1" type="default">
+               <lb facs="#facs_46_r1l2" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_46_r1l3" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 725 hat sich der 
+      <lb facs="#facs_46_r1l4" n="N003"/>
+               <rs type="person" key=", Personen ID=12379">Gugenberger</rs> geäusseret, daß er seine Handlung ohne
+      <lb facs="#facs_46_r1l5" n="N004"/>Compagnie führe
+      <lb facs="#facs_46_r1l6" n="N005"/>Heuraths Contract
+      <lb facs="#facs_46_r1l7" n="N006"/>Anmerckungen</ab>
+            <pb facs="#facs_47" n="47" xml:id="img_0047"/>
+            <ab facs="#facs_47_r1" type="default">
+               <lb facs="#facs_47_r1l2" n="N001"/>427
+      <lb facs="#facs_47_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_47_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=46327">Golthann Johann Adam</rs> burgerlicher Eysenhandler
+      <lb facs="#facs_47_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_47_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46328">Johann Adam Golthann</rs> laut Anbringen de ps: 20<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Aug:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi>
+               <lb facs="#facs_47_r1l6" n="N006"/>403
+      <lb facs="#facs_47_r1l7" n="N007"/>Procura und Firmae Trager
+      <lb facs="#facs_47_r1l8" n="N008"/>Oblatorien und Avocatorien
+      <lb facs="#facs_47_r1l9" n="N009"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_48" n="48" xml:id="img_0048"/>
+            <ab facs="#facs_48_r1" type="default">
+               <lb facs="#facs_48_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_48_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Aug:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 403 hat sich 
+      <lb facs="#facs_48_r1l3" n="N003"/>der <rs type="person" key=", Personen ID=46327">Golthann</rs> erklähret, daß er seine Handlung ohne Com-
+      <lb facs="#facs_48_r1l4" n="N004"/>pagnie führe
+      <lb facs="#facs_48_r1l5" n="N005"/>Heuraths Contract
+      <lb facs="#facs_48_r1l6" n="N006"/>Anmerckungen</ab>
+            <pb facs="#facs_49" n="49" xml:id="img_0049"/>
+            <ab facs="#facs_49_r1" type="default">
+               <lb facs="#facs_49_r1l2" n="N001"/>426
+      <lb facs="#facs_49_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_49_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=46329">Gäbler Johann Jacob</rs> burgerlicher Eysenhandler
+      <lb facs="#facs_49_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_49_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46330">Johann Jacob Gäbler</rs> laut Anbringen de ps: 20<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Aug:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 404
+      <lb facs="#facs_49_r1l6" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_49_r1l7" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_49_r1l8" n="N008"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_50" n="50" xml:id="img_0050"/>
+            <ab facs="#facs_50_r1" type="default">
+               <lb facs="#facs_50_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_50_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Aug:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 404 hat sich der <rs type="person" key=", Personen ID=46329">Gäbler</rs>
+               <lb facs="#facs_50_r1l3" n="N003"/>erklähret, das er seine handlung ohne Compagnie führe.
+      <lb facs="#facs_50_r1l4" n="N004"/>Heuraths Contract
+      <lb facs="#facs_50_r1l5" n="N005"/>Anmerckungen</ab>
+            <pb facs="#facs_51" n="51" xml:id="img_0051"/>
+            <ab facs="#facs_51_r2" type="default">
+               <lb facs="#facs_51_r2l2" n="N001"/>429
+      <lb facs="#facs_51_r2l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_51_r2l3" n="N003"/>
+               <rs type="person" key=", Personen ID=46331">von der Glokhen Johann Georg</rs> burger leinwathhandler
+      <lb facs="#facs_51_r2l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_51_r2l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46332">Johann Georg von der Glokhen</rs> laut Anbringen de ps: 23<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Aug:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 405
+      <lb facs="#facs_51_r2l6" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_51_r2l7" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_51_r2l8" n="N008"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_52" n="52" xml:id="img_0052"/>
+            <ab facs="#facs_52_r1" type="default">
+               <lb facs="#facs_52_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_52_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Aug:</abbr>
+               </choice> 725 N<hi rend="superscript">o</hi> 405 hat sich der
+      <lb facs="#facs_52_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=46331">VonderGlokhen</rs> erklähret, daß er keinen Compagnon habe.
+      <lb facs="#facs_52_r1l4" n="N004"/>Heuraths Contract
+      <lb facs="#facs_52_r1l5" n="N005"/>Anmerckungen</ab>
+            <pb facs="#facs_53" n="53" xml:id="img_0053"/>
+            <ab facs="#facs_53_r1" type="default">
+               <lb facs="#facs_53_r1l2" n="N001"/>430
+      <lb facs="#facs_53_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_53_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=19817">Gouttro Franz</rs> burgerlicher Handlsmann
+      <lb facs="#facs_53_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_53_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46335">Frantz Gouttro</rs> laut Erklährung dd<hi rend="superscript">to</hi> 18<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Jul:</abbr>
+               </choice> 726 N<hi rend="superscript">o</hi> 407
+      <lb facs="#facs_53_r1l6" n="N006"/>
+               <rs type="person" key=", Personen ID=46333">Gouttro et Schußböckh</rs> laut Erklährung dd<hi rend="superscript">to</hi> 17<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Janu:</abbr>
+               </choice> 747 N<hi rend="superscript">o</hi> 1952
+      <lb facs="#facs_53_r1l8" n="N007"/>Procura und Firmae Trager
+      <lb facs="#facs_53_r1l9" n="N008"/>Oblatorien und Avocatorien
+      <lb facs="#facs_53_r1l10" n="N009"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_54" n="54" xml:id="img_0054"/>
+            <ab>
+               <lb facs="#facs_54_r2l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_54_r2l2" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 18<hi rend="superscript">ten</hi> Julii 726 N<hi rend="superscript">o</hi> 407 hat sich der
+      <lb facs="#facs_54_r2l3" n="N003"/>
+               <rs type="person" key=", Personen ID=19817">Gouttro</rs> geäusseret, daß er mit keinen Compagnon verstanden seye.
+      <lb facs="#facs_54_r2l4" n="N004"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 17<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Janu:</abbr>
+               </choice> 727 N<hi rend="superscript">o</hi> 1952 hat sich die
+      <lb facs="#facs_54_r2l5" n="N005"/>Raggion <rs type="person" key=", Personen ID=46333">Gouttro et Schußbökh</rs> geäusseret, daß der <rs type="person" key=", Personen ID=46334">Johann<lb facs="#facs_54_r2l6" n="N006"/>Schußbökh</rs> mit dem <rs type="person" key=", Personen ID=19817">Franz Gouttro</rs> in Compagnie getreten seye
+      <lb facs="#facs_54_r2l7" n="N007"/>beede diese Handlung miteinander führen
+      <lb facs="#facs_54_r2l8" n="N008"/>Heuraths Contract
+      <lb facs="#facs_54_r2l9" n="N009"/>Anmerckungen
+      <lb facs="#facs_54_r2l10" n="N010"/>Vermög Anzeige von <choice>
+                  <expan/>
+                  <abbr>burg:</abbr>
+               </choice> Handelstand de ps: 10<hi rend="superscript">ten</hi> April 766
+      <lb facs="#facs_54_r2l11" n="N011"/>ist der <rs type="person" key=", Personen ID=19817">Franz Goutro</rs> verstorben und ist solche
+      <lb facs="#facs_54_r2l12" n="N012"/>Anzeige bey der firma sub <choice>
+                  <expan/>
+                  <abbr>nro</abbr>
+               </choice> 407 aufbehalten.</ab>
+            <pb facs="#facs_55" n="55" xml:id="img_0055"/>
+            <ab facs="#facs_55_r1" type="default">
+               <lb facs="#facs_55_r1l2" n="N001"/>431
+      <lb facs="#facs_55_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_55_r1l4" n="N003"/>
+               <rs type="person" key=", Personen ID=46336">Gunrisch <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Thomas</hi> Johann</rs> burgerlicher Handlsmann
+      <lb facs="#facs_55_r1l5" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_55_r1l6" n="N005"/>
+               <rs type="person" key=", Personen ID=46337">Johanneß Günrisch</rs> laut Erklährung dd<hi rend="superscript">to</hi> 13<hi rend="superscript">ten</hi> Julii 726 N<hi rend="superscript">o</hi> 408
+      <lb facs="#facs_55_r1l7" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_55_r1l8" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_55_r1l9" n="N008"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_56" n="56" xml:id="img_0056"/>
+            <ab facs="#facs_56_r1" type="default">
+               <lb facs="#facs_56_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_56_r1l2" n="N002"/>Heuraths Contract
+      <lb facs="#facs_56_r1l3" n="N003"/>Anmerckungen</ab>
+            <pb facs="#facs_57" n="57" xml:id="img_0057"/>
+            <ab facs="#facs_57_r2" type="page-numberpage-number">
+               <lb facs="#facs_57_r2l1" n="N001"/>432</ab>
+            <ab facs="#facs_57_r1" type="default">
+               <lb facs="#facs_57_r1l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_57_r1l3" n="N002"/>
+               <rs type="person" key=", Personen ID=25454">Gschaidter Matthias Franz</rs> k. k. Niderlags <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">burgerlicher Tuchlaubens</hi> Verwanter
+      <lb facs="#facs_57_r1l4" n="N003"/>Firma ad Raggion
+      <lb facs="#facs_57_r1l5" n="N004"/>
+               <rs type="person" key=", Personen ID=46339">Gschaidter und Wipacher</rs> laut Anbringen de ps: 13<hi rend="superscript">ten</hi> May 728 N<hi rend="superscript">o</hi> 1954
+      <lb facs="#facs_57_r1l6" n="N005"/>
+               <rs type="person" key=", Personen ID=46338">Mathias Franz Geschaidter</rs> laut Anbringen de ps: 7<hi rend="superscript">ten</hi> Junii 731 N<hi rend="superscript">o</hi> 1955
+      <lb facs="#facs_57_r1l7" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_57_r1l8" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_57_r1l9" n="N008"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_58" n="58" xml:id="img_0058"/>
+            <ab>
+               <lb facs="#facs_58_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_58_r1l2" n="N002"/>In obigen anbringen de ps: 13<hi rend="superscript">ten</hi> May 728 N<hi rend="superscript">o</hi> 1954 hat sich der <rs type="person" key=", Personen ID=25454">Mat-<lb facs="#facs_58_r1l3" n="N003"/>thias Franz Geschaider</rs> und <rs type="person" key=", Personen ID=29323">Paul Wippacher</rs> erklähret, das sie ihre handlung
+      <lb facs="#facs_58_r1l4" n="N004"/>miteinander unter der societaets raggion <rs type="person" key=", Personen ID=46339">Gschaidter und Wipacher</rs>
+               <lb facs="#facs_58_r1l5" n="N005"/>führen
+      <lb facs="#facs_58_r1l6" n="N006"/>In obigen Anbringen de ps: 7<hi rend="superscript">ten</hi> Junii 731 N<hi rend="superscript">o</hi> 1955 hat <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">sich</hi> der <rs type="person" key=", Personen ID=25454">
+                  <unclear>Mat</unclear>
+                  <lb facs="#facs_58_r1l7" n="N007"/>Franz Gschaidter</rs> angezeiget, daß er sich von dem <rs type="person" key=", Personen ID=29323">Paul Wipacher</rs>
+               <lb facs="#facs_58_r1l8" n="N008"/>separiret und sich allein stabiliret habe.
+      <lb facs="#facs_58_r1l9" n="N009"/>Heuraths Contract
+      <lb facs="#facs_58_r1l10" n="N010"/>Anmerckungen</ab>
+            <pb facs="#facs_59" n="59" xml:id="img_0059"/>
+            <ab facs="#facs_59_r3" type="default">
+               <lb facs="#facs_59_r3l2" n="N001"/>433
+      <lb facs="#facs_59_r3l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_59_r3l3" n="N003"/>
+               <rs type="person" key=", Personen ID=17649">Gugenberger Johann <unclear>D<hi rend="superscript"/>
+                     <hi rend="superscript">co</hi>
+                  </unclear>
+                  <hi rend="superscript">co</hi>
+               </rs> burgerlicher Handlsmann
+      <lb facs="#facs_59_r3l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_59_r3l5" n="N005"/>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Johan</hi>
+               <rs type="person" key=", Personen ID=46340">Johann D<hi rend="superscript">co</hi> Gugenberger</rs> laut Erklährung dd<hi rend="superscript">to</hi> 9<hi rend="superscript">ten</hi> Junii
+      <lb facs="#facs_59_r3l6" n="N006"/>728 N<hi rend="superscript">o</hi> 409
+      <lb facs="#facs_59_r3l7" n="N007"/>Procura und Firmae Trager
+      <lb facs="#facs_59_r3l8" n="N008"/>Oblatorien und Avocatorien
+      <lb facs="#facs_59_r3l9" n="N009"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
+            <ab facs="#facs_60_r1" type="default">
+               <lb facs="#facs_60_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_60_r1l2" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 9<hi rend="superscript">ten</hi> Junii 728 N<hi rend="superscript">o</hi> 409 hat sich der
+      <lb facs="#facs_60_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=17649">Gugenberger</rs> geäusseret das er seine Handlung für sich allein
+      <lb facs="#facs_60_r1l4" n="N004"/>führe
+      <lb facs="#facs_60_r1l5" n="N005"/>Heuraths Contract
+      <lb facs="#facs_60_r1l6" n="N006"/>Anmerckungen</ab>
+            <pb facs="#facs_61" n="61" xml:id="img_0061"/>
+            <ab facs="#facs_61_r3" type="default">
+               <lb facs="#facs_61_r3l2" n="N001"/>434
+      <lb facs="#facs_61_r3l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_61_r3l3" n="N003"/>
+               <rs type="person" key=", Personen ID=29568">Grässl Frantz Anton</rs> burgerlicher Handlsmann
+      <lb facs="#facs_61_r3l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_61_r3l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46341">Frantz Antonj Grässl</rs> laut Erklährung dd<hi rend="superscript">to</hi> 15<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>7br:</abbr>
+               </choice> 729 N<hi rend="superscript">o</hi> 410
+      <lb facs="#facs_61_r3l6" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_61_r3l7" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_61_r3l8" n="N008"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_62" n="62" xml:id="img_0062"/>
+            <ab facs="#facs_62_r1" type="default">
+               <lb facs="#facs_62_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_62_r1l2" n="N002"/>In obiger Erkährung dd<hi rend="superscript">to</hi> 15<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>7br:</abbr>
+               </choice> 729 N<hi rend="superscript">o</hi> 410 hat sich der
+      <lb facs="#facs_62_r1l4" n="N003"/>
+               <rs type="person" key=", Personen ID=29568">Grässl</rs> geäusseret, daß er seine Handlung ohne Compagnon
+      <lb facs="#facs_62_r1l5" n="N004"/>führe
+      <lb facs="#facs_62_r1l6" n="N005"/>Heuraths Contract
+      <lb facs="#facs_62_r1l7" n="N006"/>Anmerckungen</ab>
+            <pb facs="#facs_63" n="63" xml:id="img_0063"/>
+            <ab>
+               <lb facs="#facs_63_r1l2" n="N001"/>435
+      <lb facs="#facs_63_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_63_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=24512">Gromes Johann Georg</rs> burgerlicher Handlsmann
+      <lb facs="#facs_63_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_63_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=43229">Johann Georg Gromes e <choice>
+                     <expan/>
+                     <abbr>Comp:</abbr>
+                  </choice>
+               </rs> laut Anbringen de ps: 27<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Mart:</abbr>
+               </choice> 732
+      <lb facs="#facs_63_r1l6" n="N006"/>N<hi rend="superscript">o</hi> 1956
+      <lb facs="#facs_63_r1l7" n="N007"/>
+               <rs type="person" key=", Personen ID=46342">Johann Georg Gromes</rs> laut Anbringen de ps: 13<hi rend="superscript">ten</hi> Julii 739 N<hi rend="superscript">o</hi> 1959
+      <lb facs="#facs_63_r1l8" n="N008"/>Procura und Firmae Trager
+      <lb facs="#facs_63_r1l9" n="N009"/>In obigen Anbringen de ps: 27<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Mart:</abbr>
+               </choice> 732 N<hi rend="superscript">o</hi> 1956 ist die Firma der
+      <lb facs="#facs_63_r1l10" n="N010"/>Raggion <rs type="person" key=", Personen ID=43229">Johann Georg Gromes e <choice>
+                     <expan/>
+                     <abbr>Comp:</abbr>
+                  </choice>
+               </rs>
+               <choice>
+                  <expan/>
+                  <abbr/>
+               </choice> von beeden sociis <rs type="person" key=", Personen ID=24512">Johann<lb facs="#facs_63_r1l11" n="N011"/>Georg Gromes</rs> und <rs type="person" key=", Personen ID=5636">Hieronimo Rigotti</rs> eingeleget worden.
+      <lb facs="#facs_63_r1l12" n="N012"/>Oblatorien und Avocatorien
+      <lb facs="#facs_63_r1l13" n="N013"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_64" n="64" xml:id="img_0064"/>
+            <ab>
+               <lb facs="#facs_64_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_64_r1l2" n="N002"/>In obigen Anbringen de ps: 27<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Mart:</abbr>
+               </choice> 732 N<hi rend="superscript">o</hi> 1956 hat sich
+      <lb facs="#facs_64_r1l3" n="N003"/>der <rs type="person" key=", Personen ID=24512">Johann Georg Gromes</rs> und Hiernonimo Rigotti erklähret
+      <lb facs="#facs_64_r1l4" n="N004"/>das sie unter der Raggion <rs type="person" key=", Personen ID=43229">Johann Georg Gromes e <choice>
+                     <expan/>
+                     <abbr>Comp:</abbr>
+                  </choice>
+               </rs> mit einander
+      <lb facs="#facs_64_r1l5" n="N005"/>in Compagnie stehen
+      <lb facs="#facs_64_r1l6" n="N006"/>Mitls obigen Anbringen de ps: 13<hi rend="superscript">ten</hi> Julii 739 N<hi rend="superscript">o</hi> 1959 hat der <rs type="person" key=", Personen ID=24512">Johann Georg<lb facs="#facs_64_r1l7" n="N007"/>Gromes</rs> angezeiget das die zwischen ihm und dem <rs type="person" key=", Personen ID=5636">Hieronimo Rigotti</rs> vor
+      <lb facs="#facs_64_r1l8" n="N008"/>geweste <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Comp</hi> Societaet gänzlich aufgehoben seye und dem <rs type="person" key=", Personen ID=5636">Rigotti</rs>
+               <lb facs="#facs_64_r1l9" n="N009"/>seines quanti halber wirklichen abgefertiget und er <rs type="person" key=", Personen ID=24512">Grones</rs> die
+      <lb facs="#facs_64_r1l10" n="N010"/>handlung künftighin unter seinen alleinigen <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Nahm</hi> obligo und
+      <lb facs="#facs_64_r1l11" n="N011"/>Nahmen continuiren werde.
+      <lb facs="#facs_64_r1l12" n="N012"/>Heuraths Contract
+      <lb facs="#facs_64_r1l13" n="N013"/>Anmerckungen</ab>
+            <pb facs="#facs_65" n="65" xml:id="img_0065"/>
+            <ab facs="#facs_65_r1" type="default">
+               <lb facs="#facs_65_r1l2" n="N001"/>436
+      <lb facs="#facs_65_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_65_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=46343">Gruber Leopold</rs> burgerlicher Handlsmann
+      <lb facs="#facs_65_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_65_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46344">Leopoldt <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Gru</hi> Gruber</rs> laut Erklährung dd<hi rend="superscript">to</hi> 23<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Mart:</abbr>
+               </choice> 733 N<hi rend="superscript">o</hi> 411
+      <lb facs="#facs_65_r1l6" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_65_r1l7" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_65_r1l8" n="N008"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_66" n="66" xml:id="img_0066"/>
+            <ab facs="#facs_66_r1" type="default">
+               <lb facs="#facs_66_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_66_r1l2" n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 23<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Mart:</abbr>
+               </choice> 733 N<hi rend="superscript">o</hi> 411 hat sich
+      <lb facs="#facs_66_r1l3" n="N003"/>der <rs type="person" key=", Personen ID=46343">Gruber</rs> geäusserert, daß er seine Handlung ohne Com-
+      <lb facs="#facs_66_r1l4" n="N004"/>pagnie führe
+      <lb facs="#facs_66_r1l5" n="N005"/>Heuraths Contract
+      <lb facs="#facs_66_r1l6" n="N006"/>
+               <choice>
+                  <expan/>
+                  <abbr>Ao</abbr>
+               </choice> 772 hat der <rs type="person" key=", Personen ID=46343">Leopold Gruber</rs> seinen mit der
+      <lb facs="#facs_66_r1l7" n="N007"/>
+               <rs type="person" key=", Personen ID=46345">Benigna Sedlmayrin</rs> errichteten Heuraths Con-
+      <lb facs="#facs_66_r1l8" n="N008"/>tract eingeleget, worinnen Heurathguth 200 Wie-
+      <lb facs="#facs_66_r1l9" n="N009"/>derlag 400 fl contratiret worden und findet sich
+      <lb facs="#facs_66_r1l10" n="N010"/>solcher bey dem <unclear>ult:</unclear> protocollirten Heuraths Contracten
+      <lb facs="#facs_66_r1l11" n="N011"/>sub N<hi rend="superscript">o</hi> 2167
+      <lb facs="#facs_66_r1l12" n="N012"/>Anmerckungen</ab>
+            <pb facs="#facs_67" n="67" xml:id="img_0067"/>
+            <ab facs="#facs_67_r1" type="default">
+               <lb facs="#facs_67_r1l2" n="N001"/>437
+      <lb facs="#facs_67_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_67_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=28324">Grämbsreither Franz Joseph</rs> burgerlicher Handlsmann
+      <lb facs="#facs_67_r1l5" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_67_r1l6" n="N005"/>
+               <rs type="person" key=", Personen ID=46346">Frantz Joseph Grämbsreither</rs> laut Erklährung dd<hi rend="superscript">to</hi> 6<hi rend="superscript">ten</hi>
+               <lb facs="#facs_67_r1l7" n="N006"/>Junii 733 N<hi rend="superscript">o</hi> 1957 det: sine dato N<hi rend="superscript">o</hi> 1958 und dd<hi rend="superscript">to</hi> 6<hi rend="superscript">ten</hi> Junii 756 N<hi rend="superscript">o</hi> 426.
+      <lb facs="#facs_67_r1l8" n="N007"/>Procura und Firmae Trager
+      <lb facs="#facs_67_r1l9" n="N008"/>Oblatorien und Avocatorien
+      <lb facs="#facs_67_r1l10" n="N009"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_68" n="68" xml:id="img_0068"/>
+            <ab>
+               <lb facs="#facs_68_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_68_r1l2" n="N002"/>Mitls obigen Erklährungen <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">sine</hi> dd<hi rend="superscript">to</hi> 13<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>7br:</abbr>
+               </choice> 733 N<hi rend="superscript">o</hi> 1957 und sine dato
+      <lb facs="#facs_68_r1l3" n="N003"/>N<hi rend="superscript">o</hi> 1958 hat sich der <rs type="person" key=", Personen ID=28324">Grambsreither</rs> geäusseret, daß er seine Handlung mit dem
+      <lb facs="#facs_68_r1l4" n="N004"/>interesse des <rs type="person" key=", Personen ID=10600">Norbert Härtl</rs> zu führen übernohmen habe.
+      <lb facs="#facs_68_r1l6" n="N005"/>Mitls Anbringen de ps: 8<hi rend="superscript">ten</hi> Junii 739 N<hi rend="superscript">o</hi> 1970 hat der <rs type="person" key=", Personen ID=10600">Norbert Härtl</rs> angezeiget, das
+      <lb facs="#facs_68_r1l7" n="N006"/>er sich von dem <rs type="person" key=", Personen ID=28324">Grembsreither</rs> dergestalten separiret habe, daß er <rs type="person" key=", Personen ID=10600">Härtl</rs>
+               <lb facs="#facs_68_r1l8" n="N007"/>des <rs type="person" key=", Personen ID=28324">Grembsreithers</rs> seinen Antheil <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 9500 fl hinaus bezahlet und die Handlung
+      <lb facs="#facs_68_r1l9" n="N008"/>mit allen activ und passiv Schulden auf sich genohmen und den <rs type="person" key=", Personen ID=28324">Grembsrei-<lb facs="#facs_68_r1l10" n="N009"/>
+               </rs>
+               <rs type="person" key=", Personen ID=28324">ther<lb facs="#facs_68_r1l11" n="N010"/>
+               </rs>Heuraths Contract
+      <lb facs="#facs_68_r1l12" n="N011"/>Anmerckungen</ab>
+            <pb facs="#facs_69" n="69" xml:id="img_0069"/>
+            <ab facs="#facs_69_r2" type="page-numberpage-number">
+               <lb facs="#facs_69_r2l1" n="N001"/>438</ab>
+            <ab facs="#facs_69_r1" type="default">
+               <lb facs="#facs_69_r1l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_69_r1l3" n="N002"/>
+               <rs type="person" key=", Personen ID=46347">Gäbler Johann Michäl</rs> burgerlicher Eysenhandler
+      <lb facs="#facs_69_r1l4" n="N003"/>Firma ad Raggion
+      <lb facs="#facs_69_r1l5" n="N004"/>
+               <rs type="person" key=", Personen ID=46348">Johann Michäl Gäbler</rs> laut Anbringen de ps: 29<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Aug:</abbr>
+               </choice> 735 N<hi rend="superscript">o</hi> 412
+      <lb facs="#facs_69_r1l6" n="N005"/>Procura und Firmae Trager
+      <lb facs="#facs_69_r1l7" n="N006"/>Oblatorien und Avocatorien
+      <lb facs="#facs_69_r1l8" n="N007"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
+            <ab facs="#facs_70_r1" type="default">
+               <lb facs="#facs_70_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_70_r1l2" n="N002"/>In obigen Anbringen de ps: 29<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Aug:</abbr>
+               </choice> 735 N<hi rend="superscript">o</hi> 412 hat sich der <rs type="person" key=", Personen ID=46347">Gäbler</rs>
+               <lb facs="#facs_70_r1l3" n="N003"/>erklähret, daß er seine Handlung ohne Compagnon führe
+      <lb facs="#facs_70_r1l4" n="N004"/>Heuraths Contract
+      <lb facs="#facs_70_r1l5" n="N005"/>Anmerckungen</ab>
+            <pb facs="#facs_71" n="71" xml:id="img_0071"/>
+            <ab facs="#facs_71_r2" type="page-numberpage-number">
+               <lb facs="#facs_71_r2l1" n="N001"/>439</ab>
+            <ab facs="#facs_71_r1" type="default">
+               <lb facs="#facs_71_r1l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_71_r1l2" n="N002"/>
+               <rs type="person" key=", Personen ID=24248">Götz Johann Michäl</rs> burgerlicher Handlsmann
+      <lb facs="#facs_71_r1l3" n="N003"/>Firma ad Raggion
+      <lb facs="#facs_71_r1l4" n="N004"/>
+               <rs type="person" key=", Personen ID=46349">Johan Michel Götz</rs> laut Erklährung dd<hi rend="superscript">to</hi> 10<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>9br:</abbr>
+               </choice> 735 N<hi rend="superscript">o</hi> 413
+      <lb facs="#facs_71_r1l5" n="N005"/>Procura und Firmae Trager
+      <lb facs="#facs_71_r1l6" n="N006"/>Oblatorien und Avocatorien
+      <lb facs="#facs_71_r1l7" n="N007"/>Fundi Ausweisung
+      <lb facs="#facs_71_r1l8" n="N008"/>Der <rs type="person" key=", Personen ID=24248">Götz</rs> hat zu Ausweisung seines Fundi mitls Anbringen de ps: 20<hi rend="superscript">ten</hi>
+               <lb facs="#facs_71_r1l9" n="N009"/>
+               <choice>
+                  <expan/>
+                  <abbr>Febr:</abbr>
+               </choice> 736 N<hi rend="superscript">o</hi> 1465 angezeiget, daß ihm über Abzug deren von seinen
+      <lb facs="#facs_71_r1l10" n="N010"/>Eltern vermacht und hinaus zu bezahlen kommenden legaten zu seiner
+      <lb facs="#facs_71_r1l11" n="N011"/>disposition verbleibenten 5000 fl</ab>
+            <pb facs="#facs_72" n="72" xml:id="img_0072"/>
+            <ab facs="#facs_72_r1" type="default">
+               <lb facs="#facs_72_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_72_r1l2" n="N002"/>Heuraths Contract
+      <lb facs="#facs_72_r1l3" n="N003"/>Mitls Anbringen de ps: 30<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Janu:</abbr>
+               </choice> 738 N<hi rend="superscript">o</hi> 2162 hat der <rs type="person" key=", Personen ID=24248">Götz</rs> den mit
+      <lb facs="#facs_72_r1l4" n="N004"/>der <rs type="person" key=", Personen ID=46350">Catharina Stadlerin</rs> untern 13<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Xbr:</abbr>
+               </choice> 737 errichteten Heuraths
+      <lb facs="#facs_72_r1l5" n="N005"/>Contract in Copia vidimata N<hi rend="superscript">o</hi> 2161 eingeleget, krafft welchen 1000 fl heur-
+      <lb facs="#facs_72_r1l7" n="N006"/>rath Gutt nebst 2000 fl Widerlag auf überleben dann das künftig erwer-
+      <lb facs="#facs_72_r1l9" n="N007"/>bende nebst der Nuznüßung des von der Braut ererbenden als ein 
+      <lb facs="#facs_72_r1l10" n="N008"/>gleiches Gutt stipuliret worden.
+      <lb facs="#facs_72_line_1624434765920_853" n="N009"/>Anmerckungen</ab>
+            <pb facs="#facs_73" n="73" xml:id="img_0073"/>
+            <ab facs="#facs_73_r1" type="default">
+               <lb facs="#facs_73_r1l1" n="N001"/>74</ab>
+            <ab facs="#facs_73_r2" type="default">
+               <lb facs="#facs_73_r2l2" n="N001"/>440
+      <lb facs="#facs_73_r2l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_73_r2l3" n="N003"/>
+               <rs type="person" key=", Personen ID=40477">Graff <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Joh</hi> Franz Joseph</rs> burgerlicher Handlsmann
+      <lb facs="#facs_73_r2l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_73_r2l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46351">Franz Joseph Graff</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 414 welche die
+      <lb facs="#facs_73_r2l6" n="N006"/>Vorsteher des <choice>
+                  <expan/>
+                  <abbr>burg:</abbr>
+               </choice> Handlsstands nebst andern mitls Anbringen de ps:
+      <lb facs="#facs_73_r2l7" n="N007"/>7<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>8br:</abbr>
+               </choice> 737 N<hi rend="superscript">o</hi> 415 eingeleget.
+      <lb facs="#facs_73_r2l8" n="N008"/>Procura und Firmae Trager
+      <lb facs="#facs_73_r2l9" n="N009"/>Oblatorien und Avocatorien
+      <lb facs="#facs_73_r2l10" n="N010"/>Fundi Ausweisung
+      <lb facs="#facs_73_r2l12" n="N011"/>Der <rs type="person" key=", Personen ID=40477">Graf</rs> hat zu Ausweisung seines Fundi das von seiner Mutter
+      <lb facs="#facs_73_r2l13" n="N012"/>
+               <rs type="person" key=", Personen ID=46352">Agnes</rs> unter 5<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Aug:</abbr>
+               </choice> 737 <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">N<hi rend="strikethrough:true; superscript"/>
+               </hi>o<hi rend="strikethrough:true; fontSize:0.0; kerning:0;">dahin</hi> ausgestelte certiorirte <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice> Instrument
+      <lb facs="#facs_73_line_1628186472899_34" n="N013"/>N<hi rend="superscript">o</hi> 1466 eingeleget, kraft welchen sich selbe <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">vor</hi> erklähret, daß sie <gap/> ihren
+      <lb facs="#facs_73_r2l17" n="N014"/>Sohn 7252 fl dergestalten überlassen, daß solche denen Creditoribus allen
+      <lb facs="#facs_73_r2l18" n="N015"/>falß biß zu eigener Fundi Ausweisung hafften sollen.</ab>
+            <pb facs="#facs_74" n="74" xml:id="img_0074"/>
+            <ab facs="#facs_74_r1" type="default">
+               <lb facs="#facs_74_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_74_r1l3" n="N002"/>Heuraths Contract
+      <lb facs="#facs_74_r1l4" n="N003"/>Anmerckungen</ab>
+            <pb facs="#facs_75" n="75" xml:id="img_0075"/>
+            <ab facs="#facs_75_r2" type="page-numberpage-number">
+               <lb facs="#facs_75_r2l1" n="N001"/>441</ab>
+            <ab facs="#facs_75_r1" type="default">
+               <lb facs="#facs_75_r1l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_75_r1l2" n="N002"/>
+               <rs type="person" key=", Personen ID=46353">Gewey Johann Sigmund</rs> burgerlicher Handlsmann
+      <lb facs="#facs_75_r1l3" n="N003"/>Firma ad Raggion
+      <lb facs="#facs_75_r1l4" n="N004"/>
+               <rs type="person" key=", Personen ID=46354">Joh: Sigmundt Gewey</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 419
+      <lb facs="#facs_75_r1l5" n="N005"/>Procura und Firmae Trager
+      <lb facs="#facs_75_r1l6" n="N006"/>Oblatorien und Avocatorien
+      <lb facs="#facs_75_r1l7" n="N007"/>Fundi Ausweisung
+      <lb facs="#facs_75_r1l9" n="N008"/>Zu Ausweisung seines Fundi hat der <rs type="person" key=", Personen ID=46353">Gewey</rs> ein vidimirten gewähr aus-
+      <lb facs="#facs_75_r1l11" n="N009"/>zug von dem Dom Capitl dd<hi rend="superscript">to</hi> 7<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Xbr</abbr>
+               </choice> 726 N<hi rend="superscript">o</hi> 1467 eingeleget krafft
+      <lb facs="#facs_75_r1l12" n="N010"/>welchen selber seine Ehewirthin <rs type="person" key=", Personen ID=46355">Barbara</rs> vorhin verehligte <unclear>Kracherin</unclear>
+               <lb facs="#facs_75_r1l13" n="N011"/>an ihr eigenthumliches Haus zu gleich an Gewähr schreiben lassen
+      <lb facs="#facs_75_r1l14" n="N012"/>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">we</hi> welchen er ein von gedacht seiner Ehewirthin untern 6<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Febr:</abbr>
+               </choice> 738
+      <lb facs="#facs_75_r1l16" n="N013"/>dahin ausgestelte certiorirte <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice> Erklährung N<hi rend="superscript">o</hi> 1468 beygefüget, daß
+      <lb facs="#facs_75_r1l17" n="N014"/>sie von dem ihrigen 2000 fl zur Sicherheit denen Creditoren gewid-
+      <lb facs="#facs_75_r1l18" n="N015"/>met haben wolle.</ab>
+            <pb facs="#facs_76" n="76" xml:id="img_0076"/>
+            <ab facs="#facs_76_r1" type="default">
+               <lb facs="#facs_76_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_76_r1l2" n="N002"/>Heuraths Contract
+      <lb facs="#facs_76_r1l3" n="N003"/>Anmerckungen</ab>
+            <pb facs="#facs_77" n="77" xml:id="img_0077"/>
+            <ab facs="#facs_77_r3" type="default">
+               <lb facs="#facs_77_r3l2" n="N001"/>442
+      <lb facs="#facs_77_r3l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_77_r3l3" n="N003"/>
+               <rs type="person" key=", Personen ID=46356">Gunttlich Johann Joseph</rs> burgerlicher Handlsmann
+      <lb facs="#facs_77_r3l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_77_r3l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46357">Johann Joseph Günttlich</rs> laut Erklährung sine dat N<hi rend="superscript">o</hi> 420
+      <lb facs="#facs_77_r3l6" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_77_r3l7" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_77_r3l8" n="N008"/>Fundi Ausweisung
+      <lb facs="#facs_77_r3l10" n="N009"/>Der <rs type="person" key=", Personen ID=46356">Gunttlich</rs> hat zu ausweisung seines Fundi die <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice> inventur dd<hi rend="superscript">to</hi> 8<hi rend="superscript">ten</hi>
+               <lb facs="#facs_77_r3l12" n="N010"/>
+               <choice>
+                  <expan/>
+                  <abbr>Febr:</abbr>
+               </choice> 738 N<hi rend="superscript">o</hi> 1469 eingeleget <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 3939 fl wavon selben die helfte zukommen als 
+      <lb facs="#facs_77_r3l13" n="N011"/>Eigenthum <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 1969 fl 30 x<hi rend="superscript">r</hi>
+               <lb facs="#facs_77_r3l15" n="N012"/>Dann hat dessen Ehewirthin<rs type="person" key=", Personen ID=46358"> Anna Maria</rs> das <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">In</hi> certiorirte 
+      <lb facs="#facs_77_r3l16" n="N013"/>Instrument dd<hi rend="superscript">to</hi> 6<hi rend="superscript">ten</hi> ej: N<hi rend="superscript">o</hi> 1470 des Inhalts eingelegt, daß sie von
+      <lb facs="#facs_77_r3l17" n="N014"/>ihrem in der helfte der Handlung bestehenden Eigenthum zur
+      <lb facs="#facs_77_r3l19" n="N015"/>Sicherheit deren Creditoren gewidmet haben wolle 2000 fl
+      <lb facs="#facs_77_r3l20" n="N016"/>
+               <choice>
+                  <expan/>
+                  <abbr>Sa</abbr>
+               </choice> 3969 fl 30</ab>
+            <pb facs="#facs_78" n="78" xml:id="img_0078"/>
+            <ab facs="#facs_78_r1" type="default">
+               <lb facs="#facs_78_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_78_r1l2" n="N002"/>Heuraths Contract
+      <lb facs="#facs_78_r1l3" n="N003"/>Anmerckungen</ab>
+            <pb facs="#facs_79" n="79" xml:id="img_0079"/>
+            <ab>
+               <lb facs="#facs_79_r1l2" n="N001"/>443
+      <lb facs="#facs_79_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_79_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=46359">Gumpinger Anton Jacob</rs> burgerlicher Handlsmann
+      <lb facs="#facs_79_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_79_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46360">Antoni Jacob Gumpinger</rs> laut Erklährung dd<hi rend="superscript">to</hi> 22<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>8br:</abbr>
+               </choice> 742 N<hi rend="superscript">o</hi> 416
+      <lb facs="#facs_79_r1l6" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_79_r1l7" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_79_r1l8" n="N008"/>Fundi Ausweisung
+      <lb facs="#facs_79_r1l9" n="N009"/>Der <rs type="person" key=", Personen ID=46359">Gumpinger</rs> hat zu Ausweisung seines Fundi die <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice> Inventur
+      <lb facs="#facs_79_r1l10" n="N010"/>dd<hi rend="superscript">to</hi> 5<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>8br:</abbr>
+               </choice> 742 N<hi rend="superscript">o</hi> 1476 eingeleget <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 8077 fl 49
+      <lb facs="#facs_79_r1l12" n="N011"/>Dann ein von dem Richter in dem Neuen Lerchenfeld <rs type="person" key=", Personen ID=46361">Gott-<lb facs="#facs_79_r1l13" n="N012"/>fried Thurner</rs> unterm 12<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>8br:</abbr>
+               </choice> 742 dahin ausgesteltes <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice>
+               <lb facs="#facs_79_r1l14" n="N013"/>attestatum N<hi rend="superscript">o</hi> 1477 daß er <rs type="person" key=", Personen ID=46359">Gumpinger</rs> das in der Inventur
+      <lb facs="#facs_79_r1l15" n="N014"/>
+               <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 3000 fl einkommende Haus bey denen vier Schimmeln von
+      <lb facs="#facs_79_r1l16" n="N015"/>allen Schulden und Herrschafts forderungen frey besize.</ab>
+            <pb facs="#facs_80" n="80" xml:id="img_0080"/>
+            <ab facs="#facs_80_r1" type="default">
+               <lb facs="#facs_80_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_80_r1l2" n="N002"/>Heuraths Contract
+      <lb facs="#facs_80_r1l3" n="N003"/>Anmerckungen</ab>
+            <pb facs="#facs_81" n="81" xml:id="img_0081"/>
+            <ab facs="#facs_81_r2" type="page-numberpage-number">
+               <lb facs="#facs_81_r2l1" n="N001"/>444</ab>
+            <ab>
+               <lb facs="#facs_81_r1l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_81_r1l2" n="N002"/>
+               <rs type="person" key=", Personen ID=46362">Gschaidter Johann Georg</rs> burgerlicher Handlsmann
+      <lb facs="#facs_81_r1l4" n="N003"/>Firma ad Raggion
+      <lb facs="#facs_81_r1l5" n="N004"/>
+               <rs type="person" key=", Personen ID=46363">Johann Geörg Gschaidter</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 417
+      <lb facs="#facs_81_r1l6" n="N005"/>Procura und Firmae Trager
+      <lb facs="#facs_81_r1l7" n="N006"/>Oblatorien und Avocatorien
+      <lb facs="#facs_81_r1l8" n="N007"/>Fundi Ausweisung
+      <lb facs="#facs_81_r1l9" n="N008"/>Zu Ausweisung seines Fundi hat der <rs type="person" key=", Personen ID=46362">Gschaidter</rs> ein von dessen Brudern <rs type="person" key=", Personen ID=46364">Mi-<lb facs="#facs_81_r1l10" n="N009"/>chäl Joseph</rs> ausgestelte <choice>
+                  <expan/>
+                  <abbr>oblig:</abbr>
+               </choice> dd<hi rend="superscript">to</hi> 13<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Febr:</abbr>
+               </choice> 747 N<hi rend="superscript">o</hi> 1473 in copia vidimata
+      <lb facs="#facs_81_r1l11" n="N010"/>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">mung</hi>
+               <choice>
+                  <expan/>
+                  <abbr>
+                     <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">pr</hi>
+                  </abbr>
+               </choice> dann eine hierüber von deren Verwalter der Herrschaft Gainfahrn
+      <lb facs="#facs_81_r1l12" n="N011"/>untern 13<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Febr:</abbr>
+               </choice> 742 ausgesteltes attestatum in <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice> N<hi rend="superscript">o</hi> 1474 <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 3167 fl 21 x<hi rend="superscript">r</hi>
+               <lb facs="#facs_81_r1l13" n="N012"/>dann eine <choice>
+                  <expan/>
+                  <abbr>oblig:</abbr>
+               </choice>
+               <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> von <rs type="person" key=", Personen ID=46365">Thomas Schreiner</rs> dd<hi rend="superscript">to</hi> 14<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Febr:</abbr>
+               </choice> 742
+      <lb facs="#facs_81_r1l14" n="N013"/>N<hi rend="superscript">o</hi> 1475 in copia vidimata eingeleget <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 1500 fl
+      <lb facs="#facs_81_r1l16" n="N014"/>
+               <choice>
+                  <expan/>
+                  <abbr>Sa</abbr>
+               </choice> 4667 fl 21 x<hi rend="superscript">r</hi>
+            </ab>
+            <pb facs="#facs_82" n="82" xml:id="img_0082"/>
+            <ab facs="#facs_82_r1" type="default">
+               <lb facs="#facs_82_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_82_r1l2" n="N002"/>Heuraths Contract
+      <lb facs="#facs_82_r1l3" n="N003"/>Anmerckungen
+      <lb facs="#facs_82_r1l4" n="N004"/>Durch die von der <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Com</hi> in Commercien Sachen delegirten N: Ö: Hofcommission
+      <lb facs="#facs_82_r1l6" n="N005"/>untern erlassene Erkantnus ist verordnet worden,
+      <lb facs="#facs_82_r1l7" n="N006"/>das der <rs type="person" key=", Personen ID=46362">Joh: Georg Gschaidter</rs> wegen den bey ihm nebst dem <unclear>ausgebrachten</unclear>
+               <lb facs="#facs_82_r1l8" n="N007"/>falliment befunden üblen und unredlichen betragen, sowohl aus gegen- 
+      <lb facs="#facs_82_r1l10" n="N008"/>wärtigen Mercantil Protocoll alß auch aus dem Handlstands Protocolls
+      <lb facs="#facs_82_r1l12" n="N009"/>gänzlichen ausgelöschet worden, und er sich der Qualitaet eines burgerlichen
+      <lb facs="#facs_82_r1l13" n="N010"/>Handlsmanns nicht mehr <unclear>anpraevaliren</unclear> können solle.</ab>
+            <pb facs="#facs_83" n="83" xml:id="img_0083"/>
+            <ab facs="#facs_83_r3" type="page-numberpage-number">
+               <lb facs="#facs_83_r3l1" n="N001"/>445</ab>
+            <ab facs="#facs_83_r2" type="default">
+               <lb facs="#facs_83_r2l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_83_r2l2" n="N002"/>
+               <rs type="person" key=", Personen ID=46366">Gülschwendt Johann</rs>
+               <lb facs="#facs_83_r2l3" n="N003"/>Firma ad Raggion
+      <lb facs="#facs_83_r2l4" n="N004"/>
+               <rs type="person" key=", Personen ID=46367">Johann Gulschwendt</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 418
+      <lb facs="#facs_83_r2l5" n="N005"/>Procura und Firmae Trager
+      <lb facs="#facs_83_r2l6" n="N006"/>Oblatorien und Avocatorien
+      <lb facs="#facs_83_r2l7" n="N007"/>Fundi Ausweisung
+      <lb facs="#facs_83_r2l8" n="N008"/>Der <rs type="person" key=", Personen ID=46366">Gülschwendt</rs> hat seinen fundum mitls der specification N<hi rend="superscript">o</hi> 1471 fol-
+      <lb facs="#facs_83_r2l9" n="N009"/>gender Maßen ausgewisen, nemlich das er eigenthumlich besize laut
+      <lb facs="#facs_83_r2l10" n="N010"/>attestati des <rs type="person" key=", Personen ID=46368">Franz Aichler</rs> dd<hi rend="superscript">to</hi> 28<hi rend="superscript">ten</hi> May 741 N<hi rend="superscript">o</hi> 1472 an zwey auf
+      <lb facs="#facs_83_r2l11" n="N011"/>
+               <rs type="person" key=", Personen ID=46369">Franz Ott</rs> und dessen Ehewirthin laut <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">StB obligation</hi> und an ihn cedirten
+      <lb facs="#facs_83_r2l12" n="N012"/>St. B. obligationen und einer Ottischen det 3000 fl
+      <lb facs="#facs_83_r2l14" n="N013"/>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">an obgeführten handlung </hi> der handlungs Verkauferin
+      <lb facs="#facs_83_r2l17" n="N014"/>
+               <rs type="person" key=", Personen ID=46370">
+                  <unclear>Klingerin</unclear>
+               </rs> habe er allschon bezahlt 560 fl
+      <lb facs="#facs_83_r2l18" n="N015"/>an angeschafften Waaren 450 fl
+      <lb facs="#facs_83_r2l21" n="N016"/>an baaren Geld 200 fl
+      <lb facs="#facs_83_r2l24" n="N017"/>
+               <choice>
+                  <expan/>
+                  <abbr>Sa</abbr>
+               </choice> 4210 fl</ab>
+            <pb facs="#facs_84" n="84" xml:id="img_0084"/>
+            <ab facs="#facs_84_r1" type="default">
+               <lb facs="#facs_84_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_84_r1l2" n="N002"/>Heuraths Contract
+      <lb facs="#facs_84_r1l3" n="N003"/>Anmerckungen</ab>
+            <pb facs="#facs_85" n="85" xml:id="img_0085"/>
+            <ab facs="#facs_85_r1" type="default">
+               <lb facs="#facs_85_r1l1" n="N001"/>75</ab>
+            <ab facs="#facs_85_r3" type="page-numberpage-number">
+               <lb facs="#facs_85_r3l1" n="N001"/>446</ab>
+            <ab>
+               <lb facs="#facs_85_r2l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_85_r2l2" n="N002"/>
+               <rs type="person" key=", Personen ID=46371">Grueber Joseph</rs> burgerlicher Handlsmann
+      <lb facs="#facs_85_r2l3" n="N003"/>Firma ad Raggion
+      <lb facs="#facs_85_r2l4" n="N004"/>Procura und Firmae Trager
+      <lb facs="#facs_85_r2l5" n="N005"/>Oblatorien und Avocatorien
+      <lb facs="#facs_85_r2l6" n="N006"/>Fundi Ausweisung
+      <lb facs="#facs_85_r2l7" n="N007"/>Der <rs type="person" key=", Personen ID=46371">Grueber</rs> hat zu Ausweisung seines Fundi ein von dem <rs type="person" key=", Personen ID=15475">Zacha-<lb facs="#facs_85_r2l8" n="N008"/>rias Silber</rs> untern 19<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Febr:</abbr>
+               </choice> 743 ausgesteltes respectivé attestatum
+      <lb facs="#facs_85_r2l9" n="N009"/>und Cautions Instrument N<hi rend="superscript">o</hi> 1478 des Inhalts in <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice> eingeleget, daß 
+      <lb facs="#facs_85_r2l10" n="N010"/>weil er <rs type="person" key=", Personen ID=15475">Silber</rs> ihm <rs type="person" key=", Personen ID=46371">Grueber</rs> als seinen Compagnon angenohmen, so
+      <lb facs="#facs_85_r2l11" n="N011"/>habe der Grueber in die Handlung ein Capital von 1436 fl eingleget
+      <lb facs="#facs_85_r2l12" n="N012"/>für den überreste des Patentmäßigen Fundi aber wolle er <rs type="person" key=", Personen ID=15475">Silber</rs>
+               <lb facs="#facs_85_r2l13" n="N013"/>hiemit Coviren.</ab>
+            <pb facs="#facs_86" n="86" xml:id="img_0086"/>
+            <ab>
+               <lb facs="#facs_86_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_86_r1l2" n="N002"/>In obigen Instrument dd<hi rend="superscript">to</hi> 19<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Febr:</abbr>
+               </choice> 743 N<hi rend="superscript">o</hi> 14788 hat sich der <rs type="person" key=", Personen ID=15475">Za-<lb facs="#facs_86_r1l3" n="N003"/>charias Silber</rs> erklähret, daß er den <rs type="person" key=", Personen ID=46371">Grueber</rs> alß einen Com-
+      <lb facs="#facs_86_r1l4" n="N004"/>pagnon in seine handlung angenohmen habe.
+      <lb facs="#facs_86_r1l5" n="N005"/>Heuraths Contract
+      <lb facs="#facs_86_r1l6" n="N006"/>Mitls Anbringen de ps: 28<hi rend="superscript">ten</hi> May 745 N<hi rend="superscript">o</hi> 2164 hat der <rs type="person" key=", Personen ID=46371">Grueber</rs> den 
+      <lb facs="#facs_86_r1l7" n="N007"/>mit der <rs type="person" key=", Personen ID=46372">Catharina Auerin</rs> untern 23<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Janu:</abbr>
+               </choice> 744 abgeschlossenen
+      <lb facs="#facs_86_r1l8" n="N008"/>heurathscontract N<hi rend="superscript">o</hi> 2163 in copia vidimata eingeleget, krafft
+      <lb facs="#facs_86_r1l9" n="N009"/>welchen 500 fl heurath gutt nebst 1000 fl Widerlag auf überleben, dann
+      <lb facs="#facs_86_r1l10" n="N010"/>jenes, was wehrenden Ehe erworbenen oder ererbet wird als ein
+      <lb facs="#facs_86_r1l11" n="N011"/>gleiches Gutt stipuliret worden.
+      <lb facs="#facs_86_r1l12" n="N012"/>Anmerckungen</ab>
+            <pb facs="#facs_87" n="87" xml:id="img_0087"/>
+            <ab facs="#facs_87_r1" type="default">
+               <lb facs="#facs_87_r1l2" n="N001"/>447
+      <lb facs="#facs_87_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_87_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=46373">Gnändl Johann Ignaz</rs> burgerlicher Handlsmann
+      <lb facs="#facs_87_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_87_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46374">Johann Ignaty Gnändl</rs> laut Erklährung dd<hi rend="superscript">to</hi> 9<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>8br:</abbr>
+               </choice> 744
+      <lb facs="#facs_87_r1l6" n="N006"/>N<hi rend="superscript">o</hi> 421
+      <lb facs="#facs_87_r1l7" n="N007"/>Procura und Firmae Trager
+      <lb facs="#facs_87_r1l8" n="N008"/>Oblatorien und Avocatorien
+      <lb facs="#facs_87_r1l9" n="N009"/>Fundi Ausweisung
+      <lb facs="#facs_87_r1l10" n="N010"/>Zu Ausweisung seines Fundi hat der <rs type="person" key=", Personen ID=46373">Gnändl</rs> die orig: inventur
+      <lb facs="#facs_87_r1l11" n="N011"/>dd<hi rend="superscript">to</hi> 8<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Aug:</abbr>
+               </choice> 744 <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">ange</hi> N<hi rend="superscript">o</hi> 1479 eingeleget an avanzo <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 11813 fl 7 x<hi rend="superscript">r</hi>
+               <lb facs="#facs_87_r1l12" n="N012"/>auch ein solchen als ein wahres Eigenthum laut beygerukter For-
+      <lb facs="#facs_87_r1l13" n="N013"/>mulae jurandi untern 8<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>8br:</abbr>
+               </choice> d. a. mit einen cörperlichen Eyd be-
+      <lb facs="#facs_87_r1l14" n="N014"/>kräfftiget.</ab>
+            <pb facs="#facs_88" n="88" xml:id="img_0088"/>
+            <ab facs="#facs_88_r2" type="default">
+               <lb facs="#facs_88_line_1624375059688_370" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_88_r2l1" n="N002"/>Heuraths Contract
+      <lb facs="#facs_88_r2l2" n="N003"/>Anmerckungen</ab>
+            <pb facs="#facs_89" n="89" xml:id="img_0089"/>
+            <ab>
+               <lb facs="#facs_89_r1l2" n="N001"/>448
+      <lb facs="#facs_89_r1l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_89_r1l3" n="N003"/>
+               <rs type="person" key=", Personen ID=46375">Gerardi Dominicus</rs> burgerlicher Handlsmann
+      <lb facs="#facs_89_r1l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_89_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46376">Dominicus Gerardi</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 422 welche selber
+      <lb facs="#facs_89_r1l6" n="N006"/>mitls Anbringen de ps: 22<hi rend="superscript">ten</hi> Junii 754 N<hi rend="superscript">o</hi> 423 eingeleget
+      <lb facs="#facs_89_r1l7" n="N007"/>Procura und Firmae Trager
+      <lb facs="#facs_89_r1l8" n="N008"/>Oblatorien und Avocatorien
+      <lb facs="#facs_89_r1l9" n="N009"/>Fundi Ausweisung
+      <lb facs="#facs_89_r1l10" n="N010"/>Der <rs type="person" key=", Personen ID=46375">Gerardi</rs> hat zu ausweisung seines Fundi die specification N<hi rend="superscript">o</hi>
+               <lb facs="#facs_89_r1l11" n="N011"/>1484 eingeleget in welcher er als Eigenthum angesezet, die von
+      <lb facs="#facs_89_r1l12" n="N012"/>seiner Mutter <rs type="person" key=", Personen ID=46377">Maria Regina</rs> ihm überlassenen Waren <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 1308 fl 56 x<hi rend="superscript">r</hi>
+               <lb facs="#facs_89_r1l13" n="N013"/>zu Completirung des übrigen hat sowohl dessen Ehewirthin <rs type="person" key=", Personen ID=46378">Maria<lb facs="#facs_89_r1l14" n="N014"/>Anna</rs> das <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice> certiorirte Cautions Instrument dd<hi rend="superscript">to</hi> 13<hi rend="superscript">ten</hi> Julii
+      <lb facs="#facs_89_r1l15" n="N015"/>751 N<hi rend="superscript">o</hi> 1486 als auch der <rs type="person" key=", Personen ID=46379">Johann Michäl Eisler</rs> das <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice>
+               <lb facs="#facs_89_r1l16" n="N016"/>Cautions Instrument dd<hi rend="superscript">to</hi> 13<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Aug:</abbr>
+               </choice> d. a. N<hi rend="superscript">o</hi> 1485 eingeleget
+      <lb facs="#facs_89_r1l17" n="N017"/>jeder <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 2691 fl 4 x<hi rend="superscript">r</hi>
+               <lb facs="#facs_89_r1l20" n="N018"/>
+               <choice>
+                  <expan/>
+                  <abbr>Sa</abbr>
+               </choice> 4000 fl
+      <lb facs="#facs_89_r1l22" n="N019"/>hiebey befinden sich annoch 2 Anbringen wegen Annehmung des Sup: N<hi rend="superscript">o</hi> 1447 et
+      <lb facs="#facs_89_line_1624450426344_2998" n="N020"/>1488</ab>
+            <pb facs="#facs_90" n="90" xml:id="img_0090"/>
+            <ab facs="#facs_90_r1" type="default">
+               <lb facs="#facs_90_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_90_r1l2" n="N002"/>Heuraths Contract
+      <lb facs="#facs_90_r1l3" n="N003"/>Anmerckungen</ab>
+            <pb facs="#facs_91" n="91" xml:id="img_0091"/>
+            <ab facs="#facs_91_r2" type="page-numberpage-number">
+               <lb facs="#facs_91_r2l1" n="N001"/>449</ab>
+            <ab facs="#facs_91_r1" type="default">
+               <lb facs="#facs_91_r1l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_91_r1l2" n="N002"/>
+               <rs type="person" key=", Personen ID=46380">Gapieller Matthias</rs> burgerlicher tuchlaubens Verwanter
+      <lb facs="#facs_91_r1l3" n="N003"/>Firma ad Raggion
+      <lb facs="#facs_91_r1l4" n="N004"/>Procura und Firmae Trager
+      <lb facs="#facs_91_r1l5" n="N005"/>Oblatorien und Avocatorien
+      <lb facs="#facs_91_r1l6" n="N006"/>Fundi Ausweisung
+      <lb facs="#facs_91_r1l7" n="N007"/>Der <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Ga</hi>
+               <rs type="person" key=", Personen ID=46380">Gapieller</rs> hat zu Ausweisung seines Fundi <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice> Billanz über
+      <lb facs="#facs_91_r1l8" n="N008"/>die Handlung seiner Ehewirthin als <rs type="person" key=", Personen ID=46381">Franz Anton Ipditsch <choice>
+                     <expan/>
+                     <abbr>seel:</abbr>
+                  </choice> Wittib</rs>
+               <lb facs="#facs_91_r1l9" n="N009"/>von <choice>
+                  <expan/>
+                  <abbr>Ao</abbr>
+               </choice> 752 <choice>
+                  <expan/>
+                  <abbr>
+                     <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">pr</hi>
+                  </abbr>
+               </choice> an avanzo <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 31320 fl 14 x<hi rend="superscript">r</hi> wie auch ein von eben der-
+      <lb facs="#facs_91_r1l10" n="N010"/>selben untern 19<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>8br:</abbr>
+               </choice> 752 dahin ausgestelte conditionirtes <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice> Instru-
+      <lb facs="#facs_91_r1l11" n="N011"/>ment N<hi rend="superscript">o</hi>
+               <unclear>1490</unclear>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">um</hi>, daß sie von ihren avanzo an gedacht ihren Ehewirthen
+      <lb facs="#facs_91_r1l13" n="N012"/>mit Einbringen<hi rend="strikethrough:true; fontSize:0.0; kerning:0;"> über abzug</hi> des heurathgutts <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 500 fl und <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">ihr</hi> in dem heuraths contract
+      <lb facs="#facs_91_r1l15" n="N013"/>denselben auf überleben zu gedachten 2000 fl den <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">demselben cediren</hi> an
+      <lb facs="#facs_91_r1l17" n="N014"/>Waaren lager überlassen und für selben cassiren welle <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 8000 fl
+      <lb facs="#facs_91_r1l20" n="N015"/>hierneben befinden sich das Erlags Anbringen de ps: 11<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>9br:</abbr>
+               </choice> 752 und ein attestatum <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">der</hi> des
+      <lb facs="#facs_91_r1l21" n="N016"/>Tuchlaubens Collegii, wegen annehmung des Sup: N<hi rend="superscript">o</hi> 1492 et 1491</ab>
+            <pb facs="#facs_92" n="92" xml:id="img_0092"/>
+            <ab facs="#facs_92_r1" type="default">
+               <lb facs="#facs_92_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_92_r1l2" n="N002"/>Heuraths Contract
+      <lb facs="#facs_92_r1l3" n="N003"/>Der <rs type="person" key=", Personen ID=46380">Gapieller</rs> hat den mit der <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Fr</hi>
+               <rs type="person" key=", Personen ID=46381">Maria Franzisca Jptischin</rs>
+               <lb facs="#facs_92_r1l4" n="N004"/>untern 5<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Janu:</abbr>
+               </choice> 749 abgeschlossenen Heuraths Contract N<hi rend="superscript">o</hi> 2165 in 
+      <lb facs="#facs_92_r1l5" n="N005"/>
+               <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice> eingeleget krafft welchen 500 fl heurathgutt nebst 1000 fl Wider-
+      <lb facs="#facs_92_r1l6" n="N006"/>lag auf überleben, dann jenes, was wehrender Ehe erworben und er-
+      <lb facs="#facs_92_r1l7" n="N007"/>erbet wird als ein gleiches Gutt stipuliret dann weithers vorgesehen
+      <lb facs="#facs_92_r1l8" n="N008"/>worden, daß die Braut dem Bräutigam 2000 fl dergestalten zur freyen
+      <lb facs="#facs_92_r1l9" n="N009"/>disposition geben wolle, daß solche fals er Bräuttigam vor der Braut
+      <lb facs="#facs_92_r1l10" n="N010"/>versterben solte und keine Kinder <unclear>verliesse</unclear> ihr Braut anwiderum
+      <lb facs="#facs_92_r1l11" n="N011"/>zuruk <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">
+                  <unclear>fa</unclear>
+               </hi>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">
+                  <unclear>we</unclear>
+               </hi>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">ansonsten aber</hi> fals aber Kinder vorhanden denen Kindern zu-
+      <lb facs="#facs_92_r1l12" n="N012"/>fallen sollen.
+      <lb facs="#facs_92_r1l13" n="N013"/>Anmerckungen</ab>
+            <pb facs="#facs_93" n="93" xml:id="img_0093"/>
+            <ab facs="#facs_93_r2" type="page-numberpage-number">
+               <lb facs="#facs_93_r2l1" n="N001"/>450</ab>
+            <ab facs="#facs_93_r1" type="default">
+               <lb facs="#facs_93_r1l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_93_r1l2" n="N002"/>
+               <rs type="person" key=", Personen ID=46382">Gropp Johann Friedrich</rs> burgerlicher Handlsmann
+      <lb facs="#facs_93_r1l3" n="N003"/>Firma ad Raggion
+      <lb facs="#facs_93_r1l4" n="N004"/>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Johann Fridrich Fri</hi>
+               <lb facs="#facs_93_r1l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46383">Johann Friderich Gropp</rs> laut Anbringen de ps: 4<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>7br:</abbr>
+               </choice> 753 N<hi rend="superscript">o</hi> 232
+      <lb facs="#facs_93_r1l6" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_93_r1l7" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_93_r1l8" n="N008"/>Fundi Ausweisung
+      <lb facs="#facs_93_r1l9" n="N009"/>Der <rs type="person" key=", Personen ID=46382">Gropp</rs> hat zu ausweisung seines Fundi  <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">das von </hi>das von 
+      <lb facs="#facs_93_r1l10" n="N010"/>seinem Vattern als Handlungs überlassen untern 20<hi rend="superscript">ten</hi> Julii 756
+      <lb facs="#facs_93_r1l11" n="N011"/>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">dahin ausgestelte Instrument N<hi rend="strikethrough:true; superscript"/>
+               </hi>o
+      <lb facs="#facs_93_r1l12" n="N012"/>gestelte <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice> Cautions Instrument N<hi rend="superscript">o</hi> 1480 eingeleget.
+      <lb facs="#facs_93_r1l13" n="N013"/>Hiebey befinden sich 3 Anbringen wegen annehmung des Sup: N<hi rend="superscript">o</hi> 1481, 1482
+      <lb facs="#facs_93_r1l14" n="N014"/>et 1483</ab>
+            <pb facs="#facs_94" n="94" xml:id="img_0094"/>
+            <ab facs="#facs_94_r1" type="default">
+               <lb facs="#facs_94_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_94_r1l2" n="N002"/>Heuraths Contract
+      <lb facs="#facs_94_r1l3" n="N003"/>Der <rs type="person" key=", Personen ID=46382">Gropp</rs> hat dem mit der <rs type="person" key=", Personen ID=46384">Anna Maria Reitzin</rs> untern 25<hi rend="superscript">ten</hi>
+               <lb facs="#facs_94_r1l4" n="N004"/>
+               <choice>
+                  <expan/>
+                  <abbr>8br:</abbr>
+               </choice> 750 <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">eingele</hi> abgeschlossenen heuraths contract N<hi rend="superscript">o</hi> 2166 in
+      <lb facs="#facs_94_r1l5" n="N005"/>
+               <choice>
+                  <expan/>
+                  <abbr>orig.</abbr>
+               </choice> mitls obigen Anbringen de ps: 4<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>7br:</abbr>
+               </choice> 753 N<hi rend="superscript">o</hi> 232 eingeleget
+      <lb facs="#facs_94_r1l6" n="N006"/>krafft welchen 1000 fl heurath Gutt nebst 2000 fl Widerlag auf überleben
+      <lb facs="#facs_94_r1l7" n="N007"/>dann jenes, was wehrender Ehe erworben und ererbet wird als
+      <lb facs="#facs_94_r1l8" n="N008"/>ein gleiches Gutt stipuliret worden.
+      <lb facs="#facs_94_r1l9" n="N009"/>Anmerckungen</ab>
+            <pb facs="#facs_95" n="95" xml:id="img_0095"/>
+            <ab facs="#facs_95_r2" type="default">
+               <lb facs="#facs_95_r2l2" n="N001"/>451
+      <lb facs="#facs_95_r2l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_95_r2l3" n="N003"/>
+               <rs type="person" key=", Personen ID=46385">Grueber Andre</rs> burgerlicher Tuchlaubens Verwanter
+      <lb facs="#facs_95_r2l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_95_r2l5" n="N005"/>
+               <rs type="person" key=", Personen ID=46386">Andreas Gruber</rs> laut anbringen de ps: 27<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Febr:</abbr>
+               </choice> 755 N<hi rend="superscript">o</hi> 424
+      <lb facs="#facs_95_r2l6" n="N006"/>Procura und Firmae Trager
+      <lb facs="#facs_95_r2l7" n="N007"/>Oblatorien und Avocatorien
+      <lb facs="#facs_95_r2l8" n="N008"/>Fundi Ausweisung
+      <lb facs="#facs_95_r2l9" n="N009"/>Der <rs type="person" key=", Personen ID=46385">Grueber</rs> hat mitls Anbringen de ps: 23<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Janu:</abbr>
+               </choice> 755 N<hi rend="superscript">o</hi> 1493
+      <lb facs="#facs_95_r2l10" n="N010"/>seinen Fundum folgendermaßen ausgewisen nemlich daß selber
+      <lb facs="#facs_95_r2l11" n="N011"/>vermög der in dem mit der <rs type="person" key=", Personen ID=46387">Maria Elisabeth Vethin</rs> untern 18<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>8br:</abbr>
+               </choice>
+               <lb facs="#facs_95_r2l12" n="N012"/>754 errichteten <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice> Kaufcontract N<hi rend="superscript">o</hi> 1494 beygeruckten Quittung
+      <lb facs="#facs_95_r2l13" n="N013"/>an handlungs Kaufschilling allschon abgeführet habe 6653 fl 9 x<hi rend="superscript">r</hi>
+               <lb facs="#facs_95_r2l14" n="N014"/>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">dann</hi> anbey <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">einen bürgen</hi> der Verkauferin einen bürgen <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 8000 fl
+      <lb facs="#facs_95_r2l15" n="N015"/>gestellet habe.
+      <lb facs="#facs_95_r2l16" n="N016"/>Hiebey befinden sich annoch 2 attestata wegen Annehmung des Sup:
+      <lb facs="#facs_95_r2l17" n="N017"/>und <unclear>eine</unclear> quittirte <unclear>acten</unclear> Extradirungs Auflag N<hi rend="superscript">o</hi> 425, 1495 et 1496</ab>
+            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
+            <ab facs="#facs_96_r1" type="default">
+               <lb facs="#facs_96_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_96_r1l2" n="N002"/>Heuraths Contract
+      <lb facs="#facs_96_r1l3" n="N003"/>Anmerckungen</ab>
+            <pb facs="#facs_97" n="97" xml:id="img_0097"/>
+            <ab facs="#facs_97_r1" type="default">
+               <lb facs="#facs_97_r1l1" n="N001"/>76</ab>
+            <ab facs="#facs_97_r2" type="default">
+               <lb facs="#facs_97_r2l2" n="N001"/>452
+      <lb facs="#facs_97_r2l1" n="N002"/>Nahmen und Class
+      <lb facs="#facs_97_r2l3" n="N003"/>
+               <rs type="person" key=", Personen ID=28324">Grämbsreither Franz Joseph</rs> burgerlicher Handlsmann
+      <lb facs="#facs_97_r2l4" n="N004"/>Firma ad Raggion
+      <lb facs="#facs_97_r2l5" n="N005"/>Procura und Firmae Trager
+      <lb facs="#facs_97_r2l6" n="N006"/>Oblatorien und Avocatorien
+      <lb facs="#facs_97_r2l7" n="N007"/>Fundi Ausweisung
+      <lb facs="#facs_97_r2l8" n="N008"/>Der <rs type="person" key=", Personen ID=28324">Gramsreither</rs> hat seinen fundum mitls der specification N<hi rend="superscript">o</hi> 1497 folgender-
+      <lb facs="#facs_97_r2l9" n="N009"/>maßen ausgewisen daß selber eigenthumlich besize an Grundstüken
+      <lb facs="#facs_97_r2l10" n="N010"/>Vermög Gewähr auszügen und Urkunden 1498, 1499, 1500 et 1502 1550 fl
+      <lb facs="#facs_97_r2l13" n="N011"/>an einen Weingarten zu Hungarischen Proderstorf 200 fl
+      <lb facs="#facs_97_r2l14" n="N012"/>Die Herrschaffts Gebihrnußen und taxen habe er hievon bezahlt
+      <lb facs="#facs_97_r2l17" n="N013"/>laut Urkund 1501 mit 87 fl 21 x<hi rend="superscript">r</hi>
+               <lb facs="#facs_97_r2l18" n="N014"/>dann an selben <unclear>Melioriret</unclear>
+               <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 700 fl
+      <lb facs="#facs_97_r2l20" n="N015"/>seiner Ehewirthin habe er die Widerlag laut Quittung dd<hi rend="superscript">to</hi> 18<hi rend="superscript">ten</hi>
+               <lb facs="#facs_97_r2l22" n="N016"/>
+               <choice>
+                  <expan/>
+                  <abbr>Febr:</abbr>
+               </choice> 755 <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">bezahlt</hi> N<hi rend="superscript">o</hi> 1503 bezahlt mit 800 fl
+      <lb facs="#facs_97_r2l25" n="N017"/>zusamen Eigenthum <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">3287</hi> 3337 fl 21 x<hi rend="superscript">r</hi>
+               <lb facs="#facs_97_r2l28" n="N018"/>Zu Completirung des übrigen hat dessen Ehewirthin <rs type="person" key=", Personen ID=46388">Maria Anna</rs>
+               <lb facs="#facs_97_r2l29" n="N019"/>vorhin verehligt geweste <unclear>Bertola</unclear> das <choice>
+                  <expan/>
+                  <abbr>orig:</abbr>
+               </choice>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Caut Instr</hi> cortiorirte
+      <lb facs="#facs_97_r2l30" n="N020"/>Caut: Instrument dd<hi rend="superscript">to</hi> 22<hi rend="superscript">ten</hi>
+               <choice>
+                  <expan/>
+                  <abbr>Apr:</abbr>
+               </choice> 756 N<hi rend="superscript">o</hi> 1504 eingeleget <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 4662 fl 39 x<hi rend="superscript">r</hi>
+               <lb facs="#facs_97_line_1624452387854_3346" n="N021"/>
+               <choice>
+                  <expan/>
+                  <abbr>Sa</abbr>
+               </choice> 8000 fl
+      <lb facs="#facs_97_r2l34" n="N022"/>Hiebey befindet sich annoch eine Ausweisung wegen von der <rs type="person" key=", Personen ID=46388">Bertolla: Wittib</rs> bezahlten <unclear>250</unclear> fl
+      <lb facs="#facs_97_r2l35" n="N023"/>eine Billanz über ihre Handlung <choice>
+                  <expan/>
+                  <abbr>pr</abbr>
+               </choice> 10918 fl 20 x<hi rend="superscript">r</hi> avanzo und Erlags anbringen N<hi rend="superscript">o</hi> 1505, 1506 et 1507</ab>
+            <pb facs="#facs_98" n="98" xml:id="img_0098"/>
+            <ab facs="#facs_98_r1" type="default">
+               <lb facs="#facs_98_line_1624374969639_318" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_98_r1l1" n="N002"/>Heuraths Contract
+      <lb facs="#facs_98_r1l2" n="N003"/>Anmerckungen</ab>
+            <pb facs="#facs_99" n="99" xml:id="img_0099"/>
+            <ab facs="#facs_99_r2" type="page-numberpage-number">
+               <lb facs="#facs_99_r2l1" n="N001"/>453</ab>
+            <ab facs="#facs_99_r1" type="default">
+               <lb facs="#facs_99_line_1624374551609_160" n="N001"/>Nahmen und Class
+      <lb facs="#facs_99_r1l1" n="N002"/>Firma ad Raggion
+      <lb facs="#facs_99_r1l2" n="N003"/>Procura und Firmae Trager
+      <lb facs="#facs_99_r1l3" n="N004"/>Oblatorien und Avocatorien
+      <lb facs="#facs_99_r1l4" n="N005"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_100" n="100" xml:id="img_0100"/>
+            <ab facs="#facs_100_r1" type="default">
+               <lb facs="#facs_100_line_1624374905900_293" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_100_r1l1" n="N002"/>Heuraths Contract
+      <lb facs="#facs_100_r1l2" n="N003"/>Anmerckungen</ab>
+            <pb facs="#facs_101" n="101" xml:id="img_0101"/>
+            <ab facs="#facs_101_r2" type="page-numberpage-number">
+               <lb facs="#facs_101_r2l1" n="N001"/>454</ab>
+            <ab facs="#facs_101_r1" type="default">
+               <lb facs="#facs_101_line_1624374608285_187" n="N001"/>Nahmen und Class
+      <lb facs="#facs_101_r1l1" n="N002"/>Firma ad Raggion
+      <lb facs="#facs_101_r1l2" n="N003"/>Procura und Firmae Trager
+      <lb facs="#facs_101_r1l3" n="N004"/>Oblatorien und Avocatorien
+      <lb facs="#facs_101_r1l4" n="N005"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_102" n="102" xml:id="img_0102"/>
+            <ab facs="#facs_102_r1" type="default">
+               <lb facs="#facs_102_line_1624374868260_274" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_102_r1l1" n="N002"/>Heuraths Contract
+      <lb facs="#facs_102_r1l2" n="N003"/>Anmerckungen</ab>
+            <pb facs="#facs_103" n="103" xml:id="img_0103"/>
+            <ab facs="#facs_103_r2" type="page-numberpage-number">
+               <lb facs="#facs_103_r2l1" n="N001"/>455</ab>
+            <ab facs="#facs_103_r1" type="default">
+               <lb facs="#facs_103_line_1624374642883_204" n="N001"/>Nahmen und Class
+      <lb facs="#facs_103_r1l1" n="N002"/>Firma ad Raggion
+      <lb facs="#facs_103_r1l2" n="N003"/>Procura und Firmae Trager
+      <lb facs="#facs_103_r1l3" n="N004"/>Oblatorien und Avocatorien
+      <lb facs="#facs_103_r1l4" n="N005"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_104" n="104" xml:id="img_0104"/>
+            <ab facs="#facs_104_r1" type="default">
+               <lb facs="#facs_104_line_1624374808601_255" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_104_r1l1" n="N002"/>Heuraths Contract
+      <lb facs="#facs_104_r1l2" n="N003"/>Anmerckungen</ab>
+            <pb facs="#facs_105" n="105" xml:id="img_0105"/>
+            <ab facs="#facs_105_r2" type="page-numberpage-number">
+               <lb facs="#facs_105_r2l1" n="N001"/>456</ab>
+            <ab facs="#facs_105_r1" type="default">
+               <lb facs="#facs_105_r1l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_105_r1l2" n="N002"/>Firma ad Raggion
+      <lb facs="#facs_105_r1l3" n="N003"/>Procura und Firmae Trager
+      <lb facs="#facs_105_r1l4" n="N004"/>Oblatorien und Avocatorien
+      <lb facs="#facs_105_r1l5" n="N005"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_106" n="106" xml:id="img_0106"/>
+            <ab facs="#facs_106_r1" type="default">
+               <lb facs="#facs_106_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_106_r1l2" n="N002"/>Heuraths Contract
+      <lb facs="#facs_106_r1l3" n="N003"/>Anmerckungen</ab>
+            <pb facs="#facs_107" n="107" xml:id="img_0107"/>
+            <ab facs="#facs_107_r2" type="page-numberpage-number">
+               <lb facs="#facs_107_r2l1" n="N001"/>457</ab>
+            <ab facs="#facs_107_r1" type="default">
+               <lb facs="#facs_107_r1l1" n="N001"/>Nahmen und Class
+      <lb facs="#facs_107_r1l2" n="N002"/>Firma ad Raggion
+      <lb facs="#facs_107_r1l3" n="N003"/>Procura und Firmae Trager
+      <lb facs="#facs_107_r1l4" n="N004"/>Oblatorien und Avocatorien
+      <lb facs="#facs_107_r1l5" n="N005"/>Fundi Ausweisung</ab>
+            <pb facs="#facs_108" n="108" xml:id="img_0108"/>
+            <ab facs="#facs_108_r1" type="default">
+               <lb facs="#facs_108_r1l1" n="N001"/>Societaets Contract und Interessenten
+      <lb facs="#facs_108_r1l2" n="N002"/>Heuraths Contract
+      <lb facs="#facs_108_r1l3" n="N003"/>Anmerckungen</ab>
+         </div>
+      </body>
+   </text>
+</TEI>
