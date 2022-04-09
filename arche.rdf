@@ -1,80 +1,70 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <acdh:TopCollection xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm-static">
+   <acdh:TopCollection xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm">
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
       
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
       
-      <acdh:hasTitle xml:lang="de">Prosopographie der Wiener Kaufmannschaft im Zeitalter des Merkantilismus</acdh:hasTitle>
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
+      
+      
+      <acdh:hasTitle xml:lang="de">Edition und Faksimiles des ersten Wiener Merkantilprotokolls</acdh:hasTitle>
       
       <acdh:hasDescription xml:lang="de">Projektbeschreibung</acdh:hasDescription>
       
-      <acdh:hasContact rdf:resource="xxx"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
       <acdh:hasSubject xml:lang="de">Edition</acdh:hasSubject>
-      
-      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:TopCollection>
    
-   <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm-static/title-img.jpg">
+   <acdh:Person xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://d-nb.info/gnd/13140007X">
       
-      <acdh:hasTitle xml:lang="de">Titelbild</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="und">Peter Rauscher</acdh:hasTitle>
       
-      <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"></acdh:hasCreator>
+      <acdh:hasLastName xml:lang="und">Rauscher</acdh:hasLastName>
       
-      <acdh:hasRightsHolder rdf:resource="http://viaf.org/viaf/141440509"></acdh:hasRightsHolder>
-      
-      <acdh:hasContact rdf:resource="https://viaf.org/viaf/6515148451584915970000"></acdh:hasContact>
-      
-      <acdh:hasOwner rdf:resource="https://viaf.org/viaf/6515148451584915970000"></acdh:hasOwner>
-      
-      <acdh:hasLicensor rdf:resource="https://viaf.org/viaf/6515148451584915970000"></acdh:hasLicensor>
-      
-      <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
-      
-      <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"></acdh:hasCategory>
-      
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/meta"></acdh:isPartOf>
-      
-      <acdh:isTitleImageOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static"></acdh:isTitleImageOf>
-      
-      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1043833846"></acdh:hasMetadataCreator>
-      
-      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1043833846"></acdh:hasDepositor>
-      </acdh:Resource>
+      <acdh:hasFirstName xml:lang="und">Peter</acdh:hasFirstName>
+      </acdh:Person>
    
-   <acdh:Person xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="xxx">
+   <acdh:Person xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.adch.oeaw.ac.at/shoislbauer">
       
-      <acdh:hasTitle xml:lang="und">MMMMMM NNNNNN</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="und">Sandra Hoislbauer</acdh:hasTitle>
       
-      <acdh:hasLastName xml:lang="und">NNNNNN</acdh:hasLastName>
+      <acdh:hasLastName xml:lang="und">Hoislbauer</acdh:hasLastName>
       
-      <acdh:hasFirstName xml:lang="und">MMMMMM</acdh:hasFirstName>
+      <acdh:hasFirstName xml:lang="und">Sandra</acdh:hasFirstName>
       </acdh:Person>
    
    <acdh:Organisation xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://d-nb.info/gnd/108889819X">
@@ -82,749 +72,895 @@
       <acdh:hasTitle xml:lang="de">Der Wissenschaftsfonds (Österreich)</acdh:hasTitle>
       </acdh:Organisation>
    
-   <acdh:Collection xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm-static/editions">
+   <acdh:Organisation xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://d-nb.info/gnd/2060831-7">
+      
+      <acdh:hasTitle xml:lang="de">Wiener Stadt- und Landesarchiv</acdh:hasTitle>
+      </acdh:Organisation>
+   
+   <acdh:Place xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://sws.geonames.org/2761367/">
+      
+      <acdh:hasTitle xml:lang="de">Wien</acdh:hasTitle>
+      </acdh:Place>
+   
+   <acdh:Collection xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/editions">
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
       
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
       
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static"></acdh:isPartOf>
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
+      
+      
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
       
       <acdh:hasTitle xml:lang="de">Editionen</acdh:hasTitle>Editionen
       
       <acdh:hasDescription xml:lang="de">XML/TEI Dokumente </acdh:hasDescription>XML/TEI Dokumente 
-      
-      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Collection>
-   <acdh:Collection xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm-static/meta">
-      
-      <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
-      
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
-      
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
-      
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
-      
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
-      
-      <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
-      
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
-      
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
-      
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
-      
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
-      
-      <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
-      
-      <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
-      
-      
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static"></acdh:isPartOf>
-      
-      <acdh:hasTitle xml:lang="de">Ergänzende Materialen</acdh:hasTitle>Ergänzende Materialen
-      
-      <acdh:hasDescription xml:lang="de">Ergänzende Materialen zur Edition</acdh:hasDescription>Ergänzende Materialen zur Edition
-      
-      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      </acdh:Collection>
-   <acdh:Collection xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm-static/indices">
-      
-      <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
-      
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
-      
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
-      
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
-      
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
-      
-      <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
-      
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
-      
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
-      
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
-      
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
-      
-      <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
-      
-      <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
-      
-      
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static"></acdh:isPartOf>
-      
-      <acdh:hasTitle xml:lang="de">Register</acdh:hasTitle>Register
-      
-      <acdh:hasDescription xml:lang="de">XML/TEI kodiertes Orts-, Institutions- und Personenregister</acdh:hasDescription>XML/TEI kodiertes Orts-, Institutions- und Personenregister
-      
-      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      </acdh:Collection>
+   <acdh:Collection xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/faks">
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:hasTitle xml:lang="de">Faksimiles</acdh:hasTitle>
+      <acdh:hasDescription xml:lang="de">Diese Sammlung enthält die Scans des ersten Wiener Merkantilprotokolls, angefertigt
+         vom Wiener Stadt- und Landesarchiv</acdh:hasDescription>
+      <acdh:hasNonLinkedIdentifier>WStLA, Einzelstück 2.3.2.B6.1 - Protokoll I | 1725-1758</acdh:hasNonLinkedIdentifier>
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-nc-nd-4-0&gt;"></acdh:hasLicense>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/2060831-7"></acdh:hasLicensor>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/2060831-7"></acdh:hasContact>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/2060831-7"></acdh:hasOwner>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/2060831-7"></acdh:hasRightsHolder>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
+   </acdh:Collection>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650354.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-650354.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 13 Lit N fol 639 [644]-656 [661]</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650351.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-650351.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 12 Lit M fol 586 [591]-638 [643]</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650350.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-650350.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 11 Lit L fol 544 [549]-585 [590]</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560296.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-560296.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 07 Lit F, V fol 332-403</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-650348.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650394.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-650394.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 18 Lit Juden fol 920 [925]-943 [948]</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650346.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-650346.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 01 Einband Rücken Deckblatt Leere Seiten vorne und hinten</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-564767.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-564767.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 08 Lit G fol 404-457</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-560230.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650384.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-650384.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 17 Lit W fol 846 [851]-907 [912]</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560252.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-560252.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 04 Lit C, G, K fol 158-247</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-560280.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 06 Lit E fol 308-331</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650361.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-650361.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 15 Lit R fol 669 [674]-721 [726]</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-650377.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560275.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-560275.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 05 Lit D, T fol 248-307</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650362.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-650362.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 16 Lit S fol 722 [727]-845 [850]</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650398.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-650398.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 20 Register fol 944 [949]-961 [966]</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-650395.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650360.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-650360.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 14 Lit O fol 657 [662]-668 [673]</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
    <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560225.xml">
-      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/wkfm-static/wkfm-560225.xml"></acdh:hasIdentifier>
       <acdh:hasTitle xml:lang="de">Wiener Merkantilprotokoll 02 Lit A fol 1-24</acdh:hasTitle>
       <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
       <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
-      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm"></acdh:isPartOf>
+      <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/editions"></acdh:isPartOf>
       
       <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
       
-      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasLicensor>
       
-      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      <acdh:hasContact rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasContact>
       
-      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasOwner>
       
-      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasRightsHolder>
       
       <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
       
-      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCreator>
       
-      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      <acdh:hasCreator rdf:resource="https://id.adch.oeaw.ac.at/shoislbauer"></acdh:hasCreator>
       
-      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasDepositor>
       
-      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"></acdh:hasMetadataCreator>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      
+      <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+      
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+      
+      <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"></acdh:hasSpatialCoverage>
+      
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Resource>
 </rdf:RDF>
