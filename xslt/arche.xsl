@@ -80,9 +80,10 @@
                     <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/2060831-7"/>
                     <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"/>
                     <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"/>
-                    <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"/>
+                    <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/2060831-7"/>
                     <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"/>
                     <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
+                    <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
                     <acdh:isSourceOf rdf:resource="{concat($TopColId, '/', $sourceOf)}"/>
                 </acdh:Resource>
             </xsl:for-each>
