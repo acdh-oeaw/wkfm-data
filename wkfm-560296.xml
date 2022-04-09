@@ -1994,9 +1994,9 @@
                <choice>
                   <expan/>
                   <abbr>9br:</abbr>
-               </choice> 707 N<hi rend="superscript">o</hi> 2148 hat der <blackening>
+               </choice> 707 N<hi rend="superscript">o</hi> 2148 hat der <hi rend="blackening">
                   <unclear>xx</unclear>
-               </blackening>
+               </hi>
                <lb facs="#facs_72_r1l11" n="N011"/>
                <rs type="person" key=", Personen ID=21998">Vernay</rs> den mit der <rs type="person" key=", Personen ID=47104">Anna Maria Theresia Torolinin</rs> untern 24<hi rend="superscript">ten</hi>
                <lb facs="#facs_72_r1l12" n="N012"/>Juni 736 abgeschlossenen Heurathscontract in Copia Vidimata N<hi rend="superscript">o</hi> 214<unclear>7</unclear> ein<unclear>ge</unclear>
@@ -3914,7 +3914,7 @@
                </choice> 754 N<hi rend="superscript">o</hi> 382 eingeleget
       <lb facs="#facs_135_r1l7" n="N007"/>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">
-                  <blackening>An</blackening>no</hi> Anno 764 seine abermahlige firma eingelegt <choice>
+                  <hi rend="blackening">An</hi>no</hi> Anno 764 seine abermahlige firma eingelegt <choice>
                   <expan/>
                   <abbr>nro:</abbr>
                </choice> 382 1/2.
