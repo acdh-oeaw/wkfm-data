@@ -60,6 +60,32 @@
                 <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"/>
                 <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"/>
             </acdh:Collection>
+            <xsl:for-each select="collection('../data/editions')//tei:graphic/@url">
+                <xsl:variable name="facsId">
+                    <xsl:value-of select="."/>
+                </xsl:variable>
+                <xsl:variable name="sourceOf">
+                    <xsl:value-of select="data(.//ancestor::tei:TEI/@xml:id)"/>
+                </xsl:variable>
+                <acdh:Resource rdf:about="{concat($TopColId, '/', $facsId)}">
+                    <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/wkfm/faks"/>
+                    <acdh:hasTitle xml:lang="de"><xsl:value-of select="replace($facsId, '_', ' ')"/></acdh:hasTitle>
+                    <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-01-01</acdh:hasCoverageStartDate>
+                    <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-12-31</acdh:hasCoverageEndDate>
+                    <acdh:hasSpatialCoverage rdf:resource="https://sws.geonames.org/2761367/"/>
+                    <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-nc-nd-4-0"/>
+                    <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/2060831-7"/>
+                    <acdh:hasContact rdf:resource="https://d-nb.info/gnd/2060831-7"/>
+                    <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/2060831-7"/>
+                    <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/2060831-7"/>
+                    <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/13140007X"/>
+                    <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/13140007X"/>
+                    <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"/>
+                    <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"/>
+                    <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
+                    <acdh:isSourceOf rdf:resource="{concat($TopColId, '/', $sourceOf)}"/>
+                </acdh:Resource>
+            </xsl:for-each>
             <xsl:for-each select="collection('../data/editions')//tei:TEI">
                 <xsl:variable name="partOf">
                     <xsl:value-of select="concat($TopColId, '/editions')"/>
