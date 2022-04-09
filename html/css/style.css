@@ -15,6 +15,20 @@ div.dataTables_filter {
 .navbar {
     border-bottom: 5px solid #88dbdf !important;
 }
+.navbar {
+    padding-left: 0;
+    padding-right: 0;
+    border-bottom: 5px solid var(--schnitzler-green);
+}
+
+.navbar .navbar-brand {
+    padding-right: 0;
+}
+
+.navbar .navbar-brand img {
+    height: 4rem;
+    max-height: unset;
+}
 
 .dataTables_info {
   text-align: center;
@@ -116,4 +130,14 @@ button#ssDoSearch {
 
 #github-logo:hover {
     transform: scale(1.05);
+}
+
+.kategorie {
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    padding-top: 1em;
+}
+.whitespace {
+    padding-left: 7em;
+    padding-right: 7em;
 }

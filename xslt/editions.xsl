@@ -87,6 +87,11 @@
                                 </div>
                             </div>
                             <div class="card-body">
+                                <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                                     Arbeitstranskripte; kein Anspruch auf
+                                    Vollständigkeit und Korrektheit                                    
+                                    <span aria-hidden="true" class="close" data-dismiss="alert" aria-label="Close">schließen</span>
+                                </div>
                                 <xsl:for-each select="//tei:text//tei:ab">
                                     <xsl:variable name="counter"
                                         select="concat('curNum__', position())"/>
@@ -230,5 +235,18 @@
         <div id="{local:makeId(.)}">
             <xsl:apply-templates/>
         </div>
-    </xsl:template>  
+    </xsl:template>
+    <xsl:template match="tei:ab/text()">
+        <xsl:analyze-string select="."
+            regex="Nahmen und Class|Firma ad Raggion|Firma oder Raggion|Procura und Firmae Trager|Oblatorien und Avocatorien|Fundi Ausweisungen|Fundi Ausweisung|Societaets Contract und Interessenten|Heuraths Contract|Anmerkungen">
+            <xsl:matching-substring>
+                <div class="kategorie">
+                    <xsl:value-of select="."/>
+                </div>
+            </xsl:matching-substring>
+            <xsl:non-matching-substring>
+                <xsl:value-of select="."/>
+            </xsl:non-matching-substring>
+        </xsl:analyze-string>
+    </xsl:template>
 </xsl:stylesheet>

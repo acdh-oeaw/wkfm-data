@@ -68,5 +68,5 @@ for i, x in df[df['width'].notna()].iterrows():
     }
     PROJECT_MD['items'].append(item)
 
-with open('./html/manifest.json', 'w') as f:
+with open('./html/js/manifest.json', 'w') as f:
     f.write(json.dumps(PROJECT_MD))

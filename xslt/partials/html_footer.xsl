@@ -76,7 +76,7 @@
         </div>
         <!-- #wrapper-footer-full -->
         <div class="footer-imprint-bar" id="wrapper-footer-secondary" style="text-align:center; padding:0.4rem 0; font-size: 0.9rem;" >
-            <a href="imprint.html">Impressum/Imprint</a> | <a href="{$github_url}">Source Code</a>
+            <a href="imprint.html">Impressum/Imprint</a> | <a href="{$github_url}"><i data-feather="github"></i></a>
         </div>
         <script type="text/javascript" src="dist/fundament/vendor/jquery/jquery.min.js"></script>
         <script type="text/javascript" src="dist/fundament/js/fundament.min.js"></script>
