@@ -60,7 +60,7 @@
                 <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/13140007X"/>
                 <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13140007X"/>
             </acdh:Collection>
-            <xsl:for-each select="collection('../data/editions')//tei:graphic/@url">
+            <!-- <xsl:for-each select="collection('../data/editions')//tei:graphic/@url">
                 <xsl:variable name="facsId">
                     <xsl:value-of select="."/>
                 </xsl:variable>
@@ -86,7 +86,7 @@
                     <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
                     <acdh:isSourceOf rdf:resource="{concat($TopColId, '/', $sourceOf)}"/>
                 </acdh:Resource>
-            </xsl:for-each>
+            </xsl:for-each> -->
             <xsl:for-each select="collection('../data/editions')//tei:TEI">
                 <xsl:variable name="partOf">
                     <xsl:value-of select="concat($TopColId, '/editions')"/>

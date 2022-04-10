@@ -9,7 +9,7 @@ echo "download fresh data from transkribus"
 echo "running some postprocessing with fetch-data.xml"
 ant -f fetch-data.xml
 
-echo "delete line zones"
+echo "delete line zones and @facs from tei:lb"
 python delete_line_zones.py
 
 echo "add xml:id, prev and next attributes"
