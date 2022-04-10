@@ -109,32 +109,32 @@
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_r1" type="default">
-               <lb facs="#facs_2_r1l1" n="N001"/>
-               <lb facs="#facs_2_r1l2" n="N002"/>
-               <lb facs="#facs_2_r1l3" n="N003"/>
-               <lb facs="#facs_2_r1l4" n="N004"/>
-               <lb facs="#facs_2_r1l5" n="N005"/>
-               <lb facs="#facs_2_r1l6" n="N006"/>
-               <lb facs="#facs_2_r1l7" n="N007"/>
-               <lb facs="#facs_2_r1l8" n="N008"/>
-               <lb facs="#facs_2_r1l9" n="N009"/>
-               <lb facs="#facs_2_r1l10" n="N010"/>
-               <lb facs="#facs_2_r1l11" n="N011"/>
-               <lb facs="#facs_2_r1l12" n="N012"/>
-               <lb facs="#facs_2_r1l13" n="N013"/>
+               <lb n="N001"/>
+               <lb n="N002"/>
+               <lb n="N003"/>
+               <lb n="N004"/>
+               <lb n="N005"/>
+               <lb n="N006"/>
+               <lb n="N007"/>
+               <lb n="N008"/>
+               <lb n="N009"/>
+               <lb n="N010"/>
+               <lb n="N011"/>
+               <lb n="N012"/>
+               <lb n="N013"/>
             </ab>
             <ab facs="#facs_2_r2" type="default">
-               <lb facs="#facs_2_r2l1" n="N001"/>
+               <lb n="N001"/>
             </ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             <ab facs="#facs_6_r1" type="default">
-               <lb facs="#facs_6_r1l1" n="N001"/>
+               <lb n="N001"/>
             </ab>
             <ab facs="#facs_6_r2" type="default">
-               <lb facs="#facs_6_r2l1" n="N001"/>
+               <lb n="N001"/>
             </ab>
             <pb facs="#facs_7" n="7" xml:id="img_0007"/>
             <pb facs="#facs_8" n="8" xml:id="img_0008"/>
@@ -144,11 +144,11 @@
             <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             <pb facs="#facs_13" n="13" xml:id="img_0013"/>
             <ab facs="#facs_13_r1" type="default">
-               <lb facs="#facs_13_r1l1" n="N001"/>
-               <lb facs="#facs_13_r1l2" n="N002"/>
+               <lb n="N001"/>
+               <lb n="N002"/>
             </ab>
             <ab facs="#facs_13_r2" type="default">
-               <lb facs="#facs_13_r2l1" n="N001"/>
+               <lb n="N001"/>
             </ab>
          </div>
       </body>
