@@ -1176,5 +1176,221 @@
       <lb n="N003"/>Anmerckungen</ab>
          </div>
       </body>
-   </text>
+   <back><listPerson><person xml:id="wkfm_46406">
+                <persName>Engl Johann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46406</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46425">
+                <persName>Juliana Barbara</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46425</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46403">
+                <persName>Eberl Hieronimus</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46403</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_40592">
+                <persName>Entner Johann Carl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_40592</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_23412">
+                <persName>Franz Dionisius Egger</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_23412</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_24258">
+                <persName>Eybel Johann Sebastian</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_24258</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_8957">
+                <persName>Eggendorfer Lorenz</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8957</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46420">
+                <persName>Frantz Dionisi Egger</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46420</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46438">
+                <persName>Joseph Ettenreich</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46438</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46422">
+                <persName>Elisabeth</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46422</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46433">
+                <persName>Ehrnhofer Johann Urban</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46433</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46427">
+                <persName>Hieronymuß Ignat Eberl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46427</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_8771">
+                <persName>Eggendorfer Franz</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8771</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_8956">
+                <persName>Esslinger Johann Martin</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8956</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_25088">
+                <persName>Joseph</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_25088</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46416">
+                <persName>Johann Carl Entner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46416</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46436">
+                <persName>Ettenreicher Johann Heinrich</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46436</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46423">
+                <persName>Eberl Johann Caspar</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46423</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_41690">
+                <persName>Eybeckher Jacob</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_41690</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46435">
+                <persName>Kath: Barkherin</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46435</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46413">
+                <persName>Jacob Eggendorfer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46413</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46412">
+                <persName>Johann Wolfgang</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46412</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_9401">
+                <persName>Eggendorfer Jacob</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_9401</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46426">
+                <persName>Eberl Hieronimus Ignaz</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46426</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46417">
+                <persName>Johann Carl Entner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46417</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46421">
+                <persName>Johann Sebastian Eybel</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46421</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46429">
+                <persName>Eysenkohl und Mayr</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46429</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46408">
+                <persName>Erwart Andre</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46408</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46437">
+                <persName>Johann Heinrich Ettenreicher</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46437</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_27912">
+                <persName>Johann Ignatz Babitsch</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_27912</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 11 Lit L fol 544 [549]-585 [590]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650350.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46419">
+                <persName>Joßeph Antonj Eberl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46419</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46439">
+                <persName>Eybel Joseph Niclas</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46439</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46407">
+                <persName>Johann Engl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46407</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46410">
+                <persName/>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46410</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46415">
+                <persName>Franz Eggendorfer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46415</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46428">
+                <persName>Eysenkohl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46428</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46424">
+                <persName>Johann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46424</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46409">
+                <persName>Andreaß Erwart</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46409</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46430">
+                <persName>Eybel Johann Heinrich</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46430</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46418">
+                <persName>Eberl Joseph Anton</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46418</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_14142">
+                <persName/>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_14142</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46441">
+                <persName>Egger Johann Carl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46441</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46431">
+                <persName>Johann Heinrich Eybel</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46431</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46401">
+                <persName>Johann Martin Esslinger</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46401</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46440">
+                <persName>Joseph Niclaus Eybel</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46440</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46402">
+                <persName>Lorenz Eggendorfer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46402</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46411">
+                <persName>Johann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46411</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46404">
+                <persName>Hieronymus Eberl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46404</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_10250">
+                <persName>Eckhartt Johann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_10250</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_37828">
+                <persName>Egger und Babitsch</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_37828</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46432">
+                <persName>Antonia Kastlin</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46432</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46414">
+                <persName>Johann Eckhartt</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46414</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46434">
+                <persName>Johann Urban</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46434</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46405">
+                <persName>Jacob Eybeckher</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46405</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 06 Lit E fol 308-331</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560280.xml"/></linkGrp></event></listEvent></person>
+            </listPerson></back></text>
 </TEI>

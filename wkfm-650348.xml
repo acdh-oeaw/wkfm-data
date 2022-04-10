@@ -4048,5 +4048,861 @@
       <lb n="N003"/>Anmerckungen</ab>
          </div>
       </body>
-   </text>
+   <back><listPerson><person xml:id="wkfm_8808">
+                <persName>Johann Gregori Grindtler</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8808</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46445">
+                <persName>mayster</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46445</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_42596">
+                <persName>Höchenberger Johann Zacharias</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_42596</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_22363">
+                <persName>Frölich Christian Daniel</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_22363</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 07 Lit F, V fol 332-403</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560296.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46450">
+                <persName>Mathias Joseph Hölbling</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46450</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_30066">
+                <persName>Hößlin und Falkh</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_30066</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 15 Lit R fol 669 [674]-721 [726]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650361.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_8754">
+                <persName>Hengsberger Matthias</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8754</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 17 Lit W fol 846 [851]-907 [912]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650384.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_12260">
+                <persName>Hoppe und Aicher</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_12260</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46563">
+                <persName>Hueber Johann Georg</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46563</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46574">
+                <persName>Härtl Joseph</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46574</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_39393">
+                <persName>Hütter Matthias</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_39393</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46493">
+                <persName>Johann Fortunat Heller</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46493</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46458">
+                <persName>Franz</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46458</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46551">
+                <persName>Martin Haberpichler</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46551</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46544">
+                <persName>Antoni Mathias Höltzl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46544</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_44785">
+                <persName>Johann Christoph Haas und Söhne</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_44785</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46546">
+                <persName>Johann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46546</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_11600">
+                <persName>Hukher Maximilian</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_11600</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46395">
+                <persName>Maximilian Hukher</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46395</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46444">
+                <persName>Matthias Hengsberger</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46444</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46453">
+                <persName>Joseph Hökhstainer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46453</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 17 Lit W fol 846 [851]-907 [912]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650384.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_20866">
+                <persName>Haaß Johann Christoph</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_20866</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46471">
+                <persName>Frantz Michael Haslacher</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46471</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46497">
+                <persName>Johann Adam Himmelberger</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46497</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_12736">
+                <persName>Neymaister Andre</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_12736</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 13 Lit N fol 639 [644]-656 [661]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650354.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46550">
+                <persName>Haberpichler Martin</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46550</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46476">
+                <persName>Haussner Johann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46476</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46564">
+                <persName>Johann Georg Hueber</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46564</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46474">
+                <persName>Frantz Humbl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46474</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46442">
+                <persName>Nicolau Hofeckher</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46442</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_29389">
+                <persName>Hilger Franz Johann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_29389</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46498">
+                <persName>Halbax Thomas</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46498</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46452">
+                <persName>Joseph Hökhsteiner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46452</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46503">
+                <persName>Joh: Georg Huebmer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46503</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46509">
+                <persName>Johann Gottlob Heß</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46509</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46510">
+                <persName>Helmbsteiner Hieronimus</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46510</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_40680">
+                <persName>Butterna Johann Matthias</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_40680</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46525">
+                <persName>Franz Joseph Hammer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46525</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46569">
+                <persName>Anna</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46569</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_30180">
+                <persName>Bartholomao Contrini</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_30180</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 04 Lit C, G, K fol 158-247</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560252.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46462">
+                <persName>Frantz Däniel Hertzog</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46462</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46528">
+                <persName>Huetter und Weizmann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46528</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 16 Lit S fol 722 [727]-845 [850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650362.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 17 Lit W fol 846 [851]-907 [912]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650384.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_18243">
+                <persName>Höffler Niclas</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_18243</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46473">
+                <persName>Humbl Franz</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46473</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_8189">
+                <persName>Helvetius Johann Georg</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8189</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46560">
+                <persName>Paumgartner Johann Adam</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46560</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 12 Lit M fol 586 [591]-638 [643]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650351.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46400">
+                <persName>Johann Wolfgang und Johann Philipp Heümerl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46400</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_42340">
+                <persName>Johann Pohamb und Martin Hillebrand</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_42340</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46535">
+                <persName>Franz Hackell</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46535</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 12 Lit M fol 586 [591]-638 [643]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650351.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43924">
+                <persName>Carl Joseph Moser et</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43924</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 12 Lit M fol 586 [591]-638 [643]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650351.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46522">
+                <persName>Christoph Rad</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46522</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 15 Lit R fol 669 [674]-721 [726]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650361.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46562">
+                <persName>Johann Georg Heindl et</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46562</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_8067">
+                <persName>Heß und Thech</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8067</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 05 Lit D, T fol 248-307</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560275.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46390">
+                <persName>Stephan Hayderische Handlung</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46390</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_9904">
+                <persName>Helmreich Johann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_9904</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46526">
+                <persName>Doctor von Dietmanstorf</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46526</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46566">
+                <persName>Heigl Johann Sebastian</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46566</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46162">
+                <persName>Höcker Johann Georg</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46162</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 04 Lit C, G, K fol 158-247</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560252.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_16579">
+                <persName>Hauer Georg Franz</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_16579</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46558">
+                <persName>Josepha gebohrne Fünsterin</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46558</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46575">
+                <persName>Norbert Härtl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46575</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_6849">
+                <persName>Erdmann Thech</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_6849</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 05 Lit D, T fol 248-307</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560275.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46512">
+                <persName>Anna Maria Elisabetha</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46512</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_30048">
+                <persName>Hoppe Johann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_30048</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_23197">
+                <persName>Bartholomaeus Falkh</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_23197</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 15 Lit R fol 669 [674]-721 [726]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650361.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46449">
+                <persName>Hölbling Matthias Joseph</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46449</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46457">
+                <persName>Johann Jacob Hauzenberger</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46457</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46505">
+                <persName>Barbara Felbermayrin</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46505</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46454">
+                <persName>Franz Carl Hökhsteiner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46454</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46547">
+                <persName>Joseph Höltzl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46547</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46468">
+                <persName>Ludwig Dominicus Heldt</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46468</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46530">
+                <persName>Franz Waizmann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46530</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46470">
+                <persName>Haslacher Franz Michäl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46470</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46545">
+                <persName>Höltzl Franz</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46545</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46561">
+                <persName>Heindl Johann Georg</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46561</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_23836">
+                <persName>Häsl Franz Wilhelm</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_23836</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46469">
+                <persName>Frantz Wilhelmb Häsl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46469</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_10641">
+                <persName>Moser Carl Joseph</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_10641</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 12 Lit M fol 586 [591]-638 [643]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650351.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46576">
+                <persName>Franz Xav. Hardtel</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46576</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46455">
+                <persName>Hökhsteinerische Wittib Anna Catharina</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46455</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46484">
+                <persName>Johann Helmreich</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46484</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46459">
+                <persName>Johann Jacob Haas</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46459</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_17713">
+                <persName>Hueber Franz Xaverius</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_17713</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46500">
+                <persName>Hommer Joseph Carl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46500</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46483">
+                <persName>Matt: Paulhueber</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46483</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46514">
+                <persName>Maria Magdalena</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46514</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46461">
+                <persName>Hertzog Franz Daniel</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46461</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_24831">
+                <persName>Haymerl Johann Wolfgang</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_24831</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46559">
+                <persName>Hilbert Carl Joseph</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46559</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46520">
+                <persName>Mathias Hofstätteri-</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46520</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46537">
+                <persName>Mayer und Hakell</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46537</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 12 Lit M fol 586 [591]-638 [643]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650351.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46481">
+                <persName>Frantz Johann Hilger</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46481</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_23505">
+                <persName>Hokhstainer Carl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_23505</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46554">
+                <persName>Frantz Ignatz Hipp</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46554</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46536">
+                <persName>Joseph Mayer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46536</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46541">
+                <persName>Johann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46541</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46477">
+                <persName>Johann Haussner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46477</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46447">
+                <persName>Lorentz Heigl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46447</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46533">
+                <persName>Martin Peter Hillebrandt</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46533</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46556">
+                <persName>Hochenauer Johann Michäl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46556</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46506">
+                <persName>Joseph Anton Heim</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46506</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46548">
+                <persName>Franz Hölzl et</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46548</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46573">
+                <persName>Cunigonda</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46573</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46446">
+                <persName>Heigl Lorenz</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46446</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46490">
+                <persName>Franz Xavery Hueber</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46490</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46502">
+                <persName>Huebmer Johann Georg</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46502</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46486">
+                <persName>Hörman Johann Michäl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46486</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_8593">
+                <persName>Johann Maria von Tinti</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8593</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 16 Lit S fol 722 [727]-845 [850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650362.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46553">
+                <persName>Hipp Franz Ignaz</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46553</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46552">
+                <persName>Maria Eva Corloin</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46552</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_29325">
+                <persName>Rebay Johann Heinrich</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_29325</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 12 Lit M fol 586 [591]-638 [643]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650351.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 15 Lit R fol 669 [674]-721 [726]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650361.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_15932">
+                <persName>Heller Johann Fortunat</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_15932</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46460">
+                <persName>Franz Anton Haas</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46460</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46391">
+                <persName>Stephan von Haydern</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46391</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46463">
+                <persName>Hofgartner Martin Wilhelm</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46463</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_10600">
+                <persName>Härtl Norbert</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_10600</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 08 Lit G fol 404-457</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-564767.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_9735">
+                <persName>Johann Anton Stapff</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_9735</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 16 Lit S fol 722 [727]-845 [850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650362.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 17 Lit W fol 846 [851]-907 [912]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650384.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46511">
+                <persName>Hieronymus Helmbsteiner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46511</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46513">
+                <persName>Melchior Spenger</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46513</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46448">
+                <persName>Gregorj Harwath</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46448</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_34650">
+                <persName>Leonhard</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_34650</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46456">
+                <persName>Anna Catharina Fuxin</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46456</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46492">
+                <persName>Ferdinand Aicher</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46492</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46479">
+                <persName>Frantz Hueber</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46479</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46399">
+                <persName>Antoni Hölzl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46399</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46519">
+                <persName>Matthias Hofstätter</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46519</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46485">
+                <persName>Georg Franz Hauer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46485</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_10090">
+                <persName>Albrecht Zehetner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_10090</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46540">
+                <persName>Mathias Joseph Seidl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46540</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_14804">
+                <persName>Holtzmaister Leopold</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_14804</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46531">
+                <persName>Maria</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46531</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_25805">
+                <persName>Horwath Gregor</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_25805</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46504">
+                <persName>Mathias Hütter</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46504</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_37974">
+                <persName>Benedict Monss</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_37974</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_8107">
+                <persName>Hueber Franz</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8107</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46397">
+                <persName>Georg v. Prunauer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46397</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46478">
+                <persName>Carl Hökhstainer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46478</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46480">
+                <persName>Nicolaus Höffler</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46480</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46543">
+                <persName>Johann Michäl Mayer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46543</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 12 Lit M fol 586 [591]-638 [643]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650351.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46549">
+                <persName>Susanna Stelzerin</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46549</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46524">
+                <persName>Paul Hertzog</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46524</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46398">
+                <persName>Hölzl Anton</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46398</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_13068">
+                <persName>Hämmerl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_13068</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_9703">
+                <persName>Hauzenberger Johann Jacob</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_9703</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46523">
+                <persName>Hertzog Paul</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46523</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46467">
+                <persName>Simon Hääsl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46467</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_9731">
+                <persName>Joh: Michäl v. Kyenmayr</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_9731</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 04 Lit C, G, K fol 158-247</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560252.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 07 Lit F, V fol 332-403</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560296.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 16 Lit S fol 722 [727]-845 [850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650362.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46482">
+                <persName>Hueber Matthias Paul</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46482</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_38549">
+                <persName>Mayer und Höltzl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_38549</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 12 Lit M fol 586 [591]-638 [643]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650351.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 16 Lit S fol 722 [727]-845 [850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650362.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_8148">
+                <persName>Rad und Hößlin:</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8148</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 15 Lit R fol 669 [674]-721 [726]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650361.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_11795">
+                <persName>Haymerl Philipp Joseph</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_11795</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46542">
+                <persName>Höltzl Anton Matthias</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46542</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 12 Lit M fol 586 [591]-638 [643]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650351.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_16778">
+                <persName>Gaun und</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_16778</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46515">
+                <persName>Humbl Ferdinand Johann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46515</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46393">
+                <persName>Haiderischen Wittib Anna Susanna</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46393</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46392">
+                <persName>Stephan von Haidern</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46392</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43905">
+                <persName>Sigmund Joachim v. Haymerl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43905</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46508">
+                <persName>Johann Hochhausser</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46508</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_26689">
+                <persName>Heß Johann Gottlob</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_26689</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 05 Lit D, T fol 248-307</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560275.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46168">
+                <persName>Kollman Johann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46168</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 04 Lit C, G, K fol 158-247</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560252.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_9484">
+                <persName>Horvath Gregor Ferdinand</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_9484</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43906">
+                <persName>Bernhard von Haymerl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43906</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46567">
+                <persName>Ignaz Händl Gartner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46567</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46464">
+                <persName>Martin Wilhelm Hofgartner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46464</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46568">
+                <persName>Joseph Heigl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46568</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_11674">
+                <persName>Stephan Joseph Haider</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_11674</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46555">
+                <persName>Theresia Eberspergerin</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46555</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_30193">
+                <persName>Martin Peter Hillebrandt</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_30193</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 02 Lit A fol 1-24</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560225.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46518">
+                <persName>Hofstätter Matthias</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46518</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46534">
+                <persName>Hentschl Joseph Anton</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46534</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_25454">
+                <persName>Gschaidter Matthias Franz</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_25454</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 08 Lit G fol 404-457</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-564767.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 17 Lit W fol 846 [851]-907 [912]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650384.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46527">
+                <persName>Johann Huetter</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46527</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 17 Lit W fol 846 [851]-907 [912]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650384.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46451">
+                <persName>Johann Zacharias Höchenberger</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46451</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46487">
+                <persName>Johann Michael Horman</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46487</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46499">
+                <persName>Thomas Halbax</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46499</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46170">
+                <persName>Franz Joseph Hammer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46170</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 04 Lit C, G, K fol 158-247</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560252.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 11 Lit L fol 544 [549]-585 [590]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650350.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46495">
+                <persName>Pfändl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46495</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46557">
+                <persName>Joh: Michael Hochenauer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46557</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_13519">
+                <persName>Heldt Ludwig Dominicus</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_13519</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46488">
+                <persName>Hänrich Jacob</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46488</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_9868">
+                <persName>Holzapfl Johann Baptist</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_9868</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46494">
+                <persName>Ignaz Kreuter</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46494</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46466">
+                <persName>Hääsl Simon</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46466</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46507">
+                <persName>Hochhauser Johann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46507</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46396">
+                <persName>Isidoro Hoffman</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46396</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46521">
+                <persName>von Hößlin Philipp Albrecht</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46521</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 15 Lit R fol 669 [674]-721 [726]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650361.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46571">
+                <persName>Riva Joseph Maria</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46571</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 15 Lit R fol 669 [674]-721 [726]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650361.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46389">
+                <persName>Johann Georg Helvetius</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46389</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46517">
+                <persName>Franz Ferdinand Humbl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46517</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_8508">
+                <persName>Hoffman Isidor</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8508</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46489">
+                <persName>Jacob Hänrich</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46489</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46516">
+                <persName>Ferdinandt Johanns Humbl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46516</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46465">
+                <persName>Martin Hofgartnerische</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46465</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_8186">
+                <persName>Joseph Hökhsteiner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8186</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46572">
+                <persName>Höltzl Anton</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46572</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46501">
+                <persName>Joseph Carl Hommer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46501</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_28324">
+                <persName>Franz Joseph Grämbsreither</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_28324</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 08 Lit G fol 404-457</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-564767.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46496">
+                <persName>Himmelberger Johann Adam</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46496</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_37608">
+                <persName>Joachim Andre Preß</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_37608</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_19704">
+                <persName>Hofeckher Niclas</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_19704</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46570">
+                <persName>Helmsteiner Joseph</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46570</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_13569">
+                <persName>Butterna und Heymerl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_13569</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46565">
+                <persName>Maria Josepha Heimberlin</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46565</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_25274">
+                <persName>Hökhstainer et Hink</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_25274</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46475">
+                <persName>Johann Paptisto Holzapfl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46475</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46539">
+                <persName>Franz Xaveri</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46539</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46491">
+                <persName>Andre Sebastian Siegert</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46491</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46472">
+                <persName>Gregori Ferdinandt</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46472</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46443">
+                <persName>Leopold Holtzmeister</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46443</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46532">
+                <persName>Johann Pöhamb</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46532</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46538">
+                <persName>Franz Hackell</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46538</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_25804">
+                <persName>Heim Joseph Anton</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_25804</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46529">
+                <persName>Johann Huetter</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46529</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46394">
+                <persName>Leopold von Haydern</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46394</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event></listEvent></person>
+            </listPerson></back></text>
 </TEI>
