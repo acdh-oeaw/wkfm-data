@@ -868,5 +868,145 @@
       <lb n="N003"/>Anmerckungen</ab>
          </div>
       </body>
-   </text>
+   <back><listPerson><person xml:id="wkfm_46633">
+                <persName>Johann Jacob Isenflam</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46633</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46632">
+                <persName>Johann Peter Jungwirth</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46632</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46637">
+                <persName>Joseph Jenamy</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46637</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46639">
+                <persName>Joseph Aloyß Jeitner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46639</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46636">
+                <persName>Claude Jenamy</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46636</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43875">
+                <persName>Theresia</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43875</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_8324">
+                <persName>Johann Jacob Isenflam</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8324</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_27714">
+                <persName>Ipditsch Franz Anton</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_27714</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_9635">
+                <persName>Jungwirth Johann Peter</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_9635</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_28298">
+                <persName>Jenamy Claude</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_28298</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43870">
+                <persName>Schräzenthaller Leopold</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43870</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 16 Lit S fol 722 [727]-845 [850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650362.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_37955">
+                <persName>Küner Jacob</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_37955</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 04 Lit C, G, K fol 158-247</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560252.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43871">
+                <persName>Illing Anton Joseph</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43871</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43876">
+                <persName>Jagatitsch Jacob</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43876</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46635">
+                <persName>Gervasi Jenamy</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46635</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43868">
+                <persName>Ingrueber Jacob</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43868</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 16 Lit S fol 722 [727]-845 [850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650362.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46641">
+                <persName>Andreas Antonj Jordan</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46641</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46642">
+                <persName>Frantz Antoni Ipditsch</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46642</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_9468">
+                <persName>Guillaume Jenamy</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_9468</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 05 Lit D, T fol 248-307</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560275.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 15 Lit R fol 669 [674]-721 [726]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650361.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_12143">
+                <persName>Jenamy Joseph</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_12143</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_8671">
+                <persName>Jeitner Joseph Alosius</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8671</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43878">
+                <persName>Theresia Meisnerin</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43878</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46644">
+                <persName>Jacob Jagatitsch</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46644</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46643">
+                <persName>Johann Adam Jezinger</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46643</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43873">
+                <persName>Maria Francisca Wolfmayrin</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43873</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_8746">
+                <persName>Gervasius Jenamy</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_8746</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_12421">
+                <persName>Isenflam und Küner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_12421</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 04 Lit C, G, K fol 158-247</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560252.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43874">
+                <persName>Jezinger Johann Adam</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43874</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43867">
+                <persName>Gervasi Jenamy und Sohn</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43867</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43872">
+                <persName>Jordan Andre Anton</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43872</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46638">
+                <persName>Jacob Ingrueber</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46638</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43869">
+                <persName>Jacob Ingrueber et Compagnia</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43869</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 16 Lit S fol 722 [727]-845 [850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650362.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_12086">
+                <persName>Polti Rocco</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_12086</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46634">
+                <persName>Guillaume Jenamy</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46634</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46640">
+                <persName>Antony Joseph Illing</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46640</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 10 Lit I, J fol 526 [531]-543 [548]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650377.xml"/></linkGrp></event></listEvent></person>
+            </listPerson></back></text>
 </TEI>

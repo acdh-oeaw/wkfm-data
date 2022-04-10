@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+       <fileDesc>
+          <titleStmt>
+             <title type="main">Personenregister</title>
+             <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+             <principal>
+                <persName>Peter Rauscher</persName>
+             </principal>
+             <funder>
+                <name>FWF - Der Wissenschaftsfonds</name>
+                <address>
+                   <street>Sensengasse 1</street>
+                   <postCode>1090 Wien</postCode>
+                   <placeName>
+                      <country>A</country>
+                      <settlement>Wien</settlement>
+                   </placeName>
+                </address>
+             </funder>
+             <respStmt>
+                <resp>Transkription und Annotation</resp>
+                <persName>Peter Rauscher</persName>
+             </respStmt>
+             <respStmt>
+                <resp>Transkription und Annotation</resp>
+                <persName>Sandra Hoislbauer</persName>
+             </respStmt>
+          </titleStmt>
+          <publicationStmt>
+             <p>Publication Information</p>
+          </publicationStmt>
+          <sourceDesc>
+             <p>born digital</p>
+          </sourceDesc>
+       </fileDesc>
+    </teiHeader>
+   <text>
+       <body>
+        <listPerson>
+            {% for x in persons -%}
+            <person xml:id="{{ x[0] }}">
+                <persName>{{ x[1] }}</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/{{ x[0] }}</idno>
+            </person>
+            {% endfor %}
+        </listPerson>
+       </body>
+   </text>
+ </TEI>

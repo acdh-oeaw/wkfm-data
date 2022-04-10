@@ -648,5 +648,113 @@
       <lb n="N003"/>Anmerckungen</ab>
          </div>
       </body>
-   </text>
+   <back><listPerson><person xml:id="wkfm_31013">
+                <persName>Andre Ziegler</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_31013</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46602">
+                <persName>Johann Zacher</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46602</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46609">
+                <persName>Zottische Handlung</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46609</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43861">
+                <persName>Paul Stumer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43861</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43865">
+                <persName>Zacher Matthias</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43865</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46605">
+                <persName>Johann Georg Zöhrer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46605</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46606">
+                <persName>Matthäus Zetner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46606</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_9735">
+                <persName>Johann Anton Stapff</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_9735</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 16 Lit S fol 722 [727]-845 [850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650362.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 17 Lit W fol 846 [851]-907 [912]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650384.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46604">
+                <persName>Zöhrer Johann Georg</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46604</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43863">
+                <persName>Franz Anton Groß</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43863</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46610">
+                <persName>Andre Ziegler</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46610</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46611">
+                <persName>Philipp Mathias Ziegler</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46611</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_36493">
+                <persName>Zeltner Ignaz Joseph</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_36493</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_10090">
+                <persName>Albrecht Zehetner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_10090</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 09 Lit H fol 453 [richtig 458]-525 [530]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_34421">
+                <persName>Zöhrer Johann Anton</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_34421</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_4646">
+                <persName>Joseph Peisser</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_4646</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 03 Lit B, P fol 25-157</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-560230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 16 Lit S fol 722 [727]-845 [850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650362.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43859">
+                <persName>Elisabeth</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43859</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43858">
+                <persName>Zetner Matthaeus</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43858</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43862">
+                <persName>Ziegler Philipp Matthias</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43862</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43864">
+                <persName>Maria</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43864</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_26346">
+                <persName>Zaillner Joseph Carl</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_26346</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46608">
+                <persName>Johann Anton Zöhrer</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46608</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_46607">
+                <persName>Ignaty Joseph Zeltner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_46607</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_7607">
+                <persName>Zacher Johann</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_7607</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43866">
+                <persName>Anna Maria Asolin</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43866</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_9739">
+                <persName>Albert Zehetner</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_9739</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wkfm_43860">
+                <persName>Zott Adam</persName>
+                <idno type="arche">https://id.acdh.oeaw.ac.at/wkfm/wkfm_43860</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Wiener Merkantilprotokoll 19 Lit Z fol 908 [913]-919 [924]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/wkfm/wkfm-650395.xml"/></linkGrp></event></listEvent></person>
+            </listPerson></back></text>
 </TEI>

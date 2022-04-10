@@ -33,8 +33,7 @@
                                 <table class="table table-striped display" id="tocTable" style="width:100%">
                                     <thead>
                                         <tr>
-                                            <th scope="col">Nachname</th>
-                                            <th scope="col">Vorname</th>
+                                            <th scope="col">Name</th>
                                             <th scope="col">ID</th>
                                         </tr>
                                     </thead>
@@ -45,10 +44,7 @@
                                             </xsl:variable>
                                             <tr>
                                                 <td>
-                                                    <xsl:value-of select=".//tei:surname/text()"/>
-                                                </td>
-                                                <td>                                        
-                                                    <xsl:value-of select=".//tei:forename/text()"/>
+                                                    <xsl:value-of select=".//tei:persName/text()"/>
                                                 </td>
                                                 <td>
                                                     <a>
