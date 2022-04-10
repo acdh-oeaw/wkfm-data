@@ -19,3 +19,4 @@ echo "search&replace"
 find ./data/editions/ -type f -name "*.xml"  -print0 | xargs -0 sed -i 's@continued="true"@subtype="continued"@g'
 find ./data/editions/ -type f -name "*.xml"  -print0 | xargs -0 sed -i 's@<blackening>@<hi rend="blackening">@g'
 find ./data/editions/ -type f -name "*.xml"  -print0 | xargs -0 sed -i 's@</blackening>@</hi>@g'
+find ./data/editions/ -type f -name "*.xml"  -print0 | xargs -0 sed -i 's@key=", Personen ID=@ref="#wkfm_@g'

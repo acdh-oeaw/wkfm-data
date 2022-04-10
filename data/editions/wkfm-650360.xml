@@ -197,10 +197,10 @@
             <ab facs="#facs_1_r2" type="default">
                <lb n="N001"/>Nahmen und Class
       <lb n="N002"/>
-               <rs type="person" key=", Personen ID=8590">Orio Joseph</rs> hofbefreyter Handlsmann
+               <rs type="person" ref="#wkfm_8590">Orio Joseph</rs> hofbefreyter Handlsmann
       <lb n="N003"/>Firma ad Raggion
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=46645">Joseph Orio</rs> laut Anbringen de ps: 19<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46645">Joseph Orio</rs> laut Anbringen de ps: 19<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -218,10 +218,10 @@
                <lb n="N001"/>658
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=15430">Orsset Johann</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_15430">Orsset Johann</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=17119">Gebrüder Orsset</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_17119">Gebrüder Orsset</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -233,20 +233,20 @@
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 2016 ist die Firma der Raggion
       <lb n="N008"/>
-               <rs type="person" key=", Personen ID=17119">Gebrüder Orsset </rs>von beeden sociis <rs type="person" key=", Personen ID=15430">Johann Orsset</rs> und <rs type="person" key=", Personen ID=43854, 17264">Niclas Michael Orsset</rs>
+               <rs type="person" ref="#wkfm_17119">Gebrüder Orsset </rs>von beeden sociis <rs type="person" ref="#wkfm_15430">Johann Orsset</rs> und <rs type="person" ref="#wkfm_43854, 17264">Niclas Michael Orsset</rs>
                <lb n="N009"/>eingeleget worden
       <lb n="N010"/>Oblatorien und Avocatorien
       <lb n="N011"/>Fundi Ausweisung</ab>
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
             <ab facs="#facs_4_r1" type="default">
                <lb n="N001"/>Societaets Contract und Interessenten
-      <lb n="N002"/>Der <rs type="person" key=", Personen ID=15430">Johann Orsset</rs> hat sich in obiger Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+      <lb n="N002"/>Der <rs type="person" ref="#wkfm_15430">Johann Orsset</rs> hat sich in obiger Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 725
-      <lb n="N003"/>N<hi rend="superscript">o</hi> 2016 <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">ge</hi> nebst <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">dem</hi> seinem Brudern <rs type="person" key=", Personen ID=43854, 17264">Niclas Michäl Orsset</rs> geäussert
-      <lb n="N004"/>das sie ihre Handlung unter der societäts firma <rs type="person" key=", Personen ID=17119">Gebrüder Orsset</rs>
+      <lb n="N003"/>N<hi rend="superscript">o</hi> 2016 <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">ge</hi> nebst <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">dem</hi> seinem Brudern <rs type="person" ref="#wkfm_43854, 17264">Niclas Michäl Orsset</rs> geäussert
+      <lb n="N004"/>das sie ihre Handlung unter der societäts firma <rs type="person" ref="#wkfm_17119">Gebrüder Orsset</rs>
                <lb n="N005"/>miteinander führen.
       <lb n="N006"/>Heuraths Contract
       <lb n="N007"/>Anmerckungen</ab>
@@ -255,10 +255,10 @@
                <lb n="N001"/>659
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=43854, 17264">Orsset Niclas Michäl</rs> burgerlicher Handlsmann	
+               <rs type="person" ref="#wkfm_43854, 17264">Orsset Niclas Michäl</rs> burgerlicher Handlsmann	
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=17119">Gebrüder Orsset</rs> laut Erklährung  dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_17119">Gebrüder Orsset</rs> laut Erklährung  dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -269,23 +269,23 @@
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 2016 ist die Firma der
-      <lb n="N008"/>Raggion <rs type="person" key=", Personen ID=17119">Gebrüder Orsset</rs> von beeden sociis <rs type="person" key=", Personen ID=15430">Johann Orsset</rs> und <rs type="person" key=", Personen ID=43854, 17264">Niclas<lb n="N009"/>
+      <lb n="N008"/>Raggion <rs type="person" ref="#wkfm_17119">Gebrüder Orsset</rs> von beeden sociis <rs type="person" ref="#wkfm_15430">Johann Orsset</rs> und <rs type="person" ref="#wkfm_43854, 17264">Niclas<lb n="N009"/>
                </rs>
-               <rs type="person" key=", Personen ID=43854, 17264">Michäl Orsset<lb n="N010"/>
+               <rs type="person" ref="#wkfm_43854, 17264">Michäl Orsset<lb n="N010"/>
                </rs>Oblatorien und Avocatorien
       <lb n="N011"/>Fundi Ausweisung</ab>
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             <ab>
                <lb n="N001"/>Societaets Contract und Interessenten
-      <lb n="N002"/>Der <rs type="person" key=", Personen ID=43854, 17264">Niclas Michäl Orsset</rs> hat sich in obiger Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+      <lb n="N002"/>Der <rs type="person" ref="#wkfm_43854, 17264">Niclas Michäl Orsset</rs> hat sich in obiger Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <lb n="N003"/>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 2016 nebst seinem Brudern <rs type="person" key=", Personen ID=15430">Johann Orsset</rs> geäusseret
-      <lb n="N004"/>daß sie ihre Handlung unter der Societots Firma <rs type="person" key=", Personen ID=17119">Gebrüder <lb n="N005"/>
+               </choice> 725 N<hi rend="superscript">o</hi> 2016 nebst seinem Brudern <rs type="person" ref="#wkfm_15430">Johann Orsset</rs> geäusseret
+      <lb n="N004"/>daß sie ihre Handlung unter der Societots Firma <rs type="person" ref="#wkfm_17119">Gebrüder <lb n="N005"/>
                </rs>
-               <rs type="person" key=", Personen ID=17119">Orsset<lb n="N006"/>
+               <rs type="person" ref="#wkfm_17119">Orsset<lb n="N006"/>
                </rs>Heuraths Contract
       <lb n="N007"/>Anmerckungen</ab>
             <pb facs="#facs_7" n="7" xml:id="img_0007"/>
@@ -294,10 +294,10 @@
             <ab facs="#facs_7_r1" type="default">
                <lb n="N001"/>Nahmen und Class
       <lb n="N002"/>
-               <rs type="person" key=", Personen ID=22849">Ott Joseph Leopold</rs> burgerlicher Leinwathandler
+               <rs type="person" ref="#wkfm_22849">Ott Joseph Leopold</rs> burgerlicher Leinwathandler
       <lb n="N003"/>Firma ad Raggion
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=46646">Joseph Leopold Ott</rs> laut Anbringen de ps: 23<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46646">Joseph Leopold Ott</rs> laut Anbringen de ps: 23<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
@@ -312,7 +312,7 @@
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 612 hat sich der <rs type="person" key=", Personen ID=22849">Ott</rs>
+               </choice> 725 N<hi rend="superscript">o</hi> 612 hat sich der <rs type="person" ref="#wkfm_22849">Ott</rs>
                <lb n="N003"/>erklähret, daß er keinen Compagnon habe.
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
@@ -321,10 +321,10 @@
                <lb n="N001"/>661
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=9606">Ostermayr David</rs> Kay. König: Niderlags Verwanter
+               <rs type="person" ref="#wkfm_9606">Ostermayr David</rs> Kay. König: Niderlags Verwanter
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46647">David Ostermayr</rs> laut Procura dd<hi rend="superscript">to</hi> 10<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46647">David Ostermayr</rs> laut Procura dd<hi rend="superscript">to</hi> 10<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
@@ -334,12 +334,12 @@
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 1045 hat der <rs type="person" key=", Personen ID=9606">Ostermayr</rs> die
-      <lb n="N008"/>seinem Bedienten <rs type="person" key=", Personen ID=29746">David Niggus</rs> ertheilte <choice>
+               </choice> 725 N<hi rend="superscript">o</hi> 1045 hat der <rs type="person" ref="#wkfm_9606">Ostermayr</rs> die
+      <lb n="N008"/>seinem Bedienten <rs type="person" ref="#wkfm_29746">David Niggus</rs> ertheilte <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> Procura mit beygerukter
-      <lb n="N009"/>Firma des <rs type="person" key=", Personen ID=29746">Niggus</rs> N<hi rend="superscript">o</hi> 1044 eingeleget
+      <lb n="N009"/>Firma des <rs type="person" ref="#wkfm_29746">Niggus</rs> N<hi rend="superscript">o</hi> 1044 eingeleget
       <lb n="N010"/>Oblatorien und Avocatorien
       <lb n="N011"/>Fundi Ausweisung</ab>
             <pb facs="#facs_10" n="10" xml:id="img_0010"/>
@@ -349,9 +349,9 @@
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 1045 hat sich der <rs type="person" key=", Personen ID=9606">Oster-<lb n="N003"/>
+               </choice> 725 N<hi rend="superscript">o</hi> 1045 hat sich der <rs type="person" ref="#wkfm_9606">Oster-<lb n="N003"/>
                </rs>
-               <rs type="person" key=", Personen ID=9606">mayr<lb n="N004"/>
+               <rs type="person" ref="#wkfm_9606">mayr<lb n="N004"/>
                </rs>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_11" n="11" xml:id="img_0011"/>
@@ -360,10 +360,10 @@
             <ab facs="#facs_11_r2" type="default">
                <lb n="N001"/>Nahmen und Class
       <lb n="N002"/>
-               <rs type="person" key=", Personen ID=8672">Orenghy Barbara</rs> hofbefreyte Handlsfrau
+               <rs type="person" ref="#wkfm_8672">Orenghy Barbara</rs> hofbefreyte Handlsfrau
       <lb n="N003"/>Firma ad Raggion
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=46648">Barbara Orenghy</rs> laut Anbringen de ps: 15<hi rend="superscript">ten</hi> May 732 N<hi rend="superscript">o</hi> 613
+               <rs type="person" ref="#wkfm_46648">Barbara Orenghy</rs> laut Anbringen de ps: 15<hi rend="superscript">ten</hi> May 732 N<hi rend="superscript">o</hi> 613
       <lb n="N005"/>Procura und Firmae Trager
       <lb n="N006"/>Oblatorien und Avocatorien
       <lb n="N007"/>Fundi Ausweisung</ab>
@@ -377,10 +377,10 @@
                <lb n="N001"/>663
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=43855">Orban Johann Sebastian</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_43855">Orban Johann Sebastian</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46649">Johann Sebastian Orban</rs> laut Anbringen Erklährung dd<hi rend="superscript">to</hi> 23<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46649">Johann Sebastian Orban</rs> laut Anbringen Erklährung dd<hi rend="superscript">to</hi> 23<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Mart:</abbr>
@@ -398,7 +398,7 @@
                   <abbr>Mart:</abbr>
                </choice> 722 N<hi rend="superscript">o</hi> 614 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=43855">Orban</rs> geäusseret, daß er seine Handlung ohne Compagnon führe
+               <rs type="person" ref="#wkfm_43855">Orban</rs> geäusseret, daß er seine Handlung ohne Compagnon führe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_15" n="15" xml:id="img_0015"/>
@@ -409,7 +409,7 @@
             <ab facs="#facs_15_r2" type="default">
                <lb n="N001"/>Nahmen und Class
       <lb n="N002"/>
-               <rs type="person" key=", Personen ID=43856">Oberleithner Anton</rs>
+               <rs type="person" ref="#wkfm_43856">Oberleithner Anton</rs>
                <choice>
                   <expan/>
                   <abbr>burgerl:</abbr>
@@ -426,9 +426,9 @@
             <ab facs="#facs_16_r1" type="default">
                <lb n="N001"/>Societaets Contract und Interessenten
       <lb n="N002"/>Heuraths Contract
-      <lb n="N003"/>Untern 14<hi rend="superscript">ten</hi> January 768 hat der <rs type="person" key=", Personen ID=43856">Anton Oberleithner</rs> seinen mit der
+      <lb n="N003"/>Untern 14<hi rend="superscript">ten</hi> January 768 hat der <rs type="person" ref="#wkfm_43856">Anton Oberleithner</rs> seinen mit der
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=43857">Anna Maria Paumingerin</rs> untern 5<hi rend="superscript">ten</hi> Aprilis 731 errichteten
+               <rs type="person" ref="#wkfm_43857">Anna Maria Paumingerin</rs> untern 5<hi rend="superscript">ten</hi> Aprilis 731 errichteten
       <lb n="N005"/>Heuraths Contract in <choice>
                   <expan/>
                   <abbr>orig:</abbr>
@@ -445,7 +445,7 @@
                </choice> 2203 1/2.
       <lb n="N009"/>Anmerckungen
       <lb n="N010"/>Untern 17: Jänner 771 hat der Handlstand den
-      <lb n="N011"/>erfolgten Todtfall des <rs type="person" key=", Personen ID=43856">Anton Oberleithner</rs> ange=
+      <lb n="N011"/>erfolgten Todtfall des <rs type="person" ref="#wkfm_43856">Anton Oberleithner</rs> ange=
       <lb n="N012"/>zeiget</ab>
             <pb facs="#facs_17" n="17" xml:id="img_0017"/>
             <ab facs="#facs_17_r3" type="page-numberpage-number">

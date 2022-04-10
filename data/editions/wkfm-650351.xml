@@ -600,10 +600,10 @@
                <lb n="N001"/>586
       <lb n="N002"/>99
       <lb n="N003"/>Nahmen und Class
-      <lb n="N004"/>Von <rs type="person" key=", Personen ID=46243">Mayern Johann Andre</rs> kay: könig: Niderlags Verwanter
+      <lb n="N004"/>Von <rs type="person" ref="#wkfm_46243">Mayern Johann Andre</rs> kay: könig: Niderlags Verwanter
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46852">Johann Andreas von Mayern</rs> laut Anbringen de ps: 16<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46852">Johann Andreas von Mayern</rs> laut Anbringen de ps: 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -619,7 +619,7 @@
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 545 hat sich
-      <lb n="N003"/>der <rs type="person" key=", Personen ID=46243">Mayern</rs> erklähret, das er sein negotium ohne interessenten führe.
+      <lb n="N003"/>der <rs type="person" ref="#wkfm_46243">Mayern</rs> erklähret, das er sein negotium ohne interessenten führe.
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
@@ -627,10 +627,10 @@
                <lb n="N001"/>587
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=9918">Moser Franz Joseph</rs> hofbefreyter Handlsmann
+               <rs type="person" ref="#wkfm_9918">Moser Franz Joseph</rs> hofbefreyter Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46853">Franz Joseph Moser e <choice>
+               <rs type="person" ref="#wkfm_46853">Franz Joseph Moser e <choice>
                      <expan/>
                      <abbr>Comp:</abbr>
                   </choice>
@@ -645,12 +645,12 @@
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
             <ab>
                <lb n="N001"/>Societaets Contract und Interessenten
-      <lb n="N002"/>Der <rs type="person" key=", Personen ID=9918">Franz Joseph Moser</rs> hat in obigen Anbringen de ps: 18<hi rend="superscript">ten</hi>
+      <lb n="N002"/>Der <rs type="person" ref="#wkfm_9918">Franz Joseph Moser</rs> hat in obigen Anbringen de ps: 18<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 725
-      <lb n="N003"/>N<hi rend="superscript">o</hi> 1997 angezeiget das er sein negotium mit seinem und des<rs type="person" key=", Personen ID=46854"> Carl Joseph<lb n="N004"/>Zänkhein</rs> dann <rs type="person" key=", Personen ID=46855">Jacob Pfändl</rs> interesse unter der societaet Raggion Carl
+      <lb n="N003"/>N<hi rend="superscript">o</hi> 1997 angezeiget das er sein negotium mit seinem und des<rs type="person" ref="#wkfm_46854"> Carl Joseph<lb n="N004"/>Zänkhein</rs> dann <rs type="person" ref="#wkfm_46855">Jacob Pfändl</rs> interesse unter der societaet Raggion Carl
       <lb n="N005"/>Joseph Moser e <choice>
                   <expan/>
                   <abbr>Comp:</abbr>
@@ -662,25 +662,25 @@
                <lb n="N001"/>588
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46856">Martinelli Franz Jacob</rs> hofbefreyter Handlsmann
+               <rs type="person" ref="#wkfm_46856">Martinelli Franz Jacob</rs> hofbefreyter Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=8416">Gebrüder <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Mo</hi> Martinelli oder Fratelli Martinelli</rs> laut Anbringen de ps:
+               <rs type="person" ref="#wkfm_8416">Gebrüder <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Mo</hi> Martinelli oder Fratelli Martinelli</rs> laut Anbringen de ps:
       <lb n="N006"/>19<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 1019
       <lb n="N007"/>Procura und Firmae Trager
-      <lb n="N008"/>Die Raggion <rs type="person" key=", Personen ID=8416">Gebrüder Martinelli</rs> hat in obigen Anbringen de ps: 19<hi rend="superscript">ten</hi>
+      <lb n="N008"/>Die Raggion <rs type="person" ref="#wkfm_8416">Gebrüder Martinelli</rs> hat in obigen Anbringen de ps: 19<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 725
       <lb n="N009"/>N<hi rend="superscript">o</hi> 1019 die Anzeige gemacht, daß ihr Complimentarius <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">die Firma</hi>
-               <rs type="person" key=", Personen ID=10730">Anton <lb n="N010"/>
+               <rs type="person" ref="#wkfm_10730">Anton <lb n="N010"/>
                </rs>
-               <rs type="person" key=", Personen ID=10730">Mader<lb n="N011"/>
+               <rs type="person" ref="#wkfm_10730">Mader<lb n="N011"/>
                </rs>Oblatorien und Avocatorien
       <lb n="N012"/>Fundi Ausweisung</ab>
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
@@ -690,10 +690,10 @@
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 1019 hat der <rs type="person" key=", Personen ID=46856">Martinelli</rs> ange-
-      <lb n="N003"/>zeiget das er mit seinen Brudern <rs type="person" key=", Personen ID=34278">Johann Anton Martinelli</rs>
+               </choice> 725 N<hi rend="superscript">o</hi> 1019 hat der <rs type="person" ref="#wkfm_46856">Martinelli</rs> ange-
+      <lb n="N003"/>zeiget das er mit seinen Brudern <rs type="person" ref="#wkfm_34278">Johann Anton Martinelli</rs>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">se</hi> das negotium
-      <lb n="N004"/>unter der Societaets Raggion <rs type="person" key=", Personen ID=8416">Gebrüder Martinelli</rs> führe
+      <lb n="N004"/>unter der Societaets Raggion <rs type="person" ref="#wkfm_8416">Gebrüder Martinelli</rs> führe
       <lb n="N005"/>Heuraths Contract
       <lb n="N006"/>Anmerckungen</ab>
             <pb facs="#facs_7" n="7" xml:id="img_0007"/>
@@ -701,24 +701,24 @@
                <lb n="N001"/>589
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=34278">Martinelli Johann Anton</rs> hofbefreyter Handlsmann
+               <rs type="person" ref="#wkfm_34278">Martinelli Johann Anton</rs> hofbefreyter Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=8416">Gebrüder Martinelli oder Fratelli Martinelli</rs> laut Anbringen de ps: 19<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_8416">Gebrüder Martinelli oder Fratelli Martinelli</rs> laut Anbringen de ps: 19<hi rend="superscript">ten</hi>
                <lb n="N006"/>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 1019
       <lb n="N007"/>Procura und Firmae Trager
-      <lb n="N008"/>Die Raggion <rs type="person" key=", Personen ID=8416">Gebrüder Martinelli</rs> hat in obigen Anbringen de ps: 19<hi rend="superscript">ten</hi>
+      <lb n="N008"/>Die Raggion <rs type="person" ref="#wkfm_8416">Gebrüder Martinelli</rs> hat in obigen Anbringen de ps: 19<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice>
-               <lb n="N009"/>725 N<hi rend="superscript">o</hi> 1019 angezeiget das ihre Firma, wie solche beygeruket der<rs type="person" key=", Personen ID=10730"> Anton<lb n="N010"/>
+               <lb n="N009"/>725 N<hi rend="superscript">o</hi> 1019 angezeiget das ihre Firma, wie solche beygeruket der<rs type="person" ref="#wkfm_10730"> Anton<lb n="N010"/>
                </rs>
-               <rs type="person" key=", Personen ID=10730">Mader<lb n="N011"/>
+               <rs type="person" ref="#wkfm_10730">Mader<lb n="N011"/>
                </rs>Oblatorien und Avocatorien
       <lb n="N012"/>Fundi Ausweisung</ab>
             <pb facs="#facs_8" n="8" xml:id="img_0008"/>
@@ -728,15 +728,15 @@
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 1019 hat der <rs type="person" key=", Personen ID=34278">Johann<lb n="N003"/>
+               </choice> 725 N<hi rend="superscript">o</hi> 1019 hat der <rs type="person" ref="#wkfm_34278">Johann<lb n="N003"/>
                </rs>
-               <rs type="person" key=", Personen ID=34278">Anton Martinelli<lb n="N004"/>
-               </rs>seines bruders <rs type="person" key=", Personen ID=46856">Franz Jacob Martinelli</rs>
+               <rs type="person" ref="#wkfm_34278">Anton Martinelli<lb n="N004"/>
+               </rs>seines bruders <rs type="person" ref="#wkfm_46856">Franz Jacob Martinelli</rs>
                <choice>
                   <expan/>
                   <abbr>intee</abbr>
                </choice> unter der societaet
-      <lb n="N005"/>Raggion <rs type="person" key=", Personen ID=8416">Gebrüder Martinelli</rs> führe
+      <lb n="N005"/>Raggion <rs type="person" ref="#wkfm_8416">Gebrüder Martinelli</rs> führe
       <lb n="N006"/>Heuraths Contract
       <lb n="N007"/>Anmerckungen</ab>
             <pb facs="#facs_9" n="9" xml:id="img_0009"/>
@@ -744,10 +744,10 @@
                <lb n="N001"/>590
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=8095">Müllnitsch Veith</rs> hofbefreyter Tuchhandler
+               <rs type="person" ref="#wkfm_8095">Müllnitsch Veith</rs> hofbefreyter Tuchhandler
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46857">Veith Müllnitsch</rs> laut Anbringen de ps: 19<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46857">Veith Müllnitsch</rs> laut Anbringen de ps: 19<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -762,9 +762,9 @@
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 546 hat der <rs type="person" key=", Personen ID=8095">Müll-<lb n="N003"/>
+               </choice> 725 N<hi rend="superscript">o</hi> 546 hat der <rs type="person" ref="#wkfm_8095">Müll-<lb n="N003"/>
                </rs>
-               <rs type="person" key=", Personen ID=8095">nitsch<lb n="N004"/>
+               <rs type="person" ref="#wkfm_8095">nitsch<lb n="N004"/>
                </rs>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_11" n="11" xml:id="img_0011"/>
@@ -772,10 +772,10 @@
                <lb n="N001"/>591
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=35903">Marnia Gioanne</rs> kay: könig: Niderlags Verwanter
+               <rs type="person" ref="#wkfm_35903">Marnia Gioanne</rs> kay: könig: Niderlags Verwanter
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46858">Gioanni Marnia E Figli</rs> laut Anbringen de ps: 20<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46858">Gioanni Marnia E Figli</rs> laut Anbringen de ps: 20<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -791,7 +791,7 @@
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 547 hat der <rs type="person" key=", Personen ID=35903">Gioanne Marina</rs> angezeiget das
+               </choice> 725 N<hi rend="superscript">o</hi> 547 hat der <rs type="person" ref="#wkfm_35903">Gioanne Marina</rs> angezeiget das
       <lb n="N003"/>er mit seinen Söhnen in Compagnie stehe.
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
@@ -801,17 +801,17 @@
       <lb n="N002"/>592
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=9628">Mayr Jacob</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_9628">Mayr Jacob</rs> burgerlicher Handlsmann
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46859">Jacob <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Mayr</hi> Mayr</rs> laut Anbringen de ps: 21<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46859">Jacob <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Mayr</hi> Mayr</rs> laut Anbringen de ps: 21<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 548
       <lb n="N007"/>Procura und Firmae Trager
       <lb n="N008"/>
-               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">I</hi> Mitls Anbringen de ps: 18<hi rend="superscript">ten</hi> Julii 725 N<hi rend="superscript">o</hi> 1024 hat der <rs type="person" key=", Personen ID=9628">Mayr</rs> die dem <rs type="person" key=", Personen ID=25582">Jacob<lb n="N009"/>Stöckhholzer</rs> ertheilte Procura dd<hi rend="superscript">to</hi> 19<hi rend="superscript">ten</hi>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">I</hi> Mitls Anbringen de ps: 18<hi rend="superscript">ten</hi> Julii 725 N<hi rend="superscript">o</hi> 1024 hat der <rs type="person" ref="#wkfm_9628">Mayr</rs> die dem <rs type="person" ref="#wkfm_25582">Jacob<lb n="N009"/>Stöckhholzer</rs> ertheilte Procura dd<hi rend="superscript">to</hi> 19<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -819,16 +819,16 @@
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> eingeleget
-      <lb n="N010"/>Mitls Anbringen de ps: 5<hi rend="superscript">ten</hi> Junii 733 N<hi rend="superscript">o</hi> 566 hat sich der <rs type="person" key=", Personen ID=9628">Mayer</rs> erkläh-
-      <lb n="N011"/>ret das der <rs type="person" key=", Personen ID=25582">Stokholzer</rs> sein negotium unter sein des <rs type="person" key=", Personen ID=9628">Mayrs</rs> interesse, obligo
+      <lb n="N010"/>Mitls Anbringen de ps: 5<hi rend="superscript">ten</hi> Junii 733 N<hi rend="superscript">o</hi> 566 hat sich der <rs type="person" ref="#wkfm_9628">Mayer</rs> erkläh-
+      <lb n="N011"/>ret das der <rs type="person" ref="#wkfm_25582">Stokholzer</rs> sein negotium unter sein des <rs type="person" ref="#wkfm_9628">Mayrs</rs> interesse, obligo
       <lb n="N012"/>und Nahmen führe
       <lb n="N013"/>Mitls Anbringen de ps: 24<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Janu:</abbr>
-               </choice> 735 N<hi rend="superscript">o</hi> 1026 hat der <rs type="person" key=", Personen ID=9628">Mayr</rs> die obige dem
+               </choice> 735 N<hi rend="superscript">o</hi> 1026 hat der <rs type="person" ref="#wkfm_9628">Mayr</rs> die obige dem
       <lb n="N014"/>
-               <rs type="person" key=", Personen ID=25582">Stöckholzer</rs>
+               <rs type="person" ref="#wkfm_25582">Stöckholzer</rs>
                <choice>
                   <expan/>
                   <abbr>ao</abbr>
@@ -842,7 +842,7 @@
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 548 hat sich der <rs type="person" key=", Personen ID=9628">Mayr</rs>
+               </choice> 725 N<hi rend="superscript">o</hi> 548 hat sich der <rs type="person" ref="#wkfm_9628">Mayr</rs>
                <lb n="N003"/>erklähret, daß er sein negotium ohne interessenten führe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
@@ -851,12 +851,12 @@
                <lb n="N001"/>593
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46860">Mobré<hi rend="strikethrough:true; fontSize:0.0; kerning:0;">
+               <rs type="person" ref="#wkfm_46860">Mobré<hi rend="strikethrough:true; fontSize:0.0; kerning:0;">
                      <unclear>r</unclear>
                   </hi> Peter</rs> hofbefreyter Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46861">Petrus Mobré</rs> laut Anbringen de ps: 26<hi rend="superscript">ten <choice>
+               <rs type="person" ref="#wkfm_46861">Petrus Mobré</rs> laut Anbringen de ps: 26<hi rend="superscript">ten <choice>
                      <expan/>
                      <abbr/>
                   </choice>
@@ -877,7 +877,7 @@
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 549 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46860">Mobré</rs> erklähret, das er seine Handlung ohne Compagnie führe
+               <rs type="person" ref="#wkfm_46860">Mobré</rs> erklähret, das er seine Handlung ohne Compagnie führe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_17" n="17" xml:id="img_0017"/>
@@ -885,22 +885,22 @@
                <lb n="N001"/>594
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=8583">Malengo Domenico</rs> kay: könig: Niderlags Verwanter
+               <rs type="person" ref="#wkfm_8583">Malengo Domenico</rs> kay: könig: Niderlags Verwanter
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46862">Dominico Malengo</rs> laut Anbringen de ps: 28<hi rend="superscript">ten</hi> May 725 N<hi rend="superscript">o</hi> 1022
+               <rs type="person" ref="#wkfm_46862">Dominico Malengo</rs> laut Anbringen de ps: 28<hi rend="superscript">ten</hi> May 725 N<hi rend="superscript">o</hi> 1022
       <lb n="N006"/>Procura und Firmae Trager
-      <lb n="N007"/>Mitls Anbringen de ps: 28<hi rend="superscript">ten</hi> May 725 N<hi rend="superscript">o</hi> 1022 hat der <rs type="person" key=", Personen ID=35690">Peter Scanzoni</rs>
+      <lb n="N007"/>Mitls Anbringen de ps: 28<hi rend="superscript">ten</hi> May 725 N<hi rend="superscript">o</hi> 1022 hat der <rs type="person" ref="#wkfm_35690">Peter Scanzoni</rs>
                <lb n="N008"/>angezeiget, das er von dem <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">P</hi>
-               <rs type="person" key=", Personen ID=8583">Malengo</rs> die Procura, wie selbe allschon gerichtl:
+               <rs type="person" ref="#wkfm_8583">Malengo</rs> die Procura, wie selbe allschon gerichtl:
       <lb n="N009"/>eingeleget worden seye, habe
       <lb n="N010"/>Mitls Anbringen de ps: 28<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
-               </choice> 738 N<hi rend="superscript">o</hi> 1034 hat der <rs type="person" key=", Personen ID=8583">Malengo</rs> ange-
+               </choice> 738 N<hi rend="superscript">o</hi> 1034 hat der <rs type="person" ref="#wkfm_8583">Malengo</rs> ange-
       <lb n="N011"/>zeiget das er sein allhiesiges Negotium aufgehoben habe, folgsam die
-      <lb n="N012"/>dem <rs type="person" key=", Personen ID=35690">Scanzoni</rs> ertheilte Procura anwiderum zu cassiren seye.
+      <lb n="N012"/>dem <rs type="person" ref="#wkfm_35690">Scanzoni</rs> ertheilte Procura anwiderum zu cassiren seye.
       <lb n="N013"/>Oblatorien und Avocatorien
       <lb n="N014"/>Fundi Ausweisung</ab>
             <pb facs="#facs_18" n="18" xml:id="img_0018"/>
@@ -913,10 +913,10 @@
                <lb n="N001"/>595
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=3764">Martinelli Franz</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_3764">Martinelli Franz</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46863">Frantz Martinelli oder Francesco Martinelli</rs> laut Erklährung dd<hi rend="superscript">to</hi>
+               <rs type="person" ref="#wkfm_46863">Frantz Martinelli oder Francesco Martinelli</rs> laut Erklährung dd<hi rend="superscript">to</hi>
                <lb n="N006"/>18<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
@@ -927,17 +927,17 @@
                <choice>
                   <expan/>
                   <abbr>Janu:</abbr>
-               </choice> 726 N<hi rend="superscript">o</hi> 1028 hat der <rs type="person" key=", Personen ID=3764">Martinelli</rs> die dem <rs type="person" key=", Personen ID=43918">Johann <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">P</hi> Bapt:<lb n="N009"/>Praestinati</rs> untern 22<hi rend="superscript">ten</hi> Junii 726 wehrend seiner Abwesenheit ertheilte <choice>
+               </choice> 726 N<hi rend="superscript">o</hi> 1028 hat der <rs type="person" ref="#wkfm_3764">Martinelli</rs> die dem <rs type="person" ref="#wkfm_43918">Johann <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">P</hi> Bapt:<lb n="N009"/>Praestinati</rs> untern 22<hi rend="superscript">ten</hi> Junii 726 wehrend seiner Abwesenheit ertheilte <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> Procura
-      <lb n="N010"/>N<hi rend="superscript">o</hi> 1027 mit beygerukter Firma des <rs type="person" key=", Personen ID=43918">Praestinari</rs> und dem Beysaz, daß solche <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">wehrend</hi>
+      <lb n="N010"/>N<hi rend="superscript">o</hi> 1027 mit beygerukter Firma des <rs type="person" ref="#wkfm_43918">Praestinari</rs> und dem Beysaz, daß solche <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">wehrend</hi>
                <lb n="N011"/>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">seiner</hi> biß zu seiner zurukkunft ihre Kraft haben sollen, eingeleget.
-      <lb n="N012"/>Mitls Anbringen de ps: 13<hi rend="superscript">ten</hi> Junii 735 N<hi rend="superscript">o</hi> 1033 hat der <rs type="person" key=", Personen ID=43918">Johann Bapt: Praestinari</rs> die von dem
+      <lb n="N012"/>Mitls Anbringen de ps: 13<hi rend="superscript">ten</hi> Junii 735 N<hi rend="superscript">o</hi> 1033 hat der <rs type="person" ref="#wkfm_43918">Johann Bapt: Praestinari</rs> die von dem
       <lb n="N013"/>
-               <rs type="person" key=", Personen ID=3764">Martinelli</rs> untern 10<hi rend="superscript">ten</hi> ej: unter anderen auch dahin ausgestelte Erklährung daß er
-      <lb n="N014"/>dem <rs type="person" key=", Personen ID=43918">Praestinari</rs> die Procura simpliciter ertheilet habe in <choice>
+               <rs type="person" ref="#wkfm_3764">Martinelli</rs> untern 10<hi rend="superscript">ten</hi> ej: unter anderen auch dahin ausgestelte Erklährung daß er
+      <lb n="N014"/>dem <rs type="person" ref="#wkfm_43918">Praestinari</rs> die Procura simpliciter ertheilet habe in <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> N<hi rend="superscript">o</hi> 1032 eingeleget.
@@ -950,14 +950,14 @@
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 550 hat der <rs type="person" key=", Personen ID=3764">Martinelli</rs> sich
+               </choice> 725 N<hi rend="superscript">o</hi> 550 hat der <rs type="person" ref="#wkfm_3764">Martinelli</rs> sich
       <lb n="N003"/>geäusseret, daß nimmand an seinem Negotio antheil habe.
-      <lb n="N004"/>Mitls Anbringen de ps: 13<hi rend="superscript">ten</hi> Julii 735 N<hi rend="superscript">o</hi> 1033 hat der <rs type="person" key=", Personen ID=43918">Johann Bapt: Praestinari</rs>
-               <lb n="N005"/>angezeiget, daß er mit dem <rs type="person" key=", Personen ID=3764">Martinelli</rs> seinem Schwiger-Vattern an einiger
-      <lb n="N006"/>maßen interessiret seye, anneben die von dem <rs type="person" key=", Personen ID=3764">Martinelli</rs> sowohl als auch
-      <lb n="N007"/>von ihm <rs type="person" key=", Personen ID=43918">Praestinari</rs> gefertigete Erklährung <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">das</hi> dd<hi rend="superscript">to</hi> 10<hi rend="superscript">ten</hi> Junii 735, daß er
+      <lb n="N004"/>Mitls Anbringen de ps: 13<hi rend="superscript">ten</hi> Julii 735 N<hi rend="superscript">o</hi> 1033 hat der <rs type="person" ref="#wkfm_43918">Johann Bapt: Praestinari</rs>
+               <lb n="N005"/>angezeiget, daß er mit dem <rs type="person" ref="#wkfm_3764">Martinelli</rs> seinem Schwiger-Vattern an einiger
+      <lb n="N006"/>maßen interessiret seye, anneben die von dem <rs type="person" ref="#wkfm_3764">Martinelli</rs> sowohl als auch
+      <lb n="N007"/>von ihm <rs type="person" ref="#wkfm_43918">Praestinari</rs> gefertigete Erklährung <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">das</hi> dd<hi rend="superscript">to</hi> 10<hi rend="superscript">ten</hi> Junii 735, daß er
       <lb n="N008"/>
-               <rs type="person" key=", Personen ID=3764">Martinelli</rs> wegen erreichten Alter gedacht seinem Schwiger Sohn die administra-
+               <rs type="person" ref="#wkfm_3764">Martinelli</rs> wegen erreichten Alter gedacht seinem Schwiger Sohn die administra-
       <lb n="N009"/>tion <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">d</hi> seines Negotii nebst der Firma übergeben und von dem Gewün <unclear>einen</unclear>
                <lb n="N010"/>Antheil accordiret habe in <choice>
                   <expan/>
@@ -970,10 +970,10 @@
                <lb n="N001"/>596
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=8405">Munier Michäl</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_8405">Munier Michäl</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46864">Michael Munier</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46864">Michael Munier</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -990,7 +990,7 @@
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 551 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=8405">Munier</rs> geäusserert, daß sein negotium ohne einigen interessenten <unclear>laufe</unclear>
+               <rs type="person" ref="#wkfm_8405">Munier</rs> geäusserert, daß sein negotium ohne einigen interessenten <unclear>laufe</unclear>
                <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_23" n="23" xml:id="img_0023"/>
@@ -998,10 +998,10 @@
                <lb n="N001"/>597
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=9093">Macht Leopold</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_9093">Macht Leopold</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46865">Leopold Macht</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46865">Leopold Macht</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -1018,7 +1018,7 @@
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 552 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=9093">Macht</rs> geäusseret, das er sein Negotium für sich allein führe
+               <rs type="person" ref="#wkfm_9093">Macht</rs> geäusseret, das er sein Negotium für sich allein führe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_25" n="25" xml:id="img_0025"/>
@@ -1027,10 +1027,10 @@
       <lb n="N002"/>598
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=10641">Moser Carl Joseph</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_10641">Moser Carl Joseph</rs> burgerlicher Handlsmann
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46866">Carl Joseph Moser</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46866">Carl Joseph Moser</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -1048,7 +1048,7 @@
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 553 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=10641">Moser</rs> geäusseret, das er sein Negotium für sich allein führe
+               <rs type="person" ref="#wkfm_10641">Moser</rs> geäusseret, das er sein Negotium für sich allein führe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_27" n="27" xml:id="img_0027"/>
@@ -1056,11 +1056,11 @@
                <lb n="N001"/>599
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=8419">Moser Georg</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_8419">Moser Georg</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">G</hi>
-               <rs type="person" key=", Personen ID=46867">Georg Moser</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46867">Georg Moser</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -1077,7 +1077,7 @@
                   <abbr>Apr:</abbr>
                </choice> N<hi rend="superscript">o</hi> 554 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=8419">Moser</rs> geäusseret, das er <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">k niehmahlen in</hi> in keiner Compagnie <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">gehabt</hi> stehe
+               <rs type="person" ref="#wkfm_8419">Moser</rs> geäusseret, das er <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">k niehmahlen in</hi> in keiner Compagnie <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">gehabt</hi> stehe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_29" n="29" xml:id="img_0029"/>
@@ -1085,10 +1085,10 @@
                <lb n="N001"/>600
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46273">Merkhl Leopold</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46273">Merkhl Leopold</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46868">Leopold Merkhl</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46868">Leopold Merkhl</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -1104,7 +1104,7 @@
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 555 hat sich
-      <lb n="N003"/>der <rs type="person" key=", Personen ID=46273">Merkhl</rs> geäusseret das er niehmahlen eine Compagnie ge-
+      <lb n="N003"/>der <rs type="person" ref="#wkfm_46273">Merkhl</rs> geäusseret das er niehmahlen eine Compagnie ge-
       <lb n="N004"/>habt.
       <lb n="N005"/>Heuraths Contract
       <lb n="N006"/>Anmerckungen</ab>
@@ -1113,10 +1113,10 @@
                <lb n="N001"/>601
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=9008">Mäzinger Andre</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_9008">Mäzinger Andre</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46869">Andreas Mäzinger</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46869">Andreas Mäzinger</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -1132,7 +1132,7 @@
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 556 hat sich
-      <lb n="N003"/>der <rs type="person" key=", Personen ID=9008">Mäzinger</rs> geäusseret, das er keine interessenten habe.
+      <lb n="N003"/>der <rs type="person" ref="#wkfm_9008">Mäzinger</rs> geäusseret, das er keine interessenten habe.
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_33" n="33" xml:id="img_0033"/>
@@ -1140,10 +1140,10 @@
                <lb n="N001"/>602
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=8812">Maiz Johann Michäl</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_8812">Maiz Johann Michäl</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46870">Johann Michael Mäiz</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46870">Johann Michael Mäiz</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -1160,7 +1160,7 @@
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 557
-      <lb n="N003"/>hat sich der <rs type="person" key=", Personen ID=8812">Maiz</rs> geäusseret, das er seine Handlung ohne
+      <lb n="N003"/>hat sich der <rs type="person" ref="#wkfm_8812">Maiz</rs> geäusseret, das er seine Handlung ohne
       <lb n="N004"/>Compagnie und interessenten führe
       <lb n="N005"/>Heuraths Contract
       <lb n="N006"/>Anmerckungen</ab>
@@ -1169,10 +1169,10 @@
                <lb n="N001"/>603
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46871">Mägis Johann Jacob</rs> burgerlicher Eisenhandler
+               <rs type="person" ref="#wkfm_46871">Mägis Johann Jacob</rs> burgerlicher Eisenhandler
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46872">Joh: Jacob Mägis</rs> laut <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Erklährung</hi> Anbringen de ps: 20<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46872">Joh: Jacob Mägis</rs> laut <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Erklährung</hi> Anbringen de ps: 20<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
@@ -1189,7 +1189,7 @@
                   <expan/>
                   <abbr>Aug:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 558 hat sich
-      <lb n="N003"/>der <rs type="person" key=", Personen ID=46871">Magis</rs> erklähret das er keinen Compagnon habe
+      <lb n="N003"/>der <rs type="person" ref="#wkfm_46871">Magis</rs> erklähret das er keinen Compagnon habe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_37" n="37" xml:id="img_0037"/>
@@ -1198,10 +1198,10 @@
       <lb n="N002"/>604
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=46873">Mariano Johann Bapt:</rs>
+               <rs type="person" ref="#wkfm_46873">Mariano Johann Bapt:</rs>
                <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46874">Johann Baptista Mariano</rs> laut Anbringen de ps: 28<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46874">Johann Baptista Mariano</rs> laut Anbringen de ps: 28<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>7br:</abbr>
@@ -1219,7 +1219,7 @@
                   <abbr>7br:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 559 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46873">Mariano</rs> erklähret, daß er sein negotium ohne Compagnon
+               <rs type="person" ref="#wkfm_46873">Mariano</rs> erklähret, daß er sein negotium ohne Compagnon
       <lb n="N004"/>führe
       <lb n="N005"/>Heuraths Contract
       <lb n="N006"/>Anmerckungen</ab>
@@ -1228,11 +1228,11 @@
                <lb n="N001"/>605
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=21017">Mattoni Johann Peter</rs>
+               <rs type="person" ref="#wkfm_21017">Mattoni Johann Peter</rs>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">bur</hi> hofbefreyter Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46875">Gio Pietro mattoni</rs> laut Anbringen de ps: 4<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46875">Gio Pietro mattoni</rs> laut Anbringen de ps: 4<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -1249,7 +1249,7 @@
                   <abbr>Apr:</abbr>
                </choice> 726 N<hi rend="superscript">o</hi> 560 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=21017">Mattoni</rs> erklähret, das er mit niemand in Compagnie stehe
+               <rs type="person" ref="#wkfm_21017">Mattoni</rs> erklähret, das er mit niemand in Compagnie stehe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_41" n="41" xml:id="img_0041"/>
@@ -1257,14 +1257,14 @@
                <lb n="N001"/>606
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46876">Martin</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46876">Martin</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=17566">Martin und Raffeseder</rs> laut Erklährung dd<hi rend="superscript">to</hi> 9<hi rend="superscript">ten</hi> Junii 728 N<hi rend="superscript">o</hi> 1998
+               <rs type="person" ref="#wkfm_17566">Martin und Raffeseder</rs> laut Erklährung dd<hi rend="superscript">to</hi> 9<hi rend="superscript">ten</hi> Junii 728 N<hi rend="superscript">o</hi> 1998
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 9<hi rend="superscript">ten</hi> Junii 728 N<hi rend="superscript">o</hi> 1998 ist die firma der
-      <lb n="N008"/>Raggion <rs type="person" key=", Personen ID=17566">Martin und Raffeßeder</rs> von beeden sociis <rs type="person" key=", Personen ID=46876">Martin</rs>
-               <lb n="N009"/>und <rs type="person" key=", Personen ID=46877">Raffeseder</rs> eingeleget worden
+      <lb n="N008"/>Raggion <rs type="person" ref="#wkfm_17566">Martin und Raffeßeder</rs> von beeden sociis <rs type="person" ref="#wkfm_46876">Martin</rs>
+               <lb n="N009"/>und <rs type="person" ref="#wkfm_46877">Raffeseder</rs> eingeleget worden
       <lb n="N010"/>Oblatorien und Avocatorien
       <lb n="N011"/>Fundi Ausweisung</ab>
             <pb facs="#facs_42" n="42" xml:id="img_0042"/>
@@ -1272,9 +1272,9 @@
                <lb n="N001"/>Societaets Contract und Interessenten
       <lb n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 9<hi rend="superscript">ten</hi> Junii 728 N<hi rend="superscript">o</hi> 1998 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46876">Martin</rs> mit dem <rs type="person" key=", Personen ID=46877">Rafeßeder</rs> zugleich erklähret, das sie
+               <rs type="person" ref="#wkfm_46876">Martin</rs> mit dem <rs type="person" ref="#wkfm_46877">Rafeßeder</rs> zugleich erklähret, das sie
       <lb n="N004"/>ihre Handlung miteinander erkaufet und unter der societaets
-      <lb n="N005"/>Firma <rs type="person" key=", Personen ID=17566">Martin und Raffeßeder</rs> führen
+      <lb n="N005"/>Firma <rs type="person" ref="#wkfm_17566">Martin und Raffeßeder</rs> führen
       <lb n="N006"/>Heuraths Contract
       <lb n="N007"/>Anmerckungen</ab>
             <pb facs="#facs_43" n="43" xml:id="img_0043"/>
@@ -1284,11 +1284,11 @@
                <lb n="N002"/>607
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=10730">Mader Anton</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_10730">Mader Anton</rs> burgerlicher Handlsmann
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46878">Anthony Mader</rs> laut Erklährung dd<hi rend="superscript">to</hi> 10<hi rend="superscript">ten</hi> Junii 728 N<hi rend="superscript">o</hi> 561
-      <lb n="N007"/>Vermög Anbringen de ps: 21<hi rend="superscript">ten</hi> Aprilis 760 hat die <rs type="person" key=", Personen ID=46879">Anton Maderische Wittib</rs> ihre
+               <rs type="person" ref="#wkfm_46878">Anthony Mader</rs> laut Erklährung dd<hi rend="superscript">to</hi> 10<hi rend="superscript">ten</hi> Junii 728 N<hi rend="superscript">o</hi> 561
+      <lb n="N007"/>Vermög Anbringen de ps: 21<hi rend="superscript">ten</hi> Aprilis 760 hat die <rs type="person" ref="#wkfm_46879">Anton Maderische Wittib</rs> ihre
       <lb n="N008"/>firma eingelegt sub <choice>
                   <expan/>
                   <abbr>nro</abbr>
@@ -1307,9 +1307,9 @@
                   <abbr>Mart:</abbr>
                </choice> 734 N<hi rend="superscript">o</hi> 2000 hat der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=10730">Mader</rs> angezeiget, daß sich sein mit dem <rs type="person" key=", Personen ID=5636 ?">Rigotti</rs> in des <rs type="person" key=", Personen ID=46716 ?">Rigot-<lb n="N004"/>
+               <rs type="person" ref="#wkfm_10730">Mader</rs> angezeiget, daß sich sein mit dem <rs type="person" ref="#wkfm_5636 ?">Rigotti</rs> in des <rs type="person" ref="#wkfm_46716 ?">Rigot-<lb n="N004"/>
                </rs>
-               <rs type="person" key=", Personen ID=46716 ?">ti handlung<lb n="N005"/>
+               <rs type="person" ref="#wkfm_46716 ?">ti handlung<lb n="N005"/>
                </rs>handlung allein habe
       <lb n="N006"/>Heuraths Contract
       <lb n="N007"/>Anmerckungen</ab>
@@ -1318,10 +1318,10 @@
                <lb n="N001"/>608
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46880">Mayrhofer Florian Michäl</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46880">Mayrhofer Florian Michäl</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46881">Florian Michäel Mayrhofer</rs> laut Erklährung dd<hi rend="superscript">to</hi> 10<hi rend="superscript">ten</hi> Julii 729
+               <rs type="person" ref="#wkfm_46881">Florian Michäel Mayrhofer</rs> laut Erklährung dd<hi rend="superscript">to</hi> 10<hi rend="superscript">ten</hi> Julii 729
       <lb n="N006"/>N<hi rend="superscript">o</hi> 562
       <lb n="N007"/>Procura und Firmae Trager
       <lb n="N008"/>Oblatorien und Avocatorien
@@ -1331,7 +1331,7 @@
                <lb n="N001"/>Societaets Contract und Interessenten
       <lb n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 10<hi rend="superscript">ten</hi> Julii 729 N<hi rend="superscript">o</hi> 562 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46880">Mayrhofer</rs> geäusseret, daß er seine Handlung ohne Com-
+               <rs type="person" ref="#wkfm_46880">Mayrhofer</rs> geäusseret, daß er seine Handlung ohne Com-
       <lb n="N004"/>pagnon führe.
       <lb n="N005"/>Heuraths Contract
       <lb n="N006"/>Anmerckungen</ab>
@@ -1340,11 +1340,11 @@
                <lb n="N001"/>609
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=11956">Muffat Joseph</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_11956">Muffat Joseph</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Jose</hi>
-               <rs type="person" key=", Personen ID=46882">Joseph Muffat</rs> laut Erklährung dd<hi rend="superscript">to</hi> 14<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46882">Joseph Muffat</rs> laut Erklährung dd<hi rend="superscript">to</hi> 14<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>7br:</abbr>
@@ -1363,7 +1363,7 @@
                   <expan/>
                   <abbr>7br:</abbr>
                </choice> 735 N<hi rend="superscript">o</hi> 563 hat
-      <lb n="N003"/>sich der <rs type="person" key=", Personen ID=11956">Muffat</rs> geäusseret das er keinen Compagnon habe
+      <lb n="N003"/>sich der <rs type="person" ref="#wkfm_11956">Muffat</rs> geäusseret das er keinen Compagnon habe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_49" n="49" xml:id="img_0049"/>
@@ -1372,10 +1372,10 @@
       <lb n="N002"/>610
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=18974">Mathesy Sebastian</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_18974">Mathesy Sebastian</rs> burgerlicher Handlsmann
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46883">Sebastian Mathesy</rs> laut Erklährung dd<hi rend="superscript">to</hi> 14<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46883">Sebastian Mathesy</rs> laut Erklährung dd<hi rend="superscript">to</hi> 14<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>7br:</abbr>
@@ -1392,7 +1392,7 @@
                   <abbr>7br:</abbr>
                </choice> 730 N<hi rend="superscript">o</hi> 564 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=18974">Mathesy</rs> geäusseret, das er seine Handlung ohne Compagnon führe
+               <rs type="person" ref="#wkfm_18974">Mathesy</rs> geäusseret, das er seine Handlung ohne Compagnon führe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_51" n="51" xml:id="img_0051"/>
@@ -1400,10 +1400,10 @@
                <lb n="N001"/>611
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46884">Menschikh Niclas Johann</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46884">Menschikh Niclas Johann</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46885">Nicolaus Johann Menschikh</rs> laut Erklährung dd<hi rend="superscript">to</hi> 17<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46885">Nicolaus Johann Menschikh</rs> laut Erklährung dd<hi rend="superscript">to</hi> 17<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>7br:</abbr>
@@ -1420,7 +1420,7 @@
                   <abbr>7br:</abbr>
                </choice> 730 N<hi rend="superscript">o</hi> 565 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46884">Menschikh</rs> geäusseret, das er seine Handlung ohne Compagnon
+               <rs type="person" ref="#wkfm_46884">Menschikh</rs> geäusseret, das er seine Handlung ohne Compagnon
       <lb n="N004"/>führe
       <lb n="N005"/>Heuraths Contract
       <lb n="N006"/>Anmerckungen
@@ -1428,16 +1428,16 @@
                   <expan/>
                   <abbr>Augu:</abbr>
                </choice> 768 hat der Handlstandt den Todtfall
-      <lb n="N008"/>des <rs type="person" key=", Personen ID=46884">Johann Niclas Menschik</rs> angezeiget</ab>
+      <lb n="N008"/>des <rs type="person" ref="#wkfm_46884">Johann Niclas Menschik</rs> angezeiget</ab>
             <pb facs="#facs_53" n="53" xml:id="img_0053"/>
             <ab facs="#facs_53_r1" type="default">
                <lb n="N001"/>612
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=11940">v. Münch Christian</rs> kay: könig: Niderlags Verwanter
+               <rs type="person" ref="#wkfm_11940">v. Münch Christian</rs> kay: könig: Niderlags Verwanter
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=8334">v. Rauner <choice>
+               <rs type="person" ref="#wkfm_8334">v. Rauner <choice>
                      <expan/>
                      <abbr>
                         <unclear>Jg<hi rend="superscript">re</hi>
@@ -1450,7 +1450,7 @@
                </choice> 725 N<hi rend="superscript">o</hi> 1050 und
       <lb n="N006"/>anbringen de ps. 8<hi rend="superscript">ten</hi> May 725 N<hi rend="superscript">o</hi> 1051
       <lb n="N007"/>
-               <rs type="person" key=", Personen ID=46886">Christian Münch</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46886">Christian Münch</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
@@ -1461,7 +1461,7 @@
                   <abbr>Aug:</abbr>
                </choice> 730 N<hi rend="superscript">o</hi> 1999.
       <lb n="N009"/>Procura und Firmae Trager
-      <lb n="N010"/>Die Raggion <rs type="person" key=", Personen ID=8334">v. Rauner <unclear>Igre</unclear> und Münch</rs> hat mitls Anbringen de ps: <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">20<hi rend="strikethrough:true; superscript"/>
+      <lb n="N010"/>Die Raggion <rs type="person" ref="#wkfm_8334">v. Rauner <unclear>Igre</unclear> und Münch</rs> hat mitls Anbringen de ps: <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">20<hi rend="strikethrough:true; superscript"/>
                </hi>ten<hi rend="superscript">ten</hi> May 725 N<hi rend="superscript">o</hi> 1051
       <lb n="N011"/>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">mit b</hi> und Erklährung dd<hi rend="superscript">to</hi> 26<hi rend="superscript">ten</hi>
@@ -1470,24 +1470,24 @@
                   <abbr>Apr:</abbr>
                </choice> 725 1050 angezeiget, das sie die Procura <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">ihrem</hi> dem
       <lb n="N012"/>
-               <rs type="person" key=", Personen ID=46700">Adolph Wilhelm <unclear>Henner</unclear>
-               </rs> gegeben, auch die Firma des <rs type="person" key=", Personen ID=46700">Henne</rs> beygeruket
+               <rs type="person" ref="#wkfm_46700">Adolph Wilhelm <unclear>Henner</unclear>
+               </rs> gegeben, auch die Firma des <rs type="person" ref="#wkfm_46700">Henne</rs> beygeruket
       <lb n="N013"/>Mitls Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
-               </choice> 733 N<hi rend="superscript">o</hi> 1029 und Anbringen de ps: 27 ej: hat der <rs type="person" key=", Personen ID=11940">v. Münch</rs>
+               </choice> 733 N<hi rend="superscript">o</hi> 1029 und Anbringen de ps: 27 ej: hat der <rs type="person" ref="#wkfm_11940">v. Münch</rs>
                <lb n="N014"/>angezeiget, das er auch von dem unter seinem alleinigen Nahmen laufenden negotio die Procura dem
       <lb n="N015"/>
-               <rs type="person" key=", Personen ID=46700">Adolph Wilhelm Henne</rs> ertheilet habe.
+               <rs type="person" ref="#wkfm_46700">Adolph Wilhelm Henne</rs> ertheilet habe.
       <lb n="N016"/>Mitls Anbringen de ps: 19<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 735 N<hi rend="superscript">o</hi> 1031 und Carta Bianca zur Vollmacht dd<hi rend="superscript">to</hi> 4<hi rend="superscript">ten</hi> ej: <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">hat</hi> N<hi rend="superscript">o</hi> 1030
-      <lb n="N017"/>hat der <rs type="person" key=", Personen ID=11940">von Münch</rs> angezeiget, das er sein allhiesiges negotium und mit solchen auch die dem
+      <lb n="N017"/>hat der <rs type="person" ref="#wkfm_11940">von Münch</rs> angezeiget, das er sein allhiesiges negotium und mit solchen auch die dem
       <lb n="N018"/>
-               <rs type="person" key=", Personen ID=46700">Henne</rs> ertheilte Procura aufgehoben habe.
+               <rs type="person" ref="#wkfm_46700">Henne</rs> ertheilte Procura aufgehoben habe.
       <lb n="N019"/>Oblatorien und Avocatorien
       <lb n="N020"/>Fundi Ausweisung</ab>
             <pb facs="#facs_54" n="54" xml:id="img_0054"/>
@@ -1498,10 +1498,10 @@
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 1050 hat der <rs type="person" key=", Personen ID=11940">v. Münch</rs>
-               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">den</hi> nebst dem von <rs type="person" key=", Personen ID=46698">Rauner dem jüngern</rs>
+               </choice> 725 N<hi rend="superscript">o</hi> 1050 hat der <rs type="person" ref="#wkfm_11940">v. Münch</rs>
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">den</hi> nebst dem von <rs type="person" ref="#wkfm_46698">Rauner dem jüngern</rs>
                <lb n="N004"/>angezeiget, das sie das Negotium unter ihrer beeder interesse und obligo allein
-      <lb n="N005"/>unter der societaets raggion <rs type="person" key=", Personen ID=8334">v. Rauner <unclear>Jgre</unclear> und Münch</rs> führen
+      <lb n="N005"/>unter der societaets raggion <rs type="person" ref="#wkfm_8334">v. Rauner <unclear>Jgre</unclear> und Münch</rs> führen
       <lb n="N006"/>Mitls Anbringen de ps: 27<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
@@ -1511,10 +1511,10 @@
                   <expan/>
                   <abbr>8br:</abbr>
                </choice> N<hi rend="superscript">o</hi> 1024 hat
-      <lb n="N007"/>der<rs type="person" key=", Personen ID=11940"> v. Münch</rs> angezeiget das durch den Todfall des <rs type="person" key=", Personen ID=46698">v. Rauner <unclear>jgrn</unclear>
+      <lb n="N007"/>der<rs type="person" ref="#wkfm_11940"> v. Münch</rs> angezeiget das durch den Todfall des <rs type="person" ref="#wkfm_46698">v. Rauner <unclear>jgrn</unclear>
                </rs> die Raggion
       <lb n="N008"/>
-               <rs type="person" key=", Personen ID=8334">v. Rauner und Münch</rs> geendiget worden, und der<rs type="person" key=", Personen ID=11940"> v. Münch</rs> das negotium mit seinem
+               <rs type="person" ref="#wkfm_8334">v. Rauner und Münch</rs> geendiget worden, und der<rs type="person" ref="#wkfm_11940"> v. Münch</rs> das negotium mit seinem
       <lb n="N009"/>alleinigen intee und unter seiner alleinigen Nahmen zu führen gesinnet seye
       <lb n="N010"/>Mitls Anbringen de ps: 19<hi rend="superscript">ten</hi>
                <choice>
@@ -1522,7 +1522,7 @@
                   <abbr>Apr:</abbr>
                </choice> 735 N<hi rend="superscript">o</hi> 1031 und Carta Bianca zur Voll-
       <lb n="N011"/>macht dd<hi rend="superscript">to</hi> 4<hi rend="superscript">ten</hi> ej: N<hi rend="superscript">o</hi>
-               <unclear>1030</unclear> hat der<rs type="person" key=", Personen ID=11940"> v. Münch</rs> angezeiget, das er sein allhiesiges negotium
+               <unclear>1030</unclear> hat der<rs type="person" ref="#wkfm_11940"> v. Münch</rs> angezeiget, das er sein allhiesiges negotium
       <lb n="N012"/>hiemit aufheben wolle
       <lb n="N013"/>Heuraths Contract
       <lb n="N014"/>Anmerckungen</ab>
@@ -1531,12 +1531,12 @@
                <lb n="N001"/>613
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46887">a Marcha Dominicus</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46887">a Marcha Dominicus</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">laut</hi>
                <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46888">Dominicus à Marcha</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 567
+               <rs type="person" ref="#wkfm_46888">Dominicus à Marcha</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 567
       <lb n="N007"/>Procura und Firmae Trager
       <lb n="N008"/>Oblatorien und Avocatorien
       <lb n="N009"/>Fundi Ausweisung</ab>
@@ -1550,10 +1550,10 @@
                <lb n="N001"/>614
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46889">Mayr Franz</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46889">Mayr Franz</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46890">Frantz Mayr</rs> laut Erklährung dd<hi rend="superscript">to</hi> 7<hi rend="superscript">ten</hi> Junii 735 N<hi rend="superscript">o</hi> 568
+               <rs type="person" ref="#wkfm_46890">Frantz Mayr</rs> laut Erklährung dd<hi rend="superscript">to</hi> 7<hi rend="superscript">ten</hi> Junii 735 N<hi rend="superscript">o</hi> 568
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>Oblatorien und Avocatorien
       <lb n="N008"/>Fundi Ausweisung</ab>
@@ -1567,17 +1567,17 @@
                <lb n="N001"/>615
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46891">Mayer Andre</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46891">Mayer Andre</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46892">Andreas Mayer</rs> laut Erklährung dd<hi rend="superscript">to</hi> 6<hi rend="superscript">ten</hi> Junii 735 N<hi rend="superscript">o</hi> 569
+               <rs type="person" ref="#wkfm_46892">Andreas Mayer</rs> laut Erklährung dd<hi rend="superscript">to</hi> 6<hi rend="superscript">ten</hi> Junii 735 N<hi rend="superscript">o</hi> 569
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>Oblatorien und Avocatorien
       <lb n="N008"/>Fundi Ausweisung</ab>
             <pb facs="#facs_60" n="60" xml:id="img_0060"/>
             <ab facs="#facs_60_r1" type="default">
                <lb n="N001"/>Societaets Contract und Interessenten
-      <lb n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 6<hi rend="superscript">ten</hi> Junii 735 N<hi rend="superscript">o</hi> 569 hat der <rs type="person" key=", Personen ID=46891">Mayer</rs>
+      <lb n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 6<hi rend="superscript">ten</hi> Junii 735 N<hi rend="superscript">o</hi> 569 hat der <rs type="person" ref="#wkfm_46891">Mayer</rs>
                <lb n="N003"/>sich geäusseret, daß er sein negotium in proprio für sich allein führe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
@@ -1587,10 +1587,10 @@
       <lb n="N002"/>616
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=46893">Märkhl Anton</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46893">Märkhl Anton</rs> burgerlicher Handlsmann
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46894">Antony Märkhl</rs> laut Erklährung <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">dd<hi rend="strikethrough:true; superscript"/>
+               <rs type="person" ref="#wkfm_46894">Antony Märkhl</rs> laut Erklährung <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">dd<hi rend="strikethrough:true; superscript"/>
                </hi>to<hi rend="superscript">o</hi> 570
       <lb n="N007"/>Procura und Firmae Trager
       <lb n="N008"/>Oblatorien und Avocatorien
@@ -1605,17 +1605,17 @@
                <lb n="N001"/>617
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=25004">Marquet Joseph</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_25004">Marquet Joseph</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46895">Joseph Marquet</rs> laut Erklährung dd<hi rend="superscript">to</hi> 4<hi rend="superscript">ten</hi> Junii 735 N<hi rend="superscript">o</hi> 571
+               <rs type="person" ref="#wkfm_46895">Joseph Marquet</rs> laut Erklährung dd<hi rend="superscript">to</hi> 4<hi rend="superscript">ten</hi> Junii 735 N<hi rend="superscript">o</hi> 571
       <lb n="N006"/>
                <choice>
                   <expan/>
                   <abbr>Ao</abbr>
                </choice> 763 untern 10<hi rend="superscript">ten</hi> Decembris 763 Societäts Anzeige mit beysezenden firmen
       <lb n="N007"/>
-               <rs type="person" key=", Personen ID=46896">Joseph Marquet et <choice>
+               <rs type="person" ref="#wkfm_46896">Joseph Marquet et <choice>
                      <expan/>
                      <abbr>Compag:</abbr>
                   </choice>
@@ -1629,9 +1629,9 @@
             <pb facs="#facs_64" n="64" xml:id="img_0064"/>
             <ab facs="#facs_64_r1" type="default">
                <lb n="N001"/>Societaets Contract und Interessenten
-      <lb n="N002"/>Untern 30<hi rend="superscript">ten</hi> Decembris 763 hat der <rs type="person" key=", Personen ID=25004">Joseph Marquet</rs> seine Socios
-      <lb n="N003"/>tacitos als <rs type="person" key=", Personen ID=46897">Benedict Hösler</rs> und <rs type="person" key=", Personen ID=46898">Christoph Delacosta</rs> angezeiget
-      <lb n="N004"/>deren ein jeder auch firmiret <rs type="person" key=", Personen ID=46896">Joseph Marquet et <choice>
+      <lb n="N002"/>Untern 30<hi rend="superscript">ten</hi> Decembris 763 hat der <rs type="person" ref="#wkfm_25004">Joseph Marquet</rs> seine Socios
+      <lb n="N003"/>tacitos als <rs type="person" ref="#wkfm_46897">Benedict Hösler</rs> und <rs type="person" ref="#wkfm_46898">Christoph Delacosta</rs> angezeiget
+      <lb n="N004"/>deren ein jeder auch firmiret <rs type="person" ref="#wkfm_46896">Joseph Marquet et <choice>
                      <expan/>
                      <abbr>Compag:</abbr>
                   </choice>
@@ -1649,10 +1649,10 @@
                <lb n="N002"/>618
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=8263">Monath Peter Conrad</rs> kay: könig: Niderlags Verwanter
+               <rs type="person" ref="#wkfm_8263">Monath Peter Conrad</rs> kay: könig: Niderlags Verwanter
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46899">Peter Conr: Monath</rs> laut Anbringen de ps: 18<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46899">Peter Conr: Monath</rs> laut Anbringen de ps: 18<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
@@ -1667,7 +1667,7 @@
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
-               </choice> 735 N<hi rend="superscript">o</hi> 572 hat sich der <rs type="person" key=", Personen ID=8263">Monath</rs>
+               </choice> 735 N<hi rend="superscript">o</hi> 572 hat sich der <rs type="person" ref="#wkfm_8263">Monath</rs>
                <lb n="N003"/>erklähret, das niemand theil an seinem Negotio habe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
@@ -1676,10 +1676,10 @@
                <lb n="N001"/>619
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=9611">Manßrieder Joseph</rs> kay: könig: Niderlags Verwanter
+               <rs type="person" ref="#wkfm_9611">Manßrieder Joseph</rs> kay: könig: Niderlags Verwanter
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46900">Joseph Manßrieder</rs> laut Anbringen de ps: 18<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46900">Joseph Manßrieder</rs> laut Anbringen de ps: 18<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
@@ -1694,9 +1694,9 @@
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
-               </choice> 735 N<hi rend="superscript">o</hi> 573 hat sich der <rs type="person" key=", Personen ID=9611">Mans-<lb n="N003"/>
+               </choice> 735 N<hi rend="superscript">o</hi> 573 hat sich der <rs type="person" ref="#wkfm_9611">Mans-<lb n="N003"/>
                </rs>
-               <rs type="person" key=", Personen ID=9611">rieder<lb n="N004"/>
+               <rs type="person" ref="#wkfm_9611">rieder<lb n="N004"/>
                </rs>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_69" n="69" xml:id="img_0069"/>
@@ -1704,10 +1704,10 @@
                <lb n="N001"/>620
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=8413">Marci Johann Cornelius</rs> kay: könig: Niderlags Verwanter
+               <rs type="person" ref="#wkfm_8413">Marci Johann Cornelius</rs> kay: könig: Niderlags Verwanter
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46903">Johann Cornelius <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Mara</hi> Marci</rs> laut Anbringen de ps: 18<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46903">Johann Cornelius <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Mara</hi> Marci</rs> laut Anbringen de ps: 18<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>
@@ -1721,14 +1721,14 @@
                   <abbr>Aug:</abbr>
                </choice> 735 N<hi rend="superscript">o</hi> 574
       <lb n="N007"/>
-               <rs type="person" key=", Personen ID=46901">Morci und Plattensteiner</rs> laut Angringen de ps: 18<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46901">Morci und Plattensteiner</rs> laut Angringen de ps: 18<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Janu:</abbr>
                </choice> 745 N<hi rend="superscript">o</hi> 587 und Procura dd<hi rend="superscript">to</hi> ult:
       <lb n="N008"/>Junii 755 N<hi rend="superscript">o</hi> 1038
       <lb n="N009"/>Procura und Firmae Trager
-      <lb n="N010"/>Mitls Anbringen de ps: 18<hi rend="superscript">ten</hi> May 725 N<hi rend="superscript">o</hi> 1021 hat der <rs type="person" key=", Personen ID=8413">Marci</rs> die seinem bedienten <rs type="person" key=", Personen ID=46904">Johann Michäl<lb n="N011"/>
+      <lb n="N010"/>Mitls Anbringen de ps: 18<hi rend="superscript">ten</hi> May 725 N<hi rend="superscript">o</hi> 1021 hat der <rs type="person" ref="#wkfm_8413">Marci</rs> die seinem bedienten <rs type="person" ref="#wkfm_46904">Johann Michäl<lb n="N011"/>
                   <unclear>Keilhau</unclear>
                </rs> ertheilte <choice>
                   <expan/>
@@ -1744,32 +1744,32 @@
                <choice>
                   <expan/>
                   <abbr>Janu:</abbr>
-               </choice> 745 N<hi rend="superscript">o</hi> 587 hat die Raggion <rs type="person" key=", Personen ID=46901">Marci und Plattensteiner</rs> die dem
+               </choice> 745 N<hi rend="superscript">o</hi> 587 hat die Raggion <rs type="person" ref="#wkfm_46901">Marci und Plattensteiner</rs> die dem
       <lb n="N013"/>
-               <rs type="person" key=", Personen ID=46905">Samuel Czepecz</rs> ertheilte Procura dd<hi rend="superscript">to</hi> 8<hi rend="superscript">ten</hi> Junii 745 in <choice>
+               <rs type="person" ref="#wkfm_46905">Samuel Czepecz</rs> ertheilte Procura dd<hi rend="superscript">to</hi> 8<hi rend="superscript">ten</hi> Junii 745 in <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> eingeleget, wovon Copia N<hi rend="superscript">o</hi>
                <lb n="N014"/>1040
-      <lb n="N015"/>Mitls Anbringen de ps: 7<hi rend="superscript">ten</hi> Julii 755 N<hi rend="superscript">o</hi> 1041 hat die Raggion <rs type="person" key=", Personen ID=46901">Marci und Plattensteiner</rs>
-               <lb n="N016"/>die dem <rs type="person" key=", Personen ID=46905">Czepecz</rs> ertheilte Procura widerufen und ist solche zufolge der hierauf erlassenen
+      <lb n="N015"/>Mitls Anbringen de ps: 7<hi rend="superscript">ten</hi> Julii 755 N<hi rend="superscript">o</hi> 1041 hat die Raggion <rs type="person" ref="#wkfm_46901">Marci und Plattensteiner</rs>
+               <lb n="N016"/>die dem <rs type="person" ref="#wkfm_46905">Czepecz</rs> ertheilte Procura widerufen und ist solche zufolge der hierauf erlassenen
       <lb n="N017"/>auflag und quittung dd<hi rend="superscript">to</hi> 9<hi rend="superscript">ten</hi> ej: in <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> extradiret worden
       <lb n="N018"/>Mitls Anbringen de ps: 30<hi rend="superscript">ten</hi> Junii 75<unclear>7</unclear> N<hi rend="superscript">o</hi>
-               <unclear>1039</unclear> hat die raggion <rs type="person" key=", Personen ID=46901">Marci und Plattensteiner</rs> die dem <rs type="person" key=", Personen ID=46906">Veith Böhm</rs> ertheilte
-      <lb n="N019"/>Procura dd<hi rend="superscript">to</hi> ult: Junii 755 N<hi rend="superscript">o</hi> 1038 mit beygerukter Firma des <rs type="person" key=", Personen ID=46906">Böhm</rs> in <choice>
+               <unclear>1039</unclear> hat die raggion <rs type="person" ref="#wkfm_46901">Marci und Plattensteiner</rs> die dem <rs type="person" ref="#wkfm_46906">Veith Böhm</rs> ertheilte
+      <lb n="N019"/>Procura dd<hi rend="superscript">to</hi> ult: Junii 755 N<hi rend="superscript">o</hi> 1038 mit beygerukter Firma des <rs type="person" ref="#wkfm_46906">Böhm</rs> in <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> eingeleget. <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">0</hi>
                <lb n="N020"/>Oblatorien und Avocatorien
       <lb n="N021"/>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">0</hi>
-               <lb n="N022"/>Vermög Anbringen de ps: 9<hi rend="superscript">ten</hi> Octobris 758 hat der <rs type="person" key=", Personen ID=46901">Marci und Plattensteiner</rs> die dem
+               <lb n="N022"/>Vermög Anbringen de ps: 9<hi rend="superscript">ten</hi> Octobris 758 hat der <rs type="person" ref="#wkfm_46901">Marci und Plattensteiner</rs> die dem
       <lb n="N023"/>
-               <rs type="person" key=", Personen ID=46906">Veit Böhm</rs> ertheilte firma avociret, und solche dem <rs type="person" key=", Personen ID=46907">Johann Wölfeld</rs> ertheilet, auch die
-      <lb n="N024"/>Procura auf den gedachten <rs type="person" key=", Personen ID=46907">Wölfeld</rs> eingeleget <choice>
+               <rs type="person" ref="#wkfm_46906">Veit Böhm</rs> ertheilte firma avociret, und solche dem <rs type="person" ref="#wkfm_46907">Johann Wölfeld</rs> ertheilet, auch die
+      <lb n="N024"/>Procura auf den gedachten <rs type="person" ref="#wkfm_46907">Wölfeld</rs> eingeleget <choice>
                   <expan/>
                   <abbr>nro:</abbr>
                </choice> 1041 1/2
@@ -1777,18 +1777,18 @@
             <pb facs="#facs_70" n="70" xml:id="img_0070"/>
             <ab>
                <lb n="N001"/>Societaets Contract und Interessenten
-      <lb n="N002"/>In obigen Anbringen de ps: 18<hi rend="superscript">ten</hi> May 725 N<hi rend="superscript">o</hi> 1021 hat der <rs type="person" key=", Personen ID=8413">Marci</rs> ange-
+      <lb n="N002"/>In obigen Anbringen de ps: 18<hi rend="superscript">ten</hi> May 725 N<hi rend="superscript">o</hi> 1021 hat der <rs type="person" ref="#wkfm_8413">Marci</rs> ange-
       <lb n="N003"/>zeiget, daß er sein Negotium allein und ohne Compagnon führe.
       <lb n="N004"/>Mitls Anbringen de ps: 18<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Janu:</abbr>
-               </choice> 745 N<hi rend="superscript">o</hi> 587 hat der <rs type="person" key=", Personen ID=46902">Georg Wilhelm<lb n="N005"/>Plattensteiner</rs>, wie daß <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">demselben</hi> ihm von der N: Ö: Regierung Vermög decreto
+               </choice> 745 N<hi rend="superscript">o</hi> 587 hat der <rs type="person" ref="#wkfm_46902">Georg Wilhelm<lb n="N005"/>Plattensteiner</rs>, wie daß <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">demselben</hi> ihm von der N: Ö: Regierung Vermög decreto
       <lb n="N006"/>dd<hi rend="superscript">to</hi> 10<hi rend="superscript">ten</hi> Julii 744 N<hi rend="superscript">o</hi> 588 in Copia vidimato die Niderlags freyheit auf die
       <lb n="N007"/>von seiner Ehewirthin als Tochter anererbte Marci: Handlung dergestalten
       <lb n="N008"/>verwilliget worden seye, daß er solche <unclear>ohne gemahlen</unclear> ein<hi rend="strikethrough:true; fontSize:0.0; kerning:0;">e</hi> Separirtes negotium
-      <lb n="N009"/>zu stabiliren unter der raggion <rs type="person" key=", Personen ID=46901">Marci und Plattensteiner</rs> fortrühren möge,
-      <lb n="N010"/>er auch das Marei: negotium unter gemelter raggion <rs type="person" key=", Personen ID=46901">Marci und Plattensteiner</rs>
+      <lb n="N009"/>zu stabiliren unter der raggion <rs type="person" ref="#wkfm_46901">Marci und Plattensteiner</rs> fortrühren möge,
+      <lb n="N010"/>er auch das Marei: negotium unter gemelter raggion <rs type="person" ref="#wkfm_46901">Marci und Plattensteiner</rs>
                <lb n="N011"/>fort<hi rend="strikethrough:true; fontSize:0.0; kerning:0;">zu</hi>führen werde
       <lb n="N012"/>Heuraths Contract
       <lb n="N013"/>Anmerckungen</ab>
@@ -1797,10 +1797,10 @@
                <lb n="N001"/>621
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=10641">Moser Carl Joseph</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_10641">Moser Carl Joseph</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=43924">Carl Joseph Moser et <choice>
+               <rs type="person" ref="#wkfm_43924">Carl Joseph Moser et <choice>
                      <expan/>
                      <abbr>Compag:</abbr>
                   </choice>
@@ -1812,20 +1812,20 @@
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>In obigen Anbringen de ps: 5<hi rend="superscript">ten</hi> Martii 736 N<hi rend="superscript">o</hi> 2001 ist die Firma der Raggion
       <lb n="N008"/>
-               <rs type="person" key=", Personen ID=43924">Carl Joseph Moser e <choice>
+               <rs type="person" ref="#wkfm_43924">Carl Joseph Moser e <choice>
                      <expan/>
                      <abbr>Compag:</abbr>
                   </choice>
-               </rs> von beeden sociis <rs type="person" key=", Personen ID=10641">Carl Joseph Moser</rs> und
+               </rs> von beeden sociis <rs type="person" ref="#wkfm_10641">Carl Joseph Moser</rs> und
       <lb n="N009"/>
-               <rs type="person" key=", Personen ID=46560">Johann Adam Paumgartner</rs> eingeleget worden
+               <rs type="person" ref="#wkfm_46560">Johann Adam Paumgartner</rs> eingeleget worden
       <lb n="N010"/>Oblatorien und Avocatorien
       <lb n="N011"/>Fundi Ausweisung</ab>
             <pb facs="#facs_72" n="72" xml:id="img_0072"/>
             <ab>
                <lb n="N001"/>Societaets Contract und Interessenten
-      <lb n="N002"/>Der <rs type="person" key=", Personen ID=10641">Carl Joseph Moser</rs> hat mitls <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">dem Adam</hi> Anbringen de ps: 5<hi rend="superscript">ten</hi> Martii
-      <lb n="N003"/>736 N<hi rend="superscript">o</hi> 2001 angezeiget, das er sich dem <rs type="person" key=", Personen ID=46560">Johann Adam Paumgartner</rs> associi-
+      <lb n="N002"/>Der <rs type="person" ref="#wkfm_10641">Carl Joseph Moser</rs> hat mitls <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">dem Adam</hi> Anbringen de ps: 5<hi rend="superscript">ten</hi> Martii
+      <lb n="N003"/>736 N<hi rend="superscript">o</hi> 2001 angezeiget, das er sich dem <rs type="person" ref="#wkfm_46560">Johann Adam Paumgartner</rs> associi-
       <lb n="N004"/>ret habe und die Handlung unter der Societaets Raggion <rs type="person">Carl Joseph Moser<lb n="N005"/>et <choice>
                      <expan/>
                      <abbr>Compagn:</abbr>
@@ -1835,19 +1835,19 @@
                   </unclear>
                   <hi rend="strikethrough:true; superscript"/>
                </hi>ten
-      <lb n="N006"/> furgeführet werden wurden. Wie dann auch der <rs type="person" key=", Personen ID=46560">Paum-<lb n="N007"/>gartner</rs> den mit dem <rs type="person" key=", Personen ID=10641">Moser</rs> unterm 1<hi rend="superscript">ten</hi> Julii 735 abgeschlossenen societaets
+      <lb n="N006"/> furgeführet werden wurden. Wie dann auch der <rs type="person" ref="#wkfm_46560">Paum-<lb n="N007"/>gartner</rs> den mit dem <rs type="person" ref="#wkfm_10641">Moser</rs> unterm 1<hi rend="superscript">ten</hi> Julii 735 abgeschlossenen societaets
       <lb n="N008"/>Contract N<hi rend="superscript">o</hi> 1869 in Copia vidimata eingeleget, kraft welchen der Fundum
-      <lb n="N009"/>Negotii in einem Waaren Lager von 41120 fl bestehen hierzu der <rs type="person" key=", Personen ID=46560">Paumgar-<lb n="N010"/>ner</rs>
+      <lb n="N009"/>Negotii in einem Waaren Lager von 41120 fl bestehen hierzu der <rs type="person" ref="#wkfm_46560">Paumgar-<lb n="N010"/>ner</rs>
                <choice>
                   <expan/>
                   <abbr>pr</abbr>
-               </choice> 6000 fl in Werth das übrige der <rs type="person" key=", Personen ID=10641">Moser</rs> einlegen, die Nuzung über
+               </choice> 6000 fl in Werth das übrige der <rs type="person" ref="#wkfm_10641">Moser</rs> einlegen, die Nuzung über
       <lb n="N011"/>abzug aller Unkosten in 2 gleich Theil zertheilet und jedwedern hivon 1 theil
-      <lb n="N012"/>zukommen, nach 2 Jahren aber dem <rs type="person" key=", Personen ID=10641">Moser</rs> seinen <rs type="person" key=", Personen ID=46908">Sohn</rs> in Compagnie zu nehmen be-
+      <lb n="N012"/>zukommen, nach 2 Jahren aber dem <rs type="person" ref="#wkfm_10641">Moser</rs> seinen <rs type="person" ref="#wkfm_46908">Sohn</rs> in Compagnie zu nehmen be-
       <lb n="N013"/>vorstehen, und sohin die Nuzung in 3 Theil zertheilet und der dritte Theil gedachtem
       <lb n="N014"/>
-               <rs type="person" key=", Personen ID=46908">Moser: Sohn</rs> zuwachsen, die Raggion solang ein <rs type="person" key=", Personen ID=10641">Moser Vatter</rs> oder <rs type="person" key=", Personen ID=46908">Sohn</rs> hierunter
-      <lb n="N015"/>begriffen, <rs type="person" key=", Personen ID=43924">Carl Joseph Moser et <choice>
+               <rs type="person" ref="#wkfm_46908">Moser: Sohn</rs> zuwachsen, die Raggion solang ein <rs type="person" ref="#wkfm_10641">Moser Vatter</rs> oder <rs type="person" ref="#wkfm_46908">Sohn</rs> hierunter
+      <lb n="N015"/>begriffen, <rs type="person" ref="#wkfm_43924">Carl Joseph Moser et <choice>
                      <expan/>
                      <abbr>Compag:</abbr>
                   </choice>
@@ -1864,10 +1864,10 @@
       <lb n="N002"/>622
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=24852">Mannj Stephan</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_24852">Mannj Stephan</rs> burgerlicher Handlsmann
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46909">Stephan Mannj</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 576 welche derselbe
+               <rs type="person" ref="#wkfm_46909">Stephan Mannj</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 576 welche derselbe
       <lb n="N007"/>mitls Anbringen de ps: 20<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
@@ -1876,7 +1876,7 @@
       <lb n="N008"/>Procura und Firmae Trager
       <lb n="N009"/>Oblatorien und Avocatorien
       <lb n="N010"/>Fundi Ausweisung
-      <lb n="N011"/>Der <rs type="person" key=", Personen ID=24852">Mannj</rs> hat zu Ausweisung seines Handlungs Fundi die <choice>
+      <lb n="N011"/>Der <rs type="person" ref="#wkfm_24852">Mannj</rs> hat zu Ausweisung seines Handlungs Fundi die <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice>
@@ -1896,21 +1896,21 @@
                <lb n="N001"/>623
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46910">Mumb Johann Georg</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46910">Mumb Johann Georg</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46911">Johann Georg Mumb</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 578
+               <rs type="person" ref="#wkfm_46911">Johann Georg Mumb</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 578
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>Oblatorien und Avocatorien
       <lb n="N008"/>Fundi Ausweisung
-      <lb n="N009"/>Der <rs type="person" key=", Personen ID=46910">Mumb</rs> hat zu ausweisung seines Fundi der Extract seiner Inventur
+      <lb n="N009"/>Der <rs type="person" ref="#wkfm_46910">Mumb</rs> hat zu ausweisung seines Fundi der Extract seiner Inventur
       <lb n="N010"/>de <choice>
                   <expan/>
                   <abbr>Ao</abbr>
                </choice> 737 N<hi rend="superscript">o</hi> 1603 eingeleget, Vermög welchen über abzug des passivi die
       <lb n="N011"/>Waaren betragen 13209 wovon seiner Ehewirthin gehören 8009 fl ihm aber
       <lb n="N012"/>samt Heurath Gutt eigenthumlich Verbleiben 5200 fl
-      <lb n="N013"/>nebst einem von seiner Ehewirthin <rs type="person" key=", Personen ID=46912">Sara Maria</rs> untern 11<hi rend="superscript">ten</hi>
+      <lb n="N013"/>nebst einem von seiner Ehewirthin <rs type="person" ref="#wkfm_46912">Sara Maria</rs> untern 11<hi rend="superscript">ten</hi>
                <lb n="N014"/>
                <choice>
                   <expan/>
@@ -1936,7 +1936,7 @@
                <choice>
                   <expan/>
                   <abbr>Ao</abbr>
-               </choice> 772 hat der <rs type="person" key=", Personen ID=46910">Johann Georg Mumb</rs> seinen mit der <rs type="person" key=", Personen ID=46913">Ma: Anna<lb n="N004"/>Schreiberin</rs> errichteten Heuraths Contract dd<hi rend="superscript">to</hi> 6<hi rend="superscript">ten</hi>
+               </choice> 772 hat der <rs type="person" ref="#wkfm_46910">Johann Georg Mumb</rs> seinen mit der <rs type="person" ref="#wkfm_46913">Ma: Anna<lb n="N004"/>Schreiberin</rs> errichteten Heuraths Contract dd<hi rend="superscript">to</hi> 6<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>8br:</abbr>
@@ -1952,14 +1952,14 @@
                <lb n="N001"/>624
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46914">Mäninger Mattheus Franz</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46914">Mäninger Mattheus Franz</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46915">Matheus Franz Mäninger</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 579
+               <rs type="person" ref="#wkfm_46915">Matheus Franz Mäninger</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 579
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>Oblatorien und Avocatorien
       <lb n="N008"/>Fundi Ausweisung
-      <lb n="N009"/>Der <rs type="person" key=", Personen ID=46914">Maninger</rs> hat zu Ausweisung seines Handlungs Fundi die <choice>
+      <lb n="N009"/>Der <rs type="person" ref="#wkfm_46914">Maninger</rs> hat zu Ausweisung seines Handlungs Fundi die <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> Inventur
@@ -1967,7 +1967,7 @@
                   <expan/>
                   <abbr>pr</abbr>
                </choice> 4491 fl 41 1/2 x<hi rend="superscript">r</hi>
-               <lb n="N011"/>Zu Completirung des übrigen hat der <rs type="person" key=", Personen ID=46916">Johann Thomas Lintz</rs> das von ihm untern 2<hi rend="superscript">ten</hi>
+               <lb n="N011"/>Zu Completirung des übrigen hat der <rs type="person" ref="#wkfm_46916">Johann Thomas Lintz</rs> das von ihm untern 2<hi rend="superscript">ten</hi>
                <lb n="N012"/>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">zul</hi>
                <choice>
@@ -1977,10 +1977,10 @@
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> Instrument N<hi rend="superscript">o</hi> 1606 eingeleget
-      <lb n="N013"/>das er <rs type="person" key=", Personen ID=46916">Lintz</rs> dem <rs type="person" key=", Personen ID=46914">Mäninger</rs> leihen und biß zu ausweisung des fundi ligen
+      <lb n="N013"/>das er <rs type="person" ref="#wkfm_46916">Lintz</rs> dem <rs type="person" ref="#wkfm_46914">Mäninger</rs> leihen und biß zu ausweisung des fundi ligen
       <lb n="N014"/>lassen wolle 3500 fl
       <lb n="N015"/>
-               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Zu Completirung des übrigen</hi> dann hat aber der <rs type="person" key=", Personen ID=46916">Lintz</rs> ein Caut: Instrument einge-
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Zu Completirung des übrigen</hi> dann hat aber der <rs type="person" ref="#wkfm_46916">Lintz</rs> ein Caut: Instrument einge-
       <lb n="N016"/>leget <unclear>
                   <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">welches vermuthlich <gap/>
                   </hi> wovon das Supra nicht berechnet werden kan</unclear>
@@ -1990,25 +1990,25 @@
                </hi>
                <unclear>die</unclear> acta nicht geben) <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">pr <gap/>
                </hi>
-               <lb n="N017"/>Über die von dem <rs type="person" key=", Personen ID=46914">Maninger</rs> gemachte Anzeige de ps: 3<hi rend="superscript">ten</hi>
+               <lb n="N017"/>Über die von dem <rs type="person" ref="#wkfm_46914">Maninger</rs> gemachte Anzeige de ps: 3<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>9br:</abbr>
                </choice> 740 N<hi rend="superscript">o</hi> 1607 <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">ist</hi> das
-      <lb n="N018"/>der <rs type="person" key=", Personen ID=46916">Linz</rs> ihn um Enthebung der Bürgschaft gerichtlich belange, und er Vermög Billanz
+      <lb n="N018"/>der <rs type="person" ref="#wkfm_46916">Linz</rs> ihn um Enthebung der Bürgschaft gerichtlich belange, und er Vermög Billanz
       <lb n="N019"/>(welche aber nicht vorhanden) seinen fundum in eignen Mitlen besize ist zufolge der
       <lb n="N020"/>hierauf untern 14<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>9br:</abbr>
                </choice> ergangenen Auflag und Quittung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi> ej: das Lintzl: Cautions-
-      <lb n="N021"/>Instrumentum dem <rs type="person" key=", Personen ID=46914">Männinger</rs> erfolget worden. Hierbey befinden sich annoch der Mäning:
+      <lb n="N021"/>Instrumentum dem <rs type="person" ref="#wkfm_46914">Männinger</rs> erfolget worden. Hierbey befinden sich annoch der Mäning:
       <lb n="N022"/>Handlungs Kaufcontract dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi> Julii 737 N<hi rend="superscript">o</hi> 1608 und ein Erlags Anbringen N<hi rend="superscript">o</hi> 1609</ab>
             <pb facs="#facs_78" n="78" xml:id="img_0078"/>
             <ab facs="#facs_78_r1" type="default">
                <lb n="N001"/>Societaets Contract und Interessenten
-      <lb n="N002"/>Untern 21<hi rend="superscript">ten</hi> Martij hat der <rs type="person" key=", Personen ID=46914">Mathäus Maninger</rs> mit dem Anton
-      <lb n="N003"/>Unterholzer eine Societät errichtet, vermög welcher der <rs type="person" key=", Personen ID=46917">Unterholzer</rs>
+      <lb n="N002"/>Untern 21<hi rend="superscript">ten</hi> Martij hat der <rs type="person" ref="#wkfm_46914">Mathäus Maninger</rs> mit dem Anton
+      <lb n="N003"/>Unterholzer eine Societät errichtet, vermög welcher der <rs type="person" ref="#wkfm_46917">Unterholzer</rs>
                <lb n="N004"/>alle Direction der Handlung und jederweilige Handlungs firma führen 
       <lb n="N005"/>solle, diese Societät ist vermög Verlas dd<hi rend="superscript">to</hi> 7<hi rend="superscript">ten</hi> April<hi rend="strikethrough:true; fontSize:0.0; kerning:0;">l</hi> 766
       <lb n="N006"/>nicht <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">al</hi> anders als eine heimliche Societät bewilliget worden.
@@ -2019,16 +2019,16 @@
                <lb n="N001"/>625
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46543">Mayer Johann Michäl</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46543">Mayer Johann Michäl</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=38549">Mayer und Höltzl</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 580
+               <rs type="person" ref="#wkfm_38549">Mayer und Höltzl</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 580
       <lb n="N006"/>Procura und Firmae Trager
-      <lb n="N007"/>In obiger Erklährung <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">hat</hi> sine dato N<hi rend="superscript">o</hi> 580 ist die Firma der Raggion <rs type="person" key=", Personen ID=38549">Mayer und<lb n="N008"/>Höltzl</rs> von beeden sociis <rs type="person" key=", Personen ID=46543">Johann Michäl Mayer</rs> und <rs type="person" key=", Personen ID=46542">Anton Höltzl</rs> einge-
+      <lb n="N007"/>In obiger Erklährung <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">hat</hi> sine dato N<hi rend="superscript">o</hi> 580 ist die Firma der Raggion <rs type="person" ref="#wkfm_38549">Mayer und<lb n="N008"/>Höltzl</rs> von beeden sociis <rs type="person" ref="#wkfm_46543">Johann Michäl Mayer</rs> und <rs type="person" ref="#wkfm_46542">Anton Höltzl</rs> einge-
       <lb n="N009"/>leget worden
       <lb n="N010"/>Oblatorien und Avocatorien
       <lb n="N011"/>ad rubr: fundi ausweisung
-      <lb n="N012"/>Der <rs type="person" key=", Personen ID=46543">Mayer</rs> hat nach der Separation von dem <rs type="person" key=", Personen ID=46542">Höltzl</rs> seinen fundum mitls des
+      <lb n="N012"/>Der <rs type="person" ref="#wkfm_46543">Mayer</rs> hat nach der Separation von dem <rs type="person" ref="#wkfm_46542">Höltzl</rs> seinen fundum mitls des
       <lb n="N013"/>untern 19<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
@@ -2053,12 +2053,12 @@
                   <abbr>Sa</abbr>
                </choice> 8396 fl 22 x<hi rend="superscript">r</hi>
                <lb n="N018"/>Fundi Ausweisung
-      <lb n="N019"/>Der <rs type="person" key=", Personen ID=46543">Mayer</rs> und <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">hat mit dem</hi>
-               <rs type="person" key=", Personen ID=46542">Anton Höltzl</rs>
+      <lb n="N019"/>Der <rs type="person" ref="#wkfm_46543">Mayer</rs> und <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">hat mit dem</hi>
+               <rs type="person" ref="#wkfm_46542">Anton Höltzl</rs>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">seinen</hi> haben ihren fundum gemein-
       <lb n="N020"/>samlich folgendermaßen ausgewisen, nemlich, daß  sie eigenthumlich
-      <lb n="N021"/>besizen und zwahr der <rs type="person" key=", Personen ID=46542">Hölzl,</rs> Vermög von <rs type="person" key=", Personen ID=10201">Johann Leonhard Pittoni</rs> an
-      <lb n="N022"/>seinen Vattern <rs type="person" key=", Personen ID=46918">Bathasar Johann Höltzl</rs>
+      <lb n="N021"/>besizen und zwahr der <rs type="person" ref="#wkfm_46542">Hölzl,</rs> Vermög von <rs type="person" ref="#wkfm_10201">Johann Leonhard Pittoni</rs> an
+      <lb n="N022"/>seinen Vattern <rs type="person" ref="#wkfm_46918">Bathasar Johann Höltzl</rs>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">unter</hi> ausgestelten <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">zweyen oblis</hi>
                <lb n="N023"/>und an ihn durch Cession dd<hi rend="superscript">to</hi> 6<hi rend="superscript">ten</hi>
                <choice>
@@ -2081,7 +2081,7 @@
                   <expan/>
                   <abbr>Janu:</abbr>
                </choice> d. a. N<hi rend="superscript">o</hi> 1612 in Copia vidimata 300 fl
-      <lb n="N026"/>der <rs type="person" key=", Personen ID=46543">Mayer</rs> Vermög obliation von <rs type="person" key=", Personen ID=23672">Pigizer und Pettoni</rs>
+      <lb n="N026"/>der <rs type="person" ref="#wkfm_46543">Mayer</rs> Vermög obliation von <rs type="person" ref="#wkfm_23672">Pigizer und Pettoni</rs>
                <unclear>gan:</unclear> dd<hi rend="superscript">to</hi>
                <lb n="N027"/>13<hi rend="superscript">ten</hi>
                <choice>
@@ -2092,7 +2092,7 @@
                   <abbr>orig:</abbr>
                </choice> 1100 fl
       <lb n="N028"/>zusamen Eigenthum 5800 fl
-      <lb n="N029"/>Dann hat der <rs type="person" key=", Personen ID=9344">Anton Matthias Kürcher</rs> ein <choice>
+      <lb n="N029"/>Dann hat der <rs type="person" ref="#wkfm_9344">Anton Matthias Kürcher</rs> ein <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> Instrument dd<hi rend="superscript">to</hi> 20<hi rend="superscript">ten</hi>
@@ -2108,8 +2108,8 @@
             <pb facs="#facs_80" n="80" xml:id="img_0080"/>
             <ab facs="#facs_80_r1" type="default">
                <lb n="N001"/>Societaets Contract und Interessenten
-      <lb n="N002"/>Der <rs type="person" key=", Personen ID=46543">Johann Michäl Mayer</rs> hat mit dem <rs type="person" key=", Personen ID=46542">Anton Höltzl</rs> die Societaets
-      <lb n="N003"/>Firma <rs type="person" key=", Personen ID=38549">Mayer und Höltzl</rs> zugleich in obiger Erklährung sine dato 580
+      <lb n="N002"/>Der <rs type="person" ref="#wkfm_46543">Johann Michäl Mayer</rs> hat mit dem <rs type="person" ref="#wkfm_46542">Anton Höltzl</rs> die Societaets
+      <lb n="N003"/>Firma <rs type="person" ref="#wkfm_38549">Mayer und Höltzl</rs> zugleich in obiger Erklährung sine dato 580
       <lb n="N004"/>eingeleget
       <lb n="N005"/>Heuraths Contract
       <lb n="N006"/>Anmerckungen</ab>
@@ -2118,14 +2118,14 @@
                <lb n="N001"/>626
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46919">Mayr Franz Benedict</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46919">Mayr Franz Benedict</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46920">Franz Benedict Mayr</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 582
+               <rs type="person" ref="#wkfm_46920">Franz Benedict Mayr</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 582
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>Oblatorien und Avocatorien
       <lb n="N008"/>Fundi Ausweisung
-      <lb n="N009"/>Der <rs type="person" key=", Personen ID=46919">Mayr</rs> hat zu Ausweisung seines Fundi die <choice>
+      <lb n="N009"/>Der <rs type="person" ref="#wkfm_46919">Mayr</rs> hat zu Ausweisung seines Fundi die <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> Inventur dd<hi rend="superscript">to</hi> 13<hi rend="superscript">ten</hi>
@@ -2143,7 +2143,7 @@
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">2028 fl 55 x<hi rend="strikethrough:true; superscript"/>
                </hi>r<hi rend="strikethrough:true; fontSize:0.0; kerning:0;">2025</hi>
                <lb n="N011"/>2025 fl 27 1/2 x<hi rend="superscript">r</hi>
-               <lb n="N012"/>Dann ein von seiner Ehewirthin <rs type="person" key=", Personen ID=46921">Maria Clara</rs> untern - <choice>
+               <lb n="N012"/>Dann ein von seiner Ehewirthin <rs type="person" ref="#wkfm_46921">Maria Clara</rs> untern - <choice>
                   <expan/>
                   <abbr>Mart:</abbr>
                </choice> 738
@@ -2170,14 +2170,14 @@
                <lb n="N001"/>627
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46922">Mayrhofer Johann</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46922">Mayrhofer Johann</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46923">Johann Mayrhofer</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 583
+               <rs type="person" ref="#wkfm_46923">Johann Mayrhofer</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 583
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>Oblatorien und Avocatorien
       <lb n="N008"/>Fundi Ausweisung
-      <lb n="N009"/>Der <rs type="person" key=", Personen ID=46922">Mayrhofer</rs> hat zu Ausweisung seines Fundi die <choice>
+      <lb n="N009"/>Der <rs type="person" ref="#wkfm_46922">Mayrhofer</rs> hat zu Ausweisung seines Fundi die <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> inventur
@@ -2193,7 +2193,7 @@
                   <expan/>
                   <abbr>pr</abbr>
                </choice> 2372 fl 40 1/2 x<hi rend="superscript">r</hi>
-               <lb n="N012"/>Dann ein von seiner Ehewirthin <rs type="person" key=", Personen ID=46924">Elisabeth</rs> untern - <choice>
+               <lb n="N012"/>Dann ein von seiner Ehewirthin <rs type="person" ref="#wkfm_46924">Elisabeth</rs> untern - <choice>
                   <expan/>
                   <abbr>Mart:</abbr>
                </choice> 738
@@ -2220,10 +2220,10 @@
       <lb n="N002"/>628
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=46273">Merkhl Leopold</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46273">Merkhl Leopold</rs> burgerlicher Handlsmann
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46868">Leopold Merkhl</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 284
+               <rs type="person" ref="#wkfm_46868">Leopold Merkhl</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 284
       <lb n="N007"/>Procura und Firmae Trager
       <lb n="N008"/>Oblatorien und Avocatorien
       <lb n="N009"/>Fundi Ausweisung
@@ -2236,9 +2236,9 @@
       <lb n="N002"/>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Mitls Anbringen de ps 21<hi rend="strikethrough:true; superscript"/>
                </hi>ten
-      <lb n="N003"/>In obiger Erklährung sine dato N<hi rend="superscript">o</hi> 284 hat der <rs type="person" key=", Personen ID=46273">Merkhl</rs> mit dem 
+      <lb n="N003"/>In obiger Erklährung sine dato N<hi rend="superscript">o</hi> 284 hat der <rs type="person" ref="#wkfm_46273">Merkhl</rs> mit dem 
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=46271">Gilbert Anton Deschamps</rs> die firma <unclear>jedoch</unclear> separirter unter eines <unclear>jeden</unclear>
+               <rs type="person" ref="#wkfm_46271">Gilbert Anton Deschamps</rs> die firma <unclear>jedoch</unclear> separirter unter eines <unclear>jeden</unclear>
                <lb n="N005"/>Nahmen alß <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">
                   <unclear>gemene</unclear>
                </hi> sociis eingelegt
@@ -2246,8 +2246,8 @@
                <choice>
                   <expan/>
                   <abbr>Febr:</abbr>
-               </choice> 743 N<hi rend="superscript">o</hi> 2002 hat der <rs type="person" key=", Personen ID=46273">Merkhl</rs> ange-
-      <lb n="N007"/>zeiget das er seine Handlung seinem Schwiger-Sohn und Compagnon <rs type="person" key=", Personen ID=46271">Gilbert<lb n="N008"/>Anton Deschamps</rs> Vermög beygelegten orig: Contract dd<hi rend="superscript">to</hi> 19<hi rend="superscript">ten</hi> ej: N<hi rend="superscript">o</hi> 2003 <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">abgetretten</hi>
+               </choice> 743 N<hi rend="superscript">o</hi> 2002 hat der <rs type="person" ref="#wkfm_46273">Merkhl</rs> ange-
+      <lb n="N007"/>zeiget das er seine Handlung seinem Schwiger-Sohn und Compagnon <rs type="person" ref="#wkfm_46271">Gilbert<lb n="N008"/>Anton Deschamps</rs> Vermög beygelegten orig: Contract dd<hi rend="superscript">to</hi> 19<hi rend="superscript">ten</hi> ej: N<hi rend="superscript">o</hi> 2003 <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">abgetretten</hi>
                <lb n="N009"/>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Co</hi> die Handlung aberlassen und gänzlichen allein abgetretten habe.
       <lb n="N010"/>Heuraths Contract
@@ -2257,10 +2257,10 @@
                <lb n="N001"/>629
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=30195">Muth Anton</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_30195">Muth Anton</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46925">Antony Muth</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46925">Antony Muth</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Mart:</abbr>
@@ -2268,7 +2268,7 @@
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>Oblatorien und Avocatorien
       <lb n="N008"/>Fundi Ausweisung
-      <lb n="N009"/>Der <rs type="person" key=", Personen ID=30195">Muth</rs> hat zu ausweisung seines fundi das von seiner Ehewirthin <rs type="person" key=", Personen ID=46926">Eva<lb n="N010"/>Margarita</rs> untern 21<hi rend="superscript">ten</hi>
+      <lb n="N009"/>Der <rs type="person" ref="#wkfm_30195">Muth</rs> hat zu ausweisung seines fundi das von seiner Ehewirthin <rs type="person" ref="#wkfm_46926">Eva<lb n="N010"/>Margarita</rs> untern 21<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Febr:</abbr>
@@ -2299,14 +2299,14 @@
                <lb n="N001"/>630
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46927">May Franz Carl</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46927">May Franz Carl</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46928">Frantz Carl May</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 585
+               <rs type="person" ref="#wkfm_46928">Frantz Carl May</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 585
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>Oblatorien und Avocatorien
       <lb n="N008"/>Fundi Ausweisung
-      <lb n="N009"/>Der <rs type="person" key=", Personen ID=46927">May</rs> hat <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">zu</hi> seinen fundum mitls der Specification N<hi rend="superscript">o</hi> 1622 folgender
+      <lb n="N009"/>Der <rs type="person" ref="#wkfm_46927">May</rs> hat <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">zu</hi> seinen fundum mitls der Specification N<hi rend="superscript">o</hi> 1622 folgender
       <lb n="N010"/>massen ausgewisen, nemlich das er eigenthumlich besize
       <lb n="N011"/>an Vätterlichen Erbgutt 3200 fl
       <lb n="N012"/>an hievon a 7 <choice>
@@ -2335,14 +2335,14 @@
                <lb n="N001"/>631
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46729">Mayer Joseph</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46729">Mayer Joseph</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46728">Rebay und Mayer</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 586
+               <rs type="person" ref="#wkfm_46728">Rebay und Mayer</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 586
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46537">Mayer und Hakell</rs> laut Anbringen de ps: 19<hi rend="superscript">ten</hi> Junii 747 N<hi rend="superscript">o</hi> 2005
+               <rs type="person" ref="#wkfm_46537">Mayer und Hakell</rs> laut Anbringen de ps: 19<hi rend="superscript">ten</hi> Junii 747 N<hi rend="superscript">o</hi> 2005
       <lb n="N007"/>
-               <rs type="person" key=", Personen ID=46929">Joseph Mayer</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 593 welche derselbe mitls
+               <rs type="person" ref="#wkfm_46929">Joseph Mayer</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 593 welche derselbe mitls
       <lb n="N008"/>Anbringen de ps: 23<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
@@ -2351,15 +2351,15 @@
       <lb n="N009"/>Procura und Firmae Trager
       <lb n="N010"/>In obiger Erklährung <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">ist die</hi> sine dato N<hi rend="superscript">o</hi> 586 ist die <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">C</hi> Firma der Raggion
       <lb n="N011"/>
-               <rs type="person" key=", Personen ID=46728">Rebay und Mayer</rs> von beeden sociis <rs type="person" key=", Personen ID=46729">Joseph Mayer</rs> und <rs type="person" key=", Personen ID=29325">Johann Heinrich Rebay</rs> einge-
+               <rs type="person" ref="#wkfm_46728">Rebay und Mayer</rs> von beeden sociis <rs type="person" ref="#wkfm_46729">Joseph Mayer</rs> und <rs type="person" ref="#wkfm_29325">Johann Heinrich Rebay</rs> einge-
       <lb n="N012"/>leget worden
       <lb n="N013"/>In obigen Anbringen de ps: 19<hi rend="superscript">ten</hi> Junii 747 N<hi rend="superscript">o</hi> 2005 ist die Firma der Raggion
       <lb n="N014"/>
-               <rs type="person" key=", Personen ID=46537">Mayer und Hakell</rs> von beeden sociis <rs type="person" key=", Personen ID=46729">Joseph Mayer</rs> und <rs type="person" key=", Personen ID=46535">Franz Hakell</rs> ein-
+               <rs type="person" ref="#wkfm_46537">Mayer und Hakell</rs> von beeden sociis <rs type="person" ref="#wkfm_46729">Joseph Mayer</rs> und <rs type="person" ref="#wkfm_46535">Franz Hakell</rs> ein-
       <lb n="N015"/>geleget worden.
       <lb n="N016"/>Oblatorien und Avocatorien
       <lb n="N017"/>Fundi Ausweisung
-      <lb n="N018"/>Der <rs type="person" key=", Personen ID=46729">Mayer</rs> hat zu ausweisung seines Fundi die <choice>
+      <lb n="N018"/>Der <rs type="person" ref="#wkfm_46729">Mayer</rs> hat zu ausweisung seines Fundi die <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> Billanz dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
@@ -2380,11 +2380,11 @@
             <pb facs="#facs_92" n="92" xml:id="img_0092"/>
             <ab>
                <lb n="N001"/>Societaets Contract und Interessenten
-      <lb n="N002"/>Der <rs type="person" key=", Personen ID=46729">Mayer</rs> hat in obiger Erklährung sine dato N<hi rend="superscript">o</hi> 586 mit <rs type="person" key=", Personen ID=29325">Johann Heinrich Re-<lb n="N003"/>bay</rs> die societaets Firma <rs type="person" key=", Personen ID=46728">Rebay und Mayer</rs> eingeleget.
-      <lb n="N004"/>Mitls Anbringen de ps: 19<hi rend="superscript">ten</hi> Junii 747 N<hi rend="superscript">o</hi> 2005 hat der <rs type="person" key=", Personen ID=46729">Mayer</rs> angezeiget
-      <lb n="N005"/>daß er sich von dem <rs type="person" key=", Personen ID=29325">Rebay</rs> separiret und selbe hinaus bezahlet <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">habe</hi>, anbey sich
-      <lb n="N006"/>den <rs type="person" key=", Personen ID=46535">Franz Hakell</rs> mit 1<hi rend="superscript">ten</hi> Junii 747 associiret habe wie selber dann auch den
-      <lb n="N007"/>mit gedachten <rs type="person" key=", Personen ID=46535">Hakell</rs> untern 1<hi rend="superscript">ten</hi> Junii 747 geschlossen societaets contract N<hi rend="superscript">o</hi> 2004 in <choice>
+      <lb n="N002"/>Der <rs type="person" ref="#wkfm_46729">Mayer</rs> hat in obiger Erklährung sine dato N<hi rend="superscript">o</hi> 586 mit <rs type="person" ref="#wkfm_29325">Johann Heinrich Re-<lb n="N003"/>bay</rs> die societaets Firma <rs type="person" ref="#wkfm_46728">Rebay und Mayer</rs> eingeleget.
+      <lb n="N004"/>Mitls Anbringen de ps: 19<hi rend="superscript">ten</hi> Junii 747 N<hi rend="superscript">o</hi> 2005 hat der <rs type="person" ref="#wkfm_46729">Mayer</rs> angezeiget
+      <lb n="N005"/>daß er sich von dem <rs type="person" ref="#wkfm_29325">Rebay</rs> separiret und selbe hinaus bezahlet <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">habe</hi>, anbey sich
+      <lb n="N006"/>den <rs type="person" ref="#wkfm_46535">Franz Hakell</rs> mit 1<hi rend="superscript">ten</hi> Junii 747 associiret habe wie selber dann auch den
+      <lb n="N007"/>mit gedachten <rs type="person" ref="#wkfm_46535">Hakell</rs> untern 1<hi rend="superscript">ten</hi> Junii 747 geschlossen societaets contract N<hi rend="superscript">o</hi> 2004 in <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> eingele-
@@ -2396,19 +2396,19 @@
                <lb n="N010"/>ligen zu lassen schuldig seye, beede die Handlung beobachten, die Märke frequentiren, und unter der Raggion
       <lb n="N011"/>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Reba</hi>
-               <rs type="person" key=", Personen ID=46537">Mayer und Hakell</rs> die Firma führen, die Handlungs Unkosten gemeinsamlich bestritten, jedwedern nichts mehrer alß
+               <rs type="person" ref="#wkfm_46537">Mayer und Hakell</rs> die Firma führen, die Handlungs Unkosten gemeinsamlich bestritten, jedwedern nichts mehrer alß
       <lb n="N012"/>jährl: 600 fl à conto des Gewüns herausnehmen, alle Monath Cassa gemacht und Extract formiret, alle Jahr Billanz <unclear>gezohen</unclear>
                <lb n="N013"/>und der Gewün in gleiche theil zu gutten geschrieben werden, keiner ohne des andern Vorwissen in der Handlung etwas wichtiges
       <lb n="N014"/>unternehmen, Waaren beställen, Bürgschaft leisten, ausser dem negotio Wechselbrief ausstellen, als im widrigen der Schaden
       <lb n="N015"/>ihm allein zufallen würde, beede sich vor Ausborgen hütten, auch die Aufnehm und Abdankung deren bedienten und Jungen mit beeder
       <lb n="N016"/>Einwilligung beschehen, die Erben anbey die societaet durch die bestimmte zeit zu continuiren schuldig seyn, und falls einer oder der andre
-      <lb n="N017"/>nach Verflüssung der Zeit auszutretten gedenckete, 6 Monath vorhero die Anzeige machen, bey der Separation aber die Handlung dem <rs type="person" key=", Personen ID=46729">Mayer</rs>
+      <lb n="N017"/>nach Verflüssung der Zeit auszutretten gedenckete, 6 Monath vorhero die Anzeige machen, bey der Separation aber die Handlung dem <rs type="person" ref="#wkfm_46729">Mayer</rs>
                <lb n="N018"/>verbleiben und die Societaets zwistigkeiten ausser Gericht durch Handlungs Verständige Schidmänner entschiden werden sollen
       <lb n="N019"/>Mitls Anbringen de ps: 23<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Febr:</abbr>
-               </choice> 756 N<hi rend="superscript">o</hi> 594 hat der <rs type="person" key=", Personen ID=46729">Mayer</rs> angezeiget, das er sich von dem <rs type="person" key=", Personen ID=46535">Hakell</rs> separiret habe 
+               </choice> 756 N<hi rend="superscript">o</hi> 594 hat der <rs type="person" ref="#wkfm_46729">Mayer</rs> angezeiget, das er sich von dem <rs type="person" ref="#wkfm_46535">Hakell</rs> separiret habe 
       <lb n="N020"/>Heuraths Contract
       <lb n="N021"/>Anmerckungen</ab>
             <pb facs="#facs_93" n="93" xml:id="img_0093"/>
@@ -2416,7 +2416,7 @@
                <lb n="N001"/>632
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46930">Müllnitsch Veith Anton</rs> burgerlicher Tuchlauben Verwanter
+               <rs type="person" ref="#wkfm_46930">Müllnitsch Veith Anton</rs> burgerlicher Tuchlauben Verwanter
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>Procura und Firmae Trager
       <lb n="N006"/>Oblatorien und Avocatorien
@@ -2425,7 +2425,7 @@
             <ab>
                <lb n="N001"/>Societaets Contract und Interessenten
       <lb n="N002"/>Heuraths Contract
-      <lb n="N003"/>Mitls Anbringen de ps: 14<hi rend="superscript">ten</hi> Junii 745 N<hi rend="superscript">o</hi> 2198 hat der <rs type="person" key=", Personen ID=46930">Müllnitsch</rs> den mit der <rs type="person" key=", Personen ID=46931">Maria Anna Theresia<lb n="N004"/>Winklerin</rs> untern 5<hi rend="superscript">ten</hi>
+      <lb n="N003"/>Mitls Anbringen de ps: 14<hi rend="superscript">ten</hi> Junii 745 N<hi rend="superscript">o</hi> 2198 hat der <rs type="person" ref="#wkfm_46930">Müllnitsch</rs> den mit der <rs type="person" ref="#wkfm_46931">Maria Anna Theresia<lb n="N004"/>Winklerin</rs> untern 5<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>9br:</abbr>
@@ -2440,17 +2440,17 @@
                <lb n="N001"/>632
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46932">Müller Georg Christoph</rs> kay: könig: Niderlags Verwanter
+               <rs type="person" ref="#wkfm_46932">Müller Georg Christoph</rs> kay: könig: Niderlags Verwanter
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46933">Georg Christoph Müller</rs> laut oblatorien dd<hi rend="superscript">to</hi> 13<hi rend="superscript">ten</hi> Martii 748 N<hi rend="superscript">o</hi> 1131 welche derselbe mitls
+               <rs type="person" ref="#wkfm_46933">Georg Christoph Müller</rs> laut oblatorien dd<hi rend="superscript">to</hi> 13<hi rend="superscript">ten</hi> Martii 748 N<hi rend="superscript">o</hi> 1131 welche derselbe mitls
       <lb n="N006"/>Anbringen de ps: 1<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 749 N<hi rend="superscript">o</hi> 1132
       <lb n="N007"/>
-               <rs type="person" key=", Personen ID=46934">Georg Christoph Müller et Compagnie</rs> laut oblatorien dd<hi rend="superscript">to</hi> 1<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46934">Georg Christoph Müller et Compagnie</rs> laut oblatorien dd<hi rend="superscript">to</hi> 1<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Janu:</abbr>
@@ -2469,24 +2469,24 @@
                   <abbr>nro:</abbr>
                </choice> 596 1/2
       <lb n="N010"/>Procura und Firmae Trager
-      <lb n="N011"/>Mitls Anbringen de ps: 10<hi rend="superscript">ten</hi> Julii 750 N<hi rend="superscript">o</hi> 1037 hat der <rs type="person" key=", Personen ID=46932">Müller</rs> die seinem Cassier <rs type="person" key=", Personen ID=46935">Julius<lb n="N012"/>Fridrich Coith</rs>
+      <lb n="N011"/>Mitls Anbringen de ps: 10<hi rend="superscript">ten</hi> Julii 750 N<hi rend="superscript">o</hi> 1037 hat der <rs type="person" ref="#wkfm_46932">Müller</rs> die seinem Cassier <rs type="person" ref="#wkfm_46935">Julius<lb n="N012"/>Fridrich Coith</rs>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">ertheilte weg</hi> wehrend seiner Abwesenheit ertheilte <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> procura dd<hi rend="superscript">to</hi> 10<hi rend="superscript">ten</hi>
-               <lb n="N013"/>Julii 750 mit beygerukter Firma des <rs type="person" key=", Personen ID=46935">Coith</rs> N<hi rend="superscript">o</hi> 1036 eingeleget
+               <lb n="N013"/>Julii 750 mit beygerukter Firma des <rs type="person" ref="#wkfm_46935">Coith</rs> N<hi rend="superscript">o</hi> 1036 eingeleget
       <lb n="N014"/>In obigen oblatorien dd<hi rend="superscript">to</hi> 1<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Janu:</abbr>
-               </choice> 756 N<hi rend="superscript">o</hi> 1133 ist die Firma der Raggion <rs type="person" key=", Personen ID=46934">GeorChristoph<lb n="N015"/>Müller et <choice>
+               </choice> 756 N<hi rend="superscript">o</hi> 1133 ist die Firma der Raggion <rs type="person" ref="#wkfm_46934">GeorChristoph<lb n="N015"/>Müller et <choice>
                      <expan/>
                      <abbr>Compag:</abbr>
                   </choice>
-               </rs> von beeden sociis <rs type="person" key=", Personen ID=46932">Georg Christoph Müller</rs> und <rs type="person" key=", Personen ID=46935">Julius Fridrich Coith</rs>
+               </rs> von beeden sociis <rs type="person" ref="#wkfm_46932">Georg Christoph Müller</rs> und <rs type="person" ref="#wkfm_46935">Julius Fridrich Coith</rs>
                <lb n="N016"/>kundgemacht und eingeleget worden
       <lb n="N017"/>Oblatorien und Avocatorien
-      <lb n="N018"/>Der <rs type="person" key=", Personen ID=46932">Müller</rs> hat seine oblatorien untern 13<hi rend="superscript">ten</hi>
+      <lb n="N018"/>Der <rs type="person" ref="#wkfm_46932">Müller</rs> hat seine oblatorien untern 13<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Mart:</abbr>
@@ -2494,13 +2494,13 @@
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> einge-
-      <lb n="N019"/>leget, daß sein Schwigervatter <rs type="person" key=", Personen ID=9287">Daniel Wohlgemuth</rs> seine Handlung und Niderlagsfreyheiten ihm <rs type="person" key=", Personen ID=46932">Müller</rs>
+      <lb n="N019"/>leget, daß sein Schwigervatter <rs type="person" ref="#wkfm_9287">Daniel Wohlgemuth</rs> seine Handlung und Niderlagsfreyheiten ihm <rs type="person" ref="#wkfm_46932">Müller</rs>
                <lb n="N020"/>übertragen habe, das er möglichst beflissen sein werde, die Wohlgemuth: activa einzubringen und <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">mit</hi>
-               <lb n="N021"/>die Wohlgemuth: Creditores nach denen dem <rs type="person" key=", Personen ID=9287">Wohlgemuth</rs> meistentheils eingestanden terminen abzuführen
-      <lb n="N022"/>die von ihm <rs type="person" key=", Personen ID=46932">Müller</rs> bestallende Waaren könten zu seiner disposition an <rs type="person" key=", Personen ID=29745">Christian Hößlin</rs> nacher
+               <lb n="N021"/>die Wohlgemuth: Creditores nach denen dem <rs type="person" ref="#wkfm_9287">Wohlgemuth</rs> meistentheils eingestanden terminen abzuführen
+      <lb n="N022"/>die von ihm <rs type="person" ref="#wkfm_46932">Müller</rs> bestallende Waaren könten zu seiner disposition an <rs type="person" ref="#wkfm_29745">Christian Hößlin</rs> nacher
       <lb n="N023"/>Augspurg nebst dem netto Gewücht ubersendet werden, bey Verfallheit werde er alle paratualitaet leisten.
       <lb n="N024"/>Die Raggion <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Mülle</hi>
-               <rs type="person" key=", Personen ID=46934">Georg Christoph Müller et <choice>
+               <rs type="person" ref="#wkfm_46934">Georg Christoph Müller et <choice>
                      <expan/>
                      <abbr>Compag:</abbr>
                   </choice>
@@ -2512,10 +2512,10 @@
       <lb n="N025"/>N<hi rend="superscript">o</hi> 1133 in <choice>
                   <expan/>
                   <abbr>orig:</abbr>
-               </choice> kund gemacht, daß der <rs type="person" key=", Personen ID=46932">Müller</rs> sein negotium künftig in Gesellschaft des <rs type="person" key=", Personen ID=46935">Julius<lb n="N026"/>Fridrich Coith</rs> unter der Dita <rs type="person" key=", Personen ID=46934">Georg Christoph Müller et Compagnie</rs> unter beederseitigen impegno
+               </choice> kund gemacht, daß der <rs type="person" ref="#wkfm_46932">Müller</rs> sein negotium künftig in Gesellschaft des <rs type="person" ref="#wkfm_46935">Julius<lb n="N026"/>Fridrich Coith</rs> unter der Dita <rs type="person" ref="#wkfm_46934">Georg Christoph Müller et Compagnie</rs> unter beederseitigen impegno
       <lb n="N027"/>und Firmirung wie solche beygeruket fortführen werde
       <lb n="N028"/>Fundi Ausweisung
-      <lb n="N029"/>Der <rs type="person" key=", Personen ID=46932">Müller</rs> hat zu Ausweisung seines Fundi den Entwurf seines ult: <choice>
+      <lb n="N029"/>Der <rs type="person" ref="#wkfm_46932">Müller</rs> hat zu Ausweisung seines Fundi den Entwurf seines ult: <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 748 gehabten
@@ -2534,7 +2534,7 @@
                   <expan/>
                   <abbr>pr</abbr>
                </choice> 14588 fl 40 x<hi rend="superscript">r</hi>
-               <lb n="N033"/>zu Completirung des übrigen hat der <rs type="person" key=", Personen ID=9287">Daniel Wohlgemut</rs> das <choice>
+               <lb n="N033"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm_9287">Daniel Wohlgemut</rs> das <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> Cautions-
@@ -2559,7 +2559,7 @@
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 749 N<hi rend="superscript">o</hi> 1132 und oblatorien dd<hi rend="superscript">to</hi> 13<hi rend="superscript">ten</hi> May 748 N<hi rend="superscript">o</hi> 1131
-      <lb n="N003"/>hat der <rs type="person" key=", Personen ID=46932">Müller</rs> angezeiget und kund gemacht, daß der <rs type="person" key=", Personen ID=9287">Daniel Wohlgemueth</rs> sein
+      <lb n="N003"/>hat der <rs type="person" ref="#wkfm_46932">Müller</rs> angezeiget und kund gemacht, daß der <rs type="person" ref="#wkfm_9287">Daniel Wohlgemueth</rs> sein
       <lb n="N004"/>Schwigervatter ihm seine Handlung und Niderlagsfreyheit überlassen habe
       <lb n="N005"/>Mitls oblatorien dd<hi rend="superscript">to</hi> 1<hi rend="superscript">ten</hi>
                <choice>
@@ -2571,11 +2571,11 @@
                   <abbr>Xbr:</abbr>
                </choice> 755 N<hi rend="superscript">o</hi>
                <unclear>2010</unclear>
-               <lb n="N006"/>hat der <rs type="person" key=", Personen ID=46932">Müller</rs>
+               <lb n="N006"/>hat der <rs type="person" ref="#wkfm_46932">Müller</rs>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">angezeiget</hi> kund gemacht und angezeiget, daß er künftiglich sein
-      <lb n="N007"/>negotium in Gesellschaft des <rs type="person" key=", Personen ID=46935">Julius Fridrich Coith</rs> unter beederseitigen Impegno und
-      <lb n="N008"/>Firmirung unter der Dita <rs type="person" key=", Personen ID=46934">Georg Christoph Müller et Compagnie</rs> fortführen
-      <lb n="N009"/>werde anbey dem mit dem <rs type="person" key=", Personen ID=46935">Julius Fridrich Coith</rs> untern 1<hi rend="superscript">ten</hi>
+      <lb n="N007"/>negotium in Gesellschaft des <rs type="person" ref="#wkfm_46935">Julius Fridrich Coith</rs> unter beederseitigen Impegno und
+      <lb n="N008"/>Firmirung unter der Dita <rs type="person" ref="#wkfm_46934">Georg Christoph Müller et Compagnie</rs> fortführen
+      <lb n="N009"/>werde anbey dem mit dem <rs type="person" ref="#wkfm_46935">Julius Fridrich Coith</rs> untern 1<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
@@ -2583,8 +2583,8 @@
       <lb n="N010"/>societaets Contract N<hi rend="superscript">o</hi> 2012 in <choice>
                   <expan/>
                   <abbr>orig:</abbr>
-               </choice> eingeleget kraft welchen der <rs type="person" key=", Personen ID=46935">Coith</rs> 4000 fl eingeleget <unclear>hat</unclear>
-               <lb n="N011"/>dieses Capital sowohl als <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">das</hi> jenes des <rs type="person" key=", Personen ID=46932">Müllers</rs> und seiner Ehewirthin jährlichen mit 5 <choice>
+               </choice> eingeleget kraft welchen der <rs type="person" ref="#wkfm_46935">Coith</rs> 4000 fl eingeleget <unclear>hat</unclear>
+               <lb n="N011"/>dieses Capital sowohl als <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">das</hi> jenes des <rs type="person" ref="#wkfm_46932">Müllers</rs> und seiner Ehewirthin jährlichen mit 5 <choice>
                   <expan/>
                   <abbr>pC<hi rend="superscript">to</hi>
                   </abbr>
@@ -2595,7 +2595,7 @@
                      <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">intee</hi>
                   </abbr>
                </choice> verinte-
-      <lb n="N012"/>ressiret und ein solches jedwedern theil zu gutten geschrieben werden, der <rs type="person" key=", Personen ID=46935">Coith</rs> von 1<hi rend="superscript">ten</hi>
+      <lb n="N012"/>ressiret und ein solches jedwedern theil zu gutten geschrieben werden, der <rs type="person" ref="#wkfm_46935">Coith</rs> von 1<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
@@ -2604,13 +2604,13 @@
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
-               </choice> 755 der <rs type="person" key=", Personen ID=46935">Coith</rs> keinen theil nehmen, die hievon <unclear>etwa</unclear>
+               </choice> 755 der <rs type="person" ref="#wkfm_46935">Coith</rs> keinen theil nehmen, die hievon <unclear>etwa</unclear>
                <lb n="N014"/>
-               <unclear>schlecht</unclear> werdende dem <rs type="person" key=", Personen ID=46932">Müller</rs> an seinen Capital abgeschrieben und von jenen welche biß ult: Julii 756 nicht eingehen dem <rs type="person" key=", Personen ID=46932">Müller</rs> kein <choice>
+               <unclear>schlecht</unclear> werdende dem <rs type="person" ref="#wkfm_46932">Müller</rs> an seinen Capital abgeschrieben und von jenen welche biß ult: Julii 756 nicht eingehen dem <rs type="person" ref="#wkfm_46932">Müller</rs> kein <choice>
                   <expan/>
                   <abbr>intee</abbr>
                </choice> zuzu<gap/>
-               <lb n="N015"/>geschrieben werden, der <rs type="person" key=", Personen ID=46932">Müller</rs> die Kost für die Bedienten und Hausknechte durch 3 Jahr allein bestritten die Handlungsspesen aber in <unclear>Gem<gap/>
+               <lb n="N015"/>geschrieben werden, der <rs type="person" ref="#wkfm_46932">Müller</rs> die Kost für die Bedienten und Hausknechte durch 3 Jahr allein bestritten die Handlungsspesen aber in <unclear>Gem<gap/>
                </unclear>
                <lb n="N016"/>getragen, was aber jeder zu seiner Unterhaltung bedarf selben à conto geschrieben, bey 10 <choice>
                   <expan/>
@@ -2618,21 +2618,21 @@
                   </abbr>
                </choice> Pönfall keiner einige Gelder ausser der 
       <lb n="N017"/>Handlung verwänden ohne des andern Wissen Gelder aufnehmen, alß ihm widrigen dem darleiher seine satisfaction aus der Handlung sondern vor
-      <lb n="N018"/>dem <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">darleiher</hi> Aufnehmer allein geliefert werden, dann ausserdeme dem <rs type="person" key=", Personen ID=46932">Müller</rs> allein Vorbehaltenden Weinnegotio alles zum gemeinsamen
+      <lb n="N018"/>dem <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">darleiher</hi> Aufnehmer allein geliefert werden, dann ausserdeme dem <rs type="person" ref="#wkfm_46932">Müller</rs> allein Vorbehaltenden Weinnegotio alles zum gemeinsamen
       <lb n="N019"/>Nuzen geschehen, In beeder Gegenwarth alles mit gemeinsamblichen Rath geschehen, alle Jahr mit ult: Julii ein Inventur und Billanz abgefasset
       <lb n="N020"/>falß ein oder der andere eine Separatiion verlangete, ein Jahr vorhero die aufkündigung per notarium gemacht und sohin der
       <lb n="N021"/>Heuraths Contract
       <lb n="N022"/>Anmerckungen
       <lb n="N023"/>
-               <rs type="person" key=", Personen ID=46935">Coith</rs> mit Waaren, baaren und activen nach maß seines Capitals hindanngefertiget werde, falß
-      <lb n="N024"/>bey diser Abtheilung eines Zwistigkeit entstunde von dem <rs type="person" key=", Personen ID=46935">Coith</rs> nach vorgehende ab und Eintheilung das
+               <rs type="person" ref="#wkfm_46935">Coith</rs> mit Waaren, baaren und activen nach maß seines Capitals hindanngefertiget werde, falß
+      <lb n="N024"/>bey diser Abtheilung eines Zwistigkeit entstunde von dem <rs type="person" ref="#wkfm_46935">Coith</rs> nach vorgehende ab und Eintheilung das
       <lb n="N025"/>Loos gezohen <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">werden</hi> demselben aber die nöthige Einsicht und Extrahirung deren Büchern <unclear>aufnahme</unclear>
-               <lb n="N026"/>verstattet worden, bey ableben des <rs type="person" key=", Personen ID=46932">Müller</rs> solle dessen Ehewirthin bevorstehen die Separation zu machen
-      <lb n="N027"/>oder die Societaet mit zuzühung eines Verständigen oder mitls überlassung an den <rs type="person" key=", Personen ID=46935">Coith</rs> gegen bürgschaft forzusezen
-      <lb n="N028"/>bey ableiben des <rs type="person" key=", Personen ID=46935">Coith</rs> aber seine Erben gleich demselben hindangefertiget werden solle.
-      <lb n="N029"/>NB: Uiber den untern 2 Juni 792 angezeigten todfall der <rs type="person" key=", Personen ID=46936">Christoph<lb n="N030"/>
+               <lb n="N026"/>verstattet worden, bey ableben des <rs type="person" ref="#wkfm_46932">Müller</rs> solle dessen Ehewirthin bevorstehen die Separation zu machen
+      <lb n="N027"/>oder die Societaet mit zuzühung eines Verständigen oder mitls überlassung an den <rs type="person" ref="#wkfm_46935">Coith</rs> gegen bürgschaft forzusezen
+      <lb n="N028"/>bey ableiben des <rs type="person" ref="#wkfm_46935">Coith</rs> aber seine Erben gleich demselben hindangefertiget werden solle.
+      <lb n="N029"/>NB: Uiber den untern 2 Juni 792 angezeigten todfall der <rs type="person" ref="#wkfm_46936">Christoph<lb n="N030"/>
                </rs>
-               <rs type="person" key=", Personen ID=46936">Müller <choice>
+               <rs type="person" ref="#wkfm_46936">Müller <choice>
                      <expan/>
                      <abbr>seel:</abbr>
                   </choice> Wittib<lb n="N031"/>
@@ -2644,7 +2644,7 @@
       <lb n="N002"/>633
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=46937">Mayr Dominicus</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46937">Mayr Dominicus</rs> burgerlicher Handlsmann
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>Oblatorien und Avocatorien
@@ -2656,21 +2656,21 @@
                <choice>
                   <expan/>
                   <abbr>9br:</abbr>
-               </choice> N<hi rend="superscript">o</hi> 2008 hat der <rs type="person" key=", Personen ID=46937">Mayr</rs> angezeiget, daß
+               </choice> N<hi rend="superscript">o</hi> 2008 hat der <rs type="person" ref="#wkfm_46937">Mayr</rs> angezeiget, daß
       <lb n="N003"/>
                <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">ihn</hi> durch allerhochste Hofresolution dd<hi rend="superscript">to</hi> 14<hi rend="superscript">ten</hi> et intimato 28<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
                </choice> 749 N<hi rend="superscript">o</hi> 2006 in
-      <lb n="N004"/>orig: verwilliget worden seye, das die <rs type="person" key=", Personen ID=46938">Anna Maria Pergmanin</rs> ihn <rs type="person" key=", Personen ID=46937">Mayr</rs> als 
+      <lb n="N004"/>orig: verwilliget worden seye, das die <rs type="person" ref="#wkfm_46938">Anna Maria Pergmanin</rs> ihn <rs type="person" ref="#wkfm_46937">Mayr</rs> als 
       <lb n="N005"/>offentlichen socium in ihre handlung nehmen möge
       <lb n="N006"/>Heuraths Contract
       <lb n="N007"/>
                <choice>
                   <expan/>
                   <abbr>Ao</abbr>
-               </choice> 772 hat der <rs type="person" key=", Personen ID=46937">Dominicus Mayer</rs> seinen mit der <rs type="person" key=", Personen ID=46939">Eva Rosina<lb n="N008"/>Duxin</rs> untern 27<hi rend="superscript">ten</hi>
+               </choice> 772 hat der <rs type="person" ref="#wkfm_46937">Dominicus Mayer</rs> seinen mit der <rs type="person" ref="#wkfm_46939">Eva Rosina<lb n="N008"/>Duxin</rs> untern 27<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Xbr:</abbr>
@@ -2690,10 +2690,10 @@
                <lb n="N001"/>639
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46940">Mülner Johann Michäl</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46940">Mülner Johann Michäl</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46941">Johann Michäel Mülner</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 589 welche derselbe mitls
+               <rs type="person" ref="#wkfm_46941">Johann Michäel Mülner</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 589 welche derselbe mitls
       <lb n="N006"/>anbringen de ps: 7<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
@@ -2702,14 +2702,14 @@
       <lb n="N007"/>Procura und Firmae Trager
       <lb n="N008"/>Oblatorien und Avocatorien
       <lb n="N009"/>Fundi Ausweisung
-      <lb n="N010"/>Der <rs type="person" key=", Personen ID=46940">Müller</rs> hat seinen fundum mitls der Specification N<hi rend="superscript">o</hi> 1631 folgendermassen
-      <lb n="N011"/>ausgewisen, nemlich das er Vermög attestati von <rs type="person" key=", Personen ID=30064">Joseph Praunschmidt</rs> dd<hi rend="superscript">to</hi> 2<hi rend="superscript">ten</hi>
+      <lb n="N010"/>Der <rs type="person" ref="#wkfm_46940">Müller</rs> hat seinen fundum mitls der Specification N<hi rend="superscript">o</hi> 1631 folgendermassen
+      <lb n="N011"/>ausgewisen, nemlich das er Vermög attestati von <rs type="person" ref="#wkfm_30064">Joseph Praunschmidt</rs> dd<hi rend="superscript">to</hi> 2<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Febr:</abbr>
                </choice>
                <lb n="N012"/>750 N<hi rend="superscript">o</hi> 1632 an baaren, Grund-Stüken, <unclear>aktien</unclear> und Effecten eigenthumlich besize 4010 fl
-      <lb n="N013"/>zu Completirung des übrigen hat der <rs type="person" key=", Personen ID=22485">Matthias Piller</rs> das <choice>
+      <lb n="N013"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm_22485">Matthias Piller</rs> das <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> Cautions Instr-
@@ -2727,7 +2727,7 @@
                   <abbr>Sa</abbr>
                </choice> 8000 fl
       <lb n="N016"/>Herbey befinden sich 2 Anbringen wegen Annehmung des Supl: N<hi rend="superscript">o</hi> 1634 et 1635
-      <lb n="N017"/>Untern 4<hi rend="superscript">ten</hi> Novembris 766 hat der <rs type="person" key=", Personen ID=46940">Joh: Michael Müllner</rs> seinen Handlungs fundum
+      <lb n="N017"/>Untern 4<hi rend="superscript">ten</hi> Novembris 766 hat der <rs type="person" ref="#wkfm_46940">Joh: Michael Müllner</rs> seinen Handlungs fundum
       <lb n="N018"/>aus eigenen Vermögen vollkommen ausgewiesen und ist ihm das sub <choice>
                   <expan/>
                   <abbr>nro</abbr>
@@ -2752,9 +2752,9 @@
                <choice>
                   <expan/>
                   <abbr>7br:</abbr>
-               </choice> 753 N<hi rend="superscript">o</hi> 590 hat der <rs type="person" key=", Personen ID=46940">Müller</rs> dem mit der
+               </choice> 753 N<hi rend="superscript">o</hi> 590 hat der <rs type="person" ref="#wkfm_46940">Müller</rs> dem mit der
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=46844">Maria Anna Verwitt: Pillerin</rs> untern 15<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46844">Maria Anna Verwitt: Pillerin</rs> untern 15<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Febr:</abbr>
@@ -2772,10 +2772,10 @@
                <lb n="N001"/>635
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46784">Mayer Michäl Augustin</rs> burgerlichen Tuchlaubens Verwanter
+               <rs type="person" ref="#wkfm_46784">Mayer Michäl Augustin</rs> burgerlichen Tuchlaubens Verwanter
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46783">Anton Lang et <choice>
+               <rs type="person" ref="#wkfm_46783">Anton Lang et <choice>
                      <expan/>
                      <abbr>Compag:</abbr>
                   </choice>
@@ -2783,8 +2783,8 @@
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>Oblatorien und Avocatorien
       <lb n="N008"/>Fundi Ausweisung
-      <lb n="N009"/>Der <rs type="person" key=", Personen ID=46784">Mayer</rs> hat als socius apertus des <rs type="person" key=", Personen ID=8089">Anton Lang</rs> zu ausweisung seines Fundi
-      <lb n="N010"/>das von dem <rs type="person" key=", Personen ID=8089">Anton Lang</rs> untern 5<hi rend="superscript">ten</hi> Junii 751 gefertigte <choice>
+      <lb n="N009"/>Der <rs type="person" ref="#wkfm_46784">Mayer</rs> hat als socius apertus des <rs type="person" ref="#wkfm_8089">Anton Lang</rs> zu ausweisung seines Fundi
+      <lb n="N010"/>das von dem <rs type="person" ref="#wkfm_8089">Anton Lang</rs> untern 5<hi rend="superscript">ten</hi> Junii 751 gefertigte <choice>
                   <expan/>
                   <abbr>orig.</abbr>
                </choice> Cautions Instrument N<hi rend="superscript">o</hi> 1636
@@ -2795,8 +2795,8 @@
             <pb facs="#facs_102" n="102" xml:id="img_0102"/>
             <ab>
                <lb n="N001"/>Societaets Contract und Interessenten
-      <lb n="N002"/>Mitls Anbringen de ps: 14<hi rend="superscript">ten</hi> Junii 751 N<hi rend="superscript">o</hi> 2011 hat der <rs type="person" key=", Personen ID=46784">Mayer</rs> angezeiget, das er
-      <lb n="N003"/>mit dem <rs type="person" key=", Personen ID=8089">Anton Lang</rs> in eine offentliche societaet getretten seye, auch den zwischen ihnen
+      <lb n="N002"/>Mitls Anbringen de ps: 14<hi rend="superscript">ten</hi> Junii 751 N<hi rend="superscript">o</hi> 2011 hat der <rs type="person" ref="#wkfm_46784">Mayer</rs> angezeiget, das er
+      <lb n="N003"/>mit dem <rs type="person" ref="#wkfm_8089">Anton Lang</rs> in eine offentliche societaet getretten seye, auch den zwischen ihnen
       <lb n="N004"/>untern 5<hi rend="superscript">ten</hi> Junii 751 geschlossenen societaets Contract in <choice>
                   <expan/>
                   <abbr>orig:</abbr>
@@ -2805,20 +2805,20 @@
                <choice>
                   <expan/>
                   <abbr>Janu:</abbr>
-               </choice> 751 biß deto 761 die raggion aber <rs type="person" key=", Personen ID=46783">Anton Lang<lb n="N006"/>et <choice>
+               </choice> 751 biß deto 761 die raggion aber <rs type="person" ref="#wkfm_46783">Anton Lang<lb n="N006"/>et <choice>
                      <expan/>
                      <abbr>Compag:</abbr>
                   </choice>
-               </rs> festgestellet, dem <rs type="person" key=", Personen ID=46784">Mayer</rs> jedoch vorbehalten wurden, daß er im fall er
+               </rs> festgestellet, dem <rs type="person" ref="#wkfm_46784">Mayer</rs> jedoch vorbehalten wurden, daß er im fall er
       <lb n="N007"/>sich ohne Verlegung des eingelegten revers zu stabiliren Gelegenheit hatte, <unclear>auch</unclear> noch 6 Jahren
       <lb n="N008"/>gegen vorgehend 1 Jähriger Aufkündung austretten könne, falß die Aufkündung
       <lb n="N009"/>nach verflossenen 10 Jahren nicht 1 Jahr vorhero beschehete, solle die Societaet auf andere
-      <lb n="N010"/>6 Jahr verstanden seyn zumahlen der <rs type="person" key=", Personen ID=46784">Mayer</rs> keine Einlag leistet, er die handlung in 
+      <lb n="N010"/>6 Jahr verstanden seyn zumahlen der <rs type="person" ref="#wkfm_46784">Mayer</rs> keine Einlag leistet, er die handlung in 
       <lb n="N011"/>allem besorgen, alle Jahr ein Inventur und Billanz errüchten und für seinen theil gegen bey-
       <lb n="N012"/>tragung 1/4 gl des betrags für Gwölbzinns, bezahlung und kostgeldern der bedienten und
       <lb n="N013"/>Jungen, nebst der Kost und Wohnung 1/4 tl Nuzung zu genüsen haben, falß der Lang vor
-      <lb n="N014"/>Verflüssung denen societaets Jahren sturbe, solle dessen Sohn <rs type="person" key=", Personen ID=46785">Jacob</rs> die societaet unter der
-      <lb n="N015"/>raggion <rs type="person" key=", Personen ID=46783">Anton Lang et <choice>
+      <lb n="N014"/>Verflüssung denen societaets Jahren sturbe, solle dessen Sohn <rs type="person" ref="#wkfm_46785">Jacob</rs> die societaet unter der
+      <lb n="N015"/>raggion <rs type="person" ref="#wkfm_46783">Anton Lang et <choice>
                      <expan/>
                      <abbr>Compag:</abbr>
                   </choice>
@@ -2826,8 +2826,8 @@
                <choice>
                   <expan/>
                   <abbr/>
-               </choice> zu continuiren der <rs type="person" key=", Personen ID=46784">Mayer</rs> aber die Halbscheid <unclear>einzulegen</unclear> die übrigen
-      <lb n="N016"/>Erben ihren theil in leidentlichen terminen zu empfangen, die Nuzung aber zwischen <rs type="person" key=", Personen ID=46785">Jacob Lang</rs> und <rs type="person" key=", Personen ID=46784">Mayr</rs>
+               </choice> zu continuiren der <rs type="person" ref="#wkfm_46784">Mayer</rs> aber die Halbscheid <unclear>einzulegen</unclear> die übrigen
+      <lb n="N016"/>Erben ihren theil in leidentlichen terminen zu empfangen, die Nuzung aber zwischen <rs type="person" ref="#wkfm_46785">Jacob Lang</rs> und <rs type="person" ref="#wkfm_46784">Mayr</rs>
                <lb n="N017"/>zu gleichen theilen seyn bey <unclear>ereignenden</unclear> todfall solle der Stand der Handlung durch zwey verständige <unclear>mercatori</unclear>
                <lb n="N018"/>
                <gap/>
@@ -2842,15 +2842,15 @@
                <lb n="N001"/>636
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46942">Munier Joseph</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46942">Munier Joseph</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46943">Joseph Munier</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 591 welche derselbe mitls
+               <rs type="person" ref="#wkfm_46943">Joseph Munier</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 591 welche derselbe mitls
       <lb n="N006"/>Anbringen de ps: 11<hi rend="superscript">ten</hi> Junii 754 N<hi rend="superscript">o</hi> 592 eingeleget
       <lb n="N007"/>Procura und Firmae Trager
       <lb n="N008"/>Oblatorien und Avocatorien
       <lb n="N009"/>Fundi Ausweisung
-      <lb n="N010"/>Der <rs type="person" key=", Personen ID=46942">Munier</rs> hat zu ausweisung seines handlungsfundi den Extract
+      <lb n="N010"/>Der <rs type="person" ref="#wkfm_46942">Munier</rs> hat zu ausweisung seines handlungsfundi den Extract
       <lb n="N011"/>aus seines Vatters untern 18<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
@@ -2867,7 +2867,7 @@
                   <expan/>
                   <abbr>Xbr:</abbr>
                </choice>
-               <lb n="N015"/>753 angesteltes attestatum N<hi rend="superscript">o</hi> 1638 das er <rs type="person" key=", Personen ID=46942">Munier</rs> mehr dann den Institut-
+               <lb n="N015"/>753 angesteltes attestatum N<hi rend="superscript">o</hi> 1638 das er <rs type="person" ref="#wkfm_46942">Munier</rs> mehr dann den Institut-
       <lb n="N016"/>mäßigen Handlungs Fundum <choice>
                   <expan/>
                   <abbr>pr</abbr>
@@ -2882,7 +2882,7 @@
                <lb n="N001"/>637
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46944">Mäzinger Andre Fridrich</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46944">Mäzinger Andre Fridrich</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
                <choice>
@@ -2895,9 +2895,9 @@
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>Oblatorien und Avocatorien
       <lb n="N008"/>Fundi Ausweisung
-      <lb n="N009"/>Der <rs type="person" key=", Personen ID=46944">Mazinger</rs> hat zu ausweisung seines Fundi ein von seinem Vattern
+      <lb n="N009"/>Der <rs type="person" ref="#wkfm_46944">Mazinger</rs> hat zu ausweisung seines Fundi ein von seinem Vattern
       <lb n="N010"/>
-               <rs type="person" key=", Personen ID=9008">Andre Mäzinger</rs> untern 27<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_9008">Andre Mäzinger</rs> untern 27<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Febr:</abbr>
@@ -2917,7 +2917,7 @@
                <choice>
                   <expan/>
                   <abbr>Ao</abbr>
-               </choice> 765 hat der <rs type="person" key=", Personen ID=46944">Andreas Friderich Mazinger</rs> seinen mit <rs type="person" key=", Personen ID=46945">Anna Maria<lb n="N004"/>Serponte de Varena</rs> untern 15<hi rend="superscript">ten</hi> Septembris 755 <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">76</hi> errichteten Heuraths
+               </choice> 765 hat der <rs type="person" ref="#wkfm_46944">Andreas Friderich Mazinger</rs> seinen mit <rs type="person" ref="#wkfm_46945">Anna Maria<lb n="N004"/>Serponte de Varena</rs> untern 15<hi rend="superscript">ten</hi> Septembris 755 <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">76</hi> errichteten Heuraths
       <lb n="N005"/>Contract eingeleget, Worinnen Heurathgut 1500 und Widerlag
       <lb n="N006"/>3000 fl sosann das ererbend- und erwerbende Vermögen auf ein
       <lb n="N007"/>gleiches Guth stipuliret worden. ist in denen Heuraths briefen
@@ -2931,20 +2931,20 @@
                <lb n="N001"/>638
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46946">Mäzinger Joseph</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46946">Mäzinger Joseph</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
                <choice>
                   <expan/>
                   <abbr>Ao</abbr>
-               </choice> 765 hat der <rs type="person" key=", Personen ID=46946">Joseph Mazinger</rs> seiner firma eingelegt sub <choice>
+               </choice> 765 hat der <rs type="person" ref="#wkfm_46946">Joseph Mazinger</rs> seiner firma eingelegt sub <choice>
                   <expan/>
                   <abbr>nro</abbr>
                </choice> 598
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>Oblatorien und Avocatorien
       <lb n="N008"/>Fundi Ausweisung
-      <lb n="N009"/>Der <rs type="person" key=", Personen ID=46946">Mäzinger</rs> hat zu Ausweisung seines Fundi das von seinem Vatter <rs type="person" key=", Personen ID=9008">Andre<lb n="N010"/>Mäzinger</rs> untern 10<hi rend="superscript">ten</hi>
+      <lb n="N009"/>Der <rs type="person" ref="#wkfm_46946">Mäzinger</rs> hat zu Ausweisung seines Fundi das von seinem Vatter <rs type="person" ref="#wkfm_9008">Andre<lb n="N010"/>Mäzinger</rs> untern 10<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Xbr:</abbr>
@@ -2964,7 +2964,7 @@
                <choice>
                   <expan/>
                   <abbr>Ao</abbr>
-               </choice> 765 hat der <rs type="person" key=", Personen ID=46946">Joseph Mazinger</rs> seinen mit der <rs type="person" key=", Personen ID=46947">Maria Anna<lb n="N004"/>Steiningerin</rs> untern 22<hi rend="superscript">ten</hi> July 755 errichteten Heurats Contract
+               </choice> 765 hat der <rs type="person" ref="#wkfm_46946">Joseph Mazinger</rs> seinen mit der <rs type="person" ref="#wkfm_46947">Maria Anna<lb n="N004"/>Steiningerin</rs> untern 22<hi rend="superscript">ten</hi> July 755 errichteten Heurats Contract
       <lb n="N005"/>sub <choice>
                   <expan/>
                   <abbr>nro:</abbr>

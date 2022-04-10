@@ -193,10 +193,10 @@
                <lb n="N003"/>908
       <lb n="N004"/>Nahmen und Class
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=7607">Zacher Johann</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_7607">Zacher Johann</rs> burgerlicher Handlsmann
       <lb n="N006"/>Firma ad Raggion
       <lb n="N007"/>
-               <rs type="person" key=", Personen ID=46602">Johann Zacher</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46602">Johann Zacher</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -211,7 +211,7 @@
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 840 hat sich der <rs type="person" key=", Personen ID=7607">Zacher</rs>
+               </choice> 725 N<hi rend="superscript">o</hi> 840 hat sich der <rs type="person" ref="#wkfm_7607">Zacher</rs>
                <lb n="N003"/>geäusseret, daß er keinen Compagnon habe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
@@ -221,10 +221,10 @@
       <lb n="N002"/>909
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=10090">Zehetner Albert</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_10090">Zehetner Albert</rs> burgerlicher Handlsmann
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=9739">Albert Zehetner</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_9739">Albert Zehetner</rs> laut Erklährung dd<hi rend="superscript">to</hi> 16<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
@@ -239,9 +239,9 @@
                <choice>
                   <expan/>
                   <abbr>Apr:</abbr>
-               </choice> 725 N<hi rend="superscript">o</hi> 841 hat sich der <rs type="person" key=", Personen ID=10090">Zehet-<lb n="N003"/>
+               </choice> 725 N<hi rend="superscript">o</hi> 841 hat sich der <rs type="person" ref="#wkfm_10090">Zehet-<lb n="N003"/>
                </rs>
-               <rs type="person" key=", Personen ID=10090">ner<lb n="N004"/>
+               <rs type="person" ref="#wkfm_10090">ner<lb n="N004"/>
                </rs>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
@@ -251,7 +251,7 @@
                <lb n="N002"/>910
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=26346">Zaillner Joseph Carl</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_26346">Zaillner Joseph Carl</rs> burgerlicher Handlsmann
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
                <rs type="person" key=", Personen  ID=46603">Joseph Carl <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Z</hi>
@@ -273,7 +273,7 @@
                   <abbr>Apr:</abbr>
                </choice> 725 N<hi rend="superscript">o</hi> 843 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=26346">Zaillner</rs> geäusseret daß er seine Handlung ohne Compagnon führe
+               <rs type="person" ref="#wkfm_26346">Zaillner</rs> geäusseret daß er seine Handlung ohne Compagnon führe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_7" n="7" xml:id="img_0007"/>
@@ -283,10 +283,10 @@
                <lb n="N002"/>911
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=46604">Zöhrer Johann Georg</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_46604">Zöhrer Johann Georg</rs> burgerlicher Handlsmann
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46605">Johann Georg Zöhrer</rs> laut Erklährung dd<hi rend="superscript">to</hi> 9<hi rend="superscript">ten</hi> Julii 726 N<hi rend="superscript">o</hi> 845
+               <rs type="person" ref="#wkfm_46605">Johann Georg Zöhrer</rs> laut Erklährung dd<hi rend="superscript">to</hi> 9<hi rend="superscript">ten</hi> Julii 726 N<hi rend="superscript">o</hi> 845
       <lb n="N007"/>Procura und Firmae Trager
       <lb n="N008"/>Oblatorien und Avocatorien
       <lb n="N009"/>Fundi Ausweisung</ab>
@@ -295,7 +295,7 @@
                <lb n="N001"/>Societaets Contract und Interessenten
       <lb n="N002"/>In obiger Erklährung dd<hi rend="superscript">to</hi> 9<hi rend="superscript">ten</hi> Julii 726 N<hi rend="superscript">o</hi> 845 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=46604">Zöhrer</rs> geäusseret, das er seine Handlung ohne Compagnon führe
+               <rs type="person" ref="#wkfm_46604">Zöhrer</rs> geäusseret, das er seine Handlung ohne Compagnon führe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_9" n="9" xml:id="img_0009"/>
@@ -305,10 +305,10 @@
                <lb n="N002"/>912
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=43858">Zetner Matthaeus</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_43858">Zetner Matthaeus</rs> burgerlicher Handlsmann
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46606">Matthäus Zetner</rs> laut Erklährung dd<hi rend="superscript">to</hi> 25<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46606">Matthäus Zetner</rs> laut Erklährung dd<hi rend="superscript">to</hi> 25<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Mart:</abbr>
@@ -325,7 +325,7 @@
                   <abbr>Mart:</abbr>
                </choice> 733 N<hi rend="superscript">o</hi> 847 hat sich der
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=43858">Zetner</rs> geäusseret, das er seine Handlung ohne Compagnon führe
+               <rs type="person" ref="#wkfm_43858">Zetner</rs> geäusseret, das er seine Handlung ohne Compagnon führe
       <lb n="N004"/>Heuraths Contract
       <lb n="N005"/>Anmerckungen</ab>
             <pb facs="#facs_11" n="11" xml:id="img_0011"/>
@@ -335,10 +335,10 @@
                <lb n="N002"/>913
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=36493">Zeltner Ignaz Joseph</rs> hofbefreyter Leinwathandler
+               <rs type="person" ref="#wkfm_36493">Zeltner Ignaz Joseph</rs> hofbefreyter Leinwathandler
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46607">Ignaty Joseph Zeltner</rs> laut Anbringen de ps: 23<hi rend="superscript">ten</hi> Junii 735 N<hi rend="superscript">o</hi> 849
+               <rs type="person" ref="#wkfm_46607">Ignaty Joseph Zeltner</rs> laut Anbringen de ps: 23<hi rend="superscript">ten</hi> Junii 735 N<hi rend="superscript">o</hi> 849
       <lb n="N007"/>Procura und Firmae Trager
       <lb n="N008"/>Oblatorien und Avocatorien
       <lb n="N009"/>Fundi Ausweisung</ab>
@@ -356,21 +356,21 @@
                <lb n="N001"/>154
       <lb n="N002"/>Nahmen und Class
       <lb n="N003"/>
-               <rs type="person" key=", Personen ID=34421">Zöhrer Johann Anton</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_34421">Zöhrer Johann Anton</rs> burgerlicher Handlsmann
       <lb n="N004"/>Firma ad Raggion
       <lb n="N005"/>
-               <rs type="person" key=", Personen ID=46608">Johann Anton Zöhrer</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 850
+               <rs type="person" ref="#wkfm_46608">Johann Anton Zöhrer</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 850
       <lb n="N006"/>Procura und Firmae Trager
       <lb n="N007"/>Oblatorien und Avocatorien
       <lb n="N008"/>Fundi Ausweisung
-      <lb n="N009"/>Der <rs type="person" key=", Personen ID=34421">Zöhrer</rs> hat zu Ausweisung seines Fundi ein von <rs type="person" key=", Personen ID=9735">Johann Anton Stapff</rs>
+      <lb n="N009"/>Der <rs type="person" ref="#wkfm_34421">Zöhrer</rs> hat zu Ausweisung seines Fundi ein von <rs type="person" ref="#wkfm_9735">Johann Anton Stapff</rs>
                <lb n="N010"/>untern 25<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Aug:</abbr>
-               </choice> 738 dahin ausgesteltes attestatum N<hi rend="superscript">o</hi> 1830 angeleget, das er <rs type="person" key=", Personen ID=34421">Zöhrer</rs>
+               </choice> 738 dahin ausgesteltes attestatum N<hi rend="superscript">o</hi> 1830 angeleget, das er <rs type="person" ref="#wkfm_34421">Zöhrer</rs>
                <lb n="N011"/>eignen Mittlen besize 5000 fl
-      <lb n="N012"/>zu Completirung des übrigen hat eben dieser <rs type="person" key=", Personen ID=9735">Stapf</rs> das <choice>
+      <lb n="N012"/>zu Completirung des übrigen hat eben dieser <rs type="person" ref="#wkfm_9735">Stapf</rs> das <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice> Cautions
@@ -395,7 +395,7 @@
                <choice>
                   <expan/>
                   <abbr>Janu:</abbr>
-               </choice> 744 N<hi rend="superscript">o</hi> 2257 hat der <rs type="person" key=", Personen ID=34421">Zöhrer</rs> den mit der <rs type="person" key=", Personen ID=43859">Elisabeth<lb n="N004"/>Geißlerin zu Reichenau</rs> untern 17<hi rend="superscript">ten</hi>
+               </choice> 744 N<hi rend="superscript">o</hi> 2257 hat der <rs type="person" ref="#wkfm_34421">Zöhrer</rs> den mit der <rs type="person" ref="#wkfm_43859">Elisabeth<lb n="N004"/>Geißlerin zu Reichenau</rs> untern 17<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>7br:</abbr>
@@ -414,26 +414,26 @@
             <ab facs="#facs_15_r1" type="default">
                <lb n="N001"/>Nahmen und Class
       <lb n="N002"/>
-               <rs type="person" key=", Personen ID=43860">Zott Adam</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_43860">Zott Adam</rs> burgerlicher Handlsmann
       <lb n="N003"/>Firma oder Raggion
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=46609">Adam Zott</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 852
+               <rs type="person" ref="#wkfm_46609">Adam Zott</rs> laut Erklährung sine dato N<hi rend="superscript">o</hi> 852
       <lb n="N005"/>Procura und Firmae Trager
       <lb n="N006"/>Oblatorien und Avocatorien
       <lb n="N007"/>Fundi Ausweisung
-      <lb n="N008"/>Der <rs type="person" key=", Personen ID=43860">Zott</rs> hat seinen Handlungs Fundum mitls der Specification N<hi rend="superscript">o</hi> 1832 fol-
+      <lb n="N008"/>Der <rs type="person" ref="#wkfm_43860">Zott</rs> hat seinen Handlungs Fundum mitls der Specification N<hi rend="superscript">o</hi> 1832 fol-
       <lb n="N009"/>gender maßen ausgewisen nemlich das er Eigenthümlich besize Vermög
       <lb n="N010"/>Inventur dd<hi rend="superscript">to</hi> 26<hi rend="superscript">ten</hi> Junii 741 N<hi rend="superscript">o</hi> 1833 1740 fl 58 x<hi rend="superscript">r</hi>
                <lb n="N011"/>
                <unclear>an</unclear> seiner behausung laut attestati N<hi rend="superscript">o</hi> 1834 1200 fl
       <lb n="N012"/>an Mobilien und Effecten 300 fl
       <lb n="N013"/>zusammen Eigenthum 3240 fl 58 x<hi rend="superscript">r</hi>
-               <lb n="N014"/>Zu Completirung des übrigen hat der <rs type="person" key=", Personen ID=43861">Paul Stumer</rs> die <choice>
+               <lb n="N014"/>Zu Completirung des übrigen hat der <rs type="person" ref="#wkfm_43861">Paul Stumer</rs> die <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice>
                <lb n="N015"/>Erklährung dd<hi rend="superscript">to</hi> 8<hi rend="superscript">ten</hi> Julii 741 N<hi rend="superscript">o</hi> 1835 dahin eingeleget daß
-      <lb n="N016"/>er in die<rs type="person" key=", Personen ID=46609"> Zottische Handlung</rs> à 6 pC<hi rend="superscript">to</hi> eingeleget und ohne
+      <lb n="N016"/>er in die<rs type="person" ref="#wkfm_46609"> Zottische Handlung</rs> à 6 pC<hi rend="superscript">to</hi> eingeleget und ohne
       <lb n="N017"/>Vorwisen des Gerichts nicht heraus zühen wolle <unclear>ein</unclear>
                <choice>
                   <expan/>
@@ -459,10 +459,10 @@
                <lb n="N002"/>916
       <lb n="N003"/>Nahmen und Class
       <lb n="N004"/>
-               <rs type="person" key=", Personen ID=43862">Ziegler Philipp Matthias</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_43862">Ziegler Philipp Matthias</rs> burgerlicher Handlsmann
       <lb n="N005"/>Firma ad Raggion
       <lb n="N006"/>
-               <rs type="person" key=", Personen ID=46611">Philipp Mathias Ziegler</rs> laut Erklährung dd<hi rend="superscript">to</hi> 19<hi rend="superscript">ten</hi>
+               <rs type="person" ref="#wkfm_46611">Philipp Mathias Ziegler</rs> laut Erklährung dd<hi rend="superscript">to</hi> 19<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Janu:</abbr>
@@ -471,16 +471,16 @@
                <choice>
                   <expan/>
                   <abbr>Ao</abbr>
-               </choice> 764 hat der <rs type="person" key=", Personen ID=43862">Philipp Mathias Ziegler</rs> seine firma eingeleget <choice>
+               </choice> 764 hat der <rs type="person" ref="#wkfm_43862">Philipp Mathias Ziegler</rs> seine firma eingeleget <choice>
                   <expan/>
                   <abbr>nro:</abbr>
                </choice> 854 1/2
       <lb n="N008"/>Procura und Firmae Trager
       <lb n="N009"/>Oblatorien und Avocatorien
       <lb n="N010"/>Fundi Ausweisung
-      <lb n="N011"/>Der <rs type="person" key=", Personen ID=43862">Ziegler</rs> hat seinen Fundum mitls der Specification N<hi rend="superscript">o</hi> 1836 folgender
+      <lb n="N011"/>Der <rs type="person" ref="#wkfm_43862">Ziegler</rs> hat seinen Fundum mitls der Specification N<hi rend="superscript">o</hi> 1836 folgender
       <lb n="N012"/>maßen ausgewisen nemlich das er eigenthumlich besize an einer Geschanknuß von
-      <lb n="N013"/>seinem Vattern <rs type="person" key=", Personen ID=46610">Andre Ziegler</rs> laut Intimatin dd<hi rend="superscript">to</hi> 14<hi rend="superscript">ten</hi>
+      <lb n="N013"/>seinem Vattern <rs type="person" ref="#wkfm_46610">Andre Ziegler</rs> laut Intimatin dd<hi rend="superscript">to</hi> 14<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Janu:</abbr>
@@ -488,7 +488,7 @@
       <lb n="N014"/>2000 fl
       <lb n="N015"/>
                <unclear>erspahrten</unclear>
-               <unclear>salario</unclear> vermög attestati von <rs type="person" key=", Personen ID=43863">Franz Anton Groß</rs> dd<hi rend="superscript">to</hi>
+               <unclear>salario</unclear> vermög attestati von <rs type="person" ref="#wkfm_43863">Franz Anton Groß</rs> dd<hi rend="superscript">to</hi>
                <lb n="N016"/>
                <unclear>14<hi rend="superscript"/>
                </unclear>
@@ -498,7 +498,7 @@
                   <abbr>Janu:</abbr>
                </choice> 747 N<hi rend="superscript">o</hi> 1838 893 fl
       <lb n="N017"/>zusamen Eigenthum 2893 fl
-      <lb n="N018"/>Zu Completirung des übrigen hat der <rs type="person" key=", Personen ID=31013">Andre Ziegler</rs> eine dahin aus
+      <lb n="N018"/>Zu Completirung des übrigen hat der <rs type="person" ref="#wkfm_31013">Andre Ziegler</rs> eine dahin aus
       <lb n="N019"/>gesteltes Instrument N<hi rend="superscript">o</hi> 1809 daß von dem seingen <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">in die handlung einge</hi>
                <lb n="N020"/>daß zu eigener Ausweisung seines Sohns in der Handlung
       <lb n="N021"/>
@@ -517,7 +517,7 @@
                <choice>
                   <expan/>
                   <abbr>Ao:</abbr>
-               </choice> 764 hat der <rs type="person" key=", Personen ID=43862">Philipp Mathias Ziegler</rs> seinen mit der <rs type="person" key=", Personen ID=43864">Maria<lb n="N004"/>Elisabeth Dandlesböckin</rs> untern 8<hi rend="superscript">ten</hi> Aprilis 749 errichteten
+               </choice> 764 hat der <rs type="person" ref="#wkfm_43862">Philipp Mathias Ziegler</rs> seinen mit der <rs type="person" ref="#wkfm_43864">Maria<lb n="N004"/>Elisabeth Dandlesböckin</rs> untern 8<hi rend="superscript">ten</hi> Aprilis 749 errichteten
       <lb n="N005"/>Heurath Contract eingelegt, worinnen Heurathsguth 500 fl
       <lb n="N006"/>Widerlaag 1000 fl Paraphenum 500 et 200 fl dann zu
       <lb n="N007"/>einer ausstaffirung von der Brauth Vatter 300 zugeben, und
@@ -540,7 +540,7 @@
             <ab facs="#facs_19_r1" type="default">
                <lb n="N001"/>Nahmen und Class
       <lb n="N002"/>
-               <rs type="person" key=", Personen ID=43865">Zacher Matthias</rs> burgerlicher Handlsmann
+               <rs type="person" ref="#wkfm_43865">Zacher Matthias</rs> burgerlicher Handlsmann
       <lb n="N003"/>Firma ad Raggion
       <lb n="N004"/>
                <choice>
@@ -553,14 +553,14 @@
       <lb n="N005"/>Procura und Firmae Trager
       <lb n="N006"/>Oblatorien und Avocatorien
       <lb n="N007"/>Fundi Ausweisung
-      <lb n="N008"/>Der <rs type="person" key=", Personen ID=43865">Zacher</rs> hat zu Ausweisung seines Fundi ein von <rs type="person" key=", Personen ID=4646">Joseph Peisser</rs>
+      <lb n="N008"/>Der <rs type="person" ref="#wkfm_43865">Zacher</rs> hat zu Ausweisung seines Fundi ein von <rs type="person" ref="#wkfm_4646">Joseph Peisser</rs>
                <lb n="N009"/>unter 21<hi rend="superscript">ten</hi>
                <choice>
                   <expan/>
                   <abbr>Mart:</abbr>
-               </choice> 747 ausgesteltes attestatum N<hi rend="superscript">o</hi> 1840 das er <rs type="person" key=", Personen ID=43865">Zacher</rs> eigenthumlich
+               </choice> 747 ausgesteltes attestatum N<hi rend="superscript">o</hi> 1840 das er <rs type="person" ref="#wkfm_43865">Zacher</rs> eigenthumlich
       <lb n="N010"/>erworben 2000 fl
-      <lb n="N011"/>zu Completirung des übrigen hat die <rs type="person" key=", Personen ID=43866">Anna Maria Asolin</rs> das <choice>
+      <lb n="N011"/>zu Completirung des übrigen hat die <rs type="person" ref="#wkfm_43866">Anna Maria Asolin</rs> das <choice>
                   <expan/>
                   <abbr>orig:</abbr>
                </choice>
@@ -588,7 +588,7 @@
                <choice>
                   <expan/>
                   <abbr>Ao:</abbr>
-               </choice> 765 hat der <rs type="person" key=", Personen ID=43865">Mathias Zacher</rs> seinen mit der <rs type="person" key=", Personen ID=43866">Maria Anna<lb n="N004"/>Assolin</rs> untern 11<hi rend="superscript">ten</hi> May 747 errichteten Heuraths-
+               </choice> 765 hat der <rs type="person" ref="#wkfm_43865">Mathias Zacher</rs> seinen mit der <rs type="person" ref="#wkfm_43866">Maria Anna<lb n="N004"/>Assolin</rs> untern 11<hi rend="superscript">ten</hi> May 747 errichteten Heuraths-
       <lb n="N005"/>Contract eingelegt, worinnen Heurath 400 fl Widerlag
       <lb n="N006"/>800 fl dann eine Geschäncknus von dem Brauthigam der
       <lb n="N007"/>Brauth <choice>
@@ -616,7 +616,7 @@
                   <expan/>
                   <abbr>8br:</abbr>
                </choice> 769 hat der Handlstandt den Todt-
-      <lb n="N012"/>fall des<rs type="person" key=", Personen ID=43865"> Mathias Zacher</rs> angezeiget</ab>
+      <lb n="N012"/>fall des<rs type="person" ref="#wkfm_43865"> Mathias Zacher</rs> angezeiget</ab>
             <pb facs="#facs_21" n="21" xml:id="img_0021"/>
             <fw facs="#facs_21_r3" place="bottom" type="header">
                <lb n="N001"/>
